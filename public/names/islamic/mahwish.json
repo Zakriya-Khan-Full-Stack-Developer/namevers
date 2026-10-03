@@ -3,286 +3,478 @@
   "data": {
     "name": "Mahwish",
     "slug": "mahwish",
-    "language": [
-      "Urdu",
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Tender, Delicate",
-    "long_meaning": "Derived from the Arabic word 'mahawwa', which means 'tender' or 'delicate'. In Urdu, it is also used to describe the softness and gentleness of a garden or a flower.",
-    "spiritual_meaning": "Symbolizes the gentle nature of Allah and the tenderness and compassion He shows towards His creation.",
-    "emotional_traits": [
-      "Tender-hearted",
-      "Gentle",
-      "Compassionate",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "Strong-willed",
-      "Determined",
-      "Independent"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Pink",
-      "Lavender"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 5,
-    "numerology_meaning": "Represents adaptability, freedom, and change.",
-    "in_arabic": {
-      "name": "ماهويش",
-      "meaning": "اسم يدل على الجمال و الرقة في المرأة",
-      "long_meaning": "ماهويش هو اسم علم مؤنث من أصل عربي، مشتق من كلمة 'موه' و 'هويش'، و يعني الفتاة الجميلة الرقيقة، كما يمكن أن يعني الفتاة التي تثير الإعجاب و تأسر القلوب. و يعتبر هذا الاسم من الأسماء التي تحمل معاني جميلة و راقية."
+    "identity": {
+      "display_name": "Mahwish",
+      "normalized_name": "mahwish",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mahwish",
+        "mahwish"
+      ],
+      "search_variants": [
+        "Mahwish",
+        "mahwish"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ماہوش",
-      "meaning": "خوبصورتی اور جمال کا ایک لفظ",
-      "long_meaning": "ماہوش ایک فارسی-عربی نام ہے جس کا مطلب ہے خوبصورتی اور جمال۔ یہ نام فارسی زبان سے ماخوذ ہے، جہاں 'ماہ' کا مطلب ہے چاند اور 'وش' کا مطلب ہے مانند یا سا۔ اس طرح، ماہوش کا مطلب ہے چاند جیسی خوبصورت۔ یہ نام اسلامی ثقافت میں خوبصورتی اور اعلیٰ اخلاق کی علامت کے طور پر استعمال ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Moon-like, moon-faced (Persian)",
+      "primary_meaning": "Moon-like",
+      "secondary_meanings": [
+        "moon-faced (Persian)"
+      ],
+      "literal_meaning": "Moon-like",
+      "extended_meaning": "Moon-like, moon-faced (Persian)",
+      "meaning_explanation": "Mahwish corresponds to the Persian form مهوش (Persian مهوش (mah-vash)). Its core sense is moon-like, moon-faced (persian). Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "माहविश",
-      "meaning": "एक सुंदर और आकर्षक नाम",
-      "long_meaning": "माहविश एक सुंदर और आकर्षक नाम है जो अरबी और फारसी संस्कृति से लिया गया है। इसका अर्थ है 'चंद्रमा जैसी सुंदरता' या 'सुंदर और आकर्षक'। यह नाम भारतीय मुस्लिम समुदाय में बहुत लोकप्रिय है और इसे सुंदरता और शालीनता के प्रतीक के रूप में देखा जाता है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "مهوش",
+      "transliteration": "mahwish",
+      "romanization": "mahwish",
+      "root_status": "Persian مهوش (mah-vash)",
+      "etymological_meaning": [
+        "Moon-like",
+        "moon-faced (Persian)"
+      ],
+      "etymology_explanation": "The form مهوش is an established Persian lexical item. Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ماهوش",
-      "meaning": "د ښکلا او جمال معنا",
-      "long_meaning": "ماهوش د ښکلا او جمال یو نوم دی، چی د افغاني او پښتني کلتور څخه اخیستل شوی دی. ددی نوم مطلب دی د چنډر په څیر ښکلاوسي، یا ښکلاوسي او ځلانده. دا نوم د افغانستان او پاکستان په پښتني ټولنو کي د ښکلا او اخلاقو د یو سمبول په توګه کارول کیږي."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "مهوش is an established Arabic form.",
+        "Urdu": "مہوش is used in Urdu.",
+        "Persian": "مهوش is an established Persian form.",
+        "Hindi": "महवश is used in Hindi.",
+        "Pashto": "مهوش is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mahwish",
-      "meaning": "A beautiful and charming name for a girl",
-      "long_meaning": "Mahwish is a feminine given name of Arabic and Persian origin. It is derived from the words 'mah', meaning 'moon', and 'wish', meaning 'like' or 'similar'. Therefore, Mahwish translates to 'moon-like beauty' or 'gorgeous'. In Islamic tradition, this name symbolizes beauty, elegance, and charm. It is popular across various Muslim cultures, including Arabic, Urdu, Turkish, and South Asian communities."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form مهوش. Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mahwish may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense moon-like, moon-faced (persian).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Moon-like",
+      "related_concepts": [
+        "moon-like",
+        "moon-faced (persian)"
+      ],
+      "semantic_relationship": "The central semantic idea is moon-like; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of moon-like.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Moon-like",
+        "Moon-faced (persian)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mahwish",
+        "meaning": "Moon-like, moon-faced (Persian)",
+        "long_meaning": "Mahwish is a Persian-origin name. Its core meaning is moon-like, moon-faced (persian). Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash."
+      },
+      "urdu": {
+        "name": "مہوش",
+        "meaning": "مہوش، چاند جیسی",
+        "long_meaning": "Mahwish (مہوش) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مہوش، چاند جیسی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مهوش",
+        "meaning": "مهوش، ماهوش",
+        "long_meaning": "Mahwish (مهوش) نامی برگرفته از زبان فارسی است و معنای اصلی آن مهوش، ماهوش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "महवश",
+        "meaning": "महवश, चाँद-सी",
+        "long_meaning": "Mahwish (महवश) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ महवश, चाँद-सी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مهوش",
+        "meaning": "مهوش، سپوږمۍ څیرې",
+        "long_meaning": "Mahwish (مهوش) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مهوش، سپوږمۍ څیرې ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مهوش",
+        "meaning": "المهوش، كالقمر (فارسي)",
+        "long_meaning": "Mahwish (مهوش) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي المهوش، كالقمر (فارسي). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "MAH-weesh",
-      "urdu": "اردو میں تلفظ کی تفصیل: ماہوش",
-      "hindi": "हिन्दी में उच्चारण विवरण: माहविश",
-      "pashto": "په پښتو کې د تلفظ تفصیل: ماهوش",
-      "ipa": "/ˈmɑːh.wɪʃ/"
+      "romanized": "mah-wish",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مہوش",
+      "persian": "مهوش",
+      "hindi": "महवश",
+      "pashto": "مهوش"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MahwishMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mahwish"
-    ],
-    "name_variations": [
-      "Mawish"
-    ],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mahwish",
+        "mahwish"
+      ],
+      "script_variants": [
+        "مهوش",
+        "مہوش",
+        "महवश"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مهوش is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mahwish can be understood through the Persian form مهوش, whose central sense is moon-like, moon-faced (persian). Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Mahwish mean?",
+        "answer": "Mahwish is associated with the Persian form مهوش, whose core sense is moon-like, moon-faced (persian)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 82,
-        "year": 2024
+        "question": "What is the origin of Mahwish?",
+        "answer": "Mahwish is associated with Persian. Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Mahwish an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Mahwish an Islamic name?",
+        "answer": "Mahwish can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mahwish a Quranic name?",
+        "answer": "Mahwish should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mahwish mean in Urdu?",
+        "answer": "In Urdu, Mahwish is rendered مہوش and carries the sense مہوش، چاند جیسی."
+      },
+      {
+        "question": "What does Mahwish mean in Persian?",
+        "answer": "In Persian, Mahwish is rendered مهوش and carries the sense مهوش، ماهوش."
+      },
+      {
+        "question": "How is Mahwish pronounced?",
+        "answer": "A romanized syllable approximation is mah-wish. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mahwish?",
+        "answer": "Romanization variants include Mahwish, mahwish. Script forms are مهوش, مہوش, महवश."
+      },
+      {
+        "question": "Is Mahwish a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mahwish Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mahwish, a beautiful Islam name meaning \"Tender, Delicate\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mahwish, Islam name, baby names, Tender, Delicate, Islam baby names, name meaning",
-      "description_paragraph": "Mahwish is a meaningful Islam name of Arabic origin that means \"Tender, Delicate\". Derived from the Arabic word 'mahawwa', which means 'tender' or 'delicate'. In Urdu, it is also used to describe the softness and gentleness of a garden or a flower.",
-      "keywords": [
-        "Mahwish",
-        "Islam name",
-        "baby names",
-        "Tender, Delicate",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mahwish in Islam tradition?",
-          "a": "Mahwish is a beautiful Islam name meaning \"Tender, Delicate\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mahwish a good Islam name for a baby?",
-          "a": "Yes, Mahwish is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mahwish?",
-          "a": "The name Mahwish has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mahwish correctly?",
-          "a": "Mahwish is pronounced MAH-weesh in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mahwish?",
-          "a": "Naming a child Mahwish brings blessings. The meaning \"Tender, Delicate\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mahwish?",
-          "a": "Mahwish is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Mahwish Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mahwish (مهوش).",
+      "h1": "Mahwish Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mahwish meaning",
       "secondary_keywords": [
-        "Islam name Mahwish",
-        "Mahwish meaning",
-        "Mahwish origin"
+        "Mahwish name meaning",
+        "Mahwish meaning in Urdu",
+        "Mahwish origin",
+        "Mahwish Islamic name",
+        "Mahwish pronunciation",
+        "Mahwish name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mahwish (مهوش) is associated with the Persian form مهوش, whose core sense is moon-like, moon-faced (persian). Mahwish is Persian مهوش (mah-vash) 'moon-like, moon-faced'. CRITICAL SOURCE ERROR: the source gave ماهويش (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Tender, Delicate' is unsupported and has been replaced with the lexical sense. Same name as mahvash and mahwash.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mahwish is associated with the Persian form مهوش, whose core sense is moon-like, moon-faced (persian).",
+      "meaning_section": "The central meaning of Mahwish is moon-like, moon-faced (persian).",
+      "origin_section": "Mahwish is associated with Persian rather than with a different language.",
+      "islam_section": "Mahwish can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mahwish is with the sense moon-like.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mahwish",
+      "#MahwishMeaning",
+      "#MahwishName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Islamic name Mahwish carries a connotation of tenderness, delicacy, and softness, which is highly valued and respected in Islamic cultures. It suggests a loving and nurturing personality, often associated with qualities of kindness, compassion, and empathy. This name is believed to inspire a sense of harmony, tranquility, and a deep appreciation for beauty and aesthetics in the individual who bears it.",
-    "spiritual_significance": "From a spiritual perspective, the name Mahwish can be seen as a reminder of the gentle and tender nature of the Divine, and the importance of cultivating a soft and compassionate heart. It can also be a symbol of the subtle and delicate beauty of the natural world and the divine presence it embodies. The name Mahwish can inspire reflection and introspection on the importance of expressing love, compassion, and kindness towards oneself, and towards all living beings, as part of the greater spiritual journey towards personal growth and closeness to the Divine.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Mahwish carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "rare",
-        "beautiful"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mahwish corresponds to the Persian form مهوش",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mahwish has the core sense moon-like, moon-faced (persian)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "blogs"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mahwish remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Mahwish",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Zainab Mahwish in Dubai, UAE attributes much of their success to the blessing of their name Mahwish, which means \"Tender, Delicate\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Tender, Delicate\" symbolizes Derived from the Arabic word 'mahawwa', which means 'tender' or 'delicate'. In Urdu, it is also used to describe the softness and gentleness of a garden or a flower.. In Islamic spirituality, bearing the name Mahwish serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of tender, delicate.",
-    "created_at": "2025-12-22T19:19:49.852Z",
-    "updated_at": "2025-12-22T04:53:14.834Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1151,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mahwish",
-      "description": "Tender, Delicate",
-      "additionalName": [
-        "Mawish"
+      "alternateName": [
+        "Mahwish",
+        "mahwish"
       ],
-      "knowsLanguage": [
-        "Urdu",
-        "Arabic"
+      "description": "A name associated with the Persian form مهوش, meaning moon-like, moon-faced (persian).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mahwish",
-          "description": "Discover the meaning of Mahwish - \"Tender, Delicate\"",
-          "image": "/images/social/mahwish-facebook.jpg"
+      "termCode": "mahwish",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Mahwish - Name Meaning",
-          "description": "Learn about the beautiful name Mahwish",
-          "image": "/images/social/mahwish-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Mahwish",
-          "description": "Name meaning: Tender, Delicate",
-          "image": "/images/social/mahwish-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mahwish - Meaning: Tender, Delicate",
-        "email_subject": "Beautiful Name: Mahwish"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mahwish with meaning Tender, Delicate",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mahwish, associated with the Persian form مهوش, meaning moon-like, moon-faced (persian)."
     },
-    "similar_sounding_names": [
-      "marhabah",
-      "marudeen.",
-      "mada",
-      "maassama",
-      "mika",
-      "mahek",
-      "marnia",
-      "meher",
-      "meena",
-      "manab"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

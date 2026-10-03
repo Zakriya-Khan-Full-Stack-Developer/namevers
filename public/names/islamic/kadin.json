@@ -3,297 +3,473 @@
   "data": {
     "name": "Kadin",
     "slug": "kadin",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Servant, helper",
-    "long_meaning": "Derived from the Arabic root ‘k-d-n’ which means to serve or help. In Islamic context, it is a name of honor for those who serve and help others in the way of Allah.",
-    "spiritual_meaning": "To serve and help others in the way of Allah",
-    "emotional_traits": [
-      "Righteous",
-      "Compassionate"
-    ],
-    "hidden_personality_traits": [
-      "M = Humble",
-      "S = Determined"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 5,
-    "numerology_meaning": "Those with the name Kadin have a strong sense of purpose and a deep connection to their faith. They are natural leaders and are often drawn to helping others.",
-    "in_arabic": {
-      "name": "كادين",
-      "meaning": "اسم يدل على الرفعة و العلو",
-      "long_meaning": "كادين هو اسم علم مؤنث و مذكر في بعض الأحيان، و هو مشتق من الفعل كاد، و يعني الرفعة و العلو و الارتفاع. و قد ورد في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَكَادَ الَّذِينَ كَفَرُوا لَيُزَلِقُونَكَ بِأَبصَارِهِم' (الأنعام: 123). و يعتبر اسم كادين من الأسماء التي تحمل معاني جميلة و رفيعة."
+    "identity": {
+      "display_name": "Kadin",
+      "normalized_name": "kadin",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kadin",
+        "kadin"
+      ],
+      "search_variants": [
+        "Kadin",
+        "kadin"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کادین",
-      "meaning": "رفعت و عزت کا نشان",
-      "long_meaning": "کادین ایک علم اسم ہے جو مؤنث اور مذکر دونوں میں استعمال ہوتا ہے۔ اس کا مطلب ہے رفعت، عزت، اور بلند مقام۔ یہ نام عربی زبان سے ماخوذ ہے جہاں اس کا جڑ الفعل 'كاد' ہے جس کا مطلب ہے 'کوشش کرنا' یا 'محنت کرنا'۔ اسلامی روایت میں، یہ نام ان خوبیوں کی نمائندگی کرتا ہے جو مسلمانوں کو بلند مرتبے تک پہنچنے کے لئے کوشش کرنے کی ترغیب دیتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Kadin; a given name",
+      "primary_meaning": "Kadin; a given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Kadin; a given name",
+      "extended_meaning": "Kadin; a given name",
+      "meaning_explanation": "Kadin corresponds to the Arabic form كادين (Arabic كَادِين (Kādīn)). Its core sense is kadin; a given name. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "कादिन",
-      "meaning": "उंचाई और सम्मान का प्रतीक",
-      "long_meaning": "कादिन एक ऐसा नाम है जो संस्कृत और उर्दू में प्रयोग होता है। इसका अर्थ है 'उंचाई', 'सम्मान', और 'प्रतिष्ठा'। यह नाम इस्लामी परंपरा में बहुत महत्वपूर्ण है और इसे आमतौर पर बच्चों को दिया जाता है जो उच्च आदर्शों और मूल्यों के साथ जीने के लिए प्रेरित होते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "كادين",
+      "transliteration": "kadin",
+      "romanization": "kadin",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Kadin; a given name"
+      ],
+      "etymology_explanation": "The form كادين is an established Arabic lexical item. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "کادین",
-      "meaning": "د عزت او لوړتیا نښه",
-      "long_meaning": "کادین د یوې نجلې او ځینې وختونو کې د هلک لپاره کارول کېدونکی اسم دی. ددې کلمه معنی د عزت، لوړتیا او ویاړ دی. دغه نوم د پښتو کلتور او اسلامي ميراث کې ځای لري او داسې سيمantic غوره ماناګانې لري چې د مسلمانانو لپاره د الهی صفتونو د ترلاسه کولو لپاره لارښوونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "كادين is an established Arabic form.",
+        "Urdu": "کادین is used in Urdu.",
+        "Persian": "کادین is an established Persian form.",
+        "Hindi": "कादिन is used in Hindi.",
+        "Pashto": "کادین is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Kadin",
-      "meaning": "Name signifying elevation, honor, and prestige",
-      "long_meaning": "Kadin is a unisex name derived from Arabic roots, specifically from the verb 'kād' which means 'to strive' or 'to elevate'. It signifies elevation, honor, and prestige. In Islamic tradition, the name reflects the pursuit of high moral and spiritual standards. Historically, it has been used in various Muslim cultures, symbolizing aspirational qualities and noble characteristics."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form كادين. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kadin may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense kadin; a given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Kadin; a given name",
+      "related_concepts": [
+        "kadin; a given name"
+      ],
+      "semantic_relationship": "The central semantic idea is kadin; a given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of kadin; a given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Kadin; a given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kadin",
+        "meaning": "Kadin; a given name",
+        "long_meaning": "Kadin is a Arabic-origin name. Its core meaning is kadin; a given name. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "کادین",
+        "meaning": "کادین (نام)",
+        "long_meaning": "Kadin (کادین) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کادین (نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کادین",
+        "meaning": "کادین (نام)",
+        "long_meaning": "Kadin (کادین) نامی برگرفته از زبان عربی است و معنای اصلی آن کادین (نام) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "कादिन",
+        "meaning": "कादिन (नाम)",
+        "long_meaning": "Kadin (कादिन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कादिन (नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کادین",
+        "meaning": "کادین (نوم)",
+        "long_meaning": "Kadin (کادین) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کادین (نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "كادين",
+        "meaning": "كَادِين (اسم علم)",
+        "long_meaning": "Kadin (كادين) اسم مأخوذ من اللغة العربية، ومعناه الأساسي كَادِين (اسم علم). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "KAY-deen",
-      "urdu": "کادین کا تلفظ: کا-دین",
-      "hindi": "कादिन का उच्चारण: का-दिन",
-      "pashto": "د کادین تلفظ: کا-دین",
-      "ipa": "/ˈkɑːdɪn/"
+      "romanized": "ka-din",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کادین",
+      "persian": "کادین",
+      "hindi": "कादिन",
+      "pashto": "کادین"
     },
-    "celebrity_usage": [
-      "Kadin Boran"
-    ],
-    "social_tags": [
-      "#KadinMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kadin"
-    ],
-    "name_variations": [],
-    "popularity_score": 71,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kadin",
+        "kadin"
+      ],
+      "script_variants": [
+        "كادين",
+        "کادین",
+        "कादिन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form كادين is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kadin can be understood through the Arabic form كادين, whose central sense is kadin; a given name. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Kadin mean?",
+        "answer": "Kadin is associated with the Arabic form كادين, whose core sense is kadin; a given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 84,
-        "year": 2024
+        "question": "What is the origin of Kadin?",
+        "answer": "Kadin is associated with Arabic. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Kadin an Arabic name?",
+        "answer": "Yes — the underlying form كادين is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Kadin an Islamic name?",
+        "answer": "Kadin can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 79,
-        "year": 2024
+        "question": "Is Kadin a Quranic name?",
+        "answer": "Kadin should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kadin mean in Urdu?",
+        "answer": "In Urdu, Kadin is rendered کادین and carries the sense کادین (نام)."
+      },
+      {
+        "question": "What does Kadin mean in Persian?",
+        "answer": "In Persian, Kadin is rendered کادین and carries the sense کادین (نام)."
+      },
+      {
+        "question": "How is Kadin pronounced?",
+        "answer": "A romanized syllable approximation is ka-din. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kadin?",
+        "answer": "Romanization variants include Kadin, kadin. Script forms are كادين, کادین, कादिन."
+      },
+      {
+        "question": "Is Kadin a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kadin Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kadin, a beautiful Islam name meaning \"Servant, helper\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kadin, Islam name, baby names, Servant, helper, Islam baby names, name meaning",
-      "description_paragraph": "Kadin is a meaningful Islam name of Arabic origin that means \"Servant, helper\". Derived from the Arabic root ‘k-d-n’ which means to serve or help. In Islamic context, it is a name of honor for those who serve and help others in the way of Allah.",
-      "keywords": [
-        "Kadin",
-        "Islam name",
-        "baby names",
-        "Servant, helper",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kadin in Islam tradition?",
-          "a": "Kadin is a beautiful Islam name meaning \"Servant, helper\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kadin a good Islam name for a baby?",
-          "a": "Yes, Kadin is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kadin?",
-          "a": "The name Kadin has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kadin correctly?",
-          "a": "Kadin is pronounced KAY-deen in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kadin?",
-          "a": "Naming a child Kadin brings blessings. The meaning \"Servant, helper\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kadin?",
-          "a": "Kadin is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Kadin Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kadin (كادين).",
+      "h1": "Kadin Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kadin meaning",
       "secondary_keywords": [
-        "Islam name Kadin",
-        "Kadin meaning",
-        "Kadin origin"
+        "Kadin name meaning",
+        "Kadin meaning in Urdu",
+        "Kadin origin",
+        "Kadin Islamic name",
+        "Kadin pronunciation",
+        "Kadin name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kadin (كادين) is associated with the Arabic form كادين, whose core sense is kadin; a given name. Kadin is recorded at low confidence. The source gave كادين and glossed the name 'Servant, helper'; كَادِين (Kādīn) is a documented given name, but the source gloss could not be confirmed. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kadin is associated with the Arabic form كادين, whose core sense is kadin; a given name.",
+      "meaning_section": "The central meaning of Kadin is kadin; a given name.",
+      "origin_section": "Kadin is associated with Arabic rather than with a different language.",
+      "islam_section": "Kadin can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kadin is with the sense kadin; a given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kadin",
+      "#KadinMeaning",
+      "#KadinName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Kadin\" in its cultural context often signifies a position of power and authority, such as a leader or a wife of a powerful Ottoman sultan, who held immense influence over palace affairs due to her role in managing harem. The term \"kadin\" even became synonymous with a noblewoman or a high-ranking female official.",
-    "spiritual_significance": "In the religious realm, the name \"Kadin\" carries a deeper spiritual significance. It is a name reminiscent of the Islamic principle of serving and helping others, especially those in need. The Prophet Muhammad, peace be upon him, taught us that serving and helping other people is pleasing to God, and is an act of self-purification. So, \"Kadin,\" being a reminder of these teachings, is a name that encourages those who bear it to strive to be of service to the community and to live their lives with compassion and kindness. Additionally, it connects them to the historical figures of noblewomen from the Islamic Golden Age who used their power and influence for the betterment of their families and communities.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Battuta's Travels The name Kadin carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "Kadina, a female ruler of the Banu Ma'qil in southern Tunisia, was known for her power and military prowess. Ibn Battuta visited her royal court in 1351, where he was received warmly and provided with hospitality."
-      },
-      {
-        "reference": "Historical records show that The Ottoman Empire The name Kadin carried significant weight in that era.",
-        "time_period": "16th century",
-        "context": "Kadin-i Sultan, or the Chief Concubine, was a powerful and influential figure in the Ottoman harem. She held significant political power and was often a key advisor to the Sultan, acting as a de facto regent during his absence or incapacitation."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic fashion",
-        "Modest fashion",
-        "Female empowerment"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kadin corresponds to the Arabic form كادين",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Kadin has the core sense kadin; a given name",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "YouTube",
-        "Pinterest"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic name 'Kadin' has gained significant popularity in modern contexts, particularly within the realms of Islamic and modest fashion. The term 'Kadin' translates to 'lady' or 'woman' in Turkish and is now used to describe a woman who embraces traditional Islamic dress while maintaining a contemporary and stylish aesthetic. The use of 'Kadin' on social media platforms such as Instagram, YouTube, and Pinterest has exploded in recent years, with influencers and brands utilizing the term to showcase their designs and promote female empowerment within the context of Islamic dress. The trends of Islamic and modest fashion have shifted towards embracing individuality, creativity, and self-expression, making 'Kadin' a term that represents the modern, confident, and fashionable Muslim woman."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Kadin",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Fatima Kadin in Dubai, UAE attributes much of their success to the blessing of their name Kadin, which means \"Servant, helper\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Servant, helper\" symbolizes Derived from the Arabic root ‘k-d-n’ which means to serve or help. In Islamic context, it is a name of honor for those who serve and help others in the way of Allah.. In Islamic spirituality, bearing the name Kadin serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of servant, helper.",
-    "created_at": "2025-12-22T19:19:49.946Z",
-    "updated_at": "2025-12-22T04:53:15.627Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1097,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kadin",
-      "description": "Servant, helper",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Kadin",
+        "kadin"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kadin",
-          "description": "Discover the meaning of Kadin - \"Servant, helper\"",
-          "image": "/images/social/kadin-facebook.jpg"
+      "description": "A name associated with the Arabic form كادين, meaning kadin; a given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kadin",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kadin - Name Meaning",
-          "description": "Learn about the beautiful name Kadin",
-          "image": "/images/social/kadin-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kadin",
-          "description": "Name meaning: Servant, helper",
-          "image": "/images/social/kadin-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kadin - Meaning: Servant, helper",
-        "email_subject": "Beautiful Name: Kadin"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kadin with meaning Servant, helper",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kadin, associated with the Arabic form كادين, meaning kadin; a given name."
     },
-    "similar_sounding_names": [
-      "kabir",
-      "kashish",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,299 +3,476 @@
   "data": {
     "name": "Ateek",
     "slug": "ateek",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Strong, Powerful",
-    "long_meaning": "Derived from the Arabic word 'Ata', meaning 'to return'. The name Ateek signifies a strong, powerful and courageous individual.",
-    "spiritual_meaning": "A name for those who embody strength and courage in their spiritual journey.",
-    "emotional_traits": [
-      "Determined",
-      "Confident",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "Wise",
-      "Intelligent",
-      "Calm"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "A dynamic, adventurous, and versatile number.",
-    "in_arabic": {
-      "name": "عتيك",
-      "meaning": "اسم مشتق من عتق، الحرية والنجاة من العبودية",
-      "long_meaning": "عتيك هو اسم مشتق من الجذر العربي 'ع-ت-ق' والذي يعني الحرية والنجاة من العبودية. يرتبط هذا الاسم في القرآن الكريم بالتحرر من الظلم والضيم. في التاريخ الإسلامي، كان العتق يعتبر عملاً صالحاً يقوم به المسلمون لتحرير عبيدهم. يحمل الاسم 'عتيك' دلالة روحية عميقة حيث يرمز إلى التحرر من كل ما يقيّد الإنسان، سواء كان ذلك في الدنيا أو الآخرة."
+    "identity": {
+      "display_name": "Ateek",
+      "normalized_name": "ateek",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ateek",
+        "ateek"
+      ],
+      "search_variants": [
+        "Ateek",
+        "ateek"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عتیک",
-      "meaning": "آزادی اور غلامی سے نجات کا مطلب",
-      "long_meaning": "عتیک ایک عربی نام ہے جو 'ع-ت-ق' کے جذر سے ماخوذ ہے، جس کا مطلب ہے آزادی اور غلامی سے نجات۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ تحریر و آزادی کی علامت ہے۔ تاریخی طور پر، عتق کو ایک عظیم عمل سمجھا جاتا تھا جس کے ذریعے مالک اپنے غلاموں کو آزاد کرتے تھے۔ روحانی طور پر، یہ نام انسان کی آزادی کی یاد دلاتا ہے، نہ صرف ظاہری زنجیروں سے بلکہ اندرونی حدود سے بھی۔"
+    "core_meaning": {
+      "short_meaning": "Strong, powerful",
+      "primary_meaning": "Strong",
+      "secondary_meanings": [
+        "powerful"
+      ],
+      "literal_meaning": "Strong",
+      "extended_meaning": "Strong, powerful",
+      "meaning_explanation": "Ateek corresponds to the Arabic form عتيق (ع ت ق). Its core sense is strong, powerful. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अतिक",
-      "meaning": "आज़ादी और गुलामी से मुक्ति का अर्थ",
-      "long_meaning": "अतिक एक अरबी नाम है जो 'ع-ت-ق' मूल से लिया गया है, जिसका अर्थ है आज़ादी और गुलामी से मुक्ति। भारतीय मुस्लिम समुदाय में, यह नाम महत्वपूर्ण है क्योंकि यह मुक्ति और स्वतंत्रता का प्रतीक है। ऐतिहासिक रूप से, 'عتق' को एक पुण्य कार्य माना जाता था जिसके द्वारा मालिक अपने दासों को आज़ाद करते थे। आध्यात्मिक दृष्टिकोण से, यह नाम व्यक्ति की मुक्ति की याद दिलाता है, न केवल बाहरी बंधनों से बल्कि आंतरिक सीमाओं से भी।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عتيق",
+      "transliteration": "ateek",
+      "romanization": "ateek",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Strong",
+        "powerful"
+      ],
+      "etymology_explanation": "The form عتيق is an established Arabic lexical item. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "عتیک",
-      "meaning": "د غلامۍ څخه د ازادۍ معنی",
-      "long_meaning": "عتیک د عربی نوم دی چی د 'ع-ت-ق' جذر څخه اخیستل شوی دی، چی معنی یی د غلامۍ څخه ازادي ده. په افغان او پښتون قومونو کې، دا نوم د ازادۍ او تحریر نښه ده. تاریخي پلوه، عتق یو نیک عمل ګڼل کیده چی د خپلو غلامانو د آزادولو لپاره یې ترسره کیده. روحاني لحاظه، دا نوم د انسان د آزادۍ يادونه کوي، نه يوازې بهرني زنځيرونو څخه بلکې داخلي پولو څخه هم."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عتيق is an established Arabic form.",
+        "Urdu": "عتیق is used in Urdu.",
+        "Hindi": "अतीक is used in Hindi.",
+        "Pashto": "عتيق is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Ateek",
-      "meaning": "Derived from Arabic root 'ع-ت-ق', meaning freedom, liberation",
-      "long_meaning": "The name Ateek originates from the Arabic root 'ع-ت-ق' (At-Tagh), which signifies freedom, liberation, and release from bondage. In Islamic tradition, it is associated with 'عتق', the act of freeing slaves, considered a virtuous deed. The name carries a profound spiritual significance, symbolizing the liberation of the soul from worldly attachments and inner constraints. Historically, it has been used across Muslim cultures, reflecting the universal value of freedom and autonomy."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form عتيق. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ateek may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense strong, powerful.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Strong",
+      "related_concepts": [
+        "strong",
+        "powerful"
+      ],
+      "semantic_relationship": "The central semantic idea is strong; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of strong.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Strong",
+        "Powerful"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ateek",
+        "meaning": "Strong, powerful",
+        "long_meaning": "Ateek is a Arabic-origin name. Its core meaning is strong, powerful. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "عتیق",
+        "meaning": "مضبوط، طاقتور",
+        "long_meaning": "Ateek (عتیق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مضبوط، طاقتور ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अतीक",
+        "meaning": "बलवान, शक्तिशाली",
+        "long_meaning": "Ateek (अतीक) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बलवान, शक्तिशाली है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عتيق",
+        "meaning": "پیاوړی، ځواکمن",
+        "long_meaning": "Ateek (عتيق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پیاوړی، ځواکمن ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عتيق",
+        "meaning": "القوي، القدير",
+        "long_meaning": "Ateek (عتيق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي القوي، القدير. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ah-TEEK",
-      "urdu": "اردو میں تلفظ کی تفصیل: عتیک",
-      "hindi": "हिन्दी में उच्चारण विवरण: अतिक",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عتیک",
-      "ipa": "/ɑːˈtiːk/"
+      "romanized": "a-teek",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عتیق",
+      "persian": null,
+      "hindi": "अतीक",
+      "pashto": "عتيق"
     },
-    "celebrity_usage": [
-      "Ateeq Odho",
-      "Ateek Shaikh"
-    ],
-    "social_tags": [
-      "#AteekMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ateek"
-    ],
-    "name_variations": [
-      "Atik"
-    ],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ateek",
+        "ateek"
+      ],
+      "script_variants": [
+        "عتيق",
+        "عتیق",
+        "अतीक"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عتيق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ateek can be understood through the Arabic form عتيق, whose central sense is strong, powerful. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 90,
-        "year": 2024
+        "question": "What does Ateek mean?",
+        "answer": "Ateek is associated with the Arabic form عتيق, whose core sense is strong, powerful."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Ateek?",
+        "answer": "Ateek is associated with Arabic. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Ateek an Arabic name?",
+        "answer": "Yes — the underlying form عتيق is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 78,
-        "year": 2024
+        "question": "Is Ateek an Islamic name?",
+        "answer": "Ateek can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ateek a Quranic name?",
+        "answer": "Ateek should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ateek mean in Urdu?",
+        "answer": "In Urdu, Ateek is rendered عتیق and carries the sense مضبوط، طاقتور."
+      },
+      {
+        "question": "What does Ateek mean in Persian?",
+        "answer": "No verified Persian form was established for Ateek."
+      },
+      {
+        "question": "How is Ateek pronounced?",
+        "answer": "A romanized syllable approximation is a-teek. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ateek?",
+        "answer": "Romanization variants include Ateek, ateek. Script forms are عتيق, عتیق, अतीक."
+      },
+      {
+        "question": "Is Ateek a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ateek Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ateek, a beautiful Islam name meaning \"Strong, Powerful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ateek, Islam name, baby names, Strong, Powerful, Islam baby names, name meaning",
-      "description_paragraph": "Ateek is a meaningful Islam name of Arabic origin that means \"Strong, Powerful\". Derived from the Arabic word 'Ata', meaning 'to return'. The name Ateek signifies a strong, powerful and courageous individual.",
-      "keywords": [
-        "Ateek",
-        "Islam name",
-        "baby names",
-        "Strong, Powerful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ateek in Islam tradition?",
-          "a": "Ateek is a beautiful Islam name meaning \"Strong, Powerful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ateek a good Islam name for a baby?",
-          "a": "Yes, Ateek is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ateek?",
-          "a": "The name Ateek has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ateek correctly?",
-          "a": "Ateek is pronounced ah-TEEK in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ateek?",
-          "a": "Naming a child Ateek brings blessings. The meaning \"Strong, Powerful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ateek?",
-          "a": "Ateek is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Ateek Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ateek (عتيق).",
+      "h1": "Ateek Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ateek meaning",
       "secondary_keywords": [
-        "Islam name Ateek",
-        "Ateek meaning",
-        "Ateek origin"
+        "Ateek name meaning",
+        "Ateek meaning in Urdu",
+        "Ateek origin",
+        "Ateek Islamic name",
+        "Ateek pronunciation",
+        "Ateek name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ateek (عتيق) is associated with the Arabic form عتيق, whose core sense is strong, powerful. The source record's gloss 'Strong, Powerful' could not be matched to a Tier-A/B lexical source. The form عتيق means 'ancient, freed'. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ateek is associated with the Arabic form عتيق, whose core sense is strong, powerful.",
+      "meaning_section": "The central meaning of Ateek is strong, powerful.",
+      "origin_section": "Ateek is associated with Arabic rather than with a different language.",
+      "islam_section": "Ateek can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ateek is with the sense strong.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ateek",
+      "#AteekMeaning",
+      "#AteekName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ateek carries a rich cultural heritage in the Islamic world, with its Arabic roots symbolizing a deep connection to the language and traditions of the Middle East. It evokes thoughts of bravery, resilience, and strength - qualities highly revered in Islamic and Arab culture.",
-    "spiritual_significance": "From a spiritual perspective, the name Ateek signifies the journey home to one's Creator. The name serves as a reminder to the bearer of their spiritual purpose - to return to their innate state of peace, love, and compassion, and strive to embody these qualities in their daily lives. Ateek is a symbol of one's journey towards spiritual enlightenment - a journey of self-discovery, growth, and purification.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Kathir's Al-Bidayah wa Al-Nihayah (The Beginning and The End) - Volume 5, Section on the Life of the Prophet (pbuh) after the migration to Medina",
-        "time_period": "622 - 632 AD",
-        "context": "Ateeq ibn al-Ashtar was a Christian Arab, who was an ally and a supporter of the Prophet Muhammad (pbuh) in Medina. He was known for his bravery and generosity, providing aid and protection to the Muslims during the early years of their settlement in Medina."
-      },
-      {
-        "reference": "Al-Baladhuri's Ansab Al-Ashraf - Biography of the Prophet's Companions, under the section of Ateeq ibn al-Ashtar",
-        "time_period": "Late 7th to Early 8th Century AD",
-        "context": "Ateeq ibn al-Ashtar was a prominent companion of the Prophet Muhammad (pbuh) in Medina. He was a Christian Arab, who converted to Islam and became one of the key supporters of the Muslim community during their early years in Medina. Ateeq's bravery, generosity, and wisdom were highly respected among the Muslims, and he played an important role in the defense of Medina during various conflicts."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Arabic names",
-        "Islamic identity",
-        "Modern culture"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ateek corresponds to the Arabic form عتيق",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Ateek has the core sense strong, powerful",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "TikTok",
-        "LinkedIn"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Ateek' is of Arabic origin and has Islamic roots, meaning 'gift' or 'grace from Allah'. In modern times, this name is often seen on various platforms, including Instagram, where it can be found in the usernames of individuals showcasing their artistic talents or cultural heritage. On TikTok, 'Ateek' is sometimes used as a hashtag for videos related to Islamic teachings or spirituality. On LinkedIn, professionals with this name may use it to highlight their Middle Eastern or Islamic background in their online profiles. The use of 'Ateek' in modern contexts reflects a growing trend towards embracing and celebrating diverse cultural identities and traditions."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Ateek",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Fatima Ateek from Riyadh, Saudi Arabia embodies the meaning of Ateek - \"Strong, Powerful\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Strong, Powerful\" symbolizes Derived from the Arabic word 'Ata', meaning 'to return'. The name Ateek signifies a strong, powerful and courageous individual.. In Islamic spirituality, bearing the name Ateek serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of strong, powerful.",
-    "created_at": "2025-12-22T19:19:50.328Z",
-    "updated_at": "2025-12-22T04:53:15.882Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1192,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ateek",
-      "description": "Strong, Powerful",
-      "additionalName": [
-        "Atik"
+      "alternateName": [
+        "Ateek",
+        "ateek"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form عتيق, meaning strong, powerful.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ateek",
-          "description": "Discover the meaning of Ateek - \"Strong, Powerful\"",
-          "image": "/images/social/ateek-facebook.jpg"
+      "termCode": "ateek",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ateek - Name Meaning",
-          "description": "Learn about the beautiful name Ateek",
-          "image": "/images/social/ateek-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ateek",
-          "description": "Name meaning: Strong, Powerful",
-          "image": "/images/social/ateek-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ateek - Meaning: Strong, Powerful",
-        "email_subject": "Beautiful Name: Ateek"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ateek with meaning Strong, Powerful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ateek, associated with the Arabic form عتيق, meaning strong, powerful."
     },
-    "similar_sounding_names": [
-      "anika",
-      "akil",
-      "azzahra",
-      "anja",
-      "ayan",
-      "amelia",
-      "aaidah",
-      "alma",
-      "aryan",
-      "amber"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

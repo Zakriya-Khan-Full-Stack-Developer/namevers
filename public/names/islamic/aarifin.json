@@ -3,296 +3,484 @@
   "data": {
     "name": "Aarifin",
     "slug": "aarifin",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Malay"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Knower, Scholar",
-    "long_meaning": "Someone who knows or is well-versed in a particular subject.",
-    "spiritual_meaning": "A reminder of the importance of seeking knowledge and wisdom in all aspects of life.",
-    "emotional_traits": [
-      "Intelligent",
-      "Curious",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "Patient",
-      "Determined",
-      "Insightful"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Brown"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 5,
-    "numerology_meaning": "A free spirit who is driven by a desire for adventure and a need for change.",
-    "in_arabic": {
-      "name": "عریفین",
-      "meaning": "معنیہ یہ کہ ایماندار، دانا، ادراک والا، پائیدار",
-      "long_meaning": "عریفین کا معنیہ یہ ہے کہ ایک ایماندار اور دانا شخص جو اپنے ادراک کے مطابق کام کرتا ہے، اللہ تعالیٰ کے احکامات کی پابندی کے ساتھ، دین کی تعلیمات کو پورا کرنے کے لئے، اور اپنی زندگی کو ایک پائیدار اور شاندار زندگی بنانے کی کوشش کرتا ہے۔ یہ نام قرآن مجید کی سورہ یوسف کی آیت 77 میں مذکور ہے، جہاں اللہ تعالیٰ نے یوسف علیہ السلام کو عریف بنایا تھا۔"
+    "identity": {
+      "display_name": "Aarifin",
+      "normalized_name": "aarifin",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aarifin",
+        "aarifin",
+        "arifin"
+      ],
+      "search_variants": [
+        "Aarifin",
+        "aarifin",
+        "arifin"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عریفین",
-      "meaning": "یہ نام ایماندار، دانا، ادراک والا، پائیدار کے معنی میں لیا جاتا ہے",
-      "long_meaning": "عریفین نام کا تعلق ایک ایماندار اور دانا شخص سے ہے جو اپنے ادراک کے مطابق کام کرتا ہے، اللہ تعالیٰ کے احکامات کی پابندی کے ساتھ، دین کی تعلیمات کو پورا کرنے کے لئے، اور اپنی زندگی کو ایک پائیدار اور شاندار زندگی بنانے کی کوشش کرتا ہے۔ یہ نام جنوبی ایشیائی مسلم روایات میں بھی مشہور ہے، اور اس کے معنیہ کے مطابق ایماندارانہ اور دانا شخص بننے کی کوشش کی جاتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Knowing, aware, learned",
+      "primary_meaning": "Knowing",
+      "secondary_meanings": [
+        "aware",
+        "learned"
+      ],
+      "literal_meaning": "Knowing",
+      "extended_meaning": "Knowing, aware, learned",
+      "meaning_explanation": "Aarifin corresponds to the Arabic form عارفين (ع ر ف). Its core sense is knowing, aware, learned. Plural of عارف; used as a given name in some South Asian communities.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अरीफीन",
-      "meaning": "ये नाम ईमानदार, ज्ञानी, समझदार, और स्थिर होने के अर्थ में लिया जाता है",
-      "long_meaning": "अरीफीन नाम एक ईमानदार और ज्ञानी व्यक्ति को दर्शाता है जो अपने ज्ञान के अनुसार काम करता है, अल्लाह के आदेशों का पालन करता है, और अपनी जिंदगी को एक स्थिर और खूबसूरत जिंदगी बनाने के लिए कोशिश करता है। यह नाम भारतीय मुस्लिम समुदाय में भी प्रसिद्ध है, और इसके अर्थ के अनुसार एक ईमानदार और ज्ञानी व्यक्ति बनने की कोशिश की जाती है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عارفين",
+      "transliteration": "aarifin",
+      "romanization": "aarifin",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Knowing",
+        "aware",
+        "learned"
+      ],
+      "etymology_explanation": "The form عارفين is an established Arabic lexical item. Plural of عارف; used as a given name in some South Asian communities.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عریفین",
-      "meaning": "ځانګړی، پوه، درک کوونکی، پرمينه",
-      "long_meaning": "عریفین دا ځانګړی، پوه، درک کوونکی، پرمينه ګړتوب ډاډار کوي چې یو ایماندار او پوه ولس دا ځانګړیځوالي کوي چې په دین کې د ځانګړیځوالي د لیدلو کې لاس لري، پوه او پرمينه ګړتوب دویو چارو پوه او ځانګړیځوالي دویو چارو د پرمينه ګړتیا کوي چې دوی د هر ځانګړیځوالي د ځانګړیځوالي د پرمينه ګړتیا کوي چې دوی د هر وخت په ځانګړیځوالي کې دوی د هر وخت په ځانګړیځوالي کې ځانګړیځوالي کوي چې دوی د هر وخت په ځانګړیځوالي کې دوی پرمينه ګړتوب کوي چې دوی د هر وخت په ځانګړیځوالي کې ځانګړیځوالي کوي چې دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمينه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ دوی پرمینه ګړتوب کوي چہ"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عارفين is an established Arabic form.",
+        "Urdu": "عارفین is used in Urdu.",
+        "Hindi": "आरिफ़ीन is used in Hindi.",
+        "Pashto": "عارفین is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Aarifin",
-      "meaning": "Aarifin is a name that means intelligent, wise, understanding, and trustworthy",
-      "long_meaning": "Aarifin is a name that signifies an intelligent and wise person who acts according to their understanding, follows Allah's commandments, and strives to live a beautiful and enduring life according to Islamic teachings. This name has its roots in the Arabic language and is mentioned in the Quran. The root of the word 'Aarifin' is 'A-R-F', which means 'to know' or 'to understand'."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عارفين. Plural of عارف; used as a given name in some South Asian communities.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aarifin may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ع ر ف occurs in the Qur'an; عارفين is a sound masculine plural, not a Qur'anic proper name"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense knowing, aware, learned.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Knowing",
+      "related_concepts": [
+        "knowing",
+        "aware",
+        "learned"
+      ],
+      "semantic_relationship": "The central semantic idea is knowing; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of knowing.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Knowing",
+        "Aware",
+        "Learned"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aarifin",
+        "meaning": "Knowing, aware, learned",
+        "long_meaning": "Aarifin is a Arabic-origin name. Its core meaning is knowing, aware, learned. Plural of عارف; used as a given name in some South Asian communities."
+      },
+      "urdu": {
+        "name": "عارفین",
+        "meaning": "جاننے والا، واقف، عالم",
+        "long_meaning": "Aarifin (عارفین) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جاننے والا، واقف، عالم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आरिफ़ीन",
+        "meaning": "जानकार, विद्वान, आगाह",
+        "long_meaning": "Aarifin (आरिफ़ीन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ जानकार, विद्वान, आगाह है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عارفین",
+        "meaning": "پوه، خبردار، عالم",
+        "long_meaning": "Aarifin (عارفین) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوه، خبردار، عالم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عارفين",
+        "meaning": "عارف، عليم، خبير",
+        "long_meaning": "Aarifin (عارفين) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عارف، عليم، خبير. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-ree-fin",
-      "urdu": "عریفین کا اردو میں تلفظ کی تفصیل",
-      "hindi": "अरीफीन का हिंदी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈɑː.liːm/"
+      "romanized": "aa-ri-fin",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عارفین",
+      "persian": null,
+      "hindi": "आरिफ़ीन",
+      "pashto": "عارفین"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AarifinMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aarifin"
-    ],
-    "name_variations": [],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aarifin",
+        "aarifin",
+        "arifin"
+      ],
+      "script_variants": [
+        "عارفين",
+        "عارفین",
+        "आरिफ़ीन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عارفين is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aarifin can be understood through the Arabic form عارفين, whose central sense is knowing, aware, learned. Plural of عارف; used as a given name in some South Asian communities.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Aarifin mean?",
+        "answer": "Aarifin is associated with the Arabic form عارفين, whose core sense is knowing, aware, learned."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 67,
-        "year": 2024
+        "question": "What is the origin of Aarifin?",
+        "answer": "Aarifin is associated with Arabic. Plural of عارف; used as a given name in some South Asian communities."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 70,
-        "year": 2024
+        "question": "Is Aarifin an Arabic name?",
+        "answer": "Yes — the underlying form عارفين is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 66,
-        "year": 2024
+        "question": "Is Aarifin an Islamic name?",
+        "answer": "Aarifin can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Aarifin a Quranic name?",
+        "answer": "Aarifin should not be classified as a Quranic personal name without a direct Quranic basis. root ع ر ف occurs in the Qur'an; عارفين is a sound masculine plural, not a Qur'anic proper name"
+      },
+      {
+        "question": "What does Aarifin mean in Urdu?",
+        "answer": "In Urdu, Aarifin is rendered عارفین and carries the sense جاننے والا، واقف، عالم."
+      },
+      {
+        "question": "What does Aarifin mean in Persian?",
+        "answer": "No verified Persian form was established for Aarifin."
+      },
+      {
+        "question": "How is Aarifin pronounced?",
+        "answer": "A romanized syllable approximation is aa-ri-fin. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aarifin?",
+        "answer": "Romanization variants include Aarifin, aarifin, arifin. Script forms are عارفين, عارفین, आरिफ़ीन."
+      },
+      {
+        "question": "Is Aarifin a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aarifin Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aarifin, a beautiful Islam name meaning \"Knower, Scholar\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aarifin, Islam name, baby names, Knower, Scholar, Islam baby names, name meaning",
-      "description_paragraph": "Aarifin is a meaningful Islam name of Arabic origin that means \"Knower, Scholar\". Someone who knows or is well-versed in a particular subject.",
-      "keywords": [
-        "Aarifin",
-        "Islam name",
-        "baby names",
-        "Knower, Scholar",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aarifin in Islam tradition?",
-          "a": "Aarifin is a beautiful Islam name meaning \"Knower, Scholar\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aarifin a good Islam name for a baby?",
-          "a": "Yes, Aarifin is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aarifin?",
-          "a": "The name Aarifin has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aarifin correctly?",
-          "a": "Aarifin is pronounced ah-ree-fin in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aarifin?",
-          "a": "Naming a child Aarifin brings blessings. The meaning \"Knower, Scholar\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aarifin?",
-          "a": "Aarifin is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Aarifin Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aarifin (عارفين).",
+      "h1": "Aarifin Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aarifin meaning",
       "secondary_keywords": [
-        "Islam name Aarifin",
-        "Aarifin meaning",
-        "Aarifin origin"
+        "Aarifin name meaning",
+        "Aarifin meaning in Urdu",
+        "Aarifin origin",
+        "Aarifin Islamic name",
+        "Aarifin pronunciation",
+        "Aarifin name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aarifin (عارفين) is associated with the Arabic form عارفين, whose core sense is knowing, aware, learned. Plural of عارف; used as a given name in some South Asian communities.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aarifin is associated with the Arabic form عارفين, whose core sense is knowing, aware, learned.",
+      "meaning_section": "The central meaning of Aarifin is knowing, aware, learned.",
+      "origin_section": "Aarifin is associated with Arabic rather than with a different language.",
+      "islam_section": "Aarifin can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aarifin is with the sense knowing.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aarifin",
+      "#AarifinMeaning",
+      "#AarifinName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Aarifin in Islamic culture signifies knowledge, wisdom, and education. It is a name of honor and respect, often given to individuals who are known for their deep understanding and expertise in various subjects such as Islamic studies, Quranic sciences, or other academic fields. The cultural significance of this name emphasizes the importance of learning and seeking knowledge, as it is a fundamental aspect of personal growth and development in the Islamic tradition.",
-    "spiritual_significance": "In the spiritual context, the name Aarifin holds great significance as it is derived from the Arabic word \"arif,\" which means \"to know Allah.\" Thus, the name can be understood as a reminder of the ultimate goal of human existence, which is to gain knowledge and closeness to Allah. Furthermore, it is believed that those who are labeled as \"arif,\" or \"knowers of Allah,\" possess a deep inner understanding and sense of piety towards their Creator. This spiritual significance highlights the importance of seeking knowledge not just for the sake of worldly gains, but for the ultimate purpose of drawing closer to Allah and fulfilling one's spiritual potential.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Hajar al-Haytami, in his book Al-Fattāḥ al-Rabīʿ 'alā Sīrat al-Mustafā, mentions a man named Aarifin who was a companion of the Prophet Muhammad.",
-        "time_period": "7th century",
-        "context": "Aarifin was a companion of the Prophet Muhammad."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aarifin corresponds to the Arabic form عارفين",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Aarifin has the core sense knowing, aware, learned",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aarifin remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Aarifin",
-      "location": "Dubai, UAE",
-      "story": "Maryam Aarifin from Dubai, UAE embodies the meaning of Aarifin - \"Knower, Scholar\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Knower, Scholar\" symbolizes Someone who knows or is well-versed in a particular subject.. In Islamic spirituality, bearing the name Aarifin serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of knower, scholar.",
-    "created_at": "2025-12-22T19:19:49.901Z",
-    "updated_at": "2025-12-22T04:53:15.127Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1556,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aarifin",
-      "description": "Knower, Scholar",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Malay"
+      "alternateName": [
+        "Aarifin",
+        "aarifin",
+        "arifin"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aarifin",
-          "description": "Discover the meaning of Aarifin - \"Knower, Scholar\"",
-          "image": "/images/social/aarifin-facebook.jpg"
+      "description": "A name associated with the Arabic form عارفين, meaning knowing, aware, learned.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "aarifin",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aarifin - Name Meaning",
-          "description": "Learn about the beautiful name Aarifin",
-          "image": "/images/social/aarifin-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Aarifin",
-          "description": "Name meaning: Knower, Scholar",
-          "image": "/images/social/aarifin-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aarifin - Meaning: Knower, Scholar",
-        "email_subject": "Beautiful Name: Aarifin"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aarifin with meaning Knower, Scholar",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aarifin, associated with the Arabic form عارفين, meaning knowing, aware, learned."
     },
-    "similar_sounding_names": [
-      "amaya",
-      "anaan",
-      "arya",
-      "aaidah",
-      "anila",
-      "alma",
-      "anja",
-      "alabbas",
-      "arsala",
-      "ariana"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

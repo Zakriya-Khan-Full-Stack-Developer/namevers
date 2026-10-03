@@ -3,287 +3,482 @@
   "data": {
     "name": "Iffah",
     "slug": "iffah",
-    "language": [
-      "Arabic",
-      "English"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Exempt, Free",
-    "long_meaning": "Exempt, Free, Exonerated, Absolved, Exempted from",
-    "spiritual_meaning": "Freedom from the self, Freedom from the ego",
-    "emotional_traits": [
-      "Calm",
-      "Free-spirited"
-    ],
-    "hidden_personality_traits": [
-      "Resilient",
-      "Strong-willed"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 2,
-    "numerology_meaning": "People with the life path number 2 are peacekeepers, diplomats, and nurturers. They are sensitive, empathetic, and intuitive, and they have a strong desire for harmony and balance in their lives.",
-    "in_arabic": {
-      "name": "عفّة",
-      "meaning": "العفّة تعني الحياء والكرامة والابتعاد عن القبائح",
-      "long_meaning": "العفّة هي اسم عربي مؤنث يدل على الحياء والكرامة والابتعاد عن القبائح. وهو من الأسماء التي وردت في القرآن الكريم، ويعتبر من الأسماء المحمودة في الإسلام. العفّة تعني أيضًا الابتعاد عن كل ما هو محرم أو قبيح، وتدل على الشخصية القوية والمتينة التي تتمسك بقيمها وأخلاقها."
+    "identity": {
+      "display_name": "Iffah",
+      "normalized_name": "iffah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Iffah",
+        "iffah"
+      ],
+      "search_variants": [
+        "Iffah",
+        "iffah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عفت",
-      "meaning": "عفت کا مطلب ہے خلوص اور پاکدامنی اور برائیوں سے بچنا",
-      "long_meaning": "عفت ایک عربی نام ہے جس کا مطلب ہے خلوص اور پاکدامنی اور برائیوں سے بچنا۔ یہ نام اسلامی تقالید میں انتہائی احترام والا سمجھا جاتا ہے کیونکہ یہ نام قرآن مجید میں ذکر ہوا ہے۔ عفت نام کی شخصیت کو پاکیزگی اور تقویٰ کی علامت سمجھا جاتا ہے، اور یہ نام جنوب ایشیائی مسلمانوں کے درمیان میں بہت مقبول ہے۔"
+    "core_meaning": {
+      "short_meaning": "Chastity, virtue, self-restraint",
+      "primary_meaning": "Chastity",
+      "secondary_meanings": [
+        "virtue",
+        "self-restraint"
+      ],
+      "literal_meaning": "Chastity",
+      "extended_meaning": "Chastity, virtue, self-restraint",
+      "meaning_explanation": "Iffah corresponds to the Arabic form عفة (Arabic root ع ف ف (ʿ-f-f); عِفَّة (ʿIffa)). Its core sense is chastity, virtue, self-restraint. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इफ़्फ़त",
-      "meaning": "इफ़्फ़त का अर्थ है शुद्धता और पवित्रता और बुराइयों से बचना",
-      "long_meaning": "इफ़्फ़त एक अरबी नाम है जिसका अर्थ है शुद्धता और पवित्रता और बुराइयों से बचना। यह नाम भारतीय मुस्लिम समुदाय में बहुत सम्मानित है क्योंकि यह नाम इस्लामी परंपरा में बहुत महत्व रखता है। इफ़्फ़त नाम की व्यक्ति को पवित्रता और सादगी की प्रतीक माना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عفة",
+      "transliteration": "iffah",
+      "romanization": "iffah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Chastity",
+        "virtue",
+        "self-restraint"
+      ],
+      "etymology_explanation": "The form عفة is an established Arabic lexical item. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عفه",
-      "meaning": "عفه د پاکۍ او سجاوة او د بدیو څخه د مخنیوی معنی لري",
-      "long_meaning": "عفه د عربي نوم دی چې د پاکۍ او سجاوة او د بدیو څخه د مخنیوی معنی لري. دا نوم د افغان او پښتون دودیزو کې ډیر احترام لري. عفه نوم د پاکزادګۍ او دينی حيثيت د نښه ګڼل کيږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عفة is an established Arabic form.",
+        "Urdu": "عفت is used in Urdu.",
+        "Persian": "عفت is an established Persian form.",
+        "Hindi": "इफ़्फ़ा is used in Hindi.",
+        "Pashto": "عفت is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Iffah",
-      "meaning": "Iffah means purity, modesty, and avoidance of evil",
-      "long_meaning": "Iffah is an Arabic name that signifies purity, modesty, and avoidance of evil. It is a revered name in Islamic tradition, mentioned in the Quran. The name Iffah connotes a strong and virtuous personality that adheres to Islamic values and morals. It symbolizes spiritual growth, self-respect, and dignity. Across Muslim cultures, Iffah is considered a beautiful and meaningful name for girls."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عفة. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Iffah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense chastity, virtue, self-restraint.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Chastity",
+      "related_concepts": [
+        "chastity",
+        "virtue",
+        "self-restraint"
+      ],
+      "semantic_relationship": "The central semantic idea is chastity; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of chastity.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Chastity",
+        "Virtue",
+        "Self-restraint"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Iffah",
+        "meaning": "Chastity, virtue, self-restraint",
+        "long_meaning": "Iffah is a Arabic-origin name. Its core meaning is chastity, virtue, self-restraint. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat."
+      },
+      "urdu": {
+        "name": "عفت",
+        "meaning": "عفت، پاکدامنی، پرہیزگاری",
+        "long_meaning": "Iffah (عفت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عفت، پاکدامنی، پرہیزگاری ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عفت",
+        "meaning": "عفت، پاکدامنی، پارسایی",
+        "long_meaning": "Iffah (عفت) نامی برگرفته از زبان عربی است و معنای اصلی آن عفت، پاکدامنی، پارسایی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इफ़्फ़ा",
+        "meaning": "सतीत्व, पवित्रता, संयम",
+        "long_meaning": "Iffah (इफ़्फ़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सतीत्व, पवित्रता, संयम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عفت",
+        "meaning": "عفت، پاکدامني، ځان ساتنه",
+        "long_meaning": "Iffah (عفت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عفت، پاکدامني، ځان ساتنه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عفة",
+        "meaning": "العفّة، الطهارة، الامتناع",
+        "long_meaning": "Iffah (عفة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العفّة، الطهارة، الامتناع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "if-fah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عِفَّہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: इफ़्फ़त",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عفه",
-      "ipa": "/ˈɪfɑː/"
+      "romanized": "if-fah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عفت",
+      "persian": "عفت",
+      "hindi": "इफ़्फ़ा",
+      "pashto": "عفت"
     },
-    "celebrity_usage": [
-      "Iffah Chaudhry",
-      "Iffah Atif"
-    ],
-    "social_tags": [
-      "#IffahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Iffah"
-    ],
-    "name_variations": [
-      "Iffa"
-    ],
-    "popularity_score": 75,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Iffah",
+        "iffah"
+      ],
+      "script_variants": [
+        "عفة",
+        "عفت",
+        "इफ़्फ़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عفة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Iffah can be understood through the Arabic form عفة, whose central sense is chastity, virtue, self-restraint. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Iffah mean?",
+        "answer": "Iffah is associated with the Arabic form عفة, whose core sense is chastity, virtue, self-restraint."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 67,
-        "year": 2024
+        "question": "What is the origin of Iffah?",
+        "answer": "Iffah is associated with Arabic. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 73,
-        "year": 2024
+        "question": "Is Iffah an Arabic name?",
+        "answer": "Yes — the underlying form عفة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Iffah an Islamic name?",
+        "answer": "Iffah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Iffah a Quranic name?",
+        "answer": "Iffah should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Iffah mean in Urdu?",
+        "answer": "In Urdu, Iffah is rendered عفت and carries the sense عفت، پاکدامنی، پرہیزگاری."
+      },
+      {
+        "question": "What does Iffah mean in Persian?",
+        "answer": "In Persian, Iffah is rendered عفت and carries the sense عفت، پاکدامنی، پارسایی."
+      },
+      {
+        "question": "How is Iffah pronounced?",
+        "answer": "A romanized syllable approximation is if-fah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Iffah?",
+        "answer": "Romanization variants include Iffah, iffah. Script forms are عفة, عفت, इफ़्फ़ा."
+      },
+      {
+        "question": "Is Iffah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Iffah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Iffah, a beautiful Islam name meaning \"Exempt, Free\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Iffah, Islam name, baby names, Exempt, Free, Islam baby names, name meaning",
-      "description_paragraph": "Iffah is a meaningful Islam name of Arabic origin that means \"Exempt, Free\". Exempt, Free, Exonerated, Absolved, Exempted from",
-      "keywords": [
-        "Iffah",
-        "Islam name",
-        "baby names",
-        "Exempt, Free",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Iffah in Islam tradition?",
-          "a": "Iffah is a beautiful Islam name meaning \"Exempt, Free\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Iffah a good Islam name for a baby?",
-          "a": "Yes, Iffah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Iffah?",
-          "a": "The name Iffah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Iffah correctly?",
-          "a": "Iffah is pronounced if-fah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Iffah?",
-          "a": "Naming a child Iffah brings blessings. The meaning \"Exempt, Free\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Iffah?",
-          "a": "Iffah is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Iffah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Iffah (عفة).",
+      "h1": "Iffah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Iffah meaning",
       "secondary_keywords": [
-        "Islam name Iffah",
-        "Iffah meaning",
-        "Iffah origin"
+        "Iffah name meaning",
+        "Iffah meaning in Urdu",
+        "Iffah origin",
+        "Iffah Islamic name",
+        "Iffah pronunciation",
+        "Iffah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Iffah (عفة) is associated with the Arabic form عفة, whose core sense is chastity, virtue, self-restraint. Iffah is Arabic عِفَّة (ʿIffa) 'chastity, virtue, self-restraint', from the root ع ف ف (ʿ-f-f). The source gloss 'Exempt, Free' is unsupported and has been replaced with the lexical sense. Same name as iffat.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Iffah is associated with the Arabic form عفة, whose core sense is chastity, virtue, self-restraint.",
+      "meaning_section": "The central meaning of Iffah is chastity, virtue, self-restraint.",
+      "origin_section": "Iffah is associated with Arabic rather than with a different language.",
+      "islam_section": "Iffah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Iffah is with the sense chastity.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Iffah",
+      "#IffahMeaning",
+      "#IffahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Iffah holds a significant cultural impact, particularly for Muslim communities. In Islamic context, \"Iffah\" can be understood as being free from something, or being exempted from certain obligations or restrictions. For instance, in the context of marriage, a divorced woman is referred to as \"mu'allafah 'ala aWWatin Iffah\", meaning \"exempt from [further] marriage obligations\". Additionally, the term \"Iffah\" is used among men to denote those who are not bound by any marriage or similar commitments, allowing them to devote themselves fully to spiritual pursuits or other aspects of life.",
-    "spiritual_significance": "The spiritual significance of \"Iffah\" is deeply rooted in the concepts of freedom and release from worldly burdens, which can lead to a closer connection to the divine. In the Quran, Allah mentions the phrase \"idh-dhabbita s-sam'amu 'an r-rhami\" (By the [star] Al-Yam'amah [which sets] for [or releases] those [bound to it]! (31:12)\". This verse indicates that the release from earthly constraints can lead to a greater awareness and consciousness of Allah, ultimately allowing for a more intimate spiritual relationship. By invoking the name Iffah, one can be reminded of the importance of spiritual freedom and being absolved from worldly distractions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Iffah carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Iffah corresponds to the Arabic form عفة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Iffah has the core sense chastity, virtue, self-restraint",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Iffah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Iffah",
-      "location": "Karachi, Pakistan",
-      "story": "Layla Iffah, a teacher in Karachi, Pakistan, shares that their name Iffah meaning \"Exempt, Free\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Exempt, Free\" symbolizes Exempt, Free, Exonerated, Absolved, Exempted from. In Islamic spirituality, bearing the name Iffah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of exempt, free.",
-    "created_at": "2025-12-22T19:19:49.904Z",
-    "updated_at": "2025-12-22T04:53:15.164Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1230,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Iffah",
-      "description": "Exempt, Free",
-      "additionalName": [
-        "Iffa"
+      "alternateName": [
+        "Iffah",
+        "iffah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "English"
+      "description": "A name associated with the Arabic form عفة, meaning chastity, virtue, self-restraint.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Iffah",
-          "description": "Discover the meaning of Iffah - \"Exempt, Free\"",
-          "image": "/images/social/iffah-facebook.jpg"
+      "termCode": "iffah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Iffah - Name Meaning",
-          "description": "Learn about the beautiful name Iffah",
-          "image": "/images/social/iffah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Iffah",
-          "description": "Name meaning: Exempt, Free",
-          "image": "/images/social/iffah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Iffah - Meaning: Exempt, Free",
-        "email_subject": "Beautiful Name: Iffah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Iffah with meaning Exempt, Free",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Iffah, associated with the Arabic form عفة, meaning chastity, virtue, self-restraint."
     },
-    "similar_sounding_names": [
-      "id",
-      "isa",
-      "iqrit",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

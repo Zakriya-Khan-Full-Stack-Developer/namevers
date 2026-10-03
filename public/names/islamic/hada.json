@@ -3,277 +3,479 @@
   "data": {
     "name": "Hada",
     "slug": "hada",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift, Present",
-    "long_meaning": "A name derived from the Arabic word ‘hadīya’ meaning ‘gift’ or ‘present’. In Islamic culture, the giving and receiving of gifts is a symbol of love and goodwill. Hada is a beautiful name for a baby girl.",
-    "spiritual_meaning": "A reminder of the blessings and gifts bestowed upon us by Allah.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green",
-      "Pink"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 11,
-    "numerology_meaning": "Those with a life path number 11 are highly intuitive and sensitive, and they have the ability to inspire and heal others. They are natural leaders and innovators.",
-    "in_arabic": {
-      "name": "هدى",
-      "meaning": "هدى الطريق للهدي",
-      "long_meaning": "هدى اسم من أسماء الله الحسنى، يعني الرشاد للطريق، والهداية إلى الله، والمرشد للطريق الصحيح، والمنهج الصالح، وهو من أسماء الله التي تظهر عبده، وتدل على قدرته على إرشاد خلقه، وتعني أيضاً الرشاد لمن يضل، أو يفتقد إلى الحق، ويحتاج إلى هدايته، والإيمان بهذه الهداية هو إنجاز للعبادة، وهو من أسماء الله التي يذكرونها في القرآن الكريم، كقول الله تعالى: \"وَمَن يُضِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ\" [الإسراء: 42]"
+    "identity": {
+      "display_name": "Hada",
+      "normalized_name": "hada",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hada",
+        "hada"
+      ],
+      "search_variants": [
+        "Hada",
+        "hada"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ہدا",
-      "meaning": "ہدایت کا نام ہے جو اللہ تبارک و تعالیٰ کے ناموں میں سے ایک ہے اور یہ رشادت کا نام ہے جو اللہ کے بھیجے ہوئے پیغمبروں اور اولیاء اللہ کے ذریعے ہوتی ہے",
-      "long_meaning": "ہدا اللہ کا نام ہے جو اس کی ذات کے مختلف Attributes میں سے ایک ہے۔ یہ رشاد اور راهنمایی کا نام ہے جو اللہ تعالیٰ اپنے بندوں کے لئے بھیجتے ہیں۔ اس نام میں سے لاحق ہونے والے الفاظ اور صفت سے اللہ تعالیٰ ایک ایسا اسم ہے جو اس کی عظمت اور قدرت کی عکاسی کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Guide, leader",
+      "primary_meaning": "Guide",
+      "secondary_meanings": [
+        "leader"
+      ],
+      "literal_meaning": "Guide",
+      "extended_meaning": "Guide, leader",
+      "meaning_explanation": "Hada corresponds to the Arabic form هدى (Arabic root ه د ي (h-d-y); هدى (hudā)). Its core sense is guide, leader. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "हदा",
-      "meaning": "हदाई का नाम जो अल्लाह के नामों में से एक है, और यह रशाद का नाम है जो अल्लाह के भेजे हुए रसूलों और वलीयों के माध्यम से होती है",
-      "long_meaning": "हदा अल्लाह का नाम है जो उसकी विभिन्न गुणों में से एक है। यह रशाद और निर्देशित करने का नाम है जो अल्लाह अपने बन्दों के लिए भेजते हैं। इस नाम से जुड़े हुए विशेषण और शब्द अल्लाह की महिमा और शक्ति को दर्शाते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هدى",
+      "transliteration": "hada",
+      "romanization": "hada",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Guide",
+        "leader"
+      ],
+      "etymology_explanation": "The form هدى is an established Arabic lexical item. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "هدا",
-      "meaning": "هدا د لاه په د لاه د نومو کښه یو د ه، چی د لاه د بنديو ته د رشاد په لان د لاه د رسولو او ولیو په لان د لاه ته د هدایته",
-      "long_meaning": "هدا د لاه د نوم د پوهني د لاه د بنديو ته د رشاد په لان د لاه د رسولو او ولیو په لان د لاه ته د هدایته، چی د لاه د قدرت په اساس د بنديو ته د رشاد په لان د لاه د رسولو او ولیو په لان د لاه ته د هدایته"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "هدى is an established Arabic form.",
+        "Urdu": "ہدیٰ is used in Urdu.",
+        "Persian": "هدی is an established Persian form.",
+        "Hindi": "हुदा is used in Hindi.",
+        "Pashto": "هدی is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Hada",
-      "meaning": "A name meaning guidance, leading to Allah's guidance, and direction to the right path.",
-      "long_meaning": "The name Hada is derived from the Arabic root HDY, meaning to guide or lead. In Islamic tradition, Hada is one of Allah's Names that signify His ability to guide His creation. It implies guidance, direction, and leading to the right path. The name Hada is also associated with the concept of Tawbah, or repentance, as it signifies turning back to Allah's guidance and direction."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form هدى. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hada may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": true
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense guide, leader.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Guide",
+      "related_concepts": [
+        "guide",
+        "leader"
+      ],
+      "semantic_relationship": "The central semantic idea is guide; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of guide.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Guide",
+        "Leader"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hada",
+        "meaning": "Guide, leader",
+        "long_meaning": "Hada is a Arabic-origin name. Its core meaning is guide, leader. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced."
+      },
+      "urdu": {
+        "name": "ہدیٰ",
+        "meaning": "راہ دکھانے والا، قائد",
+        "long_meaning": "Hada (ہدیٰ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم راہ دکھانے والا، قائد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هدی",
+        "meaning": "رهنما، رهبر",
+        "long_meaning": "Hada (هدی) نامی برگرفته از زبان عربی است و معنای اصلی آن رهنما، رهبر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हुदा",
+        "meaning": "मार्गदर्शक, नेता",
+        "long_meaning": "Hada (हुदा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मार्गदर्शक, नेता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هدی",
+        "meaning": "لارښود، مشر",
+        "long_meaning": "Hada (هدی) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لارښود، مشر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هدى",
+        "meaning": "الهادي، القائد",
+        "long_meaning": "Hada (هدى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهادي، القائد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "HAH-dah",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈhɑːdɑː/"
+      "romanized": "ha-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہدیٰ",
+      "persian": "هدی",
+      "hindi": "हुदा",
+      "pashto": "هدی"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HadaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hada"
-    ],
-    "name_variations": [
-      "Hadah"
-    ],
-    "popularity_score": 64,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hada",
+        "hada"
+      ],
+      "script_variants": [
+        "هدى",
+        "هدی",
+        "ہدیٰ",
+        "हुदा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هدى is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hada can be understood through the Arabic form هدى, whose central sense is guide, leader. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Hada mean?",
+        "answer": "Hada is associated with the Arabic form هدى, whose core sense is guide, leader."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 71,
-        "year": 2024
+        "question": "What is the origin of Hada?",
+        "answer": "Hada is associated with Arabic. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Hada an Arabic name?",
+        "answer": "Yes — the underlying form هدى is Arabic."
+      },
+      {
+        "question": "Is Hada an Islamic name?",
+        "answer": "Hada can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hada a Quranic name?",
+        "answer": "Hada should not be classified as a Quranic personal name without a direct Quranic basis. True"
+      },
+      {
+        "question": "What does Hada mean in Urdu?",
+        "answer": "In Urdu, Hada is rendered ہدیٰ and carries the sense راہ دکھانے والا، قائد."
+      },
+      {
+        "question": "What does Hada mean in Persian?",
+        "answer": "In Persian, Hada is rendered هدی and carries the sense رهنما، رهبر."
+      },
+      {
+        "question": "How is Hada pronounced?",
+        "answer": "A romanized syllable approximation is ha-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hada?",
+        "answer": "Romanization variants include Hada, hada. Script forms are هدى, هدی, ہدیٰ, हुदा."
+      },
+      {
+        "question": "Is Hada a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hada Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hada, a beautiful Islam name meaning \"Gift, Present\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hada, Islam name, baby names, Gift, Present, Islam baby names, name meaning",
-      "description_paragraph": "Hada is a meaningful Islam name of Arabic origin that means \"Gift, Present\". A name derived from the Arabic word ‘hadīya’ meaning ‘gift’ or ‘present’. In Islamic culture, the giving and receiving of gifts is a symbol of love and goodwill. Hada is a beautiful name for a baby girl.",
-      "keywords": [
-        "Hada",
-        "Islam name",
-        "baby names",
-        "Gift, Present",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hada in Islam tradition?",
-          "a": "Hada is a beautiful Islam name meaning \"Gift, Present\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hada a good Islam name for a baby?",
-          "a": "Yes, Hada is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hada?",
-          "a": "The name Hada has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hada correctly?",
-          "a": "Hada is pronounced HAH-dah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hada?",
-          "a": "Naming a child Hada brings blessings. The meaning \"Gift, Present\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hada?",
-          "a": "Hada is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Hada Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hada (هدى).",
+      "h1": "Hada Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hada meaning",
       "secondary_keywords": [
-        "Islam name Hada",
-        "Hada meaning",
-        "Hada origin"
+        "Hada name meaning",
+        "Hada meaning in Urdu",
+        "Hada origin",
+        "Hada Islamic name",
+        "Hada pronunciation",
+        "Hada name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hada (هدى) is associated with the Arabic form هدى, whose core sense is guide, leader. Hada corresponds to Arabic هدى (hudā) 'guidance, the right way' — a central Qur'anic term — used as a name (most visibly in the Turkish form Hüda). The source gloss 'gift, present' belongs to the related but distinct word هدية (hadiyya) and has been replaced.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hada is associated with the Arabic form هدى, whose core sense is guide, leader.",
+      "meaning_section": "The central meaning of Hada is guide, leader.",
+      "origin_section": "Hada is associated with Arabic rather than with a different language.",
+      "islam_section": "Hada can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hada is with the sense guide.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hada",
+      "#HadaMeaning",
+      "#HadaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Hada signifies the joy and happiness that comes from giving and receiving gifts. It is a reminder of the importance of building relationships and strengthening bonds through acts of kindness and generosity. In Islamic culture, the exchange of gifts is also an expression of respect, friendship, and recognition of the value of human connection.",
-    "spiritual_significance": "From a spiritual perspective, the name Hada holds deep significance in the context of the gift of life itself. It serves as a reminder of the blessings and gifts that Allah bestows upon us every day. The name emphasizes the importance of being grateful for these blessings and using them to serve and benefit others. Additionally, Hada can be seen as a symbol of the gifts of knowledge, wisdom, and spiritual growth that come from seeking and following the teachings of Islam. Ultimately, the name Hada encourages us to be givers in all aspects of our lives, both materially and spiritually, and to recognize and appreciate the many blessings and gifts that we have been given.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Hajar al-Haytami, in his work Al-Fattāḥ al-Rabīʿ 'alā l-Mulk al-Wāsiṭ, mentions a person named Hādah bint al-Hasan al-Basri.",
-        "time_period": "8th century",
-        "context": "Ibn Hajar al-Haytami was a prominent Islamic scholar and historian. In his work, he mentions a woman named Hādah bint al-Hasan al-Basri."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hada corresponds to the Arabic form هدى",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Hada has the core sense guide, leader",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hada remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Hada",
-      "location": "Istanbul, Turkey",
-      "story": "Aisha Hada, a teacher in Istanbul, Turkey, shares that their name Hada meaning \"Gift, Present\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Gift, Present\" symbolizes A name derived from the Arabic word ‘hadīya’ meaning ‘gift’ or ‘present’. In Islamic culture, the giving and receiving of gifts is a symbol of love and goodwill. Hada is a beautiful name for a baby girl.. In Islamic spirituality, bearing the name Hada serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, present.",
-    "created_at": "2025-12-22T19:19:49.937Z",
-    "updated_at": "2025-12-22T04:53:15.596Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1741,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hada",
-      "description": "Gift, Present",
-      "additionalName": [
-        "Hadah"
+      "alternateName": [
+        "Hada",
+        "hada"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form هدى, meaning guide, leader.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hada",
-          "description": "Discover the meaning of Hada - \"Gift, Present\"",
-          "image": "/images/social/hada-facebook.jpg"
+      "termCode": "hada",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hada - Name Meaning",
-          "description": "Learn about the beautiful name Hada",
-          "image": "/images/social/hada-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hada",
-          "description": "Name meaning: Gift, Present",
-          "image": "/images/social/hada-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hada - Meaning: Gift, Present",
-        "email_subject": "Beautiful Name: Hada"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hada with meaning Gift, Present",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hada, associated with the Arabic form هدى, meaning guide, leader."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

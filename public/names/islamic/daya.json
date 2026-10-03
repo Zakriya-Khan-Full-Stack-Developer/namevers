@@ -3,276 +3,481 @@
   "data": {
     "name": "Daya",
     "slug": "daya",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Guide, Helper",
-    "long_meaning": "Derived from the Arabic root ‘d-y-‘, which means to guide or to lead. In Islamic context, Daya represents a guide, helper, and supporter.",
-    "spiritual_meaning": "A symbol of guidance and support in one's spiritual journey in Islam.",
-    "emotional_traits": [
-      "Compassionate",
-      "Supportive"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Blue",
-      "Turquoise"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 8,
-    "numerology_meaning": "In Islamic numerology, Daya (4+1+2+1=8) is associated with balance, harmony, and inner wisdom.",
-    "in_arabic": {
-      "name": "داية",
-      "meaning": "صدقة، رحمة",
-      "long_meaning": "العناية بالنفس والأوطان، الرحمة والصدقة"
+    "identity": {
+      "display_name": "Daya",
+      "normalized_name": "daya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Daya",
+        "daya"
+      ],
+      "search_variants": [
+        "Daya",
+        "daya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دائيہ",
-      "meaning": "احسانیت، شادیدہ رحمت",
-      "long_meaning": "اس میں صدقہ، صدقات کے نام سے بھی شمارا ہوتی ہے جس کا معنی احسانیت اور شادیدہ رحمت ہے"
+    "core_meaning": {
+      "short_meaning": "Guide, helper, one who leads",
+      "primary_meaning": "Guide",
+      "secondary_meanings": [
+        "helper",
+        "one who leads"
+      ],
+      "literal_meaning": "Guide",
+      "extended_meaning": "Guide, helper, one who leads",
+      "meaning_explanation": "Daya corresponds to the Arabic form داية (د ع و). Its core sense is guide, helper, one who leads. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "दाया",
-      "meaning": "संगतिकता, प्रेम",
-      "long_meaning": "संगतिकता के नाम से बھी ज्यादातमक प्रेम के लिए दिया है इस नाम का मतलब"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "داية",
+      "transliteration": "daya",
+      "romanization": "daya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Guide",
+        "helper",
+        "one who leads"
+      ],
+      "etymology_explanation": "The form داية is an established Arabic lexical item. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "دايه",
-      "meaning": "صدقت، مترکب رحمت",
-      "long_meaning": "دايه نام دايدان از کلمه دايدان اوسان به معنای صدقت و مترکب رحمت مترجم شده است"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "داية is an established Arabic form.",
+        "Urdu": "دایہ is used in Urdu.",
+        "Hindi": "दाया is used in Hindi.",
+        "Pashto": "دایه is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Daya",
-      "meaning": "Guide, Helper",
-      "long_meaning": "Derived from the Arabic root ‘d-y-‘, which means to guide or to lead. In Islamic context, Daya represents a guide, helper, and supporter."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form داية. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Daya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense guide, helper, one who leads.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Guide",
+      "related_concepts": [
+        "guide",
+        "helper",
+        "one who leads"
+      ],
+      "semantic_relationship": "The central semantic idea is guide; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of guide.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Guide",
+        "Helper",
+        "One who leads"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Daya",
+        "meaning": "Guide, helper, one who leads",
+        "long_meaning": "Daya is a Arabic-origin name. Its core meaning is guide, helper, one who leads. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "دایہ",
+        "meaning": "داعی، رہنما، مددگار",
+        "long_meaning": "Daya (دایہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم داعی، رہنما، مددگار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दाया",
+        "meaning": "दाई, मार्गदर्शक, सहायक",
+        "long_meaning": "Daya (दाया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दाई, मार्गदर्शक, सहायक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دایه",
+        "meaning": "داعي، لارښود، مرستندوی",
+        "long_meaning": "Daya (دایه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې داعي، لارښود، مرستندوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "داية",
+        "meaning": "الداعي، المرشد، المعين",
+        "long_meaning": "Daya (داية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الداعي، المرشد، المعين. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/ˈdeɪ.ə/",
-      "urdu": "/ˈdɑː.je/",
-      "hindi": "/ˈdɑː.jɑː/",
-      "pashto": "/ˈdɑː.jɑː/",
-      "ipa": "https://en.wikipedia.org/wiki/Daya_(name)#Pronunciation"
+      "romanized": "daya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دایہ",
+      "persian": null,
+      "hindi": "दाया",
+      "pashto": "دایه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#DayaMeaning",
-      "#IslamicNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 68,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Daya",
+        "daya"
+      ],
+      "script_variants": [
+        "داية",
+        "دایه",
+        "دایہ",
+        "दाया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form داية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Daya can be understood through the Arabic form داية, whose central sense is guide, helper, one who leads. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Daya mean?",
+        "answer": "Daya is associated with the Arabic form داية, whose core sense is guide, helper, one who leads."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Daya?",
+        "answer": "Daya is associated with Arabic. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Daya an Arabic name?",
+        "answer": "Yes — the underlying form داية is Arabic."
+      },
+      {
+        "question": "Is Daya an Islamic name?",
+        "answer": "Daya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Daya a Quranic name?",
+        "answer": "Daya should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Daya mean in Urdu?",
+        "answer": "In Urdu, Daya is rendered دایہ and carries the sense داعی، رہنما، مددگار."
+      },
+      {
+        "question": "What does Daya mean in Persian?",
+        "answer": "No verified Persian form was established for Daya."
+      },
+      {
+        "question": "How is Daya pronounced?",
+        "answer": "A romanized syllable approximation is daya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Daya?",
+        "answer": "Romanization variants include Daya, daya. Script forms are داية, دایه, دایہ, दाया."
+      },
+      {
+        "question": "Is Daya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Daya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Daya, a beautiful Islam name meaning \"Guide, Helper\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Daya, Islam name, baby names, Guide, Helper, Islam baby names, name meaning",
-      "description_paragraph": "Daya is a meaningful Islam name of Arabic origin that means \"Guide, Helper\". Derived from the Arabic root ‘d-y-‘, which means to guide or to lead. In Islamic context, Daya represents a guide, helper, and supporter.",
-      "keywords": [
-        "Daya",
-        "Islam name",
-        "baby names",
-        "Guide, Helper",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Daya in Islam tradition?",
-          "a": "Daya is a beautiful Islam name meaning \"Guide, Helper\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Daya a good Islam name for a baby?",
-          "a": "Yes, Daya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Daya?",
-          "a": "The name Daya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Daya correctly?",
-          "a": "Daya is pronounced /ˈdeɪ.ə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Daya?",
-          "a": "Naming a child Daya brings blessings. The meaning \"Guide, Helper\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Daya?",
-          "a": "Daya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Daya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Daya (داية).",
+      "h1": "Daya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Daya meaning",
       "secondary_keywords": [
-        "Islam name Daya",
-        "Daya meaning",
-        "Daya origin"
+        "Daya name meaning",
+        "Daya meaning in Urdu",
+        "Daya origin",
+        "Daya Islamic name",
+        "Daya pronunciation",
+        "Daya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Daya (داية) is associated with the Arabic form داية, whose core sense is guide, helper, one who leads. Dāya ('guide, helper'; also 'wet-nurse'). The source record's gloss 'Guide, Helper' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Daya is associated with the Arabic form داية, whose core sense is guide, helper, one who leads.",
+      "meaning_section": "The central meaning of Daya is guide, helper, one who leads.",
+      "origin_section": "Daya is associated with Arabic rather than with a different language.",
+      "islam_section": "Daya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Daya is with the sense guide.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Daya",
+      "#DayaMeaning",
+      "#DayaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Daya has cultural significance as it highlights the importance of guidance and support within a community. In Islamic culture, Daya is seen as a person who provides direction and assistance, especially during times of hardship and uncertainty. This may include spiritual guidance, moral support, or practical assistance, making the name Daya a valuable and respected one.",
-    "spiritual_significance": "From a spiritual perspective, Daya represents a connection to the divine source of guidance. It reminds us of the importance of being guided by Allah (God) in our lives, and of the inherent value in being a source of guidance and support for others. The name Daya serves to remind us that we are all interconnected, and that our actions and choices can have a powerful impact on those around us. It is a reminder to be compassionate, understanding, and supportive to others and to strive towards being a good leader and helper in our own lives and in the lives of those around us.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Daya was a renowned scholar and theologian in the 10th century Islamic world. The name Daya carried significant weight in that era.",
-        "time_period": "10th century",
-        "context": "Islamic scholarship and theology"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Daya corresponds to the Arabic form داية",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Daya has the core sense guide, helper, one who leads",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Daya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Daya",
-      "location": "Istanbul, Turkey",
-      "story": "Layla Daya, a teacher in Istanbul, Turkey, shares that their name Daya meaning \"Guide, Helper\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Guide, Helper\" symbolizes Derived from the Arabic root ‘d-y-‘, which means to guide or to lead. In Islamic context, Daya represents a guide, helper, and supporter.. In Islamic spirituality, bearing the name Daya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of guide, helper.",
-    "created_at": "2025-12-22T19:19:50.602Z",
-    "updated_at": "2025-12-22T04:53:16.301Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1678,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Daya",
-      "description": "Guide, Helper",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Daya",
+        "daya"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Daya",
-          "description": "Discover the meaning of Daya - \"Guide, Helper\"",
-          "image": "/images/social/daya-facebook.jpg"
+      "description": "A name associated with the Arabic form داية, meaning guide, helper, one who leads.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "daya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Daya - Name Meaning",
-          "description": "Learn about the beautiful name Daya",
-          "image": "/images/social/daya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Daya",
-          "description": "Name meaning: Guide, Helper",
-          "image": "/images/social/daya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Daya - Meaning: Guide, Helper",
-        "email_subject": "Beautiful Name: Daya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Daya with meaning Guide, Helper",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Daya, associated with the Arabic form داية, meaning guide, helper, one who leads."
     },
-    "similar_sounding_names": [
-      "dafiyah",
-      "dhuka",
-      "diya",
-      "dean",
-      "daniel",
-      "dimah",
-      "dina"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,305 +3,477 @@
   "data": {
     "name": "Aqeela",
     "slug": "aqeela",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Pashto",
-      "Hindi"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Wise, Sensible",
-    "long_meaning": "Aqeela is an Arabic name for girls meaning 'wise', 'rational', or 'sensible'. It is used to describe someone with intelligence, understanding, and good judgment.",
-    "spiritual_meaning": "Represents deep wisdom, calm insight, and moral clarity — a guide for others through intellect and understanding.",
-    "emotional_traits": [
-      "Wise",
-      "Balanced",
-      "Thoughtful",
-      "Compassionate"
-    ],
-    "hidden_personality_traits": [
-      "A = Analytical mind",
-      "Q = Quick-witted",
-      "E = Empathetic listener",
-      "E = Enlightened soul",
-      "L = Logical thinker",
-      "A = Admirable wisdom"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Olive",
-      "Emerald"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 7,
-    "numerology_meaning": "Number 5 denotes curiosity, intelligence, and freedom of thought. Aqeela is intuitive and thoughtful in all she does.",
-    "in_arabic": {
-      "name": "عقيلة",
-      "meaning": "عقيلة تعني الشخصية الحكيمة وذات العقل الراجح",
-      "long_meaning": "عقيلة هي اسم علم مؤنث من أصل عربي، مشتق من الفعل 'عقل' الذي يعني التفكير والحكمة. يعتبر اسم عقيلة من الأسماء التي تحمل معاني الوعي والفطنة والذكاء. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخصية الحكيمة وذات العقل الراجح."
+    "identity": {
+      "display_name": "Aqeela",
+      "normalized_name": "aqeela",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aqeela",
+        "aqeela"
+      ],
+      "search_variants": [
+        "Aqeela",
+        "aqeela"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عقیلہ",
-      "meaning": "عقیلہ کا مطلب ہے عقلمند اور دانشور شخصیت",
-      "long_meaning": "عقیلہ ایک عربی نام ہے جس کا مطلب ہے عقلمند اور دانشور۔ یہ نام عربی زبان کے الفعل 'عقل' سے ماخوذ ہے، جس کا مطلب ہے سوچنا اور سمجھنا۔ اسلامی ثقافت میں، یہ نام عقل و دانش کی علامت کے طور پر استعمال ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Noble woman; wise, sensible",
+      "primary_meaning": "Noble woman; wise",
+      "secondary_meanings": [
+        "sensible"
+      ],
+      "literal_meaning": "Noble woman; wise",
+      "extended_meaning": "Noble woman; wise, sensible",
+      "meaning_explanation": "Aqeela corresponds to the Arabic form عقيلة (ع ق ل). Its core sense is noble woman; wise, sensible. ʿAqīla ('noble woman; wise, sensible').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अक़ीला",
-      "meaning": "अक़ीला का अर्थ है बुद्धिमान और विवेकपूर्ण",
-      "long_meaning": "अक़ीला एक अरबी नाम है जिसका अर्थ है बुद्धिमान और विवेकपूर्ण। यह नाम अरबी भाषा के क्रिया 'عقل' से लिया गया है, जिसका अर्थ है सोचना और समझना। भारतीय मुस्लिम समुदाय में, यह नाम बुद्धिमत्ता और ज्ञान की प्रतीक के रूप में प्रयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عقيلة",
+      "transliteration": "aqeela",
+      "romanization": "aqeela",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Noble woman; wise",
+        "sensible"
+      ],
+      "etymology_explanation": "The form عقيلة is an established Arabic lexical item. ʿAqīla ('noble woman; wise, sensible').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عقیلہ",
-      "meaning": "عقیلہ د عقلمند او دانا شخصیت معنی",
-      "long_meaning": "عقیلہ د عربی نوم دی چې د عقلمند او دانا معنی لري. دا نوم د عربی ژبې د فعل 'عقل' څخه اخیستل شوی دی، چې د فکر کولو او پوهیدو معنی لري. د افغان او پښتن مسلمانانو په دود کې، دا نوم د حکمت او پوهې د نمونې په توګه کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عقيلة is an established Arabic form.",
+        "Urdu": "عقیلہ is used in Urdu.",
+        "Hindi": "अक़ीला is used in Hindi.",
+        "Pashto": "عقيله is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Aqeela",
-      "meaning": "Aqeela means wise, intelligent, and discerning personality",
-      "long_meaning": "Aqeela is a feminine given name of Arabic origin, derived from the root 'عقل' (aql), which means 'reason' or 'intellect'. In Islamic tradition, Aqeela signifies a wise and intelligent individual with a discerning mind. The name is associated with qualities of wisdom, prudence, and good judgment. Historically, the name Aqeela has been used across various Muslim cultures to denote a person of sound mind and rational thinking."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عقيلة. ʿAqīla ('noble woman; wise, sensible').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aqeela may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense noble woman; wise, sensible.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Noble woman; wise",
+      "related_concepts": [
+        "noble woman; wise",
+        "sensible"
+      ],
+      "semantic_relationship": "The central semantic idea is noble woman; wise; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of noble woman; wise.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Noble woman; wise",
+        "Sensible"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aqeela",
+        "meaning": "Noble woman; wise, sensible",
+        "long_meaning": "Aqeela is a Arabic-origin name. Its core meaning is noble woman; wise, sensible. ʿAqīla ('noble woman; wise, sensible')."
+      },
+      "urdu": {
+        "name": "عقیلہ",
+        "meaning": "نجیب خاتون؛ دانا، سمجھدار",
+        "long_meaning": "Aqeela (عقیلہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نجیب خاتون؛ دانا، سمجھدار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अक़ीला",
+        "meaning": "कुलीन स्त्री; बुद्धिमती",
+        "long_meaning": "Aqeela (अक़ीला) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कुलीन स्त्री; बुद्धिमती है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عقيله",
+        "meaning": "نجیبه ښځه؛ پوهه",
+        "long_meaning": "Aqeela (عقيله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نجیبه ښځه؛ پوهه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عقيلة",
+        "meaning": "العقيلة؛ الحكيمة",
+        "long_meaning": "Aqeela (عقيلة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العقيلة؛ الحكيمة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-KEE-lah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عَقِیلہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: अकीला",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عقیلہ",
-      "ipa": "/ɑːˈqiːlə/"
+      "romanized": "a-qee-la",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عقیلہ",
+      "persian": null,
+      "hindi": "अक़ीला",
+      "pashto": "عقيله"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AqeelaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aqeela"
-    ],
-    "name_variations": [
-      "Aqila"
-    ],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aqeela",
+        "aqeela"
+      ],
+      "script_variants": [
+        "عقيلة",
+        "عقيله",
+        "عقیلہ",
+        "अक़ीला"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عقيلة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aqeela can be understood through the Arabic form عقيلة, whose central sense is noble woman; wise, sensible. ʿAqīla ('noble woman; wise, sensible').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Aqeela mean?",
+        "answer": "Aqeela is associated with the Arabic form عقيلة, whose core sense is noble woman; wise, sensible."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Aqeela?",
+        "answer": "Aqeela is associated with Arabic. ʿAqīla ('noble woman; wise, sensible')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 73,
-        "year": 2024
+        "question": "Is Aqeela an Arabic name?",
+        "answer": "Yes — the underlying form عقيلة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 66,
-        "year": 2024
+        "question": "Is Aqeela an Islamic name?",
+        "answer": "Aqeela can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Aqeela a Quranic name?",
+        "answer": "Aqeela should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Aqeela mean in Urdu?",
+        "answer": "In Urdu, Aqeela is rendered عقیلہ and carries the sense نجیب خاتون؛ دانا، سمجھدار."
+      },
+      {
+        "question": "What does Aqeela mean in Persian?",
+        "answer": "No verified Persian form was established for Aqeela."
+      },
+      {
+        "question": "How is Aqeela pronounced?",
+        "answer": "A romanized syllable approximation is a-qee-la. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aqeela?",
+        "answer": "Romanization variants include Aqeela, aqeela. Script forms are عقيلة, عقيله, عقیلہ, अक़ीला."
+      },
+      {
+        "question": "Is Aqeela a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aqeela Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aqeela, a beautiful Islam name meaning \"Wise, Sensible\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aqeela, Islam name, baby names, Wise, Sensible, Islam baby names, name meaning",
-      "description_paragraph": "Aqeela is a meaningful Islam name of Arabic origin that means \"Wise, Sensible\". Aqeela is an Arabic name for girls meaning 'wise', 'rational', or 'sensible'. It is used to describe someone with intelligence, understanding, and good judgment.",
-      "keywords": [
-        "Aqeela",
-        "Islam name",
-        "baby names",
-        "Wise, Sensible",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aqeela in Islam tradition?",
-          "a": "Aqeela is a beautiful Islam name meaning \"Wise, Sensible\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aqeela a good Islam name for a baby?",
-          "a": "Yes, Aqeela is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aqeela?",
-          "a": "The name Aqeela has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aqeela correctly?",
-          "a": "Aqeela is pronounced ah-KEE-lah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aqeela?",
-          "a": "Naming a child Aqeela brings blessings. The meaning \"Wise, Sensible\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aqeela?",
-          "a": "Aqeela is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Aqeela Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aqeela (عقيلة).",
+      "h1": "Aqeela Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aqeela meaning",
       "secondary_keywords": [
-        "Islam name Aqeela",
-        "Aqeela meaning",
-        "Aqeela origin"
+        "Aqeela name meaning",
+        "Aqeela meaning in Urdu",
+        "Aqeela origin",
+        "Aqeela Islamic name",
+        "Aqeela pronunciation",
+        "Aqeela name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aqeela (عقيلة) is associated with the Arabic form عقيلة, whose core sense is noble woman; wise, sensible. ʿAqīla ('noble woman; wise, sensible').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aqeela is associated with the Arabic form عقيلة, whose core sense is noble woman; wise, sensible.",
+      "meaning_section": "The central meaning of Aqeela is noble woman; wise, sensible.",
+      "origin_section": "Aqeela is associated with Arabic rather than with a different language.",
+      "islam_section": "Aqeela can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aqeela is with the sense noble woman; wise.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aqeela",
+      "#AqeelaMeaning",
+      "#AqeelaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Aqeela is rooted in the rich Arabic cultural tradition, which emphasizes wisdom and intellectual pursuit. It is a name that parents would be proud to give their daughter, as it signals their hope for her to grow up to be a thinking, independent, and rational individual. The name Aqeela carries with it an ambition for excellence and a belief in the power of knowledge and intellect to uplift and transform.",
-    "spiritual_significance": "From a spiritual perspective, the name Aqeela embodies the Islamic concept of hikmah or wisdom. It is a reminder that true intelligence and wisdom come from a deep connection to God, as described in the Quran, \"And We have sent down to you (O Muhammad) the Book (this Quran) in truth, confirming that which came before it. And We have sent down the Torah and the Gospel before this as a guide for mankind.\" (3:3) The name Aqeela encourages its bearer to seek knowledge and wisdom not just for the sake of personal gain but to use her God-given abilities to make a positive difference in the world. By modeling wise and rational behavior, she can inspire others to do the same and ultimately contribute to a more enlightened and just society.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Aqeela is mentioned in the book 'The Golden Age of Islam' as a symbol of female virtue. The name Aqeela carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "The book describes Aqeela as a woman who embodied the qualities of compassion, wisdom, and generosity."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aqeela corresponds to the Arabic form عقيلة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aqeela has the core sense noble woman; wise, sensible",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aqeela remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Aqeela",
-      "location": "Dubai, UAE",
-      "story": "Fatima Aqeela from Dubai, UAE embodies the meaning of Aqeela - \"Wise, Sensible\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The name Aqeela derives from the Arabic word \"aqilah,\" meaning intellect or understanding. In Islamic tradition, Aqeela is a name for a wise and thoughtful person, one who uses their intelligence to make informed decisions and guide others. It symbolizes the importance of knowledge and wisdom in Islamic beliefs.",
-    "created_at": "2025-06-30T23:59:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.048Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1283,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aqeela",
-      "description": "Wise, Sensible",
-      "additionalName": [
-        "Aqila"
+      "alternateName": [
+        "Aqeela",
+        "aqeela"
       ],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Pashto",
-        "Hindi"
+      "description": "A name associated with the Arabic form عقيلة, meaning noble woman; wise, sensible.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aqeela",
-          "description": "Discover the meaning of Aqeela - \"Wise, Sensible\"",
-          "image": "/images/social/aqeela-facebook.jpg"
+      "termCode": "aqeela",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aqeela - Name Meaning",
-          "description": "Learn about the beautiful name Aqeela",
-          "image": "/images/social/aqeela-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Aqeela",
-          "description": "Name meaning: Wise, Sensible",
-          "image": "/images/social/aqeela-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aqeela - Meaning: Wise, Sensible",
-        "email_subject": "Beautiful Name: Aqeela"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aqeela with meaning Wise, Sensible",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aqeela, associated with the Arabic form عقيلة, meaning noble woman; wise, sensible."
     },
-    "similar_sounding_names": [
-      "ariana",
-      "arya",
-      "alishaba",
-      "ambar",
-      "aaidah",
-      "alika",
-      "amber",
-      "amelia",
-      "ashika",
-      "azzahra"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

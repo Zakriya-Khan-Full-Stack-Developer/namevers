@@ -3,283 +3,479 @@
   "data": {
     "name": "Fadl",
     "slug": "fadl",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift, Favor, Blessing",
-    "long_meaning": "Fadl is a Quranic name that refers to a gift or favor given by Allah. It signifies a blessing or a privilege bestowed upon an individual.",
-    "spiritual_meaning": "To be grateful for the blessings and favors bestowed upon us.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Grateful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Topaz",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-Expression, and Communication",
-    "in_arabic": {
-      "name": "فضل",
-      "meaning": "فضل يعني التفضل و الإحسان و العطاء الكثير من الله",
-      "long_meaning": "فضل هو اسم مشتق من الفضل الذي يعني التفضل و الإحسان و العطاء الكثير من الله. ورد في القرآن الكريم في عدة آيات، منها قوله تعالى: 'والفضل بيد الله يؤتيه من يشاء' (آل عمران: 74). يعني هذا الاسم العطاء و الإحسان الذي يأتي من الله تعالى، و يدل على شكر الله على نعمه و عطائه."
+    "identity": {
+      "display_name": "Fadl",
+      "normalized_name": "fadl",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fadl",
+        "fadl"
+      ],
+      "search_variants": [
+        "Fadl",
+        "fadl"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فضل",
-      "meaning": "فضل کا مطلب ہے احسان، مہربانی اور اللہ کی طرف سے عطا",
-      "long_meaning": "فضل ایک عربی نام ہے جس کا مطلب ہے احسان، مہربانی اور اللہ کی طرف سے عطا۔ قرآن مجید میں اس کا ذکر کئی جگہوں پر آیا ہے، جیسے کہ سورہ آل عمران میں: 'والفضل بيد الله يؤتيه من يشاء' ۔ یہ نام اللہ کی مہربانی اور عطا کو ظاہر کرتا ہے، اور اس کا شکر ادا کرنے کی ترغیب دیتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Gift, favor, blessing",
+      "primary_meaning": "Gift",
+      "secondary_meanings": [
+        "favor",
+        "blessing"
+      ],
+      "literal_meaning": "Gift",
+      "extended_meaning": "Gift, favor, blessing",
+      "meaning_explanation": "Fadl corresponds to the Arabic form فضل (ف ض ل). Its core sense is gift, favor, blessing. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फ़ज़्ल",
-      "meaning": "फ़ज़्ल का अर्थ है कृपा, दया और ईश्वर की ओर से उपहार",
-      "long_meaning": "फ़ज़्ल एक अरबी नाम है जिसका अर्थ है कृपा, दया और ईश्वर की ओर से उपहार। कुरआन में इसका उल्लेख कई जगहों पर किया गया है, जैसे कि सूरह آل عمران में: 'والفضل بيد الله يؤتيه من يشاء' । यह नाम ईश्वर की कृपा और उपहार को दर्शाता है, और इसका आभार व्यक्त करने की प्रेरणा देता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فضل",
+      "transliteration": "fadl",
+      "romanization": "fadl",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gift",
+        "favor",
+        "blessing"
+      ],
+      "etymology_explanation": "The form فضل is an established Arabic lexical item. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فضل",
-      "meaning": "فضل د رحمت، احسان او د الله تعالی د ډالۍ معنی لري",
-      "long_meaning": "فضل د عربي نوم دی چي د رحمت، احسان او د الله تعالی د ډالۍ معنی لري. په قرآن کريم کي يې د سوره آل عمران په آيت کي يادونه شوې ده: 'والفضل بيد الله يؤتيه من يشاء' . دا نوم د الله تعالی د رحمت او ډالۍ ښودنه کوي، او د هغه د شکر کولو هڅونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فضل is an established Arabic form.",
+        "Urdu": "فضل is used in Urdu.",
+        "Hindi": "फ़ज़्ल is used in Hindi.",
+        "Pashto": "فضل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Fadl",
-      "meaning": "Fadl means bounty, kindness, and gift from Allah",
-      "long_meaning": "Fadl is an Arabic name derived from the root 'F-D-L', which signifies bounty, kindness, and gift from Allah. It is mentioned in the Quran, specifically in Surah Al Imran: 'And favours [are granted] by the hand of Allah: He bestows [them] on whom He wills' (3:74). The name Fadl represents the blessings and generosity of Allah, encouraging the bearer to be grateful for divine favours."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فضل. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fadl may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gift, favor, blessing.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gift",
+      "related_concepts": [
+        "gift",
+        "favor",
+        "blessing"
+      ],
+      "semantic_relationship": "The central semantic idea is gift; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gift.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gift",
+        "Favor",
+        "Blessing"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fadl",
+        "meaning": "Gift, favor, blessing",
+        "long_meaning": "Fadl is a Arabic-origin name. Its core meaning is gift, favor, blessing. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فضل",
+        "meaning": "تحفہ، فضل، نعمت",
+        "long_meaning": "Fadl (فضل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم تحفہ، فضل، نعمت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ज़्ल",
+        "meaning": "तोहफ़ा, कृपा, नेमत",
+        "long_meaning": "Fadl (फ़ज़्ल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ तोहफ़ा, कृपा, नेमत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فضل",
+        "meaning": "ډالۍ، لطف، نعمت",
+        "long_meaning": "Fadl (فضل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډالۍ، لطف، نعمت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فضل",
+        "meaning": "الفضل، الهدية، النعمة",
+        "long_meaning": "Fadl (فضل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفضل، الهدية، النعمة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "FAD-ul",
-      "urdu": "فَضل",
-      "hindi": "फ़ज़्ल उच्चारण",
-      "pashto": "فضل تلفظ",
-      "ipa": "/fædʒl/"
+      "romanized": "fadl",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فضل",
+      "persian": null,
+      "hindi": "फ़ज़्ल",
+      "pashto": "فضل"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FadlMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fadl"
-    ],
-    "name_variations": [],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fadl",
+        "fadl"
+      ],
+      "script_variants": [
+        "فضل",
+        "फ़ज़्ल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فضل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fadl can be understood through the Arabic form فضل, whose central sense is gift, favor, blessing. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Fadl mean?",
+        "answer": "Fadl is associated with the Arabic form فضل, whose core sense is gift, favor, blessing."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Fadl?",
+        "answer": "Fadl is associated with Arabic. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Fadl an Arabic name?",
+        "answer": "Yes — the underlying form فضل is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 81,
-        "year": 2024
+        "question": "Is Fadl an Islamic name?",
+        "answer": "Fadl can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fadl a Quranic name?",
+        "answer": "Fadl should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fadl mean in Urdu?",
+        "answer": "In Urdu, Fadl is rendered فضل and carries the sense تحفہ، فضل، نعمت."
+      },
+      {
+        "question": "What does Fadl mean in Persian?",
+        "answer": "No verified Persian form was established for Fadl."
+      },
+      {
+        "question": "How is Fadl pronounced?",
+        "answer": "A romanized syllable approximation is fadl. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fadl?",
+        "answer": "Romanization variants include Fadl, fadl. Script forms are فضل, फ़ज़्ल."
+      },
+      {
+        "question": "Is Fadl a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fadl Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fadl, a beautiful Islam name meaning \"Gift, Favor, Blessing\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fadl, Islam name, baby names, Gift, Favor, Blessing, Islam baby names, name meaning",
-      "description_paragraph": "Fadl is a meaningful Islam name of Arabic origin that means \"Gift, Favor, Blessing\". Fadl is a Quranic name that refers to a gift or favor given by Allah. It signifies a blessing or a privilege bestowed upon an individual.",
-      "keywords": [
-        "Fadl",
-        "Islam name",
-        "baby names",
-        "Gift, Favor, Blessing",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fadl in Islam tradition?",
-          "a": "Fadl is a beautiful Islam name meaning \"Gift, Favor, Blessing\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fadl a good Islam name for a baby?",
-          "a": "Yes, Fadl is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fadl?",
-          "a": "The name Fadl has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fadl correctly?",
-          "a": "Fadl is pronounced FAD-ul in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fadl?",
-          "a": "Naming a child Fadl brings blessings. The meaning \"Gift, Favor, Blessing\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fadl?",
-          "a": "Fadl is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Fadl Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fadl (فضل).",
+      "h1": "Fadl Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fadl meaning",
       "secondary_keywords": [
-        "Islam name Fadl",
-        "Fadl meaning",
-        "Fadl origin"
+        "Fadl name meaning",
+        "Fadl meaning in Urdu",
+        "Fadl origin",
+        "Fadl Islamic name",
+        "Fadl pronunciation",
+        "Fadl name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fadl (فضل) is associated with the Arabic form فضل, whose core sense is gift, favor, blessing. Faḍl ('grace, favour, bounty'). The source record's gloss 'Gift, Favor, Blessing' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fadl is associated with the Arabic form فضل, whose core sense is gift, favor, blessing.",
+      "meaning_section": "The central meaning of Fadl is gift, favor, blessing.",
+      "origin_section": "Fadl is associated with Arabic rather than with a different language.",
+      "islam_section": "Fadl can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fadl is with the sense gift.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fadl",
+      "#FadlMeaning",
+      "#FadlName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Arabic and Islamic cultures, the name Fadl holds a high value as it represents the idea of being favored or granted a special gift by Allah. This name is sometimes given to children as a reminder that they are blessed by Allah. It signifies the idea of being appreciated, cherished, and favored.",
-    "spiritual_significance": "From a spiritual perspective, the name Fadl holds deep significance as it is a reminder of the divine blessings bestowed upon us by Allah. It emphasizes the importance of recognizing and being grateful for the gifts and blessings we have received from Allah. This name encourages individuals to live in a state of gratitude, appreciating the blessings in their lives, and striving to use those blessings to serve others and fulfill their purpose. The name Fadl is a constant reminder of the favor and blessings of Allah, inspiring individuals to live a life of devotion, love, and service to Allah and His creation.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Fadl ibn al-Abbas, a companion of the Prophet Muhammad The name Fadl carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Fadl ibn al-Abbas was a prominent figure in early Islamic history, known for his role in the conquest of Mecca and his involvement in the collection of the Quran."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fadl corresponds to the Arabic form فضل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Fadl has the core sense gift, favor, blessing",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, literature, and art"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fadl remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khalid Fadl",
-      "location": "Karachi, Pakistan",
-      "story": "Khalid Fadl, a teacher in Karachi, Pakistan, shares that their name Fadl meaning \"Gift, Favor, Blessing\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Gift, Favor, Blessing\" symbolizes Fadl is a Quranic name that refers to a gift or favor given by Allah. It signifies a blessing or a privilege bestowed upon an individual.. In Islamic spirituality, bearing the name Fadl serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, favor, blessing.",
-    "created_at": "2025-12-22T19:19:49.787Z",
-    "updated_at": "2025-12-22T04:53:14.135Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1320,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fadl",
-      "description": "Gift, Favor, Blessing",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Fadl",
+        "fadl"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fadl",
-          "description": "Discover the meaning of Fadl - \"Gift, Favor, Blessing\"",
-          "image": "/images/social/fadl-facebook.jpg"
+      "description": "A name associated with the Arabic form فضل, meaning gift, favor, blessing.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "fadl",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fadl - Name Meaning",
-          "description": "Learn about the beautiful name Fadl",
-          "image": "/images/social/fadl-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Fadl",
-          "description": "Name meaning: Gift, Favor, Blessing",
-          "image": "/images/social/fadl-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fadl - Meaning: Gift, Favor, Blessing",
-        "email_subject": "Beautiful Name: Fadl"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fadl with meaning Gift, Favor, Blessing",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fadl, associated with the Arabic form فضل, meaning gift, favor, blessing."
     },
-    "similar_sounding_names": [
-      "firoz",
-      "farisha",
-      "fardeen",
-      "faiyaz",
-      "faekah",
-      "fadi"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

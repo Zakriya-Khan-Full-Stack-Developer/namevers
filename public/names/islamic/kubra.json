@@ -3,290 +3,478 @@
   "data": {
     "name": "Kubra",
     "slug": "kubra",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Great, honorable, noble",
-    "long_meaning": "Derived from the Arabic word 'kabarah' meaning great, honorable, noble.",
-    "spiritual_meaning": "Not applicable",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "Compassionate",
-      "Wise",
-      "Intuitive"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Turquoise",
-      "Gold"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 2,
-    "numerology_meaning": "Indicates balance and harmony",
-    "in_arabic": {
-      "name": "كُبْرَاء",
-      "meaning": "معنى الكُبْرَاء: الكُبْرَاء هي الأَكْبَر من الأَسماء الَّتي يُضاف إليها الَّتي يُطلق على المَنزِلَة الَّتي تَتَمَتَّع بِها المُؤمِنَةُ المُؤمِنُ في الدُّنيا",
-      "long_meaning": "كُبْرَاء: الكُبْرَاء هي الأَكْبَر من الأَسماء الَّتي يُضاف إليها الَّتي يُطلق على المَنزِلَة الَّتي تَتَمَتَّع بِها المُؤمِنَةُ المُؤمِنُ في الدُّنيا، وَهِيَ أَيضاً أَكْبَرُ مِنَ الطَاعَةِ وَالتَصديقِ، وَهِيَ مِنَ الأَسماءِ الَّتي يُطلق عليها المُؤمِنُ المُؤمِنَةُ أَيمانَهُما، وَهِيَ كَما قِيلَ: المُؤمِنُ المُؤمِنَةُ يُطلقانِ عَلَيها هَذِهِ الأَسماءَ بِتَعظيمٍ وَحَرَمَةٍ، وَهِيَ لِأَنَّها تُشيرُ إِلى طَاعَةِ اللهِ وَتَصديقِهِ، وَهُوَ أَعزَمُ الأَسماءِ الَّتي يُطلق عليها المُؤمِنُ المُؤمِنَةُ، وَهِيَ مِنَ الأَسماءِ الَّتي يُجَرِّدُها المُؤمِنُ المُؤمِنَةُ وَهِيَ مِنَ الأَسماءِ الَّتي يُستَخدمُها المُؤمِنُ المُؤمِنَةُ لِتَعبيرِ عَنِ الطَاعَةِ وَالتَصديقِ"
+    "identity": {
+      "display_name": "Kubra",
+      "normalized_name": "kubra",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kubra",
+        "kubra"
+      ],
+      "search_variants": [
+        "Kubra",
+        "kubra"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کُبْراء",
-      "meaning": "کُبْراء کا مطلب ہے: کُبْراء وہ اچھی خاصیت ہے جو اللہ تعالیٰ نے اپنے بندوں پر فضل سے عطا کی ہے",
-      "long_meaning": "کُبْراء: کُبْراء وہ اچھی خاصیت ہے جو اللہ تعالیٰ نے اپنے بندوں پر فضل سے عطا کی ہے، اور یہ اچھی خاصیت وہ ہے جو اللہ تعالیٰ کی رضا مند ہے، اور اللہ تعالیٰ کی رضا مند ہے وہی ہے جو اللہ تعالیٰ کے حب میں ہے، اور اللہ تعالیٰ کے حب میں ہے وہی ہے جو اللہ تعالیٰ کی فراموشی سے بچتا ہے، اور اللہ تعالیٰ کی فراموشی سے بچتا ہے وہی ہے جو اللہ تعالیٰ کی محبت میں ہے، اور اللہ تعالیٰ کی محبت میں ہے وہی ہے جو اللہ تعالیٰ کے ذکر میں ہے، اور اللہ تعالیٰ کے ذکر میں ہے وہی ہے جو اللہ تعالیٰ کی رضا مند ہے"
+    "core_meaning": {
+      "short_meaning": "Great, noble (feminine)",
+      "primary_meaning": "Great",
+      "secondary_meanings": [
+        "noble (feminine)"
+      ],
+      "literal_meaning": "Great",
+      "extended_meaning": "Great, noble (feminine)",
+      "meaning_explanation": "Kubra corresponds to the Arabic form كبرى (Arabic root ك ب ر (k-b-r); كُبْرَى (Kubrā)). Its core sense is great, noble (feminine). Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "कुबरा",
-      "meaning": "कुबरा का अर्थ है: कुबरा वह अच्छाई है जो अल्लाह ने अपने बन्दों पर फ़जल से दी है,",
-      "long_meaning": "कुबरा : कुबरा वह अच्छाई है जो अल्लाह ने अपने बन्दों पर फ़जल से दी है, और यह अच्छाई वह है जो अल्लाह की रज़ा में है, और अल्लाह की रज़ा में है वही है जो अल्लाह के प्यार में है, और अल्लाह के प्यार में है वही है जो अल्लाह की भूल से बचता है, और अल्लाह की भूल से बचता है वही है जो अल्लाह के शब्दों में है, और अल्लाह के शब्दों में है वही है जो अल्लाह की रज़ा में है, और अल्लाह की रज़ा में है वही है जो अल्लाह के प्यार में है, और अल्लाह के प्यार में है वही है जो अल्लाह के शब्दों में है, और अल्लाह के शब्दों में है वही है जो अल्लाह की रज़ा में है,"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "كبرى",
+      "transliteration": "kubra",
+      "romanization": "kubra",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Great",
+        "noble (feminine)"
+      ],
+      "etymology_explanation": "The form كبرى is an established Arabic lexical item. Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "کُبړاء",
-      "meaning": "کُبړاء دا مانا: کُبړاء دا مانا ځانګړی پېچيده پوهنه ده چې الله تعالیٰ په خپلو خلکو باندې فضل سره ورکوي.",
-      "long_meaning": "کُبړاء: دا کُبړاء پوهنه الله تعالیٰ په خپلو خلکو باندې فضل سره ورکوي، او دا کُبړاء پوهنه الله تعالیٰ ته تابع دی، او الله تعالیٰ ته تابع دی چې هغه د خپل بندو ته د فضل ورکوي، او هغه د خپل بندو ته د فضل ورکوي چې هغه ته پوهنه ورکوي چې الله تعالیٰ ته ځانګړی وي، او الله تعالیٰ ته ځانګړی وي چې هغه ته د فضل ورکوي، او الله تعالیٰ ته د فضل ورکوي چې هغه ته پوهنه ورکوي چې الله تعالیٰ ته ځانګړی وي، او الله تعالیٰ ته ځانړی وي چې هغه ته د فضل ورکوي، او الله تعالیٰ ته د فضل ورکوي چې هغه ته پوهنه ورکوي چې الله تعالیٰ ته ځانګړی وي،"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "كبرى is an established Arabic form.",
+        "Urdu": "کبری is used in Urdu.",
+        "Persian": "کبری is an established Persian form.",
+        "Hindi": "कुबरा is used in Hindi.",
+        "Pashto": "کبری is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kubra",
-      "meaning": "Kubra means the greatest of the names that are added to the one who is pleased with Allah and His Messenger.",
-      "long_meaning": "Kubra is the greatest of the names that are added to the one who is pleased with Allah and His Messenger. It is the name that refers to the highest level of compliance and acceptance of Allah's will, and it is the name that is used to describe the one who is completely devoted to Allah and His Messenger. The name Kubra is derived from the Arabic root k-b-r, which means to be great or excellent. In Islamic tradition, the name Kubra is considered to be one of the most beautiful and meaningful names, and it is often used to describe the Prophet Muhammad (peace be upon him) and his companions. The name Kubra is also associated with the concept of taqwa, which means to be conscious of Allah and to strive to please Him. In modern times, the name Kubra has been used in various contexts, including as a given name for girls and as a term to describe someone who is highly respected and admired."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form كبرى. Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kubra may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense great, noble (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Great",
+      "related_concepts": [
+        "great",
+        "noble (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is great; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of great.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Great",
+        "Noble (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kubra",
+        "meaning": "Great, noble (feminine)",
+        "long_meaning": "Kubra is a Arabic-origin name. Its core meaning is great, noble (feminine). Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya."
+      },
+      "urdu": {
+        "name": "کبری",
+        "meaning": "کبری، بڑی، عظیم (مؤنث)",
+        "long_meaning": "Kubra (کبری) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کبری، بڑی، عظیم (مؤنث) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کبری",
+        "meaning": "کبری، بزرگ (مؤنث)",
+        "long_meaning": "Kubra (کبری) نامی برگرفته از زبان عربی است و معنای اصلی آن کبری، بزرگ (مؤنث) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "कुबरा",
+        "meaning": "कुबरा, महान (स्त्री)",
+        "long_meaning": "Kubra (कुबरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कुबरा, महान (स्त्री) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کبری",
+        "meaning": "کبری، لویه، عظیمه",
+        "long_meaning": "Kubra (کبری) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کبری، لویه، عظیمه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "كبرى",
+        "meaning": "الكبرى، العظيمة، الجليلة",
+        "long_meaning": "Kubra (كبرى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الكبرى، العظيمة، الجليلة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "kuh-BRAH",
-      "urdu": "کُبړاء کا تلفظ",
-      "hindi": "कुबरा का उच्चारण",
-      "pashto": "کُبړاء دا تلفظ",
-      "ipa": "/kuːbrɑː/"
+      "romanized": "kub-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کبری",
+      "persian": "کبری",
+      "hindi": "कुबरा",
+      "pashto": "کبری"
     },
-    "celebrity_usage": [
-      "Kubra Sait",
-      "Kubra Khan"
-    ],
-    "social_tags": [
-      "#KubraMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kubra"
-    ],
-    "name_variations": [
-      "Kubrah"
-    ],
-    "popularity_score": 74,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kubra",
+        "kubra"
+      ],
+      "script_variants": [
+        "كبرى",
+        "کبری",
+        "कुबरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form كبرى is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kubra can be understood through the Arabic form كبرى, whose central sense is great, noble (feminine). Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Kubra mean?",
+        "answer": "Kubra is associated with the Arabic form كبرى, whose core sense is great, noble (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Kubra?",
+        "answer": "Kubra is associated with Arabic. Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Kubra an Arabic name?",
+        "answer": "Yes — the underlying form كبرى is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 68,
-        "year": 2024
+        "question": "Is Kubra an Islamic name?",
+        "answer": "Kubra can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Kubra a Quranic name?",
+        "answer": "Kubra should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kubra mean in Urdu?",
+        "answer": "In Urdu, Kubra is rendered کبری and carries the sense کبری، بڑی، عظیم (مؤنث)."
+      },
+      {
+        "question": "What does Kubra mean in Persian?",
+        "answer": "In Persian, Kubra is rendered کبری and carries the sense کبری، بزرگ (مؤنث)."
+      },
+      {
+        "question": "How is Kubra pronounced?",
+        "answer": "A romanized syllable approximation is kub-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kubra?",
+        "answer": "Romanization variants include Kubra, kubra. Script forms are كبرى, کبری, कुबरा."
+      },
+      {
+        "question": "Is Kubra a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kubra Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kubra, a beautiful Islam name meaning \"Great, honorable, noble\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kubra, Islam name, baby names, Great, honorable, noble, Islam baby names, name meaning",
-      "description_paragraph": "Kubra is a meaningful Islam name of Arabic origin that means \"Great, honorable, noble\". Derived from the Arabic word 'kabarah' meaning great, honorable, noble.",
-      "keywords": [
-        "Kubra",
-        "Islam name",
-        "baby names",
-        "Great, honorable, noble",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kubra in Islam tradition?",
-          "a": "Kubra is a beautiful Islam name meaning \"Great, honorable, noble\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kubra a good Islam name for a baby?",
-          "a": "Yes, Kubra is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kubra?",
-          "a": "The name Kubra has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kubra correctly?",
-          "a": "Kubra is pronounced kuh-BRAH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kubra?",
-          "a": "Naming a child Kubra brings blessings. The meaning \"Great, honorable, noble\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kubra?",
-          "a": "Kubra is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Kubra Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kubra (كبرى).",
+      "h1": "Kubra Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kubra meaning",
       "secondary_keywords": [
-        "Islam name Kubra",
-        "Kubra meaning",
-        "Kubra origin"
+        "Kubra name meaning",
+        "Kubra meaning in Urdu",
+        "Kubra origin",
+        "Kubra Islamic name",
+        "Kubra pronunciation",
+        "Kubra name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kubra (كبرى) is associated with the Arabic form كبرى, whose core sense is great, noble (feminine). Kubra is Arabic كُبْرَى (Kubrā) 'great, noble' (feminine), from the root ك ب ر (k-b-r). The source gloss 'Great, honorable, noble' is consistent. Same name as kibria and kibriya.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kubra is associated with the Arabic form كبرى, whose core sense is great, noble (feminine).",
+      "meaning_section": "The central meaning of Kubra is great, noble (feminine).",
+      "origin_section": "Kubra is associated with Arabic rather than with a different language.",
+      "islam_section": "Kubra can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kubra is with the sense great.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kubra",
+      "#KubraMeaning",
+      "#KubraName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Kubra\" holds significant cultural importance within the Islamic world, as it is often given to children who are considered to be born into a noble or prestigious family, or those who are expected to achieve great things in their lives. The name serves as a reminder of the inherent worth and potential inherent within every individual, and encourages them to strive for greatness and excellence in their personal and professional endeavors.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Kubra\" is also considered to be a reminder of the limitless greatness and power of Allah, the Creator of the universe. It serves as a constant reminder of the need to recognize and submit to the greater power and wisdom of God, and to focus on living a life of service and devotion to Him. The name also serves as a reminder of the potential for great spiritual growth and transformation within each individual, as they seek to deepen their connection with Allah and strive for excellence in their faith and character. Ultimately, the name \"Kubra\" serves as a source of inspiration and motivation for individuals to reach for the highest reaches of personal and spiritual growth, and to continually seek to honor and serve Allah with greatness and nobility.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Kubra carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kubra corresponds to the Arabic form كبرى",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kubra has the core sense great, noble (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kubra remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Kubra",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Fatima Kubra in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Kubra, which means \"Great, honorable, noble\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Great, honorable, noble\" symbolizes Derived from the Arabic word 'kabarah' meaning great, honorable, noble.. In Islamic spirituality, bearing the name Kubra serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of great, honorable, noble.",
-    "created_at": "2025-12-22T19:19:49.859Z",
-    "updated_at": "2025-12-22T04:53:14.985Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1748,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kubra",
-      "description": "Great, honorable, noble",
-      "additionalName": [
-        "Kubrah"
+      "alternateName": [
+        "Kubra",
+        "kubra"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form كبرى, meaning great, noble (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kubra",
-          "description": "Discover the meaning of Kubra - \"Great, honorable, noble\"",
-          "image": "/images/social/kubra-facebook.jpg"
+      "termCode": "kubra",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kubra - Name Meaning",
-          "description": "Learn about the beautiful name Kubra",
-          "image": "/images/social/kubra-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Kubra",
-          "description": "Name meaning: Great, honorable, noble",
-          "image": "/images/social/kubra-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kubra - Meaning: Great, honorable, noble",
-        "email_subject": "Beautiful Name: Kubra"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kubra with meaning Great, honorable, noble",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kubra, associated with the Arabic form كبرى, meaning great, noble (feminine)."
     },
-    "similar_sounding_names": [
-      "kashish",
-      "kabir",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

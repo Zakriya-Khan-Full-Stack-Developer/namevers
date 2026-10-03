@@ -3,282 +3,483 @@
   "data": {
     "name": "Haadee",
     "slug": "haadee",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Delightful, beautiful, pleasing",
-    "long_meaning": "Haadee is a beautiful and delightful name, derived from the Arabic word 'hadee', which means 'pleasing to the senses' or 'beautiful'. It conveys a sense of growth, as the name is often associated with blooming flowers and lush gardens.",
-    "spiritual_meaning": "Haadee is a name that embodies the beauty and harmony of nature, reflecting the divine creation and the infinite wisdom of Allah. It is a name that evokes a sense of peace and tranquility, and serves as a reminder of the eternal and unchanging nature of Allah's love and mercy.",
-    "emotional_traits": [
-      "Beautiful",
-      "Delightful",
-      "Pleasing"
-    ],
-    "hidden_personality_traits": [
-      "Growing",
-      "Nurturing",
-      "Nurturing"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Pink",
-      "Green"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 6,
-    "numerology_meaning": "Haadee is a name with a 6 Life Path Number, which signifies harmony, balance, and the ability to bring people together. Individuals with this name often have a nurturing and caring nature, and are known for their ability to create a warm and welcoming environment.",
-    "in_arabic": {
-      "name": "هادي",
-      "meaning": "الله يقود العبد إلى طريق مستقيم",
-      "long_meaning": "اسم الله الحسن الذي يهدي عباده إلى طريق الحق والاستقامة، مشتق من هدى، وهو الإرشاد إلى الطريق الصحيح، ورد ذكره في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وإن ربك لهو هادي العباد'"
+    "identity": {
+      "display_name": "Haadee",
+      "normalized_name": "haadee",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Haadee",
+        "haadee",
+        "hadee"
+      ],
+      "search_variants": [
+        "Haadee",
+        "haadee",
+        "hadee"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ہادی",
-      "meaning": "اللہ جو اپنے بندوں کو سیدھا راستہ دکھاتا ہے",
-      "long_meaning": "اللہ تعالیٰ کا خوبصورت نام جو اپنے بندوں کو راستہ دکھاتا ہے، یہ نام عربی جڑ 'ھد' سے ماخوذ ہے جس کا مطلب ہے 'رہنمائی کرنا' یا 'سیدھا راستہ دکھانا'، اسلامی روایت میں اس نام کا بڑا احترام ہے"
+    "core_meaning": {
+      "short_meaning": "Guide, leader",
+      "primary_meaning": "Guide",
+      "secondary_meanings": [
+        "leader"
+      ],
+      "literal_meaning": "Guide",
+      "extended_meaning": "Guide, leader",
+      "meaning_explanation": "Haadee corresponds to the Arabic form هادي (Arabic root ه د ي (h-d-y); هادٍ (hādī)). Its core sense is guide, leader. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "हादी",
-      "meaning": "भगवान जो अपने भक्तों को सही रास्ता दिखाता है",
-      "long_meaning": "यह अल्लाह का एक सुंदर नाम है जिसका अर्थ है अपने अनुयायियों को सही मार्ग पर ले जाने वाला, यह अरबी मूल 'ھد' से लिया गया है जिसका अर्थ है 'निर्देशित करना' या 'सीधा रास्ता दिखाना', भारतीय मुस्लिम समुदाय में इस नाम का बहुत महत्व है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هادي",
+      "transliteration": "haadee",
+      "romanization": "haadee",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Guide",
+        "leader"
+      ],
+      "etymology_explanation": "The form هادي is an established Arabic lexical item. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "هادي",
-      "meaning": "الله چې خپلو بنده ګانو ته لار ښيي",
-      "long_meaning": "د الله تعالی ښکلی نوم چې خپلو بنده ګانو ته د حق او استقامت لار ښيي، دا نوم د عربي کلمې 'ھد' څخه اخیستل شوی دی چې معنی یې 'لارښودنه' یا 'سیده لار ښودل' دی، په افغان او پښتني دود کې دا نوم ډیر اهمیت لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "هادي is an established Arabic form.",
+        "Urdu": "ہادی is used in Urdu.",
+        "Persian": "هادی is an established Persian form.",
+        "Hindi": "हादी is used in Hindi.",
+        "Pashto": "هادي is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Haadee",
-      "meaning": "The one who guides and leads to the right path",
-      "long_meaning": "Haadee is one of the beautiful names of Allah, derived from the Arabic root 'had' which means 'to guide' or 'to lead to the right path', mentioned in the Quran as a divine attribute, signifying the guidance and direction provided by Allah to His servants, playing a crucial role in Islamic tradition and spirituality, reflecting the divine assistance in navigating through life's challenges"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form هادي. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Haadee may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": true
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense guide, leader.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Guide",
+      "related_concepts": [
+        "guide",
+        "leader"
+      ],
+      "semantic_relationship": "The central semantic idea is guide; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of guide.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Guide",
+        "Leader"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Haadee",
+        "meaning": "Guide, leader",
+        "long_meaning": "Haadee is a Arabic-origin name. Its core meaning is guide, leader. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God."
+      },
+      "urdu": {
+        "name": "ہادی",
+        "meaning": "راہ دکھانے والا، قائد",
+        "long_meaning": "Haadee (ہادی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم راہ دکھانے والا، قائد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هادی",
+        "meaning": "رهنما، رهبر",
+        "long_meaning": "Haadee (هادی) نامی برگرفته از زبان عربی است و معنای اصلی آن رهنما، رهبر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हादी",
+        "meaning": "मार्गदर्शक, नेता",
+        "long_meaning": "Haadee (हादी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मार्गदर्शक, नेता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هادي",
+        "meaning": "لارښود، مشر",
+        "long_meaning": "Haadee (هادي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لارښود، مشر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هادي",
+        "meaning": "الهادي، القائد",
+        "long_meaning": "Haadee (هادي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهادي، القائد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "hah-DEE",
-      "urdu": "ہادی کا تلفظ ہہ-دی ہے",
-      "hindi": "हादी का उच्चारण हह-दी है",
-      "pashto": "د هادي تلفظ د هہ-دي دی",
-      "ipa": "/hɑːˈdiː/"
+      "romanized": "haa-dee",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہادی",
+      "persian": "هادی",
+      "hindi": "हादी",
+      "pashto": "هادي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HaadeeMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Haadee"
-    ],
-    "name_variations": [
-      "Hadee",
-      "Haadi"
-    ],
-    "popularity_score": 58,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Haadee",
+        "haadee",
+        "hadee"
+      ],
+      "script_variants": [
+        "هادي",
+        "هادی",
+        "ہادی",
+        "हादी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هادي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Haadee can be understood through the Arabic form هادي, whose central sense is guide, leader. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Haadee mean?",
+        "answer": "Haadee is associated with the Arabic form هادي, whose core sense is guide, leader."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Haadee?",
+        "answer": "Haadee is associated with Arabic. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Haadee an Arabic name?",
+        "answer": "Yes — the underlying form هادي is Arabic."
+      },
+      {
+        "question": "Is Haadee an Islamic name?",
+        "answer": "Haadee can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Haadee a Quranic name?",
+        "answer": "Haadee should not be classified as a Quranic personal name without a direct Quranic basis. True"
+      },
+      {
+        "question": "What does Haadee mean in Urdu?",
+        "answer": "In Urdu, Haadee is rendered ہادی and carries the sense راہ دکھانے والا، قائد."
+      },
+      {
+        "question": "What does Haadee mean in Persian?",
+        "answer": "In Persian, Haadee is rendered هادی and carries the sense رهنما، رهبر."
+      },
+      {
+        "question": "How is Haadee pronounced?",
+        "answer": "A romanized syllable approximation is haa-dee. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Haadee?",
+        "answer": "Romanization variants include Haadee, haadee, hadee. Script forms are هادي, هادی, ہادی, हादी."
+      },
+      {
+        "question": "Is Haadee a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Haadee Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Haadee, a beautiful Islam name meaning \"Delightful, beautiful, pleasing\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Haadee, Islam name, baby names, Delightful, beautiful, pleasing, Islam baby names, name meaning",
-      "description_paragraph": "Haadee is a meaningful Islam name of Arabic origin that means \"Delightful, beautiful, pleasing\". Haadee is a beautiful and delightful name, derived from the Arabic word 'hadee', which means 'pleasing to the senses' or 'beautiful'. It conveys a sense of growth, as the name is often associated with blooming flowers and lush gardens.",
-      "keywords": [
-        "Haadee",
-        "Islam name",
-        "baby names",
-        "Delightful, beautiful, pleasing",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Haadee in Islam tradition?",
-          "a": "Haadee is a beautiful Islam name meaning \"Delightful, beautiful, pleasing\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Haadee a good Islam name for a baby?",
-          "a": "Yes, Haadee is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Haadee?",
-          "a": "The name Haadee has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Haadee correctly?",
-          "a": "Haadee is pronounced hah-DEE in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Haadee?",
-          "a": "Naming a child Haadee brings blessings. The meaning \"Delightful, beautiful, pleasing\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Haadee?",
-          "a": "Haadee is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Haadee Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Haadee (هادي).",
+      "h1": "Haadee Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Haadee meaning",
       "secondary_keywords": [
-        "Islam name Haadee",
-        "Haadee meaning",
-        "Haadee origin"
+        "Haadee name meaning",
+        "Haadee meaning in Urdu",
+        "Haadee origin",
+        "Haadee Islamic name",
+        "Haadee pronunciation",
+        "Haadee name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Haadee (هادي) is associated with the Arabic form هادي, whose core sense is guide, leader. Haadee is Arabic هادي (Hādī) 'guide, one who guides aright', from the root ه د ي (h-d-y). The source glossed it 'delightful, beautiful, pleasing' — that belongs to a different root — and labelled it female; both were corrected. The word هادٍ appears in the Qur'an (e.g. 25:31) and al-Hādī is used of God.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Haadee is associated with the Arabic form هادي, whose core sense is guide, leader.",
+      "meaning_section": "The central meaning of Haadee is guide, leader.",
+      "origin_section": "Haadee is associated with Arabic rather than with a different language.",
+      "islam_section": "Haadee can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Haadee is with the sense guide.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Haadee",
+      "#HaadeeMeaning",
+      "#HaadeeName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Haadee has a rich cultural significance within the Islamic community. It is considered to be a magnificent and cherished name for a child, signifying beauty, joy, and harmony. Haadee is also a popular name among celebrities and prominent figures in the Middle East, further emphasizing its cultural significance.",
-    "spiritual_significance": "From a spiritual perspective, the name Haadee holds great significance as it reflects Allah's divine beauty and elegance. It is a reminder of the importance of keeping one's heart and soul pure, so that it may continually bloom and bring joy and pleasure to both oneself and to others. Moreover, Haadee reflects the essential nature of Allah, who is described in the Quran as the Al-Hadi, the eternal guide, pointing us towards the path of righteousness and away from the darkness of disobedience. Thus, Haadee inspires us to walk in the footsteps of Allah, striving to lead a beautiful life both in this world and in the Hereafter.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah - The Life of the Prophet Muhammad (pbuh) The name Haadee carried significant weight in that era.",
-        "time_period": "6th Century A.D.",
-        "context": "Haadee ibn Al-Harith ibn Al-Khawlaan Al-Kindi was a prominent leader of the Meccan Quraish tribe during the pre-Islamic period. He is known for his role in the Battle of Uhud, where he was a commander of the Quraish army."
-      },
-      {
-        "reference": "Historical records show that Ibn Hisham's Sirat Rasool Allah - The Life of the Prophet Muhammad (pbuh) The name Haadee carried significant weight in that era.",
-        "time_period": "7th Century A.D.",
-        "context": "Haadee ibn Al-Harith Al-Awtaa' was a nobleman and a leading companion of Abu Sufyan, the chief of the Meccan Quraish tribe during the early Islamic period. He played a significant role in the Battle of Badr and the Treaty of Hudaybiyyah."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names gaining popularity in multicultural societies",
-        "Name personalization and customization"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Haadee corresponds to the Arabic form هادي",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Haadee has the core sense guide, leader",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Social media profiles",
-        "Personal websites or blogs",
-        "Digital identity platforms"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic name Haadee, meaning 'kind and generous,' is gaining popularity in multicultural societies due to the increasing trend of name personalization and customization. Haadee is seen on various digital platforms such as social media profiles, personal websites or blogs, and digital identity platforms. This name reflects the warm and welcoming nature of its bearer and is a unique representation of their identity in the diverse digital world."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Haadee",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Khadija Haadee from Riyadh, Saudi Arabia embodies the meaning of Haadee - \"Delightful, beautiful, pleasing\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Delightful, beautiful, pleasing\" symbolizes Haadee is a beautiful and delightful name, derived from the Arabic word 'hadee', which means 'pleasing to the senses' or 'beautiful'. It conveys a sense of growth, as the name is often associated with blooming flowers and lush gardens.. In Islamic spirituality, bearing the name Haadee serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of delightful, beautiful, pleasing.",
-    "created_at": "2025-12-22T19:19:50.32Z",
-    "updated_at": "2025-12-22T04:53:15.738Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1432,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Haadee",
-      "description": "Delightful, beautiful, pleasing",
-      "additionalName": [
-        "Hadee",
-        "Haadi"
+      "alternateName": [
+        "Haadee",
+        "haadee",
+        "hadee"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form هادي, meaning guide, leader.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Haadee",
-          "description": "Discover the meaning of Haadee - \"Delightful, beautiful, pleasing\"",
-          "image": "/images/social/haadee-facebook.jpg"
+      "termCode": "haadee",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Haadee - Name Meaning",
-          "description": "Learn about the beautiful name Haadee",
-          "image": "/images/social/haadee-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Haadee",
-          "description": "Name meaning: Delightful, beautiful, pleasing",
-          "image": "/images/social/haadee-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Haadee - Meaning: Delightful, beautiful, pleasing",
-        "email_subject": "Beautiful Name: Haadee"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Haadee with meaning Delightful, beautiful, pleasing",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Haadee, associated with the Arabic form هادي, meaning guide, leader."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

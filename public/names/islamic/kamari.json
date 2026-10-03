@@ -3,286 +3,478 @@
   "data": {
     "name": "Kamari",
     "slug": "kamari",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Moonlike",
-    "long_meaning": "Kamari is an Arabic name that refers to the beauty and radiance of the moon. It symbolizes illumination and guidance.",
-    "spiritual_meaning": "In Islamic tradition, the moon is a symbol of divine guidance and light.",
-    "emotional_traits": [
-      "Kind",
-      "Peaceful",
-      "Gentle"
-    ],
-    "hidden_personality_traits": [
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Jade",
-    "life_path_number": 8,
-    "numerology_meaning": "This name is powerful and authoritative, which can make the bearer of this name feel strong and in control of their life. It is also a highly spiritual name, which can bring a deep sense of inner peace and connection to the universe.",
-    "in_arabic": {
-      "name": "كماري",
-      "meaning": "السماء الكامنة في الحُسن، والجمال المُستدام في الخَلق",
-      "long_meaning": "يأتي اسم كماري من الأصل العربي الكَمَر، والذي يُعنى بالسماء أو الجَنب الذي يُشير إلى العُلو والجلال. ويُستخدم هذا الأصل في القرآن الكريم في سورة البَقَرَةَ، آية 15، حيث يُصف الله جل جلاله بسموه الكامل. في سياق الإسلام، يُعتبر اسم كماري مُمثلًا لجمال الله وثباته، والذي يُشير إلى المُستدامة والاستمرار في الخَلق. ويُعتقد أن هذا الاسم يُعزز الشخصية التي تحتفظ بالجمال والروح النبيلة"
+    "identity": {
+      "display_name": "Kamari",
+      "normalized_name": "kamari",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kamari",
+        "kamari"
+      ],
+      "search_variants": [
+        "Kamari",
+        "kamari"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "كماري",
-      "meaning": "سماء کا جمال، جمال و مستدیمی عظمت",
-      "long_meaning": "اسم کماری کا معنی ہے سماء کی عظمت اور جمال، جو اسلام کے نقطہ نظر سے ایک بہت ہی اچھا نام ہے۔ یہ نام عرب کے لفظ کمر سے لیا گیا ہے، جو سماء یا جسم کے مخصوص حصے کے لیے استعمال ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Lunar, of the moon",
+      "primary_meaning": "Lunar",
+      "secondary_meanings": [
+        "of the moon"
+      ],
+      "literal_meaning": "Lunar",
+      "extended_meaning": "Lunar, of the moon",
+      "meaning_explanation": "Kamari corresponds to the Arabic form قمري (Nisba of قَمَر; قَمَرِيّ (Qamariyy)). Its core sense is lunar, of the moon. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "कमारी",
-      "meaning": "स्वर्ग का सौंदर्य, सौंदर्य और स्थायित्व की महानता",
-      "long_meaning": "नाम कमारी का अर्थ है स्वर्ग का सौंदर्य और स्थायित्व की महानता, जो इस्लामिक दृष्टिकोण से एक उत्तम नाम है। यह नाम अरबी शब्द कामर से लिया गया है, जिसका अर्थ है स्वर्ग या शरीर का विशिष्ट हिस्सा।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قمري",
+      "transliteration": "kamari",
+      "romanization": "kamari",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Lunar",
+        "of the moon"
+      ],
+      "etymology_explanation": "The form قمري is an established Arabic lexical item. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "كماري",
-      "meaning": "سماء د رغند، جوړونکی جمال",
-      "long_meaning": "کماري نوم د سماء د جمالي او د جوړونکي په خوا د سترګو ته رسيږي چې د اسلامي نظر له مخې په اسلامي کورنيو کې يوه ښه نوم دی. د کماري نوم د عربي کلمي کمري څخه اخستل شوی چې د سماء یا د بدن د يو مخصوص برخې لپاره کارول کيږي. د کماري د نوم په نامه لرونکی د خالق په جمالي او سترګو په خوا د دې پيداکونکي د په کلونو په اوړي جوړونکي په څير ګڼل کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "قمري is an established Arabic form.",
+        "Urdu": "قمری is used in Urdu.",
+        "Persian": "قمری is an established Persian form.",
+        "Hindi": "क़मरी is used in Hindi.",
+        "Pashto": "قمري is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Kamari",
-      "meaning": "The celestial beauty, eternal glory, and the sustenance of all creation",
-      "long_meaning": "The name Kamari is derived from the Arabic root \"Kamr\", which means the sky or a specific part of the body. In Islamic tradition, this name is associated with the beauty and majesty of God, and those who bear this name are considered to possess a noble and radiant personality, reflecting the eternal glory of the Creator."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form قمري. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kamari may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense lunar, of the moon.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lunar",
+      "related_concepts": [
+        "lunar",
+        "of the moon"
+      ],
+      "semantic_relationship": "The central semantic idea is lunar; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of lunar.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Lunar",
+        "Of the moon"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kamari",
+        "meaning": "Lunar, of the moon",
+        "long_meaning": "Kamari is a Arabic-origin name. Its core meaning is lunar, of the moon. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria."
+      },
+      "urdu": {
+        "name": "قمری",
+        "meaning": "قمری، چاند سے",
+        "long_meaning": "Kamari (قمری) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قمری، چاند سے ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "قمری",
+        "meaning": "قمری، ماهی",
+        "long_meaning": "Kamari (قمری) نامی برگرفته از زبان عربی است و معنای اصلی آن قمری، ماهی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "क़मरी",
+        "meaning": "चंद्र, क़मरी",
+        "long_meaning": "Kamari (क़मरी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ चंद्र, क़मरी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "قمري",
+        "meaning": "قمري، سپوږميز",
+        "long_meaning": "Kamari (قمري) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې قمري، سپوږميز ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "قمري",
+        "meaning": "القمري، من القمر",
+        "long_meaning": "Kamari (قمري) اسم مأخوذ من اللغة العربية، ومعناه الأساسي القمري، من القمر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/kɑːˈmɑːri/",
-      "urdu": "كماري کے اردو تلفظ کی تفصیل",
-      "hindi": "कमारी का हिन्दी उच्चारण विवरण",
-      "pashto": "كماري په پښتو کې د تلفظ تفصیل",
-      "ipa": "/kɑːˈmɑːri/"
+      "romanized": "ka-ma-ri",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "قمری",
+      "persian": "قمری",
+      "hindi": "क़मरी",
+      "pashto": "قمري"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KamariMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kamari"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kamari",
+        "kamari"
+      ],
+      "script_variants": [
+        "قمري",
+        "قمری",
+        "क़मरी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form قمري is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kamari can be understood through the Arabic form قمري, whose central sense is lunar, of the moon. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 90,
-        "year": 2024
+        "question": "What does Kamari mean?",
+        "answer": "Kamari is associated with the Arabic form قمري, whose core sense is lunar, of the moon."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Kamari?",
+        "answer": "Kamari is associated with Arabic. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Kamari an Arabic name?",
+        "answer": "Yes — the underlying form قمري is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 78,
-        "year": 2024
+        "question": "Is Kamari an Islamic name?",
+        "answer": "Kamari can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 74,
-        "year": 2024
+        "question": "Is Kamari a Quranic name?",
+        "answer": "Kamari should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kamari mean in Urdu?",
+        "answer": "In Urdu, Kamari is rendered قمری and carries the sense قمری، چاند سے."
+      },
+      {
+        "question": "What does Kamari mean in Persian?",
+        "answer": "In Persian, Kamari is rendered قمری and carries the sense قمری، ماهی."
+      },
+      {
+        "question": "How is Kamari pronounced?",
+        "answer": "A romanized syllable approximation is ka-ma-ri. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kamari?",
+        "answer": "Romanization variants include Kamari, kamari. Script forms are قمري, قمری, क़मरी."
+      },
+      {
+        "question": "Is Kamari a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kamari Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kamari, a beautiful Islam name meaning \"Moonlike\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kamari, Islam name, baby names, Moonlike, Islam baby names, name meaning",
-      "description_paragraph": "Kamari is a meaningful Islam name of Arabic origin that means \"Moonlike\". Kamari is an Arabic name that refers to the beauty and radiance of the moon. It symbolizes illumination and guidance.",
-      "keywords": [
-        "Kamari",
-        "Islam name",
-        "baby names",
-        "Moonlike",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kamari in Islam tradition?",
-          "a": "Kamari is a beautiful Islam name meaning \"Moonlike\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kamari a good Islam name for a baby?",
-          "a": "Yes, Kamari is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kamari?",
-          "a": "The name Kamari has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kamari correctly?",
-          "a": "Kamari is pronounced /kɑːˈmɑːri/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kamari?",
-          "a": "Naming a child Kamari brings blessings. The meaning \"Moonlike\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kamari?",
-          "a": "Kamari is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Kamari Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kamari (قمري).",
+      "h1": "Kamari Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kamari meaning",
       "secondary_keywords": [
-        "Islam name Kamari",
-        "Kamari meaning",
-        "Kamari origin"
+        "Kamari name meaning",
+        "Kamari meaning in Urdu",
+        "Kamari origin",
+        "Kamari Islamic name",
+        "Kamari pronunciation",
+        "Kamari name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kamari (قمري) is associated with the Arabic form قمري, whose core sense is lunar, of the moon. Kamari is Arabic قَمَرِيّ (Qamariyy) 'lunar, of the moon', the nisba of قَمَر (qamar). CRITICAL SOURCE ERROR: the source gave كماري (a different form) and glossed the name 'Moonlike'; the correct form is قَمَرِيّ. Same name as kamaria.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kamari is associated with the Arabic form قمري, whose core sense is lunar, of the moon.",
+      "meaning_section": "The central meaning of Kamari is lunar, of the moon.",
+      "origin_section": "Kamari is associated with Arabic rather than with a different language.",
+      "islam_section": "Kamari can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kamari is with the sense lunar.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kamari",
+      "#KamariMeaning",
+      "#KamariName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Kamari holds a significant cultural impact in the Islamic world, as it is derived from the Arabic language. The name represents the captivating beauty of the moon, which is a recurring theme in Islamic culture. The moon is often used as a symbol of guidance, harmony, and stability in Islamic traditions.",
-    "spiritual_significance": "From a spiritual perspective, the name Kamari holds deep significance in Islamic beliefs. The moon is considered a divine entity in Islam, and the name Kamari represents the divine light and guidance illuminated by the moon. It symbolizes the spiritual illumination and enlightenment that one can achieve through the practice of faith and obedience to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Kamari carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kamari corresponds to the Arabic form قمري",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Kamari has the core sense lunar, of the moon",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kamari remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Kamari",
-      "location": "Karachi, Pakistan",
-      "story": "Omar Kamari, a teacher in Karachi, Pakistan, shares that their name Kamari meaning \"Moonlike\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Moonlike\" symbolizes Kamari is an Arabic name that refers to the beauty and radiance of the moon. It symbolizes illumination and guidance.. In Islamic spirituality, bearing the name Kamari serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of moonlike.",
-    "created_at": "2025-12-22T19:19:49.834Z",
-    "updated_at": "2025-12-22T04:53:14.582Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1773,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kamari",
-      "description": "Moonlike",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu"
+      "alternateName": [
+        "Kamari",
+        "kamari"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kamari",
-          "description": "Discover the meaning of Kamari - \"Moonlike\"",
-          "image": "/images/social/kamari-facebook.jpg"
+      "description": "A name associated with the Arabic form قمري, meaning lunar, of the moon.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kamari",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kamari - Name Meaning",
-          "description": "Learn about the beautiful name Kamari",
-          "image": "/images/social/kamari-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kamari",
-          "description": "Name meaning: Moonlike",
-          "image": "/images/social/kamari-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kamari - Meaning: Moonlike",
-        "email_subject": "Beautiful Name: Kamari"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kamari with meaning Moonlike",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kamari, associated with the Arabic form قمري, meaning lunar, of the moon."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

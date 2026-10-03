@@ -3,289 +3,478 @@
   "data": {
     "name": "Ins",
     "slug": "ins",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Noble, Distinguished",
-    "long_meaning": "Derived from the Arabic root 'n-s-n', meaning noble, honored, and distinguished. This name appears in various forms in Islamic history, particularly for figures of high status and noble character.",
-    "spiritual_meaning": "A name that symbolizes nobility and honor in the eyes of God.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green",
-      "Silver"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 6,
-    "numerology_meaning": "People with this name are loving, nurturing, and caring, often putting others before themselves. They have a strong sense of responsibility and are natural caretakers.",
-    "in_arabic": {
-      "name": "إنس",
-      "meaning": "الإنس هو الجنس البشري، اسم جمع مؤنث",
-      "long_meaning": "الإنس في اللغة العربية يعني الجنس البشري، و هو اسم جمع مؤنث. ورد ذكر الإنسيين في القرآن الكريم، و هو ما يميز الإنسان عن الجن و الشياطين. الإنسي هو الإنسان الذي يتصف بالطبيعة البشرية، و هو ما يميزه عن غيره من الكائنات الحية. اسم إنس هو من الأسماء التي تحمل معاني جميلة و عميقة في الثقافة الإسلامية."
+    "identity": {
+      "display_name": "Ins",
+      "normalized_name": "ins",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ins",
+        "ins"
+      ],
+      "search_variants": [
+        "Ins",
+        "ins"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انس",
-      "meaning": "انس کا مطلب ہے انسانی نسل، لوگ",
-      "long_meaning": "انس (Ins) کا نام عربی زبان کی جڑوں سے نکلا ہے، جس کا مطلب ہے انسانی نسل یا لوگ۔ یہ نام اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ انسانوں کی فطرت اور وجود کو ظاہر کرتا ہے۔ قرآن میں بھی انسیوں کا ذکر ہے، جو انسانوں کو جنوں اور شیاطین سے فرق دیتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Humanity, humankind; sociability",
+      "primary_meaning": "Humanity",
+      "secondary_meanings": [
+        "humankind; sociability"
+      ],
+      "literal_meaning": "Humanity",
+      "extended_meaning": "Humanity, humankind; sociability",
+      "meaning_explanation": "Ins corresponds to the Arabic form إنس (Arabic root أ ن س (ʾ-n-s); إِنْس (Ins)). Its core sense is humanity, humankind; sociability. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इंस",
-      "meaning": "इंस का अर्थ है मानवता, मानव نسل",
-      "long_meaning": "इंस (Ins) नाम की उत्पत्ति अरबी भाषा से हुई है, जिसका अर्थ है मानवता या मानव نسل। यह नाम इस्लामी संस्कृति में महत्वपूर्ण है क्योंकि यह मानव स्वभाव और अस्तित्व को दर्शाता है। कुरआन में भी इंसानों का उल्लेख है, जो उन्हें जिन्नों और शैतानों से अलग करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إنس",
+      "transliteration": "ins",
+      "romanization": "ins",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Humanity",
+        "humankind; sociability"
+      ],
+      "etymology_explanation": "The form إنس is an established Arabic lexical item. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "انس",
-      "meaning": "د انسان نسل، د خلکو",
-      "long_meaning": "په پښتو کې د انس (Ins) نوم د عربي ژبې د ريښو څخه اخيستل شوی دی، چې د انسان نسل یا د خلکو معنی ورکوي. دا نوم په اسلامي کلتور کې د پام وړ دی ځکه چې دا د انسان فطرت او وجود ښيي. په قرآن کې د انسيانو يادونه شوې ده، چې انسان د جن او شياطينو څخه جلا کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إنس is an established Arabic form.",
+        "Urdu": "انس is used in Urdu.",
+        "Persian": "انس is an established Persian form.",
+        "Hindi": "इंस is used in Hindi.",
+        "Pashto": "انس is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Ins",
-      "meaning": "Humanity, human being, people",
-      "long_meaning": "The name Ins originates from Arabic roots, signifying 'humanity' or 'human beings'. In Islamic tradition, it holds significant cultural and spiritual importance as it denotes the human nature distinct from jinns and satans. The Quran references 'ins' to describe humans, emphasizing their inherent qualities and existence. The name Ins symbolizes kindness, compassion, and human connection."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form إنس. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ins may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense humanity, humankind; sociability.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Humanity",
+      "related_concepts": [
+        "humanity",
+        "humankind; sociability"
+      ],
+      "semantic_relationship": "The central semantic idea is humanity; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of humanity.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Humanity",
+        "Humankind; sociability"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ins",
+        "meaning": "Humanity, humankind; sociability",
+        "long_meaning": "Ins is a Arabic-origin name. Its core meaning is humanity, humankind; sociability. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "انس",
+        "meaning": "انسانیت، انسان، انس",
+        "long_meaning": "Ins (انس) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم انسانیت، انسان، انس ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "انس",
+        "meaning": "انسانیت، آدمی، انس",
+        "long_meaning": "Ins (انس) نامی برگرفته از زبان عربی است و معنای اصلی آن انسانیت، آدمی، انس است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इंस",
+        "meaning": "मानवता, मनुष्य, सामाजिकता",
+        "long_meaning": "Ins (इंस) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मानवता, मनुष्य, सामाजिकता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "انس",
+        "meaning": "انسانیت، انسان، انس",
+        "long_meaning": "Ins (انس) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې انسانیت، انسان، انس ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إنس",
+        "meaning": "الإنس، البشر، الأنس",
+        "long_meaning": "Ins (إنس) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإنس، البشر، الأنس. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ins",
-      "urdu": "انس (in-s)",
-      "hindi": "इंस (in-s)",
-      "pashto": "انس (in-s)",
-      "ipa": "/ɪns/"
+      "romanized": "ins",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "انس",
+      "persian": "انس",
+      "hindi": "इंस",
+      "pashto": "انس"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#InsMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ins"
-    ],
-    "name_variations": [],
-    "popularity_score": 67,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ins",
+        "ins"
+      ],
+      "script_variants": [
+        "إنس",
+        "انس",
+        "इंस"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إنس is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ins can be understood through the Arabic form إنس, whose central sense is humanity, humankind; sociability. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Ins mean?",
+        "answer": "Ins is associated with the Arabic form إنس, whose core sense is humanity, humankind; sociability."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 68,
-        "year": 2024
+        "question": "What is the origin of Ins?",
+        "answer": "Ins is associated with Arabic. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Ins an Arabic name?",
+        "answer": "Yes — the underlying form إنس is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Ins an Islamic name?",
+        "answer": "Ins can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ins a Quranic name?",
+        "answer": "Ins should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ins mean in Urdu?",
+        "answer": "In Urdu, Ins is rendered انس and carries the sense انسانیت، انسان، انس."
+      },
+      {
+        "question": "What does Ins mean in Persian?",
+        "answer": "In Persian, Ins is rendered انس and carries the sense انسانیت، آدمی، انس."
+      },
+      {
+        "question": "How is Ins pronounced?",
+        "answer": "A romanized syllable approximation is ins. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ins?",
+        "answer": "Romanization variants include Ins, ins. Script forms are إنس, انس, इंस."
+      },
+      {
+        "question": "Is Ins a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ins Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ins, a beautiful Islam name meaning \"Noble, Distinguished\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ins, Islam name, baby names, Noble, Distinguished, Islam baby names, name meaning",
-      "description_paragraph": "Ins is a meaningful Islam name of Arabic origin that means \"Noble, Distinguished\". Derived from the Arabic root 'n-s-n', meaning noble, honored, and distinguished. This name appears in various forms in Islamic history, particularly for figures of high status and noble character.",
-      "keywords": [
-        "Ins",
-        "Islam name",
-        "baby names",
-        "Noble, Distinguished",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ins in Islam tradition?",
-          "a": "Ins is a beautiful Islam name meaning \"Noble, Distinguished\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ins a good Islam name for a baby?",
-          "a": "Yes, Ins is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ins?",
-          "a": "The name Ins has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ins correctly?",
-          "a": "Ins is pronounced ins in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ins?",
-          "a": "Naming a child Ins brings blessings. The meaning \"Noble, Distinguished\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ins?",
-          "a": "Ins is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Ins Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ins (إنس).",
+      "h1": "Ins Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ins meaning",
       "secondary_keywords": [
-        "Islam name Ins",
-        "Ins meaning",
-        "Ins origin"
+        "Ins name meaning",
+        "Ins meaning in Urdu",
+        "Ins origin",
+        "Ins Islamic name",
+        "Ins pronunciation",
+        "Ins name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ins (إنس) is associated with the Arabic form إنس, whose core sense is humanity, humankind; sociability. Ins is Arabic إِنْس (Ins) 'humanity, humankind; sociability', from the root أ ن س (ʾ-n-s). The source gloss 'Noble, Distinguished' is unsupported and has been replaced with the lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ins is associated with the Arabic form إنس, whose core sense is humanity, humankind; sociability.",
+      "meaning_section": "The central meaning of Ins is humanity, humankind; sociability.",
+      "origin_section": "Ins is associated with Arabic rather than with a different language.",
+      "islam_section": "Ins can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ins is with the sense humanity.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ins",
+      "#InsMeaning",
+      "#InsName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ins has been borne by many significant figures in Islamic history, such as Imam Ali Zain al-Abidin, the fourth Shia Imam, and the scholar and judge Ibn Taymiyyah. Naming a child Ins suggests that they possess noble traits and are destined for greatness through their actions, heritage, or spiritual development.",
-    "spiritual_significance": "The name Ins is reflective of the values and qualities that Muslims aspire to possess in their daily lives. As a spiritual name, it serves as a reminder to strive for nobility, honoring the traditions of Islam and leading exemplary lives in obedience to God. It also implies that the bearer is entrusted with a responsibility and privilege to uphold and propagate the spiritual virtues of this great name.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Khaldun's Muqaddimah mentions Ins as a major port city and cultural center of the Maghreb during the 13th and 14th centuries.",
-        "time_period": "13th - 14th centuries",
-        "context": "Ibn Khaldun was a Berber historian and sociologist. In his influential work 'Muqaddimah', he describes Ins as a significant center of Islamic civilization in the western Mediterranean region, known for its bustling port and rich cultural heritage."
-      },
-      {
-        "reference": "Al-Idrisi describes Ins as a vital trading hub between Europe and the Islamic world during the 12th century.",
-        "time_period": "12th century",
-        "context": "Al-Idrisi, a Muslim geographer and cartographer, wrote a detailed description of the world in his book 'Nuzhat al-Mushtaq fi Ikhtiraq al-Afturn', which includes Ins as a major trading post. He notes the city's importance in connecting the Mediterranean trade routes between Europe and the Islamic world."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "InshAllah",
-        "MashAllah",
-        "Alhamdulillah"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ins corresponds to the Arabic form إنس",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Ins has the core sense humanity, humankind; sociability",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Social Media (Twitter, Facebook, Instagram)",
-        "Texting and Messaging apps",
-        "Day-to-day conversations"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic term 'Ins' or 'In' (translated as 'if Allah wills it') is commonly used in modern contexts across various platforms. It is frequently used in social media conversations, texting, and messaging apps, as well as in day-to-day conversations among friends and family. The three most common Arabic phrases derived from this term - 'InshAllah', 'MashAllah', and 'Alhamdulillah' - are used to express hope, admiration, and gratitude, respectively. These phrases have become an integral part of modern Islamic culture and are widely used in both online and offline contexts."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Ins",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Fatima Ins, a teacher in Kuala Lumpur, Malaysia, shares that their name Ins meaning \"Noble, Distinguished\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Noble, Distinguished\" symbolizes Derived from the Arabic root 'n-s-n', meaning noble, honored, and distinguished. This name appears in various forms in Islamic history, particularly for figures of high status and noble character.. In Islamic spirituality, bearing the name Ins serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of noble, distinguished.",
-    "created_at": "2025-12-22T19:19:49.944Z",
-    "updated_at": "2025-12-22T04:53:15.607Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1503,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ins",
-      "description": "Noble, Distinguished",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Ins",
+        "ins"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ins",
-          "description": "Discover the meaning of Ins - \"Noble, Distinguished\"",
-          "image": "/images/social/ins-facebook.jpg"
+      "description": "A name associated with the Arabic form إنس, meaning humanity, humankind; sociability.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ins",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ins - Name Meaning",
-          "description": "Learn about the beautiful name Ins",
-          "image": "/images/social/ins-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ins",
-          "description": "Name meaning: Noble, Distinguished",
-          "image": "/images/social/ins-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ins - Meaning: Noble, Distinguished",
-        "email_subject": "Beautiful Name: Ins"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ins with meaning Noble, Distinguished",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ins, associated with the Arabic form إنس, meaning humanity, humankind; sociability."
     },
-    "similar_sounding_names": [
-      "inga",
-      "id",
-      "iqrit",
-      "isa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

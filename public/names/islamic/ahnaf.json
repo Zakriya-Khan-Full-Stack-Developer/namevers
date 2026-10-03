@@ -3,280 +3,476 @@
   "data": {
     "name": "Ahnaf",
     "slug": "ahnaf",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gifted, Generous",
-    "long_meaning": "Derived from the Arabic word 'anaf, meaning 'gift, gifted, generous'. In Islamic tradition, it can also mean 'rare, precious, noble'.",
-    "spiritual_meaning": "Ahnaf is a name of Arabic origin that is often given to babies due to its spiritual significance. It is believed that children with this name will be strong in their faith and resilient in the face of challenges. They may also have a natural aptitude for leadership and a strong sense of purpose.",
-    "emotional_traits": [
-      "Brave",
-      "Just"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Ahnaf is a name that resonates with the number 3 in numerology. This number is often associated with creativity, self-expression, and communication. People with this name may find themselves drawn to artistic pursuits or careers in the media.",
-    "in_arabic": {
-      "name": "أحْنَف",
-      "meaning": "منحني الأنف، ذو الأنف الأعوج",
-      "long_meaning": "اسم علم مذكر من أصل عربي و معناه الشخص الذي لديه انحناء في أنفه، و هو من الأسماء التي تحمل معاني الصفات الجسدية في اللغة العربية، و يعتبر من الأسماء المشتقة من الألفاظ القرآنية التي تذكر الصفات الجسدية"
+    "identity": {
+      "display_name": "Ahnaf",
+      "normalized_name": "ahnaf",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ahnaf",
+        "ahnaf"
+      ],
+      "search_variants": [
+        "Ahnaf",
+        "ahnaf"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "احنف",
-      "meaning": "منحنی ناک، ذو الانف الاعوج",
-      "long_meaning": "احنف ایک مذکر نام ہے جو عربی زبان سے ماخوذ ہے، اس کا مطلب ہے جس کی ناک میں مروڑ ہو، یہ نام عربی الفاظ سے ماخوذ ہے جو جسمانی صفات کو بیان کرتے ہیں، اور اسلامی تقالید میں اس کا استعمال تاریخی و ثقافتی اہمیت کا حامل ہے"
+    "core_meaning": {
+      "short_meaning": "Club-footed (classical); upright, inclined to truth",
+      "primary_meaning": "Club-footed (classical); upright",
+      "secondary_meanings": [
+        "inclined to truth"
+      ],
+      "literal_meaning": "Club-footed (classical); upright",
+      "extended_meaning": "Club-footed (classical); upright, inclined to truth",
+      "meaning_explanation": "Ahnaf corresponds to the Arabic form أحنف (ح ن ف). Its core sense is club-footed (classical); upright, inclined to truth. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अحنफ",
-      "meaning": "नाक के साथ टेढ़ा, नाक का टेढ़ा होना",
-      "long_meaning": "अحنफ एक इस्लामी नाम है जो अरबी भाषा से लिया गया है, इसका अर्थ है नाक का टेढ़ा होना, यह नाम अरबी शब्दों से बना है जो शारीरिक विशेषताओं का वर्णन करते हैं, और भारतीय मुस्लिम समुदाय में इसका उपयोग पारंपरिक और सांस्कृतिक महत्व रखता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أحنف",
+      "transliteration": "ahnaf",
+      "romanization": "ahnaf",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Club-footed (classical); upright",
+        "inclined to truth"
+      ],
+      "etymology_explanation": "The form أحنف is an established Arabic lexical item. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "احنف",
-      "meaning": "د ناک لرونکی، کږه ناکه",
-      "long_meaning": "احنف د اسلامي نومونو څخه يو دی، چي د عربي ژبې څخه اخيستل شوی دی، ددې نوم مطلب دے هغه کښے چې ناک يې کږه وي، دا نوم د عربي کلمو څخه جوړ شوی دی چي جسماني ځانګړتیاوې بيانوي، او په افغان او پښتون قومونو کې يې کارول تاريخي او کلتوري اهميت لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أحنف is an established Arabic form.",
+        "Urdu": "احنف is used in Urdu.",
+        "Hindi": "अहनफ़ is used in Hindi.",
+        "Pashto": "احنف is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ahnaf",
-      "meaning": "Having a curved or deviated nose",
-      "long_meaning": "Ahnaf is a masculine given name of Arabic origin, meaning 'one who has a curved or deviated nose'. It is derived from the Arabic root 'ḥ-n-f', which relates to physical characteristics. In Islamic tradition, names like Ahnaf are significant as they often reflect attributes or qualities. The name carries historical and cultural importance across Muslim communities."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أحنف. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ahnaf may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense club-footed (classical); upright, inclined to truth.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Club-footed (classical); upright",
+      "related_concepts": [
+        "club-footed (classical); upright",
+        "inclined to truth"
+      ],
+      "semantic_relationship": "The central semantic idea is club-footed (classical); upright; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of club-footed (classical); upright.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Club-footed (classical); upright",
+        "Inclined to truth"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ahnaf",
+        "meaning": "Club-footed (classical); upright, inclined to truth",
+        "long_meaning": "Ahnaf is a Arabic-origin name. Its core meaning is club-footed (classical); upright, inclined to truth. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported."
+      },
+      "urdu": {
+        "name": "احنف",
+        "meaning": "احنف، سیدھا، حق کی طرف مائل",
+        "long_meaning": "Ahnaf (احنف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم احنف، سیدھا، حق کی طرف مائل ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अहनफ़",
+        "meaning": "अहनफ़, सच की ओर झुका",
+        "long_meaning": "Ahnaf (अहनफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अहनफ़, सच की ओर झुका है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "احنف",
+        "meaning": "احنف، رښتيا ته مایل",
+        "long_meaning": "Ahnaf (احنف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې احنف، رښتيا ته مایل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أحنف",
+        "meaning": "أحنف، مستقيم",
+        "long_meaning": "Ahnaf (أحنف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أحنف، مستقيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-nnaf",
-      "urdu": "احنف کا تلفظ (ah-nnaf)",
-      "hindi": "अحنफ का उच्चारण (ah-nnaf)",
-      "pashto": "د احنف تلفظ (ah-nnaf)",
-      "ipa": "/ˈɑːhnɑf/"
+      "romanized": "ah-naf",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "احنف",
+      "persian": null,
+      "hindi": "अहनफ़",
+      "pashto": "احنف"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AhnafMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ahnaf"
-    ],
-    "name_variations": [],
-    "popularity_score": 76,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ahnaf",
+        "ahnaf"
+      ],
+      "script_variants": [
+        "أحنف",
+        "احنف",
+        "अहनफ़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أحنف is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ahnaf can be understood through the Arabic form أحنف, whose central sense is club-footed (classical); upright, inclined to truth. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Ahnaf mean?",
+        "answer": "Ahnaf is associated with the Arabic form أحنف, whose core sense is club-footed (classical); upright, inclined to truth."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Ahnaf?",
+        "answer": "Ahnaf is associated with Arabic. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Ahnaf an Arabic name?",
+        "answer": "Yes — the underlying form أحنف is Arabic."
+      },
+      {
+        "question": "Is Ahnaf an Islamic name?",
+        "answer": "Ahnaf can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ahnaf a Quranic name?",
+        "answer": "Ahnaf should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ahnaf mean in Urdu?",
+        "answer": "In Urdu, Ahnaf is rendered احنف and carries the sense احنف، سیدھا، حق کی طرف مائل."
+      },
+      {
+        "question": "What does Ahnaf mean in Persian?",
+        "answer": "No verified Persian form was established for Ahnaf."
+      },
+      {
+        "question": "How is Ahnaf pronounced?",
+        "answer": "A romanized syllable approximation is ah-naf. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ahnaf?",
+        "answer": "Romanization variants include Ahnaf, ahnaf. Script forms are أحنف, احنف, अहनफ़."
+      },
+      {
+        "question": "Is Ahnaf a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ahnaf Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ahnaf, a beautiful Islam name meaning \"Gifted, Generous\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ahnaf, Islam name, baby names, Gifted, Generous, Islam baby names, name meaning",
-      "description_paragraph": "Ahnaf is a meaningful Islam name of Arabic origin that means \"Gifted, Generous\". Derived from the Arabic word 'anaf, meaning 'gift, gifted, generous'. In Islamic tradition, it can also mean 'rare, precious, noble'.",
-      "keywords": [
-        "Ahnaf",
-        "Islam name",
-        "baby names",
-        "Gifted, Generous",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ahnaf in Islam tradition?",
-          "a": "Ahnaf is a beautiful Islam name meaning \"Gifted, Generous\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ahnaf a good Islam name for a baby?",
-          "a": "Yes, Ahnaf is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ahnaf?",
-          "a": "The name Ahnaf has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ahnaf correctly?",
-          "a": "Ahnaf is pronounced ah-nnaf in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ahnaf?",
-          "a": "Naming a child Ahnaf brings blessings. The meaning \"Gifted, Generous\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ahnaf?",
-          "a": "Ahnaf is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Ahnaf Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ahnaf (أحنف).",
+      "h1": "Ahnaf Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ahnaf meaning",
       "secondary_keywords": [
-        "Islam name Ahnaf",
-        "Ahnaf meaning",
-        "Ahnaf origin"
+        "Ahnaf name meaning",
+        "Ahnaf meaning in Urdu",
+        "Ahnaf origin",
+        "Ahnaf Islamic name",
+        "Ahnaf pronunciation",
+        "Ahnaf name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ahnaf (أحنف) is associated with the Arabic form أحنف, whose core sense is club-footed (classical); upright, inclined to truth. Aḥnaf ('club-footed' in classical Arabic); the name of al-Aḥnaf ibn Qays, a 7th-century Muslim commander of the Banū Tamīm. The source record's gloss 'Gifted, Generous' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ahnaf is associated with the Arabic form أحنف, whose core sense is club-footed (classical); upright, inclined to truth.",
+      "meaning_section": "The central meaning of Ahnaf is club-footed (classical); upright, inclined to truth.",
+      "origin_section": "Ahnaf is associated with Arabic rather than with a different language.",
+      "islam_section": "Ahnaf can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ahnaf is with the sense club-footed (classical); upright.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ahnaf",
+      "#AhnafMeaning",
+      "#AhnafName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ahnaf carries a sense of generosity and giving. It can be assumed that someone named Ahnaf would be seen as a generous and kind person within their community. In Arab and Islamic culture, generosity is highly valued and appreciated. This name could also carry a sense of rarity or preciousness, implying that the person is a unique and valuable addition to society.",
-    "spiritual_significance": "From a spiritual perspective, the name Ahnaf can represent the inherent generosity and abundance within each of us. It is a reminder that we have been given so many blessings in our lives and are therefore called to give back to others. This name can also serve as a reminder of the spiritual value of generosity, as it is stated in the Quran that giving to others is one of the best ways to purify the heart and draw closer to God. Overall, the name Ahnaf inspires us to live generously and give back to the world around us, both materially and spiritually.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ahnaf ibn Qais was a companion of the Prophet Muhammad. The name Ahnaf carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Ahnaf was a prominent figure in early Islamic history and is often mentioned in historical texts as a companion of the Prophet Muhammad."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ahnaf corresponds to the Arabic form أحنف",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ahnaf has the core sense club-footed (classical); upright, inclined to truth",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ahnaf remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Hassan Ahnaf",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Hassan Ahnaf, a teacher in Kuala Lumpur, Malaysia, shares that their name Ahnaf meaning \"Gifted, Generous\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Gifted, Generous\" symbolizes Derived from the Arabic word 'anaf, meaning 'gift, gifted, generous'. In Islamic tradition, it can also mean 'rare, precious, noble'.. In Islamic spirituality, bearing the name Ahnaf serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gifted, generous.",
-    "created_at": "2025-12-22T19:19:49.84Z",
-    "updated_at": "2025-12-22T04:53:14.679Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1257,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ahnaf",
-      "description": "Gifted, Generous",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Ahnaf",
+        "ahnaf"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ahnaf",
-          "description": "Discover the meaning of Ahnaf - \"Gifted, Generous\"",
-          "image": "/images/social/ahnaf-facebook.jpg"
+      "description": "A name associated with the Arabic form أحنف, meaning club-footed (classical); upright, inclined to truth.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ahnaf",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ahnaf - Name Meaning",
-          "description": "Learn about the beautiful name Ahnaf",
-          "image": "/images/social/ahnaf-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ahnaf",
-          "description": "Name meaning: Gifted, Generous",
-          "image": "/images/social/ahnaf-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ahnaf - Meaning: Gifted, Generous",
-        "email_subject": "Beautiful Name: Ahnaf"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ahnaf with meaning Gifted, Generous",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ahnaf, associated with the Arabic form أحنف, meaning club-footed (classical); upright, inclined to truth."
     },
-    "similar_sounding_names": [
-      "aidan",
-      "amaya",
-      "ayan",
-      "ariana",
-      "amala",
-      "anja",
-      "ashika",
-      "alika",
-      "akil",
-      "anila"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,278 +3,482 @@
   "data": {
     "name": "Ghayth",
     "slug": "ghayth",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Intense Rain",
-    "long_meaning": "The name Ghayth is derived from the Arabic root 'ghyth' meaning intense rain. In Islamic tradition, Ghayth is considered a name of Allah and a title of the Prophet Muhammad (peace be upon him), signifying the one who showers blessings upon his followers.",
-    "spiritual_meaning": "Blessings from Allah",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 2,
-    "numerology_meaning": "People with the name Ghayth are compassionate, intuitive, and understanding. They possess a strong sense of morality and are often seen as spiritual guides to others.",
-    "in_arabic": {
-      "name": "غيث",
-      "meaning": "غيث هو اسم يعني المطر أو الغيثان وهو من الأسماء ذات المعنى الجميل",
-      "long_meaning": "غيث هو اسم علم مذكر من أصل عربي و يعني المطر أو الغيثان، وهو من الأسماء التي تحمل معنى الإغاثة والنجدة. ورد ذكر المطر في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَيُنزلونَ الغَيثَ' (الشورى: 28)، مما يعطي الاسم قيمة دينية وروحية كبيرة. يعتبر اسم غيث من الأسماء المحببة في الثقافة الإسلامية لما يحمله من دلالات إيجابية تتعلق بالخير والنماء."
+    "identity": {
+      "display_name": "Ghayth",
+      "normalized_name": "ghayth",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ghayth",
+        "ghayth"
+      ],
+      "search_variants": [
+        "Ghayth",
+        "ghayth"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "غيث",
-      "meaning": "غيث ایک ایسا نام ہے جس کا مطلب بارش یا رحمت ہے",
-      "long_meaning": "غيث ایک عربی نام ہے جس کا مطلب بارش یا رحمت ہوتا ہے۔ یہ نام اسلامی ثقافت میں بہت اہمیت رکھتا ہے کیونکہ بارش کو اللہ کی رحمت اور غفوریت کی علامت سمجھا جاتا ہے۔ قرآن مجید میں بارش کا ذکر کئی بار کیا گیا ہے، جیسے کہ سورہ الشورى میں: 'وَيُنزلونَ الغَيثَ' (الشورى: 28)। یہ نام جنوبی ایشیاء کے مسلمانوں کے لئے روحانی اور ثقافتی اہمیت کا حامل ہے۔"
+    "core_meaning": {
+      "short_meaning": "Rain, succour, relief",
+      "primary_meaning": "Rain",
+      "secondary_meanings": [
+        "succour",
+        "relief"
+      ],
+      "literal_meaning": "Rain",
+      "extended_meaning": "Rain, succour, relief",
+      "meaning_explanation": "Ghayth corresponds to the Arabic form غيث (Arabic root غ ي ث (gh-y-th); غيث (Ghayth)). Its core sense is rain, succour, relief. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "ग़ैथ",
-      "meaning": "ग़ैथ का अर्थ है बारिश या दया",
-      "long_meaning": "ग़ैथ एक अरबी नाम है जिसका अर्थ है बारिश या दया। इस नाम का महत्व इस्लामी संस्कृति में बहुत अधिक है क्योंकि बारिश को अल्लाह की दया और क्षमा की निशानी माना जाता है। कुरआन में बारिश का उल्लेख कई बार किया गया है, जैसे कि सूरा शूरा में: 'وَيُنزلونَ الغَيثَ' (الشورى: 28)। यह नाम भारतीय मुस्लिम समुदाय में आध्यात्मिक और सांस्कृतिक महत्व रखता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "غيث",
+      "transliteration": "ghayth",
+      "romanization": "ghayth",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Rain",
+        "succour",
+        "relief"
+      ],
+      "etymology_explanation": "The form غيث is an established Arabic lexical item. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "غيث",
-      "meaning": "غيث د باران يا د رحمت معنی لري",
-      "long_meaning": "غيث یو عربي نوم دی چې د باران يا رحمت معنی لري. دا نوم د افغان او پښتون قومونو لپاره روحاني او کلتوري ارزښت لري. په قرآن کريم کې د باران يادونه شوې ده، لکه څنګه چې په سوره الشورى کې: 'وَيُنزلونَ الغَيثَ' (الشورى: 28). باران د الهي رحمت او مغفرت نښه ګڼل کيږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "غيث is an established Arabic form.",
+        "Urdu": "غیث is used in Urdu.",
+        "Persian": "غيث is an established Persian form.",
+        "Hindi": "ग़ैथ is used in Hindi.",
+        "Pashto": "غيث is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ghayth",
-      "meaning": "Ghayth means rain or relief in Arabic, symbolizing divine mercy",
-      "long_meaning": "Ghayth is an Arabic name that means 'rain' or 'relief'. It is derived from the Arabic root 'غ-ي-ث' which is associated with the concept of rain as a symbol of divine mercy and relief. In the Quran, rain is mentioned as a sign of Allah's mercy and provision, such as in Surah Ash-Shura: 'And they bring down the rain' (42:28). The name Ghayth holds significant spiritual and cultural value in Islamic tradition, representing blessings, growth, and divine favor. It is often chosen for its positive connotations and beautiful meaning."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form غيث. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ghayth may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense rain, succour, relief.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Rain",
+      "related_concepts": [
+        "rain",
+        "succour",
+        "relief"
+      ],
+      "semantic_relationship": "The central semantic idea is rain; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of rain.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Rain",
+        "Succour",
+        "Relief"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ghayth",
+        "meaning": "Rain, succour, relief",
+        "long_meaning": "Ghayth is a Arabic-origin name. Its core meaning is rain, succour, relief. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais."
+      },
+      "urdu": {
+        "name": "غیث",
+        "meaning": "بارش، امداد",
+        "long_meaning": "Ghayth (غیث) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بارش، امداد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "غيث",
+        "meaning": "باران، فریادرسی",
+        "long_meaning": "Ghayth (غيث) نامی برگرفته از زبان عربی است و معنای اصلی آن باران، فریادرسی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ग़ैथ",
+        "meaning": "वर्षा, सहायता",
+        "long_meaning": "Ghayth (ग़ैथ) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ वर्षा, सहायता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "غيث",
+        "meaning": "باران، مرسته",
+        "long_meaning": "Ghayth (غيث) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې باران، مرسته ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "غيث",
+        "meaning": "الغيث، النجدة",
+        "long_meaning": "Ghayth (غيث) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الغيث، النجدة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Gh-ayth",
-      "urdu": "غيث کا تلفظ غ-ے-ث ہے",
-      "hindi": "ग़ैथ का उच्चारण ग-ए-थ है",
-      "pashto": "غيث د غ-اي-ث په تلفظ",
-      "ipa": "/ɣɑjθ/"
+      "romanized": "ghayth",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "غیث",
+      "persian": "غيث",
+      "hindi": "ग़ैथ",
+      "pashto": "غيث"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#GhaythMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ghayth"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ghayth",
+        "ghayth"
+      ],
+      "script_variants": [
+        "غيث",
+        "غیث",
+        "ग़ैथ"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form غيث is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ghayth can be understood through the Arabic form غيث, whose central sense is rain, succour, relief. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Ghayth mean?",
+        "answer": "Ghayth is associated with the Arabic form غيث, whose core sense is rain, succour, relief."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 84,
-        "year": 2024
+        "question": "What is the origin of Ghayth?",
+        "answer": "Ghayth is associated with Arabic. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Ghayth an Arabic name?",
+        "answer": "Yes — the underlying form غيث is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Ghayth an Islamic name?",
+        "answer": "Ghayth can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ghayth a Quranic name?",
+        "answer": "Ghayth should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ghayth mean in Urdu?",
+        "answer": "In Urdu, Ghayth is rendered غیث and carries the sense بارش، امداد."
+      },
+      {
+        "question": "What does Ghayth mean in Persian?",
+        "answer": "In Persian, Ghayth is rendered غيث and carries the sense باران، فریادرسی."
+      },
+      {
+        "question": "How is Ghayth pronounced?",
+        "answer": "A romanized syllable approximation is ghayth. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ghayth?",
+        "answer": "Romanization variants include Ghayth, ghayth. Script forms are غيث, غیث, ग़ैथ."
+      },
+      {
+        "question": "Is Ghayth a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ghayth Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ghayth, a beautiful Islam name meaning \"Intense Rain\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ghayth, Islam name, baby names, Intense Rain, Islam baby names, name meaning",
-      "description_paragraph": "Ghayth is a meaningful Islam name of Arabic origin that means \"Intense Rain\". The name Ghayth is derived from the Arabic root 'ghyth' meaning intense rain. In Islamic tradition, Ghayth is considered a name of Allah and a title of the Prophet Muhammad (peace be upon him), signifying the one who showers blessings upon his followers.",
-      "keywords": [
-        "Ghayth",
-        "Islam name",
-        "baby names",
-        "Intense Rain",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ghayth in Islam tradition?",
-          "a": "Ghayth is a beautiful Islam name meaning \"Intense Rain\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ghayth a good Islam name for a baby?",
-          "a": "Yes, Ghayth is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ghayth?",
-          "a": "The name Ghayth has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ghayth correctly?",
-          "a": "Ghayth is pronounced Gh-ayth in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ghayth?",
-          "a": "Naming a child Ghayth brings blessings. The meaning \"Intense Rain\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ghayth?",
-          "a": "Ghayth is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Ghayth Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ghayth (غيث).",
+      "h1": "Ghayth Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ghayth meaning",
       "secondary_keywords": [
-        "Islam name Ghayth",
-        "Ghayth meaning",
-        "Ghayth origin"
+        "Ghayth name meaning",
+        "Ghayth meaning in Urdu",
+        "Ghayth origin",
+        "Ghayth Islamic name",
+        "Ghayth pronunciation",
+        "Ghayth name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ghayth (غيث) is associated with the Arabic form غيث, whose core sense is rain, succour, relief. Ghayth (غيث) is an Arabic male name meaning 'rain' and 'succour, relief'. The source gloss 'intense rain' is a fair rendering. Same name as ghaith and ghais.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ghayth is associated with the Arabic form غيث, whose core sense is rain, succour, relief.",
+      "meaning_section": "The central meaning of Ghayth is rain, succour, relief.",
+      "origin_section": "Ghayth is associated with Arabic rather than with a different language.",
+      "islam_section": "Ghayth can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ghayth is with the sense rain.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ghayth",
+      "#GhaythMeaning",
+      "#GhaythName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ghayth holds a rich cultural significance in the Muslim world, particularly in the Sufi tradition where it is revered as a name of Allah al-Ghaffar, the One who overlooks and forgives faults. It is also associated with the prophets Yunus ( Jonah) and Idris (Enoch), who are believed to intercede on behalf of the believers with Allah (swt).",
-    "spiritual_significance": "In the spiritual realm, Ghayth represents the mercy and nourishment that Allah bestows upon His servants in times of need, much like the life-giving rainfall that follows a drought. This name serves as a reminder of Allah’s boundless generosity and compassion towards His creation and the promise of His infinite mercy and forgiveness for those who turn to Him in repentance and seek His guidance.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Ghayth carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ghayth corresponds to the Arabic form غيث",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ghayth has the core sense rain, succour, relief",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ghayth remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Ghayth",
-      "location": "Cairo, Egypt",
-      "story": "Ibrahim Ghayth from Cairo, Egypt embodies the meaning of Ghayth - \"Intense Rain\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Intense Rain\" symbolizes The name Ghayth is derived from the Arabic root 'ghyth' meaning intense rain. In Islamic tradition, Ghayth is considered a name of Allah and a title of the Prophet Muhammad (peace be upon him), signifying the one who showers blessings upon his followers.. In Islamic spirituality, bearing the name Ghayth serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of intense rain.",
-    "created_at": "2025-12-22T19:19:49.936Z",
-    "updated_at": "2025-12-22T04:53:15.586Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1495,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ghayth",
-      "description": "Intense Rain",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Ghayth",
+        "ghayth"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ghayth",
-          "description": "Discover the meaning of Ghayth - \"Intense Rain\"",
-          "image": "/images/social/ghayth-facebook.jpg"
+      "description": "A name associated with the Arabic form غيث, meaning rain, succour, relief.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ghayth",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ghayth - Name Meaning",
-          "description": "Learn about the beautiful name Ghayth",
-          "image": "/images/social/ghayth-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ghayth",
-          "description": "Name meaning: Intense Rain",
-          "image": "/images/social/ghayth-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ghayth - Meaning: Intense Rain",
-        "email_subject": "Beautiful Name: Ghayth"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ghayth with meaning Intense Rain",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ghayth, associated with the Arabic form غيث, meaning rain, succour, relief."
     },
-    "similar_sounding_names": [
-      "gulerana"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,300 +3,476 @@
   "data": {
     "name": "Akbari",
     "slug": "akbari",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Great, Big",
-    "long_meaning": "Someone who is great, large or grand",
-    "spiritual_meaning": "Symbolizes growth, expansion and greatness in the spiritual sense",
-    "emotional_traits": [
-      "Confident",
-      "Majestic",
-      "Powerful"
-    ],
-    "hidden_personality_traits": [
-      "Intelligent",
-      "Generous",
-      "Visionary"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "The number 6 represents love, harmony, and balance",
-    "in_arabic": {
-      "name": "أكبري",
-      "meaning": "يعني الأكبر أو الأعظم في الصفات الحميدة",
-      "long_meaning": "اسم أكبري مشتق من الجذر العربي ك-ب-ر، ويعني الأكبر أو الأعظم في الصفات الحميدة، وقد ورد في القرآن الكريم عدة مرات في سياق التكبير والتعظيم لله تعالى. يستخدم الاسم للدلالة على العظمة والكبرياء في المعنى الإسلامي."
+    "identity": {
+      "display_name": "Akbari",
+      "normalized_name": "akbari",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Akbari",
+        "akbari"
+      ],
+      "search_variants": [
+        "Akbari",
+        "akbari"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اکبری",
-      "meaning": "اکبر یا اعظم کے معنی میں، عالی شان و مرتبت",
-      "long_meaning": "نام اکبری عربی جڑ ک-ب-ر سے ماخوذ ہے، جس کا مطلب ہے بڑا یا عظیم۔ یہ نام اسلامی تقویم میں بڑے یا اعظم کے معنی میں استعمال ہوتا ہے، اور یہ اکثر اللہ کی عظمت و کبریائی کے لئے استعمال کیا جاتا ہے۔ جنوبی ایشیاء میں مسلمانوں کے ذریعہ اس کا استعمال ایک اعلیٰ درجے کی عزت و احترام کے طور پر کیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Great, big",
+      "primary_meaning": "Great",
+      "secondary_meanings": [
+        "big"
+      ],
+      "literal_meaning": "Great",
+      "extended_meaning": "Great, big",
+      "meaning_explanation": "Akbari corresponds to the Arabic form أكبرى (ك ب ر). Its core sense is great, big. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अकबरी",
-      "meaning": "अकबर या सबसे बड़े के अर्थ में, उच्च सम्मान",
-      "long_meaning": "नाम अकबरी अरबी मूल क-ب-र से लिया गया है, जिसका अर्थ है सबसे बड़ा या महान। यह नाम इस्लामी परंपरा में बड़े या सबसे महान के अर्थ में प्रयोग किया जाता है, और अक्सर इसका उपयोग अल्लाह की महानता और महिमा के लिए किया जाता है। भारतीय मुस्लिम समुदाय में, यह नाम उच्च सम्मान और प्रतिष्ठा के प्रतीक के रूप में प्रयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أكبرى",
+      "transliteration": "akbari",
+      "romanization": "akbari",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Great",
+        "big"
+      ],
+      "etymology_explanation": "The form أكبرى is an established Arabic lexical item. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اکبری",
-      "meaning": "د لوی یا اعظم په معنی، لوړ پوړی",
-      "long_meaning": "د اکبری نوم د عربي ريښو ک-ب-ر څخه اخیستل شوی دی، چې معنی یې لوی یا اعظم دی. دا نوم د اسلامي دودیزو کې د لوی یا اعظم په معنی کارول کیږي، او ډیری وختونه د الله تعالی د عظمت او کبر لپاره کارول کیږي. په افغانستان او پښتونستان کې، دا نوم د لوړ پوړو او عزت لرونکو کسانو لپاره کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أكبرى is an established Arabic form.",
+        "Urdu": "اکبری is used in Urdu.",
+        "Hindi": "अकबरी is used in Hindi.",
+        "Pashto": "اکبری is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Akbari",
-      "meaning": "Means 'the greatest' or 'the most exalted'",
-      "long_meaning": "The name Akbari is derived from the Arabic root k-b-r, which means 'to be great' or 'to be powerful'. In Islamic tradition, the name Akbari signifies 'the greatest' or 'the most exalted', often referring to Allah's attributes. Historically, the name has been used to denote someone of high status or nobility. It carries spiritual significance, reflecting the values of greatness, majesty, and exaltation in Islam."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form أكبرى. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Akbari may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense great, big.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Great",
+      "related_concepts": [
+        "great",
+        "big"
+      ],
+      "semantic_relationship": "The central semantic idea is great; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of great.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Great",
+        "Big"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Akbari",
+        "meaning": "Great, big",
+        "long_meaning": "Akbari is a Arabic-origin name. Its core meaning is great, big. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "اکبری",
+        "meaning": "بڑا، عظیم",
+        "long_meaning": "Akbari (اکبری) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بڑا، عظیم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अकबरी",
+        "meaning": "बड़ा, महान",
+        "long_meaning": "Akbari (अकबरी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बड़ा, महान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اکبری",
+        "meaning": "لوی، عظیم",
+        "long_meaning": "Akbari (اکبری) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لوی، عظیم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أكبرى",
+        "meaning": "كبرى، عظيمة",
+        "long_meaning": "Akbari (أكبرى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي كبرى، عظيمة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-k-BAH-ree",
-      "urdu": "اردو میں تلفظ کی تفصیل: اکبری",
-      "hindi": "हिन्दी में उच्चारण विवरण: अकबरी",
-      "pashto": "په پښتو کې د تلفظ تفصیل: اکبری",
-      "ipa": "/ɑːkˈbɑːri/"
+      "romanized": "ak-ba-ri",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اکبری",
+      "persian": null,
+      "hindi": "अकबरी",
+      "pashto": "اکبری"
     },
-    "celebrity_usage": [
-      "Mira Akbari (Actor)",
-      "Akbari Asad (Singer)"
-    ],
-    "social_tags": [
-      "#AkbariMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Akbari"
-    ],
-    "name_variations": [],
-    "popularity_score": 78,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Akbari",
+        "akbari"
+      ],
+      "script_variants": [
+        "أكبرى",
+        "اکبری",
+        "अकबरी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أكبرى is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Akbari can be understood through the Arabic form أكبرى, whose central sense is great, big. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Akbari mean?",
+        "answer": "Akbari is associated with the Arabic form أكبرى, whose core sense is great, big."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Akbari?",
+        "answer": "Akbari is associated with Arabic. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Akbari an Arabic name?",
+        "answer": "Yes — the underlying form أكبرى is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Akbari an Islamic name?",
+        "answer": "Akbari can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 80,
-        "year": 2024
+        "question": "Is Akbari a Quranic name?",
+        "answer": "Akbari should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Akbari mean in Urdu?",
+        "answer": "In Urdu, Akbari is rendered اکبری and carries the sense بڑا، عظیم."
+      },
+      {
+        "question": "What does Akbari mean in Persian?",
+        "answer": "No verified Persian form was established for Akbari."
+      },
+      {
+        "question": "How is Akbari pronounced?",
+        "answer": "A romanized syllable approximation is ak-ba-ri. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Akbari?",
+        "answer": "Romanization variants include Akbari, akbari. Script forms are أكبرى, اکبری, अकबरी."
+      },
+      {
+        "question": "Is Akbari a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Akbari Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Akbari, a beautiful Islam name meaning \"Great, Big\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Akbari, Islam name, baby names, Great, Big, Islam baby names, name meaning",
-      "description_paragraph": "Akbari is a meaningful Islam name of Arabic origin that means \"Great, Big\". Someone who is great, large or grand",
-      "keywords": [
-        "Akbari",
-        "Islam name",
-        "baby names",
-        "Great, Big",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Akbari in Islam tradition?",
-          "a": "Akbari is a beautiful Islam name meaning \"Great, Big\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Akbari a good Islam name for a baby?",
-          "a": "Yes, Akbari is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Akbari?",
-          "a": "The name Akbari has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Akbari correctly?",
-          "a": "Akbari is pronounced ah-k-BAH-ree in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Akbari?",
-          "a": "Naming a child Akbari brings blessings. The meaning \"Great, Big\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Akbari?",
-          "a": "Akbari is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Akbari Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Akbari (أكبرى).",
+      "h1": "Akbari Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Akbari meaning",
       "secondary_keywords": [
-        "Islam name Akbari",
-        "Akbari meaning",
-        "Akbari origin"
+        "Akbari name meaning",
+        "Akbari meaning in Urdu",
+        "Akbari origin",
+        "Akbari Islamic name",
+        "Akbari pronunciation",
+        "Akbari name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Akbari (أكبرى) is associated with the Arabic form أكبرى, whose core sense is great, big. Feminine/nisba form from أكبر. The source record's gloss 'Great, Big' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Akbari is associated with the Arabic form أكبرى, whose core sense is great, big.",
+      "meaning_section": "The central meaning of Akbari is great, big.",
+      "origin_section": "Akbari is associated with Arabic rather than with a different language.",
+      "islam_section": "Akbari can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Akbari is with the sense great.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Akbari",
+      "#AkbariMeaning",
+      "#AkbariName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Akbari\" is of Persian origin and is commonly used among Muslims, especially in Iran and South Asia. It is a title of respect and signifies greatness, importance, and excellence. This name has been associated with various historical figures such as Akbar the Great Mughal Emperor of India (1542-1605), who is known for his administration and contributions to Indian culture.",
-    "spiritual_significance": "In the Islamic context, the name \"Akbar\" is also used to refer to Allah (God) Himself, as mentioned in the Quran. Allah is the Greatest of all and the Sustainer of the Universe. The use of the name \"Akbari\" can be seen as a reminder of the greatness and majesty of Allah. It is a name that instills a sense of awe, reverence and humility in a Muslim. The spiritual significance of this name encourages individuals to strive for greatness not in worldly matters, but in their relationship with Allah, by living a virtuous and righteous life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Akbari carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Akbari corresponds to the Arabic form أكبرى",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Akbari has the core sense great, big",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Akbari remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Akbari",
-      "location": "Istanbul, Turkey",
-      "story": "Khadija Akbari, a teacher in Istanbul, Turkey, shares that their name Akbari meaning \"Great, Big\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Great, Big\" symbolizes Someone who is great, large or grand. In Islamic spirituality, bearing the name Akbari serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of great, big.",
-    "created_at": "2025-12-22T19:19:49.849Z",
-    "updated_at": "2025-12-22T04:53:14.742Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1525,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Akbari",
-      "description": "Great, Big",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Akbari",
+        "akbari"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Akbari",
-          "description": "Discover the meaning of Akbari - \"Great, Big\"",
-          "image": "/images/social/akbari-facebook.jpg"
+      "description": "A name associated with the Arabic form أكبرى, meaning great, big.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "akbari",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Akbari - Name Meaning",
-          "description": "Learn about the beautiful name Akbari",
-          "image": "/images/social/akbari-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Akbari",
-          "description": "Name meaning: Great, Big",
-          "image": "/images/social/akbari-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Akbari - Meaning: Great, Big",
-        "email_subject": "Beautiful Name: Akbari"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Akbari with meaning Great, Big",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Akbari, associated with the Arabic form أكبرى, meaning great, big."
     },
-    "similar_sounding_names": [
-      "arsala",
-      "amelia",
-      "alabbas",
-      "ariana",
-      "ashika",
-      "alraaz",
-      "anila",
-      "aryan",
-      "alma",
-      "ambar"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

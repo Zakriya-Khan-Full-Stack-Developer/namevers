@@ -3,284 +3,481 @@
   "data": {
     "name": "Maruf",
     "slug": "maruf",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Known, Famous, Renowned",
-    "long_meaning": "The name Maruf is derived from the Arabic word 'marafa', which means 'to know' or 'to recognize'. In Islamic context, it signifies being known and recognized for one's righteous deeds and good character. This name is mentioned in a Hadith of Prophet Muhammad (peace be upon him) where he said: 'The best names are those which are derived from the names of Allah, the Most High, and those which are derived from the names of the Prophets.' (Bukhari)",
-    "spiritual_meaning": "A name that symbolizes recognition and acceptance in the sight of Allah.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 9,
-    "numerology_meaning": "Those with the name Maruf are likely to be independent, strong-willed, and determined individuals. They have a deep sense of humanitarianism and are natural leaders. They may experience challenges in their communication and relationships, but their strong character and determination help them overcome obstacles.",
-    "in_arabic": {
-      "name": "معروف",
-      "meaning": "الاسم المعروف والمشهور بالخير والصلاح",
-      "long_meaning": "المعروف هو اسم مشتق من الفعل 'عرف' الذي يعني التعرف على الشيء أو الشخص. في السياق الإسلامي، يُعتبر اسم معروف دلالة على الشخص المعروف بالخير والصلاح، وقد ورد في القرآن الكريم في عدة مواضع. يشير إلى صفة من صفات الله تعالى، وهي معرفة الخلق لخالقهم."
+    "identity": {
+      "display_name": "Maruf",
+      "normalized_name": "maruf",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Maruf",
+        "maruf"
+      ],
+      "search_variants": [
+        "Maruf",
+        "maruf"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "معروف",
-      "meaning": "معروف نام اچھے کاموں اور سلوک کے لئے جانا جاتا ہے",
-      "long_meaning": "معروف نام عربی زبان کے الفاظ سے ماخوذ ہے جس کا مطلب ہے 'المعروف' یا 'مشہور'. اسلامی تقالید میں، یہ نام اچھے کاموں اور سلوک کے لئے جانا جاتا ہے. معروف کا مطلب ہے کہ جو شخص اچھے کام کرتا ہے اور لوگوں کے دلوں میں مثبت تاثر پیدا کرتا ہے."
+    "core_meaning": {
+      "short_meaning": "Known, recognized, well-known",
+      "primary_meaning": "Known",
+      "secondary_meanings": [
+        "recognized",
+        "well-known"
+      ],
+      "literal_meaning": "Known",
+      "extended_meaning": "Known, recognized, well-known",
+      "meaning_explanation": "Maruf corresponds to the Arabic form معروف (Arabic root ع ر ف (ʿ-r-f); مَعْرُوف (Maʿrūf)). Its core sense is known, recognized, well-known. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मारूफ",
-      "meaning": "मारूफ नाम अच्छे कार्यों और संस्कार के लिए जाना जाता है",
-      "long_meaning": "मारूफ नाम अरबी भाषा के शब्दों से लिया गया है जिसका अर्थ है 'अच्छे कार्य' या 'प्रसिद्ध'. इस्लामी परंपरा में, यह नाम अच्छे कार्यों और संस्कार के लिए जाना जाता है. मारूफ का अर्थ है कि जो व्यक्ति अच्छे कार्य करता है और लोगों के दिलों में सकारात्मक प्रभाव डालता है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "معروف",
+      "transliteration": "maruf",
+      "romanization": "maruf",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Known",
+        "recognized",
+        "well-known"
+      ],
+      "etymology_explanation": "The form معروف is an established Arabic lexical item. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "معروف",
-      "meaning": "معروف نوم د ښو کارونو او سلو لپاره پېژندل شوی دی",
-      "long_meaning": "معروف نوم د عربي ژبې څخه اخیستل شوی دی چې معنی یې 'ښه کار' یا 'مشهور' دی. د اسلامي دودیزو په منځ کې، دا نوم د ښو کارونو او سلو لپاره پېژندل شوی دی. معروف دا معنی لري چې څوک ښه کار کوي او د خلکو په زړونو کې مثبته اغیزه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "معروف is an established Arabic form.",
+        "Urdu": "معروف is used in Urdu.",
+        "Persian": "معروف is an established Persian form.",
+        "Hindi": "मारूफ़ is used in Hindi.",
+        "Pashto": "معروف is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Maruf",
-      "meaning": "Known for good deeds and righteous character",
-      "long_meaning": "The name Maruf originates from the Arabic root 'عرف' (ʿ-r-f), meaning 'to know' or 'to recognize'. In Islamic tradition, Maruf signifies a person known for their good deeds, righteousness, and positive influence. The term 'Maruf' is mentioned in the Quran, emphasizing the importance of promoting good and righteous behavior. The name reflects qualities of kindness, compassion, and moral integrity."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form معروف. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Maruf may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense known, recognized, well-known.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Known",
+      "related_concepts": [
+        "known",
+        "recognized",
+        "well-known"
+      ],
+      "semantic_relationship": "The central semantic idea is known; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of known.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Known",
+        "Recognized",
+        "Well-known"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Maruf",
+        "meaning": "Known, recognized, well-known",
+        "long_meaning": "Maruf is a Arabic-origin name. Its core meaning is known, recognized, well-known. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff."
+      },
+      "urdu": {
+        "name": "معروف",
+        "meaning": "معروف، مشہور، جانا پہچانا",
+        "long_meaning": "Maruf (معروف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معروف، مشہور، جانا پہچانا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "معروف",
+        "meaning": "معروف، شناختهشده، نامدار",
+        "long_meaning": "Maruf (معروف) نامی برگرفته از زبان عربی است و معنای اصلی آن معروف، شناختهشده، نامدار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मारूफ़",
+        "meaning": "प्रसिद्ध, मारूफ़, जाना-पहचाना",
+        "long_meaning": "Maruf (मारूफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रसिद्ध, मारूफ़, जाना-पहचाना है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "معروف",
+        "meaning": "معروف، پېژندل شوی، نامتو",
+        "long_meaning": "Maruf (معروف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې معروف، پېژندل شوی، نامتو ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "معروف",
+        "meaning": "المعروف، المشهور، المعلوم",
+        "long_meaning": "Maruf (معروف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المعروف، المشهور، المعلوم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "MA-roof",
-      "urdu": "اردو میں تلفظ: مَعْرُوف",
-      "hindi": "हिन्दी में उच्चारण: मारूफ",
-      "pashto": "په پښتو کې تلفظ: مَعْرُوف",
-      "ipa": "/mɑːˈruːf/"
+      "romanized": "ma-ruf",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "معروف",
+      "persian": "معروف",
+      "hindi": "मारूफ़",
+      "pashto": "معروف"
     },
-    "celebrity_usage": [
-      "Maruf Ahmad"
-    ],
-    "social_tags": [
-      "#MarufMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Maruf"
-    ],
-    "name_variations": [],
-    "popularity_score": 43,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Maruf",
+        "maruf"
+      ],
+      "script_variants": [
+        "معروف",
+        "मारूफ़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form معروف is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Maruf can be understood through the Arabic form معروف, whose central sense is known, recognized, well-known. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Maruf mean?",
+        "answer": "Maruf is associated with the Arabic form معروف, whose core sense is known, recognized, well-known."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Maruf?",
+        "answer": "Maruf is associated with Arabic. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Maruf an Arabic name?",
+        "answer": "Yes — the underlying form معروف is Arabic."
+      },
+      {
+        "question": "Is Maruf an Islamic name?",
+        "answer": "Maruf can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Maruf a Quranic name?",
+        "answer": "Maruf should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Maruf mean in Urdu?",
+        "answer": "In Urdu, Maruf is rendered معروف and carries the sense معروف، مشہور، جانا پہچانا."
+      },
+      {
+        "question": "What does Maruf mean in Persian?",
+        "answer": "In Persian, Maruf is rendered معروف and carries the sense معروف، شناختهشده، نامدار."
+      },
+      {
+        "question": "How is Maruf pronounced?",
+        "answer": "A romanized syllable approximation is ma-ruf. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Maruf?",
+        "answer": "Romanization variants include Maruf, maruf. Script forms are معروف, मारूफ़."
+      },
+      {
+        "question": "Is Maruf a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Maruf Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Maruf, a beautiful Islam name meaning \"Known, Famous, Renowned\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Maruf, Islam name, baby names, Known, Famous, Renowned, Islam baby names, name meaning",
-      "description_paragraph": "Maruf is a meaningful Islam name of Arabic origin that means \"Known, Famous, Renowned\". The name Maruf is derived from the Arabic word 'marafa', which means 'to know' or 'to recognize'. In Islamic context, it signifies being known and recognized for one's righteous deeds and good character. This name is mentioned in a Hadith of Prophet Muhammad (peace be upon him) where he said: 'The best names are those which are derived from the names of Allah, the Most High, and those which are derived from the names of the Prophets.' (Bukhari)",
-      "keywords": [
-        "Maruf",
-        "Islam name",
-        "baby names",
-        "Known, Famous, Renowned",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Maruf in Islam tradition?",
-          "a": "Maruf is a beautiful Islam name meaning \"Known, Famous, Renowned\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Maruf a good Islam name for a baby?",
-          "a": "Yes, Maruf is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Maruf?",
-          "a": "The name Maruf has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Maruf correctly?",
-          "a": "Maruf is pronounced MA-roof in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Maruf?",
-          "a": "Naming a child Maruf brings blessings. The meaning \"Known, Famous, Renowned\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Maruf?",
-          "a": "Maruf is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Maruf Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Maruf (معروف).",
+      "h1": "Maruf Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Maruf meaning",
       "secondary_keywords": [
-        "Islam name Maruf",
-        "Maruf meaning",
-        "Maruf origin"
+        "Maruf name meaning",
+        "Maruf meaning in Urdu",
+        "Maruf origin",
+        "Maruf Islamic name",
+        "Maruf pronunciation",
+        "Maruf name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Maruf (معروف) is associated with the Arabic form معروف, whose core sense is known, recognized, well-known. Maruf is Arabic مَعْرُوف (Maʿrūf) 'known, recognized, well-known', from the root ع ر ف (ʿ-r-f). The source gloss 'Known, Famous, Renowned' is consistent. Same name as maroof and maruff.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Maruf is associated with the Arabic form معروف, whose core sense is known, recognized, well-known.",
+      "meaning_section": "The central meaning of Maruf is known, recognized, well-known.",
+      "origin_section": "Maruf is associated with Arabic rather than with a different language.",
+      "islam_section": "Maruf can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Maruf is with the sense known.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Maruf",
+      "#MarufMeaning",
+      "#MarufName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Maruf carries a noble cultural significance for Muslims around the world. By bearing this name, an individual is reminding themselves and those around them of the importance of good character and righteous deeds. The name Maruf is a constant reminder that actions speak louder than words, and that one should strive to be known for their positive qualities. This can lead to a positive ripple effect in society as people are inspired to emulate the good character of those with this name.",
-    "spiritual_significance": "From a spiritual perspective, the name Maruf represents an aim to please Allah, the Almighty, by leading a virtuous life. The Prophet's Hadith emphasizes the importance of defining oneself through names derived from Allah and the Prophets, and Maruf fits that description as it is derived from the Arabic word 'marafa', which is closely related to the Arabic term for 'knowledge of Allah' (ilm Allah) and 'worship of Allah' (ibadah). Therefore, this name carries a profound spiritual significance as it serves as a constant reminder for individuals to stay focused on their faith and strive to seek Allah's pleasure through good character and righteous deeds.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Maruf carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Maruf corresponds to the Arabic form معروف",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Maruf has the core sense known, recognized, well-known",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Maruf remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khalid Maruf",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Khalid Maruf in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Maruf, which means \"Known, Famous, Renowned\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Known, Famous, Renowned\" symbolizes The name Maruf is derived from the Arabic word 'marafa', which means 'to know' or 'to recognize'. In Islamic context, it signifies being known and recognized for one's righteous deeds and good character. This name is mentioned in a Hadith of Prophet Muhammad (peace be upon him) where he said: 'The best names are those which are derived from the names of Allah, the Most High, and those which are derived from the names of the Prophets.' (Bukhari). In Islamic spirituality, bearing the name Maruf serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of known, famous, renowned.",
-    "created_at": "2025-12-22T19:19:49.91Z",
-    "updated_at": "2025-12-22T04:53:15.271Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1603,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Maruf",
-      "description": "Known, Famous, Renowned",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Maruf",
+        "maruf"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Maruf",
-          "description": "Discover the meaning of Maruf - \"Known, Famous, Renowned\"",
-          "image": "/images/social/maruf-facebook.jpg"
+      "description": "A name associated with the Arabic form معروف, meaning known, recognized, well-known.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "maruf",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Maruf - Name Meaning",
-          "description": "Learn about the beautiful name Maruf",
-          "image": "/images/social/maruf-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Maruf",
-          "description": "Name meaning: Known, Famous, Renowned",
-          "image": "/images/social/maruf-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Maruf - Meaning: Known, Famous, Renowned",
-        "email_subject": "Beautiful Name: Maruf"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Maruf with meaning Known, Famous, Renowned",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Maruf, associated with the Arabic form معروف, meaning known, recognized, well-known."
     },
-    "similar_sounding_names": [
-      "mahek",
-      "meher",
-      "mika",
-      "marnia",
-      "meena",
-      "maassama",
-      "marhabah",
-      "manab",
-      "mada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

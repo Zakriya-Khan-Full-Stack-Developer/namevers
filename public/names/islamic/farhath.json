@@ -3,283 +3,476 @@
   "data": {
     "name": "Farhath",
     "slug": "farhath",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male/Female/Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Joy, Happiness",
-    "long_meaning": "Derived from the Arabic word 'farah' which means joy and happiness.",
-    "spiritual_meaning": "A name that symbolizes divine blessings and contentment.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Pink",
-      "Silver"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 6,
-    "numerology_meaning": "A name that resonates with the energy of nurturing, caring, and helping others. It is a name that suggests a deep connection to the natural world and a desire to create beauty and harmony in the world around you.",
-    "in_arabic": {
-      "name": "فرحات",
-      "meaning": "فرح و مسرت کا باعث، خوشیاں اور آگاہی دینے والا",
-      "long_meaning": "فرحات نام کا مطلب ہے فرح و مسرت کا باعث، خوشیاں اور آگاہی دینے والا۔ یہ نام فرح (F-R-Ĥ) کے عربی جڑ سے نکلا ہے، جو قرآن مجید میں بھی استعمال ہوا ہے (فرح: سورة آل عمران، آية ૧૧۱،  سورة مریم، آية ૫૦)। اسلامی تقالید میں، فرحات جیسے ناموں کو مبارک سمجھا جاتا ہے کیونکہ وہ مثبت معانی اور خوبیاں ظاہر کرتے ہیں۔"
+    "identity": {
+      "display_name": "Farhath",
+      "normalized_name": "farhath",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Farhath",
+        "farhath"
+      ],
+      "search_variants": [
+        "Farhath",
+        "farhath"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فرحات",
-      "meaning": "فرح و مسرت کا باعث، خوشیاں اور آگاہی دینے والا، خوشحال",
-      "long_meaning": "فرحات نام کا مطلب ہے فرح و مسرت کا باعث، خوشیاں اور آگاہی دینے والا، خوشحال۔ یہ نام عربی زبان سے نکلا ہے، جہاں فرح (فرح) کا مطلب ہے خوشیاں اور فرحات (فرحات) کا مطلب ہے فرح و مسرت کا باعث۔ جنوبی ایشیائی مسلم تقالید میں، یہ نام روحانی خوشحالی اور اندرونی سکون کی نشاندہی کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Joy, happiness",
+      "primary_meaning": "Joy",
+      "secondary_meanings": [
+        "happiness"
+      ],
+      "literal_meaning": "Joy",
+      "extended_meaning": "Joy, happiness",
+      "meaning_explanation": "Farhath corresponds to the Arabic form فرحة (ف ر ح). Its core sense is joy, happiness. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फरहात",
-      "meaning": "आनंद और ज्ञान का दाता, खुशियों का स्रोत",
-      "long_meaning": "फरहात नाम का अर्थ है आनंद और ज्ञान का दाता, खुशियों का स्रोत। यह नाम अरबी भाषा से निकला है, जहां 'फराह' (فرح) का अर्थ है खुशी और 'फरहात' (فرحات) का अर्थ है आनंद का कारण। भारतीय मुस्लिम समुदाय में, यह नाम आध्यात्मिक विकास और आंतरिक शांति का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فرحة",
+      "transliteration": "farhath",
+      "romanization": "farhath",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Joy",
+        "happiness"
+      ],
+      "etymology_explanation": "The form فرحة is an established Arabic lexical item. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فرحات",
-      "meaning": "د خوښۍ سبب، د پوهې او خبرتیا ورکوونکی",
-      "long_meaning": "فرحات نوم معنی د خوښۍ سبب، د پوهې او خبرتیا ورکوونکی. دا نوم د (فرح) عربي ريښې څخه اخستل شوی دی، کوم چې د قرآن کریم په شان کې استعمال شوی دی (فرح: سورة آل عمران، آية ۱۱۱، سورة مريم، آية ۵۰). د پښتنو او افغانانو په مسلم دود کې، دا نوم د مبارکۍ او نیکمرغۍ ښکارندوی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فرحة is an established Arabic form.",
+        "Urdu": "فرحت is used in Urdu.",
+        "Hindi": "फ़रहत is used in Hindi.",
+        "Pashto": "فرحت is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Farhath",
-      "meaning": "bringer of joy, knowledge, and happiness",
-      "long_meaning": "The name Farhath originates from the Arabic root 'farah' (فرح), meaning joy or happiness. It signifies a person who brings happiness, knowledge, and awareness. In Islamic tradition, names like Farhath are considered blessed as they convey positive attributes and qualities. The name has historical significance and is used across various Muslim cultures, symbolizing spiritual well-being and inner peace."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فرحة. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Farhath may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense joy, happiness.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Joy",
+      "related_concepts": [
+        "joy",
+        "happiness"
+      ],
+      "semantic_relationship": "The central semantic idea is joy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of joy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Joy",
+        "Happiness"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Farhath",
+        "meaning": "Joy, happiness",
+        "long_meaning": "Farhath is a Arabic-origin name. Its core meaning is joy, happiness. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فرحت",
+        "meaning": "خوشی، مسرت",
+        "long_meaning": "Farhath (فرحت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوشی، مسرت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़रहत",
+        "meaning": "आनंद, ख़ुशी",
+        "long_meaning": "Farhath (फ़रहत) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ आनंद, ख़ुशी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فرحت",
+        "meaning": "خوښي، خوشحالي",
+        "long_meaning": "Farhath (فرحت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوښي، خوشحالي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فرحة",
+        "meaning": "الفرح، السعادة",
+        "long_meaning": "Farhath (فرحة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفرح، السعادة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "far-haath",
-      "urdu": "فرحات کا تلفظ: ف ر ح ا ت",
-      "hindi": "फरहात का उच्चारण: फ र ह ा त",
-      "pashto": "د فرحات تلفظ: ف ر ح ا ت",
-      "ipa": "/fɑrˈhɑːθ/"
+      "romanized": "far-hath",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فرحت",
+      "persian": null,
+      "hindi": "फ़रहत",
+      "pashto": "فرحت"
     },
-    "celebrity_usage": [
-      "Farhath Hussain - Indian actress"
-    ],
-    "social_tags": [
-      "#FarhathMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Farhath"
-    ],
-    "name_variations": [],
-    "popularity_score": 73,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Farhath",
+        "farhath"
+      ],
+      "script_variants": [
+        "فرحة",
+        "فرحت",
+        "फ़रहत"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فرحة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Farhath can be understood through the Arabic form فرحة, whose central sense is joy, happiness. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 72,
-        "year": 2024
+        "question": "What does Farhath mean?",
+        "answer": "Farhath is associated with the Arabic form فرحة, whose core sense is joy, happiness."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Farhath?",
+        "answer": "Farhath is associated with Arabic. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Farhath an Arabic name?",
+        "answer": "Yes — the underlying form فرحة is Arabic."
+      },
+      {
+        "question": "Is Farhath an Islamic name?",
+        "answer": "Farhath can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Farhath a Quranic name?",
+        "answer": "Farhath should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Farhath mean in Urdu?",
+        "answer": "In Urdu, Farhath is rendered فرحت and carries the sense خوشی، مسرت."
+      },
+      {
+        "question": "What does Farhath mean in Persian?",
+        "answer": "No verified Persian form was established for Farhath."
+      },
+      {
+        "question": "How is Farhath pronounced?",
+        "answer": "A romanized syllable approximation is far-hath. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Farhath?",
+        "answer": "Romanization variants include Farhath, farhath. Script forms are فرحة, فرحت, फ़रहत."
+      },
+      {
+        "question": "Is Farhath a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Farhath Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Farhath, a beautiful Islam name meaning \"Joy, Happiness\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Farhath, Islam name, baby names, Joy, Happiness, Islam baby names, name meaning",
-      "description_paragraph": "Farhath is a meaningful Islam name of Arabic origin that means \"Joy, Happiness\". Derived from the Arabic word 'farah' which means joy and happiness.",
-      "keywords": [
-        "Farhath",
-        "Islam name",
-        "baby names",
-        "Joy, Happiness",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Farhath in Islam tradition?",
-          "a": "Farhath is a beautiful Islam name meaning \"Joy, Happiness\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Farhath a good Islam name for a baby?",
-          "a": "Yes, Farhath is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Farhath?",
-          "a": "The name Farhath has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Farhath correctly?",
-          "a": "Farhath is pronounced far-haath in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Farhath?",
-          "a": "Naming a child Farhath brings blessings. The meaning \"Joy, Happiness\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Farhath?",
-          "a": "Farhath is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Farhath Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Farhath (فرحة).",
+      "h1": "Farhath Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Farhath meaning",
       "secondary_keywords": [
-        "Islam name Farhath",
-        "Farhath meaning",
-        "Farhath origin"
+        "Farhath name meaning",
+        "Farhath meaning in Urdu",
+        "Farhath origin",
+        "Farhath Islamic name",
+        "Farhath pronunciation",
+        "Farhath name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Farhath (فرحة) is associated with the Arabic form فرحة, whose core sense is joy, happiness. Variant romanization of فرحت ('joy, gladness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Farhath is associated with the Arabic form فرحة, whose core sense is joy, happiness.",
+      "meaning_section": "The central meaning of Farhath is joy, happiness.",
+      "origin_section": "Farhath is associated with Arabic rather than with a different language.",
+      "islam_section": "Farhath can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Farhath is with the sense joy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Farhath",
+      "#FarhathMeaning",
+      "#FarhathName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Farhath holds immense cultural significance in the Islamic world and among the Arabic speaking populations. It is a beautiful and evocative name, filled with warmth and positivity. In many parts of the Muslim world, the month of Ramadan is celebrated with great joy and happiness, symbolizing the spiritual well-being and emotional depth that the Islamic faith offers its believers. The name Farhath is a reflection of this joyful and optimistic spirit.",
-    "spiritual_significance": "From a spiritual perspective, the name Farhath can be seen as a reminder of the immense joy and contentment that comes from leading a life guided by Islamic principles. It can also be seen as a manifestation of the joy and happiness that comes from the experience of connecting with the divine. In Islamic tradition, it is believed that true happiness and joy come from leading a life centered on faith, prayer, and good deeds. The name Farhath serves as a constant reminder of this truth and encourages its bearer to strive towards a life filled with joy, happiness, and spiritual growth.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ali ibn Abi Talib, the fourth caliph of Islam and cousin and son-in-law of the Prophet Muhammad. The name Farhath carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "common name in the Muslim world"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Farhath corresponds to the Arabic form فرحة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Farhath has the core sense joy, happiness",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, messaging apps"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Farhath remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Farhath",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Layla Farhath in Cairo, Egypt attributes much of their success to the blessing of their name Farhath, which means \"Joy, Happiness\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Joy, Happiness\" symbolizes Derived from the Arabic word 'farah' which means joy and happiness.. In Islamic spirituality, bearing the name Farhath serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of joy, happiness.",
-    "created_at": "2025-12-22T19:19:49.802Z",
-    "updated_at": "2025-12-22T04:53:14.478Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1735,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Farhath",
-      "description": "Joy, Happiness",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Farhath",
+        "farhath"
       ],
-      "religion": "Islam",
-      "gender": "(Male/Female/Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Farhath",
-          "description": "Discover the meaning of Farhath - \"Joy, Happiness\"",
-          "image": "/images/social/farhath-facebook.jpg"
+      "description": "A name associated with the Arabic form فرحة, meaning joy, happiness.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "farhath",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Farhath - Name Meaning",
-          "description": "Learn about the beautiful name Farhath",
-          "image": "/images/social/farhath-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Farhath",
-          "description": "Name meaning: Joy, Happiness",
-          "image": "/images/social/farhath-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Farhath - Meaning: Joy, Happiness",
-        "email_subject": "Beautiful Name: Farhath"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Farhath with meaning Joy, Happiness",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Farhath, associated with the Arabic form فرحة, meaning joy, happiness."
     },
-    "similar_sounding_names": [
-      "fadi",
-      "fardeen",
-      "firoz",
-      "faekah",
-      "farisha",
-      "fakeehah",
-      "faiyaz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

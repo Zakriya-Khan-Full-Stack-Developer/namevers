@@ -3,304 +3,477 @@
   "data": {
     "name": "Atiya",
     "slug": "atiya",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift, Present",
-    "long_meaning": "Atiya is an Arabic name that means 'gift' or 'present'. It is often given to girls as a blessing from God.",
-    "spiritual_meaning": "In Islamic tradition, Atiya is considered a form of generosity and charity, reflecting the act of giving and receiving with kindness.",
-    "emotional_traits": [
-      "Kind",
-      "Generous",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "G = Gracious",
-      "L = Loyal",
-      "C = Compassionate"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Moon Day",
-    "lucky_colors": [
-      "Silver",
-      "Pink"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 11,
-    "numerology_meaning": "Manifestation, illumination, and intuition",
-    "in_arabic": {
-      "name": "عطية",
-      "meaning": "عطية تعني الهدية أو العطاء من الله",
-      "long_meaning": "عطية اسم علم مؤنث، مشتق من الفعل عَطَى يَعطي عَطِيَةً، وهو من أسماء الله الحسنى التي تحمل معنى الهدية أو العطاء من الله تعالى. ورد اسم عطية في القرآن الكريم في سياق الحديث عن نعم الله وفضلها على عباده. يستخدم هذا الاسم في الثقافة الإسلامية تعبيرًا عن الامتنان لله على عطاياه وفضله."
+    "identity": {
+      "display_name": "Atiya",
+      "normalized_name": "atiya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Atiya",
+        "atiya"
+      ],
+      "search_variants": [
+        "Atiya",
+        "atiya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عطیہ",
-      "meaning": "عطیہ کا مطلب ہے اللہ کی دہی ہوئی نعمت یا تحفہ",
-      "long_meaning": "عطیہ ایک مؤنث اسم ہے جو عربی زبان کے فعل عَطَى سے ماخوذ ہے۔ اسلامی تقویم میں، یہ نام اللہ کی طرف سے دی گئی نعمتوں یا تحائف کے معنی میں استعمال ہوتا ہے۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں مقبول ہے، خاص طور پر پاکستان اور ہندوستان میں، جہاں یہ نام لڑکیوں کے لئے ایک خوبصورت اور معنی خیز انتخاب سمجھا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Gift, present",
+      "primary_meaning": "Gift",
+      "secondary_meanings": [
+        "present"
+      ],
+      "literal_meaning": "Gift",
+      "extended_meaning": "Gift, present",
+      "meaning_explanation": "Atiya corresponds to the Arabic form عطية (ع ط و). Its core sense is gift, present. ʿAṭiyya ('gift, present').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अतिया",
-      "meaning": "अतिया का अर्थ है परमात्मा की दी हुई देन या उपहार",
-      "long_meaning": "अतिया एक स्त्रीलिंग नाम है जो अरबी भाषा के क्रिया 'अता' से निकला है। भारतीय मुस्लिम समुदाय में, यह नाम भगवान की ओर से प्राप्त आशीर्वाद और उपहारों के प्रतीक के रूप में देखा जाता है। इस नाम का चयन अक्सर माता-पिता द्वारा अपनी बेटी के लिए एक पवित्र और सकारात्मक अर्थ के साथ किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عطية",
+      "transliteration": "atiya",
+      "romanization": "atiya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gift",
+        "present"
+      ],
+      "etymology_explanation": "The form عطية is an established Arabic lexical item. ʿAṭiyya ('gift, present').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عطيه",
-      "meaning": "عطيه د الله تعالی د ډالۍ یا انعام معنی لري",
-      "long_meaning": "عطيه يو ښځينه نوم دی چې د عربی ژبې د 'عَطَى' کلمې څخه اخیستل شوی دی. په پښتني او افغان کلتور کې، دا نوم د الله تعالی د نعمتونو او ډالۍ په معنا کارول کیږي. دا نوم اکثرا د پښتنو او افغان مسلمانانو لخوا د خپلو لو daughters لپاره د نعمت او برکت د نښانې په توګه غوره کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عطية is an established Arabic form.",
+        "Urdu": "عطیہ is used in Urdu.",
+        "Hindi": "अतिया is used in Hindi.",
+        "Pashto": "عطيه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Atiya",
-      "meaning": "Atiya means gift or present from God",
-      "long_meaning": "Atiya is a feminine given name derived from the Arabic verb 'عَطَى' (ata), which means 'to give'. The name signifies a gift or present from Allah, reflecting the Islamic concept of divine generosity and blessings. Atiya has been used in various Muslim cultures, including Arabic, Urdu, Turkish, and South Asian communities. It symbolizes gratitude for divine favors and is often chosen for its positive connotations and spiritual significance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عطية. ʿAṭiyya ('gift, present').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Atiya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gift, present.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gift",
+      "related_concepts": [
+        "gift",
+        "present"
+      ],
+      "semantic_relationship": "The central semantic idea is gift; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gift.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gift",
+        "Present"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Atiya",
+        "meaning": "Gift, present",
+        "long_meaning": "Atiya is a Arabic-origin name. Its core meaning is gift, present. ʿAṭiyya ('gift, present')."
+      },
+      "urdu": {
+        "name": "عطیہ",
+        "meaning": "تحفہ، نذرانہ",
+        "long_meaning": "Atiya (عطیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم تحفہ، نذرانہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अतिया",
+        "meaning": "उपहार, भेंट",
+        "long_meaning": "Atiya (अतिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उपहार, भेंट है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عطيه",
+        "meaning": "ډالۍ، نذرانه",
+        "long_meaning": "Atiya (عطيه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډالۍ، نذرانه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عطية",
+        "meaning": "العطية، الهدية",
+        "long_meaning": "Atiya (عطية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العطية، الهدية. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-TEE-yah",
-      "urdu": "اردو میں تلفظ: عَطیہ (ah-TEE-yah)",
-      "hindi": "हिन्दी में उच्चारण: अटीया (ah-TEE-yah)",
-      "pashto": "په پښتو کې د تلفظ: عطيه (ah-TEE-yah)",
-      "ipa": "/ɑːˈtiːjɑː/"
+      "romanized": "a-tiya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عطیہ",
+      "persian": null,
+      "hindi": "अतिया",
+      "pashto": "عطيه"
     },
-    "celebrity_usage": [
-      "Atiya Soomro",
-      "Atiya Malik",
-      "Atiya Khan"
-    ],
-    "social_tags": [
-      "#AtiyaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Atiya"
-    ],
-    "name_variations": [
-      "Atiyah"
-    ],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Atiya",
+        "atiya"
+      ],
+      "script_variants": [
+        "عطية",
+        "عطيه",
+        "عطیہ",
+        "अतिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عطية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Atiya can be understood through the Arabic form عطية, whose central sense is gift, present. ʿAṭiyya ('gift, present').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 71,
-        "year": 2024
+        "question": "What does Atiya mean?",
+        "answer": "Atiya is associated with the Arabic form عطية, whose core sense is gift, present."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Atiya?",
+        "answer": "Atiya is associated with Arabic. ʿAṭiyya ('gift, present')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 71,
-        "year": 2024
+        "question": "Is Atiya an Arabic name?",
+        "answer": "Yes — the underlying form عطية is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 64,
-        "year": 2024
+        "question": "Is Atiya an Islamic name?",
+        "answer": "Atiya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 70,
-        "year": 2024
+        "question": "Is Atiya a Quranic name?",
+        "answer": "Atiya should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Atiya mean in Urdu?",
+        "answer": "In Urdu, Atiya is rendered عطیہ and carries the sense تحفہ، نذرانہ."
+      },
+      {
+        "question": "What does Atiya mean in Persian?",
+        "answer": "No verified Persian form was established for Atiya."
+      },
+      {
+        "question": "How is Atiya pronounced?",
+        "answer": "A romanized syllable approximation is a-tiya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Atiya?",
+        "answer": "Romanization variants include Atiya, atiya. Script forms are عطية, عطيه, عطیہ, अतिया."
+      },
+      {
+        "question": "Is Atiya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Atiya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Atiya, a beautiful Islam name meaning \"Gift, Present\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Atiya, Islam name, baby names, Gift, Present, Islam baby names, name meaning",
-      "description_paragraph": "Atiya is a meaningful Islam name of Arabic origin that means \"Gift, Present\". Atiya is an Arabic name that means 'gift' or 'present'. It is often given to girls as a blessing from God.",
-      "keywords": [
-        "Atiya",
-        "Islam name",
-        "baby names",
-        "Gift, Present",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Atiya in Islam tradition?",
-          "a": "Atiya is a beautiful Islam name meaning \"Gift, Present\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Atiya a good Islam name for a baby?",
-          "a": "Yes, Atiya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Atiya?",
-          "a": "The name Atiya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Atiya correctly?",
-          "a": "Atiya is pronounced ah-TEE-yah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Atiya?",
-          "a": "Naming a child Atiya brings blessings. The meaning \"Gift, Present\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Atiya?",
-          "a": "Atiya is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Atiya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Atiya (عطية).",
+      "h1": "Atiya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Atiya meaning",
       "secondary_keywords": [
-        "Islam name Atiya",
-        "Atiya meaning",
-        "Atiya origin"
+        "Atiya name meaning",
+        "Atiya meaning in Urdu",
+        "Atiya origin",
+        "Atiya Islamic name",
+        "Atiya pronunciation",
+        "Atiya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Atiya (عطية) is associated with the Arabic form عطية, whose core sense is gift, present. ʿAṭiyya ('gift, present').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Atiya is associated with the Arabic form عطية, whose core sense is gift, present.",
+      "meaning_section": "The central meaning of Atiya is gift, present.",
+      "origin_section": "Atiya is associated with Arabic rather than with a different language.",
+      "islam_section": "Atiya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Atiya is with the sense gift.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Atiya",
+      "#AtiyaMeaning",
+      "#AtiyaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Atiya carries a rich cultural significance in the Middle Eastern and Muslim communities. It is a name that represents generosity, kindness, and elegance. The idea of giving a name that directly refers to a gift or present to a child is a beautiful tradition that highlights the importance of the family's blessings and the significance of the child's life. Atiya is also a name that evokes the idea of graciousness and consideration towards others, reflecting the values of hospitality and warmth that are deeply rooted in Islamic and Middle Eastern cultures.",
-    "spiritual_significance": "From a spiritual perspective, the name Atiya holds deep symbolism in the Islamic tradition. It is a reminder of the numerous blessings and gifts that Allah bestows upon us every day. Just as the name signifies a present or gift, so too is our life a gift from Allah. The name Atiya serves as a daily reminder to cherish and be grateful for the blessings we've been given, and to try and give back to others in turn. It also represents the idea of being a vessel for Allah's blessings and blessings others with kindness, compassion, and generosity. Ultimately, the name Atiya invites us to reflect on the preciousness of life, the importance of being a giver and a receiver, and to strive to be a blessing to all those around us.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Atiya ibn Abi Al-Aswad Al-Khawlan was a companion of the Prophet Muhammad and a leader of the Ansar of Medina.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Atiya corresponds to the Arabic form عطية",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Atiya has the core sense gift, present",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Atiya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Atiya",
-      "location": "Cairo, Egypt",
-      "story": "Fatima Atiya from Cairo, Egypt embodies the meaning of Atiya - \"Gift, Present\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gift, Present\" symbolizes Atiya is an Arabic name that means 'gift' or 'present'. It is often given to girls as a blessing from God.. In Islamic spirituality, bearing the name Atiya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, present.",
-    "created_at": "2025-12-22T19:19:49.83Z",
-    "updated_at": "2025-12-22T04:53:14.558Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1575,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Atiya",
-      "description": "Gift, Present",
-      "additionalName": [
-        "Atiyah"
+      "alternateName": [
+        "Atiya",
+        "atiya"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form عطية, meaning gift, present.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Atiya",
-          "description": "Discover the meaning of Atiya - \"Gift, Present\"",
-          "image": "/images/social/atiya-facebook.jpg"
+      "termCode": "atiya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Atiya - Name Meaning",
-          "description": "Learn about the beautiful name Atiya",
-          "image": "/images/social/atiya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Atiya",
-          "description": "Name meaning: Gift, Present",
-          "image": "/images/social/atiya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Atiya - Meaning: Gift, Present",
-        "email_subject": "Beautiful Name: Atiya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Atiya with meaning Gift, Present",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Atiya, associated with the Arabic form عطية, meaning gift, present."
     },
-    "similar_sounding_names": [
-      "alabbas",
-      "ada",
-      "alika",
-      "ariana",
-      "anaan",
-      "alishaba",
-      "anya",
-      "alma",
-      "ambar",
-      "amaya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

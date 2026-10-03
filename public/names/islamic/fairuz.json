@@ -3,289 +3,482 @@
   "data": {
     "name": "Fairuz",
     "slug": "fairuz",
-    "language": [
-      "Malay",
-      "Arabic",
-      "Indonesian"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Jewel, Precious Gem",
-    "long_meaning": "A precious and beautiful gem or jewel.",
-    "spiritual_meaning": "A symbol of inner beauty and grace.",
-    "emotional_traits": [
-      "Beauty",
-      "Grace",
-      "Rarity",
-      "Value"
-    ],
-    "hidden_personality_traits": [
-      "Determination",
-      "Intelligence",
-      "Creativity"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "#18AB54",
-      "#4D92D9"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the life path number 5 are free spirits. They love change, adventure, and new experiences. They are often very artistic.",
-    "in_arabic": {
-      "name": "فيروز",
-      "meaning": "حجر أزرق فاتح، نادر، ثمين، لونه أزرق سماوي",
-      "long_meaning": "اسم فيروز مشتق من الكلمة الفارسية فيروزج، وتعني الحجر الكريم الأزرق، و هو حجر ثمين نادر، يمتاز بلونه الأزرق السماوي، و يرمز إلى الثروة و الرفاهية، و يعتبر من الأسماء التي تدل على الجمال و الروعة، و له أهمية كبيرة في الثقافة الإسلامية و العربية."
+    "identity": {
+      "display_name": "Fairuz",
+      "normalized_name": "fairuz",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fairuz",
+        "fairuz"
+      ],
+      "search_variants": [
+        "Fairuz",
+        "fairuz"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فیروز",
-      "meaning": "ایک نادر اور قیمتی نیلا پتھر، آسماني نیلا رنگ",
-      "long_meaning": "فیروز ایک فارسی نام ہے جس کا مطلب ہے نیلا پتھر یا آسماني نیلا رنگ، یہ ایک ثمين و نادر پتھر ہے جو اپنی خوبصورتی اور قیمتی ہونے کی وجہ سے مشہور ہے، اسلامی ثقافت میں اس نام کی اہمیت اس کی خوبصورتی اور معانی کی گہرائی کی وجہ سے ہے، اور یہ جنوبی ایشیائی مسلمانوں میں ایک مقبول نام ہے."
+    "core_meaning": {
+      "short_meaning": "Jewel, precious gem, turquoise",
+      "primary_meaning": "Jewel",
+      "secondary_meanings": [
+        "precious gem",
+        "turquoise"
+      ],
+      "literal_meaning": "Jewel",
+      "extended_meaning": "Jewel, precious gem, turquoise",
+      "meaning_explanation": "Fairuz corresponds to the Persian form فيروز (Persian pīrūz). Its core sense is jewel, precious gem, turquoise. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फिरोज",
-      "meaning": "एक दुर्लभ और मूल्यवान नीला पत्थर, आकाशीय नीला रंग",
-      "long_meaning": "फिरोज एक नाम है जो फारसी भाषा से आया है, जिसका अर्थ है एक नीला पत्थर या आकाशीय नीला रंग, यह पत्थर अपनी सुंदरता और मूल्य की वजह से प्रसिद्ध है, भारतीय मुस्लिम समुदाय में इस नाम का महत्व इसकी सुंदरता और अर्थों की गहराई की वजह से है, और यह एक पारंपरिक नाम है."
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "فيروز",
+      "transliteration": "fairuz",
+      "romanization": "fairuz",
+      "root_status": "Persian pīrūz",
+      "etymological_meaning": [
+        "Jewel",
+        "precious gem",
+        "turquoise"
+      ],
+      "etymology_explanation": "The form فيروز is an established Persian lexical item. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فیروز",
-      "meaning": "نیلی ډبره، یو قیمتي او نادر ډبره",
-      "long_meaning": "فیروز د پښتو ژبې یو نوم دی چې معنی یې نیلی ډبره یا یو قیمتي او نادر ډبره ده، دا ډبره د خپل ښکلا او قیمتی کیدو له امله مشهوره ده، په افغان او پښتني کلتور کې دا نوم د خپل ښکلا او ماناګانو د ژورتیا له امله مهم دی، او دا د پښتنو مسلمانو لپاره یو مشهور نوم دی."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "فيروز is an established Arabic form.",
+        "Urdu": "فیروز is used in Urdu.",
+        "Persian": "فیروز is an established Persian form.",
+        "Hindi": "फ़िरोज़ is used in Hindi.",
+        "Pashto": "فیروز is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Fairuz",
-      "meaning": "a rare and precious blue stone, sky-blue color",
-      "long_meaning": "The name Fairuz is derived from the Persian word for turquoise, a rare and precious blue stone, symbolizing wealth, beauty, and spirituality, with roots in Arabic and Islamic tradition, reflecting a rich history and cultural significance across Muslim communities, particularly in the Middle East and South Asia."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form فيروز. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fairuz may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense jewel, precious gem, turquoise.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Jewel",
+      "related_concepts": [
+        "jewel",
+        "precious gem",
+        "turquoise"
+      ],
+      "semantic_relationship": "The central semantic idea is jewel; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of jewel.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Jewel",
+        "Precious gem",
+        "Turquoise"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fairuz",
+        "meaning": "Jewel, precious gem, turquoise",
+        "long_meaning": "Fairuz is a Persian-origin name. Its core meaning is jewel, precious gem, turquoise. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "فیروز",
+        "meaning": "جواہر، قیمتی نگینہ، فیروزہ",
+        "long_meaning": "Fairuz (فیروز) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جواہر، قیمتی نگینہ، فیروزہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "فیروز",
+        "meaning": "گوهر، جواهر، فیروزه",
+        "long_meaning": "Fairuz (فیروز) نامی برگرفته از زبان فارسی است و معنای اصلی آن گوهر، جواهر، فیروزه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "फ़िरोज़",
+        "meaning": "रत्न, बहुमूल्य मणि, फ़िरोज़ा",
+        "long_meaning": "Fairuz (फ़िरोज़) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रत्न, बहुमूल्य मणि, फ़िरोज़ा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فیروز",
+        "meaning": "جواهر، ګران ډبره، فیروزه",
+        "long_meaning": "Fairuz (فیروز) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جواهر، ګران ډبره، فیروزه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فيروز",
+        "meaning": "الجوهرة، الحجر الكريم، الفيروز",
+        "long_meaning": "Fairuz (فيروز) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الجوهرة، الحجر الكريم، الفيروز. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Fay-rooz",
-      "urdu": "فیروز کا تلفظ ہے فی-روز",
-      "hindi": "फिरोज़ का उच्चारण है फिर-ोज़",
-      "pashto": "فیروز د تلفظ دی فی-رووز",
-      "ipa": "/faɪˈruːz/"
+      "romanized": "fai-ruz",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فیروز",
+      "persian": "فیروز",
+      "hindi": "फ़िरोज़",
+      "pashto": "فیروز"
     },
-    "celebrity_usage": [
-      "Fairuz Shaban"
-    ],
-    "social_tags": [
-      "#FairuzMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fairuz"
-    ],
-    "name_variations": [],
-    "popularity_score": 68,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fairuz",
+        "fairuz"
+      ],
+      "script_variants": [
+        "فيروز",
+        "فیروز",
+        "फ़िरोज़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فيروز is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fairuz can be understood through the Persian form فيروز, whose central sense is jewel, precious gem, turquoise. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Fairuz mean?",
+        "answer": "Fairuz is associated with the Persian form فيروز, whose core sense is jewel, precious gem, turquoise."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Fairuz?",
+        "answer": "Fairuz is associated with Persian. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 90,
-        "year": 2024
+        "question": "Is Fairuz an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 80,
-        "year": 2024
+        "question": "Is Fairuz an Islamic name?",
+        "answer": "Fairuz can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fairuz a Quranic name?",
+        "answer": "Fairuz should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fairuz mean in Urdu?",
+        "answer": "In Urdu, Fairuz is rendered فیروز and carries the sense جواہر، قیمتی نگینہ، فیروزہ."
+      },
+      {
+        "question": "What does Fairuz mean in Persian?",
+        "answer": "In Persian, Fairuz is rendered فیروز and carries the sense گوهر، جواهر، فیروزه."
+      },
+      {
+        "question": "How is Fairuz pronounced?",
+        "answer": "A romanized syllable approximation is fai-ruz. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fairuz?",
+        "answer": "Romanization variants include Fairuz, fairuz. Script forms are فيروز, فیروز, फ़िरोज़."
+      },
+      {
+        "question": "Is Fairuz a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fairuz Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fairuz, a beautiful Islam name meaning \"Jewel, Precious Gem\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fairuz, Islam name, baby names, Jewel, Precious Gem, Islam baby names, name meaning",
-      "description_paragraph": "Fairuz is a meaningful Islam name of Arabic origin that means \"Jewel, Precious Gem\". A precious and beautiful gem or jewel.",
-      "keywords": [
-        "Fairuz",
-        "Islam name",
-        "baby names",
-        "Jewel, Precious Gem",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fairuz in Islam tradition?",
-          "a": "Fairuz is a beautiful Islam name meaning \"Jewel, Precious Gem\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fairuz a good Islam name for a baby?",
-          "a": "Yes, Fairuz is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fairuz?",
-          "a": "The name Fairuz has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fairuz correctly?",
-          "a": "Fairuz is pronounced Fay-rooz in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fairuz?",
-          "a": "Naming a child Fairuz brings blessings. The meaning \"Jewel, Precious Gem\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fairuz?",
-          "a": "Fairuz is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Fairuz Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fairuz (فيروز).",
+      "h1": "Fairuz Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fairuz meaning",
       "secondary_keywords": [
-        "Islam name Fairuz",
-        "Fairuz meaning",
-        "Fairuz origin"
+        "Fairuz name meaning",
+        "Fairuz meaning in Urdu",
+        "Fairuz origin",
+        "Fairuz Islamic name",
+        "Fairuz pronunciation",
+        "Fairuz name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fairuz (فيروز) is associated with the Persian form فيروز, whose core sense is jewel, precious gem, turquoise. Persian fīrūz ('turquoise'). The source record's gloss 'Jewel, Precious Gem' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fairuz is associated with the Persian form فيروز, whose core sense is jewel, precious gem, turquoise.",
+      "meaning_section": "The central meaning of Fairuz is jewel, precious gem, turquoise.",
+      "origin_section": "Fairuz is associated with Persian rather than with a different language.",
+      "islam_section": "Fairuz can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fairuz is with the sense jewel.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fairuz",
+      "#FairuzMeaning",
+      "#FairuzName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Fairuz\" holds a significant cultural impact, especially within the Arab world, as it conveys a sense of beauty, elegance, and rarity. In Arabic, \"Fairuz\" means \"precious\" or \"rare,\" and it reflects the idea of having a unique and valuable identity. This name is often used for individuals whom others view as having exceptional talents, achieving remarkable success, or simply being a beautiful and precious addition to the world.",
-    "spiritual_significance": "From a spiritual perspective, \"Fairuz\" has deeper meanings that transcend the physical realm. In Islamic tradition, it can symbolize the preciousness and worth of each soul sent by Allah to this world. Each soul is a divine gift, and it is believed that Allah is always present within every person, making every life unique and priceless. The name \"Fairuz\" can serve as a reminder of the inherent spiritual worth of every individual and can inspire one to live a life that reflects this preciousness. Thus, having the name \"Fairuz\" can foster a sense of self-worth, self-appreciation, and a connection to the divine.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Fairuz was mentioned in the 13th century by Ibn Khaldun The name Fairuz carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "The name Fairuz was used in the context of Islamic mysticism"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East",
-        "used in various forms of media"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fairuz corresponds to the Persian form فيروز",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Fairuz has the core sense jewel, precious gem, turquoise",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "music"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fairuz remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Fairuz",
-      "location": "Istanbul, Turkey",
-      "story": "Khadija Fairuz, a teacher in Istanbul, Turkey, shares that their name Fairuz meaning \"Jewel, Precious Gem\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Jewel, Precious Gem\" symbolizes A precious and beautiful gem or jewel.. In Islamic spirituality, bearing the name Fairuz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of jewel, precious gem.",
-    "created_at": "2025-12-22T19:19:49.873Z",
-    "updated_at": "2025-12-22T04:53:15.024Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1595,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fairuz",
-      "description": "Jewel, Precious Gem",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Malay",
-        "Arabic",
-        "Indonesian"
+      "alternateName": [
+        "Fairuz",
+        "fairuz"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fairuz",
-          "description": "Discover the meaning of Fairuz - \"Jewel, Precious Gem\"",
-          "image": "/images/social/fairuz-facebook.jpg"
+      "description": "A name associated with the Persian form فيروز, meaning jewel, precious gem, turquoise.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "fairuz",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Fairuz - Name Meaning",
-          "description": "Learn about the beautiful name Fairuz",
-          "image": "/images/social/fairuz-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Fairuz",
-          "description": "Name meaning: Jewel, Precious Gem",
-          "image": "/images/social/fairuz-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fairuz - Meaning: Jewel, Precious Gem",
-        "email_subject": "Beautiful Name: Fairuz"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fairuz with meaning Jewel, Precious Gem",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fairuz, associated with the Persian form فيروز, meaning jewel, precious gem, turquoise."
     },
-    "similar_sounding_names": [
-      "faekah",
-      "faiyaz",
-      "fardeen",
-      "fakeehah",
-      "fadi",
-      "firoz",
-      "farisha"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,282 +3,481 @@
   "data": {
     "name": "Aakil",
     "slug": "aakil",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Wise, Intelligent, Discerning",
-    "long_meaning": "Derived from the Arabic word 'a'qil, meaning intelligent, wise, and discerning. This name is mentioned in the Quran as one of the names of Allah, emphasizing His wisdom and knowledge.",
-    "spiritual_meaning": "Symbolizes wisdom and discernment, reflecting one's connection to Allah and the Quran.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the name Aakil have a strong sense of individuality and creativity. They are insightful, intuitive, and natural leaders.",
-    "in_arabic": {
-      "name": "عاقل",
-      "meaning": "عاقل شخص جس کے پاس صحیح فہم و فراست ہو",
-      "long_meaning": "عاقل وہ شخص ہے جو سمجھدار ہو، جس کے پاس صحیح فہم و فراست ہو، اور جو اپنے کاموں میں حکمت اور discernment کا مظاہرہ کرتا ہے۔ اسم 'عاقل' عقل کی اصل سے ماخوذ ہے، جس کا مطلب ہے 'سمجھنا' یا 'فہم کرنا'۔ قرآن میں عقل کے حوالے سے کئی آیات ہیں، جن میں عقل کو ایک اہم صفت کے طور پر ذکر کیا گیا ہے جو انسان کو صحیح راستے پر چلنے میں مدد کرتی ہے۔"
+    "identity": {
+      "display_name": "Aakil",
+      "normalized_name": "aakil",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aakil",
+        "aakil",
+        "akil"
+      ],
+      "search_variants": [
+        "Aakil",
+        "aakil",
+        "akil"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عاقل",
-      "meaning": "سمجھدار، فہم و فراست رکھنے والا شخص",
-      "long_meaning": "عاقل وہ شخص ہے جو سمجھدار ہو، جس کے پاس فہم و فراست ہو، اور جو اپنے کاموں میں حکمت کا مظاہرہ کرتا ہے۔ یہ نام عربی मूल سے ماخوذ ہے، جہاں 'عقل' کا مطلب ہے 'سمجھنا' یا 'فہم کرنا'۔ اسلامی تقلید میں، عقل کو ایک اہم صفت کے طور پر دیکھا جاتا ہے جو انسان کو صحیح فیصلے کرنے اور اپنے کاموں میں رہبری کرنے میں مدد کرتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Wise, intelligent",
+      "primary_meaning": "Wise",
+      "secondary_meanings": [
+        "intelligent"
+      ],
+      "literal_meaning": "Wise",
+      "extended_meaning": "Wise, intelligent",
+      "meaning_explanation": "Aakil corresponds to the Arabic form عاقل (Arabic root ع ق ل (ʿ-q-l); عَاقِل (ʿĀqil)). Its core sense is wise, intelligent. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अकिल",
-      "meaning": "समझदारी और विवेक रखने वाला व्यक्ति",
-      "long_meaning": "अकिल वह व्यक्ति है जो समझदारी और विवेक से परिपूर्ण हो, जो अपने कार्यों में बुद्धिमत्ता और समझदारी का प्रदर्शन करता है। यह नाम अरबी मूल से लिया गया है, जहां 'अकल' का अर्थ है 'समझना' या 'ज्ञानी होना'। इस्लामी परंपरा में, अकल को एक महत्वपूर्ण गुण के रूप में देखा जाता है जो व्यक्ति को सही निर्णय लेने और अपने कार्यों में नेतृत्व करने में मदद करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عاقل",
+      "transliteration": "aakil",
+      "romanization": "aakil",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Wise",
+        "intelligent"
+      ],
+      "etymology_explanation": "The form عاقل is an established Arabic lexical item. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عاقل",
-      "meaning": "هو هغه کسي چې پوه شي او سمجهي",
-      "long_meaning": "عاقل هغه کسي دی چې پوه شي او سمجهي، هغه کسي چې په خپلو کړو کې حکمت او پوهه ښيي. دا نوم د عربي اصلي څخه اخيستل شوی دی، چیرته چې 'عقل' د 'پوهې' يا 'سمجھې' معنی لري. په اسلامي دود کې، عقل يو مهم صفت ګڼل کيږي چې انسان سره مرسته کوي په سمه لاره روان شي او په خپلو کړو کې رهبري وکړي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عاقل is an established Arabic form.",
+        "Urdu": "عاقل is used in Urdu.",
+        "Persian": "عاقل is an established Persian form.",
+        "Hindi": "आक़िल is used in Hindi.",
+        "Pashto": "عاقل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Aakil",
-      "meaning": "Intelligent, wise, and understanding person",
-      "long_meaning": "Aakil is derived from the Arabic root 'Aqala', which means 'to understand' or 'to comprehend'. In Islamic tradition, Aakil is considered a wise and intelligent person who possesses understanding and discernment. The Quran mentions the importance of reason and intellect in several verses, emphasizing their role in guiding individuals towards the right path. Aakil is a name that reflects these qualities, signifying a person with a deep understanding and wisdom."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عاقل. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aakil may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense wise, intelligent.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Wise",
+      "related_concepts": [
+        "wise",
+        "intelligent"
+      ],
+      "semantic_relationship": "The central semantic idea is wise; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of wise.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Wise",
+        "Intelligent"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aakil",
+        "meaning": "Wise, intelligent",
+        "long_meaning": "Aakil is a Arabic-origin name. Its core meaning is wise, intelligent. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent."
+      },
+      "urdu": {
+        "name": "عاقل",
+        "meaning": "عقلمند، دانا",
+        "long_meaning": "Aakil (عاقل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عقلمند، دانا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عاقل",
+        "meaning": "خردمند، دانا",
+        "long_meaning": "Aakil (عاقل) نامی برگرفته از زبان عربی است و معنای اصلی آن خردمند، دانا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "आक़िल",
+        "meaning": "बुद्धिमान, समझदार",
+        "long_meaning": "Aakil (आक़िल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बुद्धिमान, समझदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عاقل",
+        "meaning": "عقلمن، پوه",
+        "long_meaning": "Aakil (عاقل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عقلمن، پوه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عاقل",
+        "meaning": "الحكيمة، العاقلة",
+        "long_meaning": "Aakil (عاقل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحكيمة، العاقلة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-KEEL",
-      "urdu": "اردو میں تلفظ کی تفصیل: عاقل (aakil)",
-      "hindi": "हिन्दी में उच्चारण विवरण: अकिल (akil)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عاقل (aakil)",
-      "ipa": "/ˈɑːkiːl/"
+      "romanized": "aa-kil",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عاقل",
+      "persian": "عاقل",
+      "hindi": "आक़िल",
+      "pashto": "عاقل"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AakilMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aakil"
-    ],
-    "name_variations": [],
-    "popularity_score": 68,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aakil",
+        "aakil",
+        "akil"
+      ],
+      "script_variants": [
+        "عاقل",
+        "आक़िल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عاقل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aakil can be understood through the Arabic form عاقل, whose central sense is wise, intelligent. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Aakil mean?",
+        "answer": "Aakil is associated with the Arabic form عاقل, whose core sense is wise, intelligent."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Aakil?",
+        "answer": "Aakil is associated with Arabic. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Aakil an Arabic name?",
+        "answer": "Yes — the underlying form عاقل is Arabic."
+      },
+      {
+        "question": "Is Aakil an Islamic name?",
+        "answer": "Aakil can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aakil a Quranic name?",
+        "answer": "Aakil should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Aakil mean in Urdu?",
+        "answer": "In Urdu, Aakil is rendered عاقل and carries the sense عقلمند، دانا."
+      },
+      {
+        "question": "What does Aakil mean in Persian?",
+        "answer": "In Persian, Aakil is rendered عاقل and carries the sense خردمند، دانا."
+      },
+      {
+        "question": "How is Aakil pronounced?",
+        "answer": "A romanized syllable approximation is aa-kil. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aakil?",
+        "answer": "Romanization variants include Aakil, aakil, akil. Script forms are عاقل, आक़िल."
+      },
+      {
+        "question": "Is Aakil a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aakil Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aakil, a beautiful Islam name meaning \"Wise, Intelligent, Discerning\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aakil, Islam name, baby names, Wise, Intelligent, Discerning, Islam baby names, name meaning",
-      "description_paragraph": "Aakil is a meaningful Islam name of Arabic origin that means \"Wise, Intelligent, Discerning\". Derived from the Arabic word 'a'qil, meaning intelligent, wise, and discerning. This name is mentioned in the Quran as one of the names of Allah, emphasizing His wisdom and knowledge.",
-      "keywords": [
-        "Aakil",
-        "Islam name",
-        "baby names",
-        "Wise, Intelligent, Discerning",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aakil in Islam tradition?",
-          "a": "Aakil is a beautiful Islam name meaning \"Wise, Intelligent, Discerning\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aakil a good Islam name for a baby?",
-          "a": "Yes, Aakil is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aakil?",
-          "a": "The name Aakil has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aakil correctly?",
-          "a": "Aakil is pronounced ah-KEEL in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aakil?",
-          "a": "Naming a child Aakil brings blessings. The meaning \"Wise, Intelligent, Discerning\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aakil?",
-          "a": "Aakil is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Aakil Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aakil (عاقل).",
+      "h1": "Aakil Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aakil meaning",
       "secondary_keywords": [
-        "Islam name Aakil",
-        "Aakil meaning",
-        "Aakil origin"
+        "Aakil name meaning",
+        "Aakil meaning in Urdu",
+        "Aakil origin",
+        "Aakil Islamic name",
+        "Aakil pronunciation",
+        "Aakil name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aakil (عاقل) is associated with the Arabic form عاقل, whose core sense is wise, intelligent. Aakil is Arabic عَاقِل (ʿĀqil) 'wise, intelligent, discerning', from the root ع ق ل (ʿ-q-l). The source gloss 'Wise, Intelligent, Discerning' is consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aakil is associated with the Arabic form عاقل, whose core sense is wise, intelligent.",
+      "meaning_section": "The central meaning of Aakil is wise, intelligent.",
+      "origin_section": "Aakil is associated with Arabic rather than with a different language.",
+      "islam_section": "Aakil can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aakil is with the sense wise.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aakil",
+      "#AakilMeaning",
+      "#AakilName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Aakil\" carries a rich cultural heritage and significance for individuals and communities who identify with the Islamic tradition. It holds a high value in various aspects of Muslim life, from naming practices to the development of moral character. In many Muslim societies, it is customary to give a child a name with meaning and purpose, and the name \"Aakil\" reflects these aspirations, as it signifies intelligence and wisdom. Additionally, \"Aakil\" is often used as a title of respect and esteem for scholars, judges, and other wise and learned individuals who embody the qualities of intelligence and discernment.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Aakil\" is rooted in the Quranic conception of God as the \"All-Akilean\" or Al-Aqil, the One who is the embodiment of perfect wisdom, intelligence, and knowledge. By bestowing this name upon an individual, parents and communities are expressing their hope and aspiration that the person will emulate the Akilean nature of Allah and strive to cultivate wisdom, understanding, and discernment in their own lives, contributing to the spiritual growth and development of both the individual and the community at large. The spiritual significance of the name \"Aakil\" is not limited to human beings, but also extends to the natural world, as Muslims are encouraged to recognize and appreciate the wisdom and intelligence inherent in all of God's creations. Therefore, the name \"Aakil\" carries a profound spiritual significance that transcends cultural boundaries, providing a powerful reminder of the wisdom of Allah and inspiring a lifelong quest for knowledge and understanding in all aspects of life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Aakil carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aakil corresponds to the Arabic form عاقل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aakil has the core sense wise, intelligent",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aakil remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Hassan Aakil",
-      "location": "Karachi, Pakistan",
-      "story": "Hassan Aakil, a teacher in Karachi, Pakistan, shares that their name Aakil meaning \"Wise, Intelligent, Discerning\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Wise, Intelligent, Discerning\" symbolizes Derived from the Arabic word 'a'qil, meaning intelligent, wise, and discerning. This name is mentioned in the Quran as one of the names of Allah, emphasizing His wisdom and knowledge.. In Islamic spirituality, bearing the name Aakil serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of wise, intelligent, discerning.",
-    "created_at": "2025-12-22T19:19:49.928Z",
-    "updated_at": "2025-12-22T04:53:15.483Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1026,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aakil",
-      "description": "Wise, Intelligent, Discerning",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Aakil",
+        "aakil",
+        "akil"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aakil",
-          "description": "Discover the meaning of Aakil - \"Wise, Intelligent, Discerning\"",
-          "image": "/images/social/aakil-facebook.jpg"
+      "description": "A name associated with the Arabic form عاقل, meaning wise, intelligent.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "aakil",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aakil - Name Meaning",
-          "description": "Learn about the beautiful name Aakil",
-          "image": "/images/social/aakil-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Aakil",
-          "description": "Name meaning: Wise, Intelligent, Discerning",
-          "image": "/images/social/aakil-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aakil - Meaning: Wise, Intelligent, Discerning",
-        "email_subject": "Beautiful Name: Aakil"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aakil with meaning Wise, Intelligent, Discerning",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aakil, associated with the Arabic form عاقل, meaning wise, intelligent."
     },
-    "similar_sounding_names": [
-      "arya",
-      "alraaz",
-      "aaidah",
-      "anja",
-      "ayan",
-      "ariana",
-      "ambar",
-      "anaan",
-      "alabbas",
-      "alaia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

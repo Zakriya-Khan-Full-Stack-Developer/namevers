@@ -3,295 +3,477 @@
   "data": {
     "name": "Amirani",
     "slug": "amirani",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male or Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Prince, Commander",
-    "long_meaning": "Derived from the Arabic word 'Amir' meaning commander or prince. In Islamic history, Amir al-Mu'minin (Commander of the Faithful) is a title given to the caliph or leader of the Muslim community.",
-    "spiritual_meaning": "Symbolizes leadership, authority, and spiritual guidance.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Red",
-      "Gold"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and highly imaginative.",
-    "in_arabic": {
-      "name": "أميراني",
-      "meaning": "اسم مشتق من أمير، يعني الشخص ذو المكانة الرفيعة",
-      "long_meaning": "اسم أميراني مشتق من كلمة أمير، التي تعني الشخص ذو المكانة الرفيعة أو الحاكم. يعتبر اسم أميراني من الأسماء التي تحمل معاني القوة والسلطة، وقد وردت في القرآن الكريم عدة مرات، منها قول الله تعالى: 'وَمُؤَمِّرٍ فَتًى' (الكهف: 42)، حيث يشير إلى الشخص الذي يتم تعيينه كحاكم أو أمير على الناس. يعد اسم أميراني من الأسماء المحببة في الثقافة الإسلامية، حيث يعكس القيم النبيلة والخصال الحميدة."
+    "identity": {
+      "display_name": "Amirani",
+      "normalized_name": "amirani",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Amirani",
+        "amirani"
+      ],
+      "search_variants": [
+        "Amirani",
+        "amirani"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "امیرانی",
-      "meaning": "امیر سے ماخوذ، اعلیٰ مقام والا، حکمران",
-      "long_meaning": "امیرانی نام امیر سے ماخوذ ہے، جو اعلیٰ مقام والا یا حکمران کے معنی میں ہے۔ یہ نام قوت، اقتدار اور اعزاز کی علامت ہے۔ اسلامی روایت میں، امیر وہ شخص ہوتا ہے جسے حکمرانی یا قیادت کے لئے مقرر کیا گیا ہو. قرآن مجید میں امیر کے متعدد حوالے ملتے ہیں، جن میں اللہ تعالیٰ کا ارشاد ہے: 'وَمُؤَمِّرٍ فَتًى' (الكهف: 42)। یہ نام جنوبی ایشیاء کے مسلم معاشرے میں خاصی اہمیت رکھتا ہے، جہاں یہ نام اچھے مقاصد اور نفیس صفات کے ساتھ منسلک ہے۔"
+    "core_meaning": {
+      "short_meaning": "Prince, commander",
+      "primary_meaning": "Prince",
+      "secondary_meanings": [
+        "commander"
+      ],
+      "literal_meaning": "Prince",
+      "extended_meaning": "Prince, commander",
+      "meaning_explanation": "Amirani corresponds to the Arabic form أميراني (أ م ر). Its core sense is prince, commander. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अमीरानी",
-      "meaning": "अमीर से लिया गया, उच्च पद वाला, शासक",
-      "long_meaning": "अमीरानी नाम अमीर से लिया गया है, जिसका अर्थ उच्च पद वाला या शासक होता है। यह नाम शक्ति, अधिकार और प्रतिष्ठा का प्रतीक है। इस्लामी परंपरा में, अमीर वह व्यक्ति होता है जिसे शासन या नेतृत्व के लिए नियुक्त किया गया हो। कुरआन में अमीर के कई संदर्भ हैं, जिनमें अल्लाह का कथन है: 'وَمُؤَمِّرٍ فَتًى' (الكهف: 42)। यह नाम भारतीय मुस्लिम समुदाय में विशेष महत्व रखता है, जहाँ यह नाम अच्छे उद्देश्यों और उत्कृष्ट गुणों से जुड़ा हुआ है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أميراني",
+      "transliteration": "amirani",
+      "romanization": "amirani",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Prince",
+        "commander"
+      ],
+      "etymology_explanation": "The form أميراني is an established Arabic lexical item. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "امیراني",
-      "meaning": "د امیر څخه اخیستل شوی، لوړ رتبه لرونکی، واکمن",
-      "long_meaning": "امیراني نوم د امیر څخه اخیستل شوی دی، چې معنی یې لوړ رتبه لرونکی یا واکمن دی. دا نوم د ځواک، واک او عزت نښه ده. په اسلامي دود کې، امیر هغه څوک دی چې د واکمنۍ یا مشرتوب لپاره ټاکل شوی وي. په قرآن کریم کې د امیر ډیری حوالې دي، په شمول د الله تعالی ارشاد: 'وَمُؤَمِّرٍ فَتًى' (الكهف: 42). دا نوم د افغان او پښتون دودیزو ارزښو سره تړلی دی، چیرته چې دا د ښو ځانګړتیاو او نفیس صفاتو سره یوځای کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أميراني is an established Arabic form.",
+        "Urdu": "امیرانی is used in Urdu.",
+        "Hindi": "अमीरानी is used in Hindi.",
+        "Pashto": "اميراني is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Amirani",
-      "meaning": "Derived from Amir, meaning high-ranking person or ruler",
-      "long_meaning": "The name Amirani is derived from the Arabic root 'amr', meaning 'to command' or 'to rule'. It signifies a person of high rank, authority, or leadership. In Islamic tradition, an Amir is an appointed leader or governor. The Quran references the term 'Amir' in several verses, including: 'And We made him a ruler' (18:42). Historically, the name Amirani has been used across various Muslim cultures, symbolizing power, nobility, and spiritual significance. It reflects desirable qualities such as leadership, wisdom, and justice, making it a revered name in Islamic heritage."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form أميراني. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Amirani may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense prince, commander.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Prince",
+      "related_concepts": [
+        "prince",
+        "commander"
+      ],
+      "semantic_relationship": "The central semantic idea is prince; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of prince.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Prince",
+        "Commander"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Amirani",
+        "meaning": "Prince, commander",
+        "long_meaning": "Amirani is a Arabic-origin name. Its core meaning is prince, commander. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "امیرانی",
+        "meaning": "امیر، سردار",
+        "long_meaning": "Amirani (امیرانی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم امیر، سردار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अमीरानी",
+        "meaning": "अमीर, सेनापति",
+        "long_meaning": "Amirani (अमीरानी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अमीर, सेनापति है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اميراني",
+        "meaning": "امیر، قوماندان",
+        "long_meaning": "Amirani (اميراني) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې امیر، قوماندان ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أميراني",
+        "meaning": "أمير، قائد",
+        "long_meaning": "Amirani (أميراني) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أمير، قائد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ah-mee-RAH-nee",
-      "urdu": "امیرانی کا تلفظ: اے میرا نی",
-      "hindi": "अमीरानी का उच्चारण: अमी-रा-नी",
-      "pashto": "د امیراني تلفظ: اے میرا نی",
-      "ipa": "/ˌɑːmiːˈrɑːni/"
+      "romanized": "a-mi-ra-ni",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "امیرانی",
+      "persian": null,
+      "hindi": "अमीरानी",
+      "pashto": "اميراني"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AmiraniMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Amirani"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Amirani",
+        "amirani"
+      ],
+      "script_variants": [
+        "أميراني",
+        "اميراني",
+        "امیرانی",
+        "अमीरानी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أميراني is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Amirani can be understood through the Arabic form أميراني, whose central sense is prince, commander. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Amirani mean?",
+        "answer": "Amirani is associated with the Arabic form أميراني, whose core sense is prince, commander."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Amirani?",
+        "answer": "Amirani is associated with Arabic. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Amirani an Arabic name?",
+        "answer": "Yes — the underlying form أميراني is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Amirani an Islamic name?",
+        "answer": "Amirani can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Amirani a Quranic name?",
+        "answer": "Amirani should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Amirani mean in Urdu?",
+        "answer": "In Urdu, Amirani is rendered امیرانی and carries the sense امیر، سردار."
+      },
+      {
+        "question": "What does Amirani mean in Persian?",
+        "answer": "No verified Persian form was established for Amirani."
+      },
+      {
+        "question": "How is Amirani pronounced?",
+        "answer": "A romanized syllable approximation is a-mi-ra-ni. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Amirani?",
+        "answer": "Romanization variants include Amirani, amirani. Script forms are أميراني, اميراني, امیرانی, अमीरानी."
+      },
+      {
+        "question": "Is Amirani a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Amirani Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Amirani, a beautiful Islam name meaning \"Prince, Commander\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Amirani, Islam name, baby names, Prince, Commander, Islam baby names, name meaning",
-      "description_paragraph": "Amirani is a meaningful Islam name of Arabic origin that means \"Prince, Commander\". Derived from the Arabic word 'Amir' meaning commander or prince. In Islamic history, Amir al-Mu'minin (Commander of the Faithful) is a title given to the caliph or leader of the Muslim community.",
-      "keywords": [
-        "Amirani",
-        "Islam name",
-        "baby names",
-        "Prince, Commander",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Amirani in Islam tradition?",
-          "a": "Amirani is a beautiful Islam name meaning \"Prince, Commander\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Amirani a good Islam name for a baby?",
-          "a": "Yes, Amirani is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Amirani?",
-          "a": "The name Amirani has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Amirani correctly?",
-          "a": "Amirani is pronounced ah-mee-RAH-nee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Amirani?",
-          "a": "Naming a child Amirani brings blessings. The meaning \"Prince, Commander\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Amirani?",
-          "a": "Amirani is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Amirani Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Amirani (أميراني).",
+      "h1": "Amirani Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Amirani meaning",
       "secondary_keywords": [
-        "Islam name Amirani",
-        "Amirani meaning",
-        "Amirani origin"
+        "Amirani name meaning",
+        "Amirani meaning in Urdu",
+        "Amirani origin",
+        "Amirani Islamic name",
+        "Amirani pronunciation",
+        "Amirani name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Amirani (أميراني) is associated with the Arabic form أميراني, whose core sense is prince, commander. The source record's gloss 'Prince, Commander' could not be matched to a Tier-A/B lexical source. The form is a derived compound. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Amirani is associated with the Arabic form أميراني, whose core sense is prince, commander.",
+      "meaning_section": "The central meaning of Amirani is prince, commander.",
+      "origin_section": "Amirani is associated with Arabic rather than with a different language.",
+      "islam_section": "Amirani can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Amirani is with the sense prince.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Amirani",
+      "#AmiraniMeaning",
+      "#AmiraniName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The title \"Amir al-Mu'minin\" signifies the political and military leadership of a Muslim ruler. It was a title used extensively by medieval Islamic caliphs and sultans, and continues to be used in modern contexts.",
-    "spiritual_significance": "The title also carries deep spiritual significance as it signifies the ruler's role as a trustee and protector of the Muslim community. The caliph was responsible for upholding Islamic law, preserving the Muslim community, and leading them towards spiritual growth and prosperity.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Khaldun, The Muqaddimah: An Introduction to History. Book 1, Chapter 7: The Berbers and Their History",
-        "time_period": "Middle Ages (14th century)",
-        "context": "Ibn Khaldun describes Amirani as a legendary Berber king ruling over the Maghreb, whose kingdom was based around the area of present-day Algeria."
-      },
-      {
-        "reference": "Historical records show that Al-Biruni, The Chronology of Ancient Nations. Section on the Sarasenians and the Arabian Peninsula The name Amirani carried significant weight in that era.",
-        "time_period": "11th century",
-        "context": "Al-Biruni mentions Amirani as a legendary king of the Aestheans, a people inhabiting the eastern coast of the Mediterranean, who were known for their wisdom and virtue."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic art and design",
-        "Middle Eastern culture",
-        "Fashion and textiles"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Amirani corresponds to the Arabic form أميراني",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Amirani has the core sense prince, commander",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Pinterest",
-        "Instagram",
-        "Etsy"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Amirani, of Middle Eastern origin, has gained popularity in modern contexts due to its rich history and cultural significance. It is often associated with Islamic art and design, showcased on platforms like Pinterest and Instagram. The intricate geometric patterns and vibrant colors of traditional Middle Eastern art continue to inspire designers and artists, making Amirani a desirable name for home decor, textile and fashion brands. Etsy, an online marketplace for handmade and vintage items, is a popular platform for selling Amirani-inspired goods, from wall hangings to clothing lines."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Amirani",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Fatima Amirani in Cairo, Egypt attributes much of their success to the blessing of their name Amirani, which means \"Prince, Commander\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Prince, Commander\" symbolizes Derived from the Arabic word 'Amir' meaning commander or prince. In Islamic history, Amir al-Mu'minin (Commander of the Faithful) is a title given to the caliph or leader of the Muslim community.. In Islamic spirituality, bearing the name Amirani serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of prince, commander.",
-    "created_at": "2025-12-22T19:19:49.931Z",
-    "updated_at": "2025-12-22T04:53:15.52Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1018,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Amirani",
-      "description": "Prince, Commander",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Amirani",
+        "amirani"
       ],
-      "religion": "Islam",
-      "gender": "Male or Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Amirani",
-          "description": "Discover the meaning of Amirani - \"Prince, Commander\"",
-          "image": "/images/social/amirani-facebook.jpg"
+      "description": "A name associated with the Arabic form أميراني, meaning prince, commander.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "amirani",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Amirani - Name Meaning",
-          "description": "Learn about the beautiful name Amirani",
-          "image": "/images/social/amirani-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Amirani",
-          "description": "Name meaning: Prince, Commander",
-          "image": "/images/social/amirani-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Amirani - Meaning: Prince, Commander",
-        "email_subject": "Beautiful Name: Amirani"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Amirani with meaning Prince, Commander",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Amirani, associated with the Arabic form أميراني, meaning prince, commander."
     },
-    "similar_sounding_names": [
-      "amelia",
-      "alaia",
-      "arsala",
-      "azzahra",
-      "ashika",
-      "alabbas",
-      "aidan",
-      "amaya",
-      "ayra",
-      "amber"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

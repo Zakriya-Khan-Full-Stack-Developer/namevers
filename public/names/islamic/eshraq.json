@@ -3,283 +3,480 @@
   "data": {
     "name": "Eshraq",
     "slug": "eshraq",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Dawn, Radiance",
-    "long_meaning": "The appearance of light during the early hours of the day, signifying hope and renewal",
-    "spiritual_meaning": "A symbol of the spiritual light that illuminates the path to enlightenment",
-    "emotional_traits": [
-      "Hopeful",
-      "Radiant",
-      "Vibrant",
-      "Brilliant",
-      "Revitalizing"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Reflective",
-      "Analytical",
-      "Contemplative",
-      "Meditative"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Citrine",
-    "life_path_number": 1,
-    "numerology_meaning": "Leadership, independence, and creativity",
-    "in_arabic": {
-      "name": "إشراق",
-      "meaning": "إشراق يعني ظهور نور الشمس أو الإشعاع",
-      "long_meaning": "إشراق هو اسم مشتق من الفعل 'أشرق' الذي يعني ظهور نور الشمس أو الإشعاع. في اللغة العربية، يرتبط هذا الاسم ببداية يوم جديد ومليء بالأمل. وفي القرآن الكريم، نجد آيات تشير إلى إشراق نور الله تعالى. اسم إشراق يعبر عن الأمل والتجديد والضوء."
+    "identity": {
+      "display_name": "Eshraq",
+      "normalized_name": "eshraq",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Eshraq",
+        "eshraq"
+      ],
+      "search_variants": [
+        "Eshraq",
+        "eshraq"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اشراق",
-      "meaning": "اشراق کا مطلب ہے سورج کی روشنی یا انوار کا پھیلاؤ",
-      "long_meaning": "اشراق ایک عربی نام ہے جس کا مطلب ہے سورج کی روشنی یا انوار کا پھیلاؤ۔ یہ نام اس فعل سے ماخوذ ہے جس کا مطلب ہے 'اشراق' یعنی سورج کا 뜨نا یا روشنی کا پھیلاؤ۔ اسلامی تقویم میں، یہ نام امید اور نئے آغاز کی علامت ہے۔ اشراق نام کی شخصیت کو روشن اور امیدوار سمجھا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Dawn, radiance, first light",
+      "primary_meaning": "Dawn",
+      "secondary_meanings": [
+        "radiance",
+        "first light"
+      ],
+      "literal_meaning": "Dawn",
+      "extended_meaning": "Dawn, radiance, first light",
+      "meaning_explanation": "Eshraq corresponds to the Arabic form إشراق (ش ر ق). Its core sense is dawn, radiance, first light. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इशराक",
-      "meaning": "इशराक का अर्थ है सूरज की रोशनी या प्रकाश का फैलाव",
-      "long_meaning": "इशराक एक अरबी नाम है जिसका अर्थ है सूरज की रोशनी या प्रकाश का फैलाव। यह नाम उस क्रिया से लिया गया है जिसका अर्थ है 'इशराक' यानी सूरज का निकलना या प्रकाश का फैलाव। इस्लामी परंपरा में, यह नाम आशा और नए आरंभ की प्रतीक है। इशराक नाम के व्यक्ति को उज्ज्वल और आशावादी माना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إشراق",
+      "transliteration": "eshraq",
+      "romanization": "eshraq",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Dawn",
+        "radiance",
+        "first light"
+      ],
+      "etymology_explanation": "The form إشراق is an established Arabic lexical item. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اشراق",
-      "meaning": "اشراق معنی دے دى لمرګ یا د رڼا خپریدل",
-      "long_meaning": "اشراق د عربي ژبې يو نوم دى چى معنى يې دى لمرګ یا د رڼا خپریدل. دا نوم د هغه فعل نه اخستى شوى دى چى معنى يې دى 'اشراق' يعنى د لمر راخستل یا د رڼا خپریدل. په اسلامي کلتور کې، دا نوم د اميد او نوي پيل نښه ده. اشراق نومه شخصيت د روښانه او اميدوار په توګه ګڼل کېږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إشراق is an established Arabic form.",
+        "Urdu": "اشراق is used in Urdu.",
+        "Hindi": "इशराक़ is used in Hindi.",
+        "Pashto": "اشراق is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Eshraq",
-      "meaning": "Eshraq means sunrise or radiant light",
-      "long_meaning": "Eshraq is an Arabic name derived from the root 'ash-raqa', meaning to rise or to shine. It signifies the sunrise or the spreading of light. In Islamic tradition, Eshraq is associated with hope, renewal, and illumination. The name reflects positive attributes such as brightness, guidance, and spiritual enlightenment."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form إشراق. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Eshraq may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense dawn, radiance, first light.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Dawn",
+      "related_concepts": [
+        "dawn",
+        "radiance",
+        "first light"
+      ],
+      "semantic_relationship": "The central semantic idea is dawn; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of dawn.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Dawn",
+        "Radiance",
+        "First light"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Eshraq",
+        "meaning": "Dawn, radiance, first light",
+        "long_meaning": "Eshraq is a Arabic-origin name. Its core meaning is dawn, radiance, first light. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "اشراق",
+        "meaning": "طلوع، روشنی، صبح",
+        "long_meaning": "Eshraq (اشراق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم طلوع، روشنی، صبح ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "इशराक़",
+        "meaning": "भोर, प्रकाश, उषा",
+        "long_meaning": "Eshraq (इशराक़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ भोर, प्रकाश, उषा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اشراق",
+        "meaning": "سهار، رڼا، سپیده",
+        "long_meaning": "Eshraq (اشراق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سهار، رڼا، سپیده ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إشراق",
+        "meaning": "الفجر، الإشراق، الضياء",
+        "long_meaning": "Eshraq (إشراق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفجر، الإشراق، الضياء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "esh-RAH-k",
-      "urdu": "اردو میں تلفظ کی تفصیل: اشرآق",
-      "hindi": "हिन्दी में उच्चारण विवरण: इशराक",
-      "pashto": "په پښتو کې د تلفظ تفصیل: اشراق",
-      "ipa": "/ɛʃˈrɑːk/"
+      "romanized": "es-hraq",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اشراق",
+      "persian": null,
+      "hindi": "इशराक़",
+      "pashto": "اشراق"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#EshraqMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Eshraq"
-    ],
-    "name_variations": [],
-    "popularity_score": 59,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Eshraq",
+        "eshraq"
+      ],
+      "script_variants": [
+        "إشراق",
+        "اشراق",
+        "इशराक़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إشراق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Eshraq can be understood through the Arabic form إشراق, whose central sense is dawn, radiance, first light. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Eshraq mean?",
+        "answer": "Eshraq is associated with the Arabic form إشراق, whose core sense is dawn, radiance, first light."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 67,
-        "year": 2024
+        "question": "What is the origin of Eshraq?",
+        "answer": "Eshraq is associated with Arabic. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Eshraq an Arabic name?",
+        "answer": "Yes — the underlying form إشراق is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 69,
-        "year": 2024
+        "question": "Is Eshraq an Islamic name?",
+        "answer": "Eshraq can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Eshraq a Quranic name?",
+        "answer": "Eshraq should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Eshraq mean in Urdu?",
+        "answer": "In Urdu, Eshraq is rendered اشراق and carries the sense طلوع، روشنی، صبح."
+      },
+      {
+        "question": "What does Eshraq mean in Persian?",
+        "answer": "No verified Persian form was established for Eshraq."
+      },
+      {
+        "question": "How is Eshraq pronounced?",
+        "answer": "A romanized syllable approximation is es-hraq. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Eshraq?",
+        "answer": "Romanization variants include Eshraq, eshraq. Script forms are إشراق, اشراق, इशराक़."
+      },
+      {
+        "question": "Is Eshraq a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Eshraq Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Eshraq, a beautiful Islam name meaning \"Dawn, Radiance\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Eshraq, Islam name, baby names, Dawn, Radiance, Islam baby names, name meaning",
-      "description_paragraph": "Eshraq is a meaningful Islam name of Arabic origin that means \"Dawn, Radiance\". The appearance of light during the early hours of the day, signifying hope and renewal",
-      "keywords": [
-        "Eshraq",
-        "Islam name",
-        "baby names",
-        "Dawn, Radiance",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Eshraq in Islam tradition?",
-          "a": "Eshraq is a beautiful Islam name meaning \"Dawn, Radiance\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Eshraq a good Islam name for a baby?",
-          "a": "Yes, Eshraq is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Eshraq?",
-          "a": "The name Eshraq has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Eshraq correctly?",
-          "a": "Eshraq is pronounced esh-RAH-k in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Eshraq?",
-          "a": "Naming a child Eshraq brings blessings. The meaning \"Dawn, Radiance\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Eshraq?",
-          "a": "Eshraq is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Eshraq Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Eshraq (إشراق).",
+      "h1": "Eshraq Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Eshraq meaning",
       "secondary_keywords": [
-        "Islam name Eshraq",
-        "Eshraq meaning",
-        "Eshraq origin"
+        "Eshraq name meaning",
+        "Eshraq meaning in Urdu",
+        "Eshraq origin",
+        "Eshraq Islamic name",
+        "Eshraq pronunciation",
+        "Eshraq name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Eshraq (إشراق) is associated with the Arabic form إشراق, whose core sense is dawn, radiance, first light. Ishrāq ('illumination, sunrise, radiance'). The source record's gloss 'Dawn, Radiance' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Eshraq is associated with the Arabic form إشراق, whose core sense is dawn, radiance, first light.",
+      "meaning_section": "The central meaning of Eshraq is dawn, radiance, first light.",
+      "origin_section": "Eshraq is associated with Arabic rather than with a different language.",
+      "islam_section": "Eshraq can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Eshraq is with the sense dawn.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Eshraq",
+      "#EshraqMeaning",
+      "#EshraqName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Eshraq\" holds deep cultural significance in the Islamic world and is often used to refer to the beautiful, ethereal light that graces the eastern horizon as the sun rises. This phenomenon is celebrated in various Islamic traditions, and the term \"Eshraq\" embodies the essence of this natural wonder.",
-    "spiritual_significance": "In the spiritual realm, the name \"Eshraq\" is believed to symbolize hope and renewal. Just as the sun rises each day to bring light to the world, \"Eshraq\" signifies the divine promise of a new beginning and an opportunity for personal growth and enlightenment. The name is also associated with the remembrance of Allah, as the first light of the day is a reminder of His presence and power. Ultimately, \"Eshraq\" represents the dynamic interplay between the natural world and the divine, reminding us of the beauty and wonder of creation, and the boundless mercy and grace of the Creator.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Kitab al-Aghani The name Eshraq carried significant weight in that era.",
-        "time_period": "10th century",
-        "context": "female given name"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "traditional",
-        "cultural"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Eshraq corresponds to the Arabic form إشراق",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Eshraq has the core sense dawn, radiance, first light",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "traditional naming practices"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Eshraq remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Eshraq",
-      "location": "Dubai, UAE",
-      "story": "Zainab Eshraq, a teacher in Dubai, UAE, shares that their name Eshraq meaning \"Dawn, Radiance\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Dawn, Radiance\" symbolizes The appearance of light during the early hours of the day, signifying hope and renewal. In Islamic spirituality, bearing the name Eshraq serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of dawn, radiance.",
-    "created_at": "2025-12-22T19:19:49.873Z",
-    "updated_at": "2025-12-22T04:53:15.023Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1322,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Eshraq",
-      "description": "Dawn, Radiance",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Eshraq",
+        "eshraq"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Eshraq",
-          "description": "Discover the meaning of Eshraq - \"Dawn, Radiance\"",
-          "image": "/images/social/eshraq-facebook.jpg"
+      "description": "A name associated with the Arabic form إشراق, meaning dawn, radiance, first light.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "eshraq",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Eshraq - Name Meaning",
-          "description": "Learn about the beautiful name Eshraq",
-          "image": "/images/social/eshraq-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Eshraq",
-          "description": "Name meaning: Dawn, Radiance",
-          "image": "/images/social/eshraq-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Eshraq - Meaning: Dawn, Radiance",
-        "email_subject": "Beautiful Name: Eshraq"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Eshraq with meaning Dawn, Radiance",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Eshraq, associated with the Arabic form إشراق, meaning dawn, radiance, first light."
     },
-    "similar_sounding_names": [
-      "eijaz",
-      "elamin",
-      "ehan",
-      "eliza"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

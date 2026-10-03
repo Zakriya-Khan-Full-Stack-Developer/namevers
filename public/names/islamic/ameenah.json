@@ -3,304 +3,477 @@
   "data": {
     "name": "Ameenah",
     "slug": "ameenah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Trustworthy",
-    "long_meaning": "Ameenah is a female name of Arabic origin, meaning 'trustworthy'. It is a Quranic name, derived from the word 'Amin', which signifies trust and honesty.",
-    "spiritual_meaning": "In Islamic tradition, Ameenah is associated with honesty, trustworthiness, and faithfulness. It is often given to children to inspire these virtues.",
-    "emotional_traits": [
-      "Trustworthy",
-      "Honest",
-      "Reliable",
-      "Faithful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Silver",
-      "Grey",
-      "White"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-expression, Communication",
-    "in_arabic": {
-      "name": "أمينة",
-      "meaning": "أمينه تعني الامان والصدق والسلام في اللغة العربية",
-      "long_meaning": "اسم أمينة مشتق من الجذر العربي 'أمن' الذي يعني الأمان والسلام. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخصية التي تتمتع بالصدق والأمانة. ورد ذكر اسم أمينة في القرآن الكريم كوصف للنبي محمد صلى الله عليه وسلم في سورة التوبة الآية ٤٤، حيث وصف بأمينه على رسالة الله. يشير الاسم إلى الأمان والحماية التي يجلبها صاحبه لمن حوله، مما يجعله من الأسماء المحببة في الثقافة الإسلامية"
+    "identity": {
+      "display_name": "Ameenah",
+      "normalized_name": "ameenah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ameenah",
+        "ameenah"
+      ],
+      "search_variants": [
+        "Ameenah",
+        "ameenah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "امینہ",
-      "meaning": "امینہ کا مطلب ہے امانت، صداقت اور سلامتی",
-      "long_meaning": "امینہ نام عربی جڑ 'أمن' (امن) سے نکلا ہے، جس کا مطلب ہے سلامتی، امانت اور صداقت۔ یہ نام اسلامی ثقافت میں انتہائی اہمیت رکھتا ہے کیونکہ یہ رسول اللہ صلی اللہ علیہ و آلہ و سلم کی خصوصیات میں سے ایک ہے، جیسا کہ قرآن مجید میں بیان کیا گیا ہے۔ امینہ نام رکھنے والا شخص وفادار اور محفوظ سمجھا جاتا ہے، اور یہ جنوبی ایشیائی مسلمانوں کے درمیان ایک مقبول نام ہے"
+    "core_meaning": {
+      "short_meaning": "Trustworthy, dependable (feminine)",
+      "primary_meaning": "Trustworthy",
+      "secondary_meanings": [
+        "dependable (feminine)"
+      ],
+      "literal_meaning": "Trustworthy",
+      "extended_meaning": "Trustworthy, dependable (feminine)",
+      "meaning_explanation": "Ameenah corresponds to the Arabic form أمينة (أ م ن). Its core sense is trustworthy, dependable (feminine). Variant romanization of أمينة.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अमीना",
-      "meaning": "अमीना का अर्थ है अमानत, सच्चाई और सुरक्षा",
-      "long_meaning": "अमीना नाम की उत्पत्ति अरबी मूल 'أمن' से हुई है, जिसका अर्थ है सुरक्षा, सच्चाई और अमानत। इस नाम का उपयोग भारतीय मुस्लिम समुदाय में बड़े पैमाने पर किया जाता है और यह नाम पैगंबर मुहम्मद की विशेषताओं में से एक को दर्शाता है, जैसा कि कुरआन में उल्लिखित है। अमीना नाम की लड़की को सच्ची और भरोसेमंद माना जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أمينة",
+      "transliteration": "ameenah",
+      "romanization": "ameenah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Trustworthy",
+        "dependable (feminine)"
+      ],
+      "etymology_explanation": "The form أمينة is an established Arabic lexical item. Variant romanization of أمينة.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "امینه",
-      "meaning": "امینه د امانت، صداقت او خوندیتوب معنی لري",
-      "long_meaning": "د امینه نوم عربي ريښو 'أمن' څخه اخیستل شوی دی، کوم چې د خوندیتوب، امانت او صداقت معنی لري. په افغان او پښتون کلتور کې، دا نوم د پيغمبر محمد صلی الله عليه وسلم د يوه ځانګړتیا په توګه کارول کېږي، لکه څنګه چې په قرآن کریم کې ياد شوی دی. د امینه نوم لرونکی د وفادار او خوندي ګڼل کېږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أمينة is an established Arabic form.",
+        "Urdu": "امینہ is used in Urdu.",
+        "Hindi": "अमीना is used in Hindi.",
+        "Pashto": "امينه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ameenah",
-      "meaning": "Trustworthy, reliable, and honest in Arabic origin",
-      "long_meaning": "The name Ameenah originates from the Arabic root 'أمن' (aman), meaning trustworthiness, reliability, and honesty. In Islamic tradition, Ameenah is a significant name as it describes one of the noble characteristics of Prophet Muhammad, as mentioned in the Quran. The name symbolizes safety, protection, and faithfulness, making it a cherished name among Muslims worldwide. Ameenah signifies a person of integrity and dependability"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أمينة. Variant romanization of أمينة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ameenah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense trustworthy, dependable (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Trustworthy",
+      "related_concepts": [
+        "trustworthy",
+        "dependable (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is trustworthy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of trustworthy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Trustworthy",
+        "Dependable (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ameenah",
+        "meaning": "Trustworthy, dependable (feminine)",
+        "long_meaning": "Ameenah is a Arabic-origin name. Its core meaning is trustworthy, dependable (feminine). Variant romanization of أمينة."
+      },
+      "urdu": {
+        "name": "امینہ",
+        "meaning": "امانتدار، قابل اعتماد",
+        "long_meaning": "Ameenah (امینہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم امانتدار، قابل اعتماد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अमीना",
+        "meaning": "विश्वसनीय, भरोसेमंद",
+        "long_meaning": "Ameenah (अमीना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विश्वसनीय, भरोसेमंद है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "امينه",
+        "meaning": "امانتداره، باوري",
+        "long_meaning": "Ameenah (امينه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې امانتداره، باوري ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أمينة",
+        "meaning": "أمينة، موثوقة",
+        "long_meaning": "Ameenah (أمينة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أمينة، موثوقة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-MEE-nah",
-      "urdu": "امينہ کا تلفظ ہے اے مینہ",
-      "hindi": "अमीना का उच्चारण अमी-नाह है",
-      "pashto": "امینه د اې مینې په تلفظ کيږي",
-      "ipa": "/ɑːˈmiːnɑː/"
+      "romanized": "a-mee-nah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "امینہ",
+      "persian": null,
+      "hindi": "अमीना",
+      "pashto": "امينه"
     },
-    "celebrity_usage": [
-      "Ameenah Kaplan (American actress)"
-    ],
-    "social_tags": [
-      "#AmeenahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ameenah"
-    ],
-    "name_variations": [
-      "Aminah",
-      "Ameena"
-    ],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ameenah",
+        "ameenah"
+      ],
+      "script_variants": [
+        "أمينة",
+        "امينه",
+        "امینہ",
+        "अमीना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أمينة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ameenah can be understood through the Arabic form أمينة, whose central sense is trustworthy, dependable (feminine). Variant romanization of أمينة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Ameenah mean?",
+        "answer": "Ameenah is associated with the Arabic form أمينة, whose core sense is trustworthy, dependable (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Ameenah?",
+        "answer": "Ameenah is associated with Arabic. Variant romanization of أمينة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Ameenah an Arabic name?",
+        "answer": "Yes — the underlying form أمينة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 82,
-        "year": 2024
+        "question": "Is Ameenah an Islamic name?",
+        "answer": "Ameenah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 80,
-        "year": 2024
+        "question": "Is Ameenah a Quranic name?",
+        "answer": "Ameenah should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ameenah mean in Urdu?",
+        "answer": "In Urdu, Ameenah is rendered امینہ and carries the sense امانتدار، قابل اعتماد."
+      },
+      {
+        "question": "What does Ameenah mean in Persian?",
+        "answer": "No verified Persian form was established for Ameenah."
+      },
+      {
+        "question": "How is Ameenah pronounced?",
+        "answer": "A romanized syllable approximation is a-mee-nah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ameenah?",
+        "answer": "Romanization variants include Ameenah, ameenah. Script forms are أمينة, امينه, امینہ, अमीना."
+      },
+      {
+        "question": "Is Ameenah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ameenah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ameenah, a beautiful Islam name meaning \"Trustworthy\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ameenah, Islam name, baby names, Trustworthy, Islam baby names, name meaning",
-      "description_paragraph": "Ameenah is a meaningful Islam name of Arabic origin that means \"Trustworthy\". Ameenah is a female name of Arabic origin, meaning 'trustworthy'. It is a Quranic name, derived from the word 'Amin', which signifies trust and honesty.",
-      "keywords": [
-        "Ameenah",
-        "Islam name",
-        "baby names",
-        "Trustworthy",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ameenah in Islam tradition?",
-          "a": "Ameenah is a beautiful Islam name meaning \"Trustworthy\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ameenah a good Islam name for a baby?",
-          "a": "Yes, Ameenah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ameenah?",
-          "a": "The name Ameenah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ameenah correctly?",
-          "a": "Ameenah is pronounced ah-MEE-nah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ameenah?",
-          "a": "Naming a child Ameenah brings blessings. The meaning \"Trustworthy\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ameenah?",
-          "a": "Ameenah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Ameenah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ameenah (أمينة).",
+      "h1": "Ameenah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ameenah meaning",
       "secondary_keywords": [
-        "Islam name Ameenah",
-        "Ameenah meaning",
-        "Ameenah origin"
+        "Ameenah name meaning",
+        "Ameenah meaning in Urdu",
+        "Ameenah origin",
+        "Ameenah Islamic name",
+        "Ameenah pronunciation",
+        "Ameenah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ameenah (أمينة) is associated with the Arabic form أمينة, whose core sense is trustworthy, dependable (feminine). Variant romanization of أمينة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ameenah is associated with the Arabic form أمينة, whose core sense is trustworthy, dependable (feminine).",
+      "meaning_section": "The central meaning of Ameenah is trustworthy, dependable (feminine).",
+      "origin_section": "Ameenah is associated with Arabic rather than with a different language.",
+      "islam_section": "Ameenah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ameenah is with the sense trustworthy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ameenah",
+      "#AmeenahMeaning",
+      "#AmeenahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ameenah holds a significant cultural impact in societies with Islamic traditions. As a trustworthy and reliable person is valued greatly, the name Ameenah represents honor, respect, and a sense of responsibility. Many parents choose to name their daughters Ameenah, as it is believed that the person carrying this name will grow up to be an honest, sincere, and dependable individual.",
-    "spiritual_significance": "From a spiritual perspective, Ameenah is a symbol of faith and trust in Allah. In Islamic tradition, making dua'ah (supplication) and ending it with the term 'Ameen' signifies agreement and confirmation of the prayer being authentic and accepted by Allah. The name Ameenah embodies these qualities, reflecting the trust and faith one has in the Divine Creator. By embracing the character and spirit of trustworthiness, those named Ameenah are expected to live their lives in alignment with the teachings of Islam and strive for honesty and sincerity in their actions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Aisha bint Abi Bakr used the name Ameenah The name Ameenah carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Aisha was a companion of the Prophet Muhammad and a prominent figure in Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the US and UK"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ameenah corresponds to the Arabic form أمينة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ameenah has the core sense trustworthy, dependable (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, baby name lists"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ameenah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Ameenah",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Layla Ameenah, a teacher in Kuala Lumpur, Malaysia, shares that their name Ameenah meaning \"Trustworthy\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Trustworthy\" symbolizes Ameenah is a female name of Arabic origin, meaning 'trustworthy'. It is a Quranic name, derived from the word 'Amin', which signifies trust and honesty.. In Islamic spirituality, bearing the name Ameenah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of trustworthy.",
-    "created_at": "2025-12-22T19:19:49.802Z",
-    "updated_at": "2025-12-22T04:53:14.477Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1418,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ameenah",
-      "description": "Trustworthy",
-      "additionalName": [
-        "Aminah",
-        "Ameena"
+      "alternateName": [
+        "Ameenah",
+        "ameenah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form أمينة, meaning trustworthy, dependable (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ameenah",
-          "description": "Discover the meaning of Ameenah - \"Trustworthy\"",
-          "image": "/images/social/ameenah-facebook.jpg"
+      "termCode": "ameenah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ameenah - Name Meaning",
-          "description": "Learn about the beautiful name Ameenah",
-          "image": "/images/social/ameenah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Ameenah",
-          "description": "Name meaning: Trustworthy",
-          "image": "/images/social/ameenah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ameenah - Meaning: Trustworthy",
-        "email_subject": "Beautiful Name: Ameenah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ameenah with meaning Trustworthy",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ameenah, associated with the Arabic form أمينة, meaning trustworthy, dependable (feminine)."
     },
-    "similar_sounding_names": [
-      "arsala",
-      "amalia",
-      "anja",
-      "anila",
-      "ashika",
-      "ayan",
-      "azzahra",
-      "alraaz",
-      "alaia",
-      "anika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

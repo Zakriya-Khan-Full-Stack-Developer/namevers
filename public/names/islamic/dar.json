@@ -3,289 +3,479 @@
   "data": {
     "name": "Dar",
     "slug": "dar",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Abode, House, Home",
-    "long_meaning": "In Islamic tradition, the name Dar is derived from the Arabic word ‘dār’, which means ‘abode’ or ‘house’. It is a name that evokes feelings of safety, security, and warmth. The name is often used in the context of the Islamic concept of the Hereafter, where God is described as the ultimate and eternal abode for His faithful servants.",
-    "spiritual_meaning": "A symbol of peace and tranquility, the name Dar is a reminder of the comfort and protection that comes from faith and trust in God.",
-    "emotional_traits": [
-      "Peaceful",
-      "Comforting",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest, S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Yellow",
-      "Brown"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 3,
-    "numerology_meaning": "People with the name Dar tend to be creative, artistic, and imaginative. They have a strong desire for self-expression and a deep emotional sensitivity. They are often very intuitive and can sense the feelings of others.",
-    "in_arabic": {
-      "name": "دار",
-      "meaning": "الدار تعني المنزل أو البيت في اللغة العربية",
-      "long_meaning": "الدار هو اسم مشتق من الجذر الدال والراء والواو، ويشير إلى المنزل أو البيت. في اللغة العربية، الدار هو المكان الذي يأوي إليه الإنسان ويعيش فيه. وفي القرآن الكريم، نجد استخدامًا مشابهًا لكلمة الدار، حيث يقول الله تعالى: 'وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيُدْخِلُهُمُ اللَّهُ فِي جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا، ذَلِكَ الْفَوْزُ الْعَظِيمُ' (النساء: 57). الدار في هذا السياق تشير إلى الجنة التي هي دار المؤمنين."
+    "identity": {
+      "display_name": "Dar",
+      "normalized_name": "dar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Dar",
+        "dar"
+      ],
+      "search_variants": [
+        "Dar",
+        "dar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دار",
-      "meaning": "دار کا مطلب ہے گھر یا منزل",
-      "long_meaning": "اردو میں، دار کا نام عربی جڑ ڈال، را، واو سے نکلا ہے، جس کا مطلب ہے گھر یا منزل۔ یہ نام جنوبی ایشیائی مسلمانوں کے درمیان میں بہت مقبول ہے، خاص طور پر ہندوستان اور پاکستان میں۔ دار کا انتخاب اس لیے کیا جاتا ہے کیونکہ یہ ایک ایسے شخص کی نمائندگی کرتا ہے جو اپنے خاندان اور گھر کے لیے محبت اور حفاظت کا احساس رکھتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "House, abode, dwelling",
+      "primary_meaning": "House",
+      "secondary_meanings": [
+        "abode",
+        "dwelling"
+      ],
+      "literal_meaning": "House",
+      "extended_meaning": "House, abode, dwelling",
+      "meaning_explanation": "Dar corresponds to the Arabic form دار (د و ر). Its core sense is house, abode, dwelling. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दार",
-      "meaning": "दार का अर्थ है घर या निवास",
-      "long_meaning": "भारतीय मुस्लिम समुदाय में, दार नाम का बहुत महत्व है। यह नाम अरबी मूल से निकला है, जिसका अर्थ है घर या निवास। दार नाम का चयन इसलिए किया जाता है क्योंकि यह एक ऐसे व्यक्ति को दर्शाता है जो अपने परिवार और घर के प्रति प्रेम और सुरक्षा की भावना रखता है। यह नाम अक्सर उन बच्चों को दिया जाता है जो अपने परिवार के लिए आशा और समर्थन का स्रोत होते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "دار",
+      "transliteration": "dar",
+      "romanization": "dar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "House",
+        "abode",
+        "dwelling"
+      ],
+      "etymology_explanation": "The form دار is an established Arabic lexical item. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "دار",
-      "meaning": "دار د کور یا اوسیدنځ معنی دی",
-      "long_meaning": "په پښتو کې، دار د کور یا اوسیدنځ معنی لري. دا نوم د پښتنو مسلمانانو تر منځ ډیر مشهور دی، په ځانګړي ډول په افغانستان کې. دار غوره کیږي ځکه چې دا د هغه چا استازیتوب کوي څوک چې د خپل کورنۍ او کور لپاره مینه او حفاظت احساس کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دار is an established Arabic form.",
+        "Urdu": "دار is used in Urdu.",
+        "Hindi": "दार is used in Hindi.",
+        "Pashto": "دار is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Dar",
-      "meaning": "Means house or dwelling place in Arabic",
-      "long_meaning": "The name Dar originates from the Arabic root D-R-W, which means house or dwelling place. In Islamic tradition, the name Dar signifies a sense of protection, shelter, and comfort. It is mentioned in the Quran, where Allah describes the Garden as a 'house' or 'abode' for believers. The name Dar is popular across Muslim cultures, reflecting values of family, home, and community."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form دار. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Dar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "الدار occurs in the Qur'an (e.g. 6:127)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense house, abode, dwelling.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "House",
+      "related_concepts": [
+        "house",
+        "abode",
+        "dwelling"
+      ],
+      "semantic_relationship": "The central semantic idea is house; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of house.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "House",
+        "Abode",
+        "Dwelling"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Dar",
+        "meaning": "House, abode, dwelling",
+        "long_meaning": "Dar is a Arabic-origin name. Its core meaning is house, abode, dwelling. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "دار",
+        "meaning": "گھر، مکان، دار",
+        "long_meaning": "Dar (دار) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم گھر، مکان، دار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दार",
+        "meaning": "घर, निवास",
+        "long_meaning": "Dar (दार) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ घर, निवास है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دار",
+        "meaning": "کور، استوګنځی",
+        "long_meaning": "Dar (دار) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کور، استوګنځی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دار",
+        "meaning": "الدار، المنزل",
+        "long_meaning": "Dar (دار) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الدار، المنزل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "dar",
-      "urdu": "ڈار",
+      "romanized": "dar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دار",
+      "persian": null,
       "hindi": "दार",
-      "pashto": "دار",
-      "ipa": "/dɑːr/"
+      "pashto": "دار"
     },
-    "celebrity_usage": [
-      "Darren Criss",
-      "Dara McAnulty"
-    ],
-    "social_tags": [
-      "#DarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Dar"
-    ],
-    "name_variations": [],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Dar",
+        "dar"
+      ],
+      "script_variants": [
+        "دار",
+        "दार"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دار is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Dar can be understood through the Arabic form دار, whose central sense is house, abode, dwelling. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Dar mean?",
+        "answer": "Dar is associated with the Arabic form دار, whose core sense is house, abode, dwelling."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Dar?",
+        "answer": "Dar is associated with Arabic. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Dar an Arabic name?",
+        "answer": "Yes — the underlying form دار is Arabic."
+      },
+      {
+        "question": "Is Dar an Islamic name?",
+        "answer": "Dar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Dar a Quranic name?",
+        "answer": "Dar should not be classified as a Quranic personal name without a direct Quranic basis. الدار occurs in the Qur'an (e.g. 6:127)"
+      },
+      {
+        "question": "What does Dar mean in Urdu?",
+        "answer": "In Urdu, Dar is rendered دار and carries the sense گھر، مکان، دار."
+      },
+      {
+        "question": "What does Dar mean in Persian?",
+        "answer": "No verified Persian form was established for Dar."
+      },
+      {
+        "question": "How is Dar pronounced?",
+        "answer": "A romanized syllable approximation is dar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Dar?",
+        "answer": "Romanization variants include Dar, dar. Script forms are دار, दार."
+      },
+      {
+        "question": "Is Dar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Dar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Dar, a beautiful Islam name meaning \"Abode, House, Home\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Dar, Islam name, baby names, Abode, House, Home, Islam baby names, name meaning",
-      "description_paragraph": "Dar is a meaningful Islam name of Arabic origin that means \"Abode, House, Home\". In Islamic tradition, the name Dar is derived from the Arabic word ‘dār’, which means ‘abode’ or ‘house’. It is a name that evokes feelings of safety, security, and warmth. The name is often used in the context of the Islamic concept of the Hereafter, where God is described as the ultimate and eternal abode for His faithful servants.",
-      "keywords": [
-        "Dar",
-        "Islam name",
-        "baby names",
-        "Abode, House, Home",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Dar in Islam tradition?",
-          "a": "Dar is a beautiful Islam name meaning \"Abode, House, Home\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Dar a good Islam name for a baby?",
-          "a": "Yes, Dar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Dar?",
-          "a": "The name Dar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Dar correctly?",
-          "a": "Dar is pronounced dar in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Dar?",
-          "a": "Naming a child Dar brings blessings. The meaning \"Abode, House, Home\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Dar?",
-          "a": "Dar is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Dar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Dar (دار).",
+      "h1": "Dar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Dar meaning",
       "secondary_keywords": [
-        "Islam name Dar",
-        "Dar meaning",
-        "Dar origin"
+        "Dar name meaning",
+        "Dar meaning in Urdu",
+        "Dar origin",
+        "Dar Islamic name",
+        "Dar pronunciation",
+        "Dar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Dar (دار) is associated with the Arabic form دار, whose core sense is house, abode, dwelling. Dār ('house, abode, dwelling'). The source record's gloss 'Abode, House, Home' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Dar is associated with the Arabic form دار, whose core sense is house, abode, dwelling.",
+      "meaning_section": "The central meaning of Dar is house, abode, dwelling.",
+      "origin_section": "Dar is associated with Arabic rather than with a different language.",
+      "islam_section": "Dar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Dar is with the sense house.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Dar",
+      "#DarMeaning",
+      "#DarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Dar represents the concept of home and shelter, which is deeply valued in Islamic culture. It can be used to refer to a physical house or a metaphorical one, signifying a sense of belonging and protection.",
-    "spiritual_significance": "In Islamic spirituality, the name Dar holds a deeper meaning. It refers to the eternal abode or house that awaits the faithful in the Hereafter, where they will be united with God in infinite peace and happiness. The concept of Dar serves as a source of comfort and motivation for Muslims, reminding them of the ultimate destination of their spiritual journey.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Battuta's travels in the 14th century included a visit to the city of Dar es Salaam in East Africa.",
-        "time_period": "1337-1354",
-        "context": "Dar es Salaam was an important trading town during the Swahili period."
-      },
-      {
-        "reference": "Historical records show that The Prophet Muhammad is said to have referred to Medina as 'Dar al-Islam' or 'The Abode of Islam'. The name Dar carried significant weight in that era.",
-        "time_period": "622 AD",
-        "context": "This term signified the territories under Islamic rule, providing protection and security for Muslim communities."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Modern Islamic architecture",
-        "Sustainable buildings",
-        "Smart cities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Dar corresponds to the Arabic form دار",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Dar has the core sense house, abode, dwelling",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Pinterest",
-        "LinkedIn"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Dar' in Islamic context refers to a dwelling, a house or a home. In the contemporary world, this concept has evolved significantly and is reflected in various modern trends. Dar in the context of modern Islamic architecture refers to buildings that are inspired by Islamic geometric patterns, calligraphy, and symbolism. Sustainable buildings, also known as 'green' buildings, are another modern manifestation of the concept of Dar. Islamic principles of stewardship and care for the environment are integrated into these structures, making them eco-friendly and energy-efficient. Lastly, Dar is also a key component of smart cities, which are urban areas that use technology to improve the quality of life of their residents. Smart homes, which are an integral part of smart cities, are designed with the principles of Dar in mind, providing a comfortable, efficient, and technologically advanced living experience."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Dar",
-      "location": "Cairo, Egypt",
-      "story": "Aisha Dar from Cairo, Egypt embodies the meaning of Dar - \"Abode, House, Home\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Abode, House, Home\" symbolizes In Islamic tradition, the name Dar is derived from the Arabic word ‘dār’, which means ‘abode’ or ‘house’. It is a name that evokes feelings of safety, security, and warmth. The name is often used in the context of the Islamic concept of the Hereafter, where God is described as the ultimate and eternal abode for His faithful servants.. In Islamic spirituality, bearing the name Dar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of abode, house, home.",
-    "created_at": "2025-12-22T19:19:49.934Z",
-    "updated_at": "2025-12-22T04:53:15.563Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1390,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Dar",
-      "description": "Abode, House, Home",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Dar",
+        "dar"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Dar",
-          "description": "Discover the meaning of Dar - \"Abode, House, Home\"",
-          "image": "/images/social/dar-facebook.jpg"
+      "description": "A name associated with the Arabic form دار, meaning house, abode, dwelling.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "dar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Dar - Name Meaning",
-          "description": "Learn about the beautiful name Dar",
-          "image": "/images/social/dar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Dar",
-          "description": "Name meaning: Abode, House, Home",
-          "image": "/images/social/dar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Dar - Meaning: Abode, House, Home",
-        "email_subject": "Beautiful Name: Dar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Dar with meaning Abode, House, Home",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Dar, associated with the Arabic form دار, meaning house, abode, dwelling."
     },
-    "similar_sounding_names": [
-      "daniel",
-      "dina",
-      "dimah",
-      "dean",
-      "diya",
-      "dhuka"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

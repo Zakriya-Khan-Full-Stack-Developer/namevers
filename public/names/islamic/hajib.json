@@ -3,274 +3,481 @@
   "data": {
     "name": "Hajib",
     "slug": "hajib",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Guardian or Protector",
-    "long_meaning": "Hajib is an Arabic name that means 'guardian' or 'protector', emphasizing the importance of safeguarding and preserving.",
-    "spiritual_meaning": "Hajib is a name that embodies the qualities of a devoted protector and guardian, as mentioned in the Quran.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "Adaptability, Resourcefulness, Freedom, Change, and Personal Freedom",
-    "in_arabic": {
-      "name": "حاجب",
-      "meaning": "حاجب تعني الشخص الذي يقوم بحماية العينين من الرمال",
-      "long_meaning": "حاجب هو اسم عربي يدل على الشخص الذي يحمي العينين من الرمال أو الأتربة، و هو مشتق من كلمة 'حَجَبَ' التي تعني 'غطى' أو 'ستر'. في اللغة العربية، الحاجب هو الشخص الذي يقوم بحماية العينين من الرمال أو الأتربة، و هو اسم ذو معنى جميل و عميق يرمز إلى الحماية و العناية."
+    "identity": {
+      "display_name": "Hajib",
+      "normalized_name": "hajib",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hajib",
+        "hajib"
+      ],
+      "search_variants": [
+        "Hajib",
+        "hajib"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حاجب",
-      "meaning": "حاجب کا مطلب ہے جو شخص آنکھوں کی حفاظت کرتا ہے",
-      "long_meaning": "حاجب ایک عربی نام ہے جس کا مطلب ہے جو شخص آنکھوں کی حفاظت کرتا ہے یا ان کی ستر کرتا ہے۔ یہ نام 'حَجَبَ' کی بنیاد پر ہے جس کا مطلب ہے 'چھپانا' یا 'ڈھکنا'۔ حاجب نام اسلامی روایت میں اہمیت رکھتا ہے اور اس کا ذکر قرآن میں بھی آیا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Protector, guardian, preserver",
+      "primary_meaning": "Protector",
+      "secondary_meanings": [
+        "guardian",
+        "preserver"
+      ],
+      "literal_meaning": "Protector",
+      "extended_meaning": "Protector, guardian, preserver",
+      "meaning_explanation": "Hajib corresponds to the Arabic form حاجب (Arabic root ح ج ب (ḥ-j-b); حاجب (ḥājib)). Its core sense is protector, guardian, preserver. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हाजिब",
-      "meaning": "हाजिब का अर्थ है जो व्यक्ति आंखों की रक्षा करता है",
-      "long_meaning": "हाजिब एक अरबी नाम है जिसका अर्थ है जो व्यक्ति आंखों की रक्षा करता है या उनकी सुरक्षा करता है। यह नाम 'حَجَبَ' से लिया गया है जिसका अर्थ है 'छिपाना' या 'ढकना'। हाजिब नाम भारतीय मुस्लिम समुदाय में भी प्रचलित है और इसका महत्व इस्लामी परंपरा में है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حاجب",
+      "transliteration": "hajib",
+      "romanization": "hajib",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Protector",
+        "guardian",
+        "preserver"
+      ],
+      "etymology_explanation": "The form حاجب is an established Arabic lexical item. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حاجب",
-      "meaning": "حاجب دى هغه کسان چې سترګو ته پاملرنه کوي",
-      "long_meaning": "حاجب د عربي نوم دى چې دى مانا يې دى هغه کسان چې سترګو ته پاملرنه کوي او يا يې ساتنه کوي. دا نوم د 'حَجَبَ' څخه اخستى شوى دى چې د 'پټول' يا 'ښکلول' مانا لري. حاجب نوم د افغانستان او پاکستان د پښتو ژبې د مسلمانانو په دود کې دى."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حاجب is an established Arabic form.",
+        "Urdu": "حاجب is used in Urdu.",
+        "Persian": "حاجب is an established Persian form.",
+        "Hindi": "हाजिब is used in Hindi.",
+        "Pashto": "حاجب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Hajib",
-      "meaning": "Hajib means protector of the eyes or one who covers",
-      "long_meaning": "Hajib is an Arabic name derived from the root 'حَجَبَ' (hajaba), meaning 'to cover' or 'to protect'. It signifies one who protects or covers the eyes, symbolizing care and guardianship. The name Hajib has historical significance in Islamic tradition and is associated with positive personality traits such as protectiveness and care."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form حاجب. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hajib may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense protector, guardian, preserver.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Protector",
+      "related_concepts": [
+        "protector",
+        "guardian",
+        "preserver"
+      ],
+      "semantic_relationship": "The central semantic idea is protector; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of protector.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Protector",
+        "Guardian",
+        "Preserver"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hajib",
+        "meaning": "Protector, guardian, preserver",
+        "long_meaning": "Hajib is a Arabic-origin name. Its core meaning is protector, guardian, preserver. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense."
+      },
+      "urdu": {
+        "name": "حاجب",
+        "meaning": "محافظ، نگہبان",
+        "long_meaning": "Hajib (حاجب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محافظ، نگہبان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حاجب",
+        "meaning": "نگهبان، نگاه‌دارنده",
+        "long_meaning": "Hajib (حاجب) نامی برگرفته از زبان عربی است و معنای اصلی آن نگهبان، نگاه‌دارنده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हाजिब",
+        "meaning": "रक्षक, संरक्षक",
+        "long_meaning": "Hajib (हाजिब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रक्षक, संरक्षक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حاجب",
+        "meaning": "ساتونکی، پالونکی",
+        "long_meaning": "Hajib (حاجب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ساتونکی، پالونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حاجب",
+        "meaning": "الحافظ، الحفيظ",
+        "long_meaning": "Hajib (حاجب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحافظ، الحفيظ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "hah-jib",
-      "urdu": "اردو میں تلفظ کی تفصیل: حاجب",
-      "hindi": "हिन्दी में उच्चारण विवरण: हाजिब",
-      "pashto": "په پښتو کې د تلفظ تفصیل: حاجب",
-      "ipa": "/ˈhɑːdʒɪb/"
+      "romanized": "ha-jib",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حاجب",
+      "persian": "حاجب",
+      "hindi": "हाजिब",
+      "pashto": "حاجب"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HajibMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hajib"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hajib",
+        "hajib"
+      ],
+      "script_variants": [
+        "حاجب",
+        "हाजिब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حاجب is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hajib can be understood through the Arabic form حاجب, whose central sense is protector, guardian, preserver. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Hajib mean?",
+        "answer": "Hajib is associated with the Arabic form حاجب, whose core sense is protector, guardian, preserver."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 86,
-        "year": 2024
+        "question": "What is the origin of Hajib?",
+        "answer": "Hajib is associated with Arabic. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Hajib an Arabic name?",
+        "answer": "Yes — the underlying form حاجب is Arabic."
+      },
+      {
+        "question": "Is Hajib an Islamic name?",
+        "answer": "Hajib can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hajib a Quranic name?",
+        "answer": "Hajib should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hajib mean in Urdu?",
+        "answer": "In Urdu, Hajib is rendered حاجب and carries the sense محافظ، نگہبان."
+      },
+      {
+        "question": "What does Hajib mean in Persian?",
+        "answer": "In Persian, Hajib is rendered حاجب and carries the sense نگهبان، نگاه‌دارنده."
+      },
+      {
+        "question": "How is Hajib pronounced?",
+        "answer": "A romanized syllable approximation is ha-jib. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hajib?",
+        "answer": "Romanization variants include Hajib, hajib. Script forms are حاجب, हाजिब."
+      },
+      {
+        "question": "Is Hajib a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hajib Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hajib, a beautiful Islam name meaning \"Guardian or Protector\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hajib, Islam name, baby names, Guardian or Protector, Islam baby names, name meaning",
-      "description_paragraph": "Hajib is a meaningful Islam name of Arabic origin that means \"Guardian or Protector\". Hajib is an Arabic name that means 'guardian' or 'protector', emphasizing the importance of safeguarding and preserving.",
-      "keywords": [
-        "Hajib",
-        "Islam name",
-        "baby names",
-        "Guardian or Protector",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hajib in Islam tradition?",
-          "a": "Hajib is a beautiful Islam name meaning \"Guardian or Protector\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hajib a good Islam name for a baby?",
-          "a": "Yes, Hajib is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hajib?",
-          "a": "The name Hajib has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hajib correctly?",
-          "a": "Hajib is pronounced hah-jib in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hajib?",
-          "a": "Naming a child Hajib brings blessings. The meaning \"Guardian or Protector\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hajib?",
-          "a": "Hajib is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Hajib Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hajib (حاجب).",
+      "h1": "Hajib Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hajib meaning",
       "secondary_keywords": [
-        "Islam name Hajib",
-        "Hajib meaning",
-        "Hajib origin"
+        "Hajib name meaning",
+        "Hajib meaning in Urdu",
+        "Hajib origin",
+        "Hajib Islamic name",
+        "Hajib pronunciation",
+        "Hajib name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hajib (حاجب) is associated with the Arabic form حاجب, whose core sense is protector, guardian, preserver. Hajib is Arabic حاجب (ḥājib) 'a doorkeeper, chamberlain, guardian; also the eyebrow' (from ح ج ب 'to screen, veil'). The source gloss 'guardian or protector' is a reasonable rendering of the chamberlain/guardian sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hajib is associated with the Arabic form حاجب, whose core sense is protector, guardian, preserver.",
+      "meaning_section": "The central meaning of Hajib is protector, guardian, preserver.",
+      "origin_section": "Hajib is associated with Arabic rather than with a different language.",
+      "islam_section": "Hajib can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hajib is with the sense protector.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hajib",
+      "#HajibMeaning",
+      "#HajibName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In the Islamic world, the term Hajib is widely known as a form of modest clothing for women that covers the head and chest, with loose-fitting garments ensuring that no part of the female body is exposed to the public. This custom is a significant aspect of the Islamic culture, particularly for women traveling for the annually obligatory pilgrimage to Mecca, known as the Hajj. Adherents of Islam wear the Hajib to signify reverence, devotion, and modesty.",
-    "spiritual_significance": "In the spiritual context, the Hajib represents a encapsulation of the inner workings of a pious Muslim woman. It symbolizes her commitment to following the teachings of the Prophet Muhammad and to upholding God's divine commandments. The Hajib functions both as a constant reminder of her faith, as well as an outward expression of her inner peace and submission to God. Through the act of donning the Hajib, a Muslim woman exposes herself to her Creator, instilling a deep sense of connection to Her Divine Providence.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Hajib ibn Abd al-Rahman, Abbasid caliph The name Hajib carried significant weight in that era.",
-        "time_period": "9th century",
-        "context": "Historical figure in the Abbasid Caliphate"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "online communities",
-        "username",
-        "nickname"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hajib corresponds to the Arabic form حاجب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Hajib has the core sense protector, guardian, preserver",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "online forums",
-        "social media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hajib remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khalid Hajib",
-      "location": "Istanbul, Turkey",
-      "story": "Khalid Hajib, a teacher in Istanbul, Turkey, shares that their name Hajib meaning \"Guardian or Protector\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Guardian or Protector\" symbolizes Hajib is an Arabic name that means 'guardian' or 'protector', emphasizing the importance of safeguarding and preserving.. In Islamic spirituality, bearing the name Hajib serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of guardian or protector.",
-    "created_at": "2025-12-22T19:19:49.79Z",
-    "updated_at": "2025-12-22T04:53:14.231Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1034,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hajib",
-      "description": "Guardian or Protector",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Hajib",
+        "hajib"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hajib",
-          "description": "Discover the meaning of Hajib - \"Guardian or Protector\"",
-          "image": "/images/social/hajib-facebook.jpg"
+      "description": "A name associated with the Arabic form حاجب, meaning protector, guardian, preserver.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "hajib",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hajib - Name Meaning",
-          "description": "Learn about the beautiful name Hajib",
-          "image": "/images/social/hajib-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Hajib",
-          "description": "Name meaning: Guardian or Protector",
-          "image": "/images/social/hajib-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hajib - Meaning: Guardian or Protector",
-        "email_subject": "Beautiful Name: Hajib"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hajib with meaning Guardian or Protector",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hajib, associated with the Arabic form حاجب, meaning protector, guardian, preserver."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

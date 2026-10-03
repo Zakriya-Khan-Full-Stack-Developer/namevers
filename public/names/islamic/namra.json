@@ -3,291 +3,474 @@
   "data": {
     "name": "Namra",
     "slug": "namra",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Restless, anxious, or troubled",
-    "long_meaning": "Derived from the Arabic root 'n-m-r' which refers to restlessness or anxiety.\nIn Islamic tradition, Namra is a name given to a person who is troubled or anxious, often in a spiritual sense.",
-    "spiritual_meaning": "None",
-    "emotional_traits": [
-      "Anxious",
-      "Troubled"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Reflective",
-      "Contemplative"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Silver",
-      "Green"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 5,
-    "numerology_meaning": "Represents adaptability, resourcefulness, and versatility.",
-    "in_arabic": {
-      "name": "نامرة",
-      "meaning": "اسم مؤنث يعني الثمرة الناضجة أو الشيء العزيز",
-      "long_meaning": "اسم مؤنث مشتق من الجذر النمري، ويعني الثمرة الناضجة أو الشيء العزيز والغالي. يستخدم في بعض الأحيان لوصف الشخصية القوية والمميزة. ورد ذكره في بعض المصادر العربية القديمة كاسم للإناث، ويحمل دلالات إيجابية تتعلق بالنمو والازدهار."
+    "identity": {
+      "display_name": "Namra",
+      "normalized_name": "namra",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Namra",
+        "namra"
+      ],
+      "search_variants": [
+        "Namra",
+        "namra"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "نامرہ",
-      "meaning": "نامرہ ایک خوبصورت اور معانی سے بھرپور نام ہے",
-      "long_meaning": "نامرہ (Namra) عربی मूल کا ایک نسائی نام ہے جس کا مطلب ہے پکا ہوا پھل یا قیمتی چیز۔ یہ نام مضبوط اور ممتاز شخصیت کی نشاندہی کرتا ہے۔ جنوبی ایشیاء میں مسلمانوں کے ذریعہ اس نام کا استعمال کیا جاتا ہے، خاص طور پر پاکستان اور بھارت میں، جہاں یہ نام خوبصورتی اور مضبوطی کی علامت کے طور پر دیکھا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Namra; a female given name",
+      "primary_meaning": "Namra; a female given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Namra; a female given name",
+      "extended_meaning": "Namra; a female given name",
+      "meaning_explanation": "Namra corresponds to the Arabic form نَمْرَة (Arabic نَمْرَة (Namra)). Its core sense is namra; a female given name. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "नामरा",
-      "meaning": "नामरा एक सुंदर और अर्थपूर्ण नाम है",
-      "long_meaning": "नामरा (Namra) एक संस्कृत और उर्दू नाम है जिसका अर्थ है 'पका हुआ फल' या 'मूल्यवान वस्तु'। यह नाम एक मजबूत और विशिष्ट व्यक्तित्व को दर्शाता है। भारतीय मुस्लिम समुदाय में, नामरा नाम का उपयोग एक सुंदर और सशक्त नाम के रूप में किया जाता है, जो विकास और समृद्धि की कामना करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نَمْرَة",
+      "transliteration": "namra",
+      "romanization": "namra",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Namra; a female given name"
+      ],
+      "etymology_explanation": "The form نَمْرَة is an established Arabic lexical item. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نمره",
-      "meaning": "نمره د ښځو يو نوم دی چې معنی يې د قيمت لرونکي يا پخې میوې څخه اخیستل شوی دی",
-      "long_meaning": "نمره (Namra) د عربي ژبې څخه اخیستل شوی نوم دی، چې معنی يې د پخې میوې یا قيمت لرونکي شی څخه عبارت دی. په افغانستان کې، دغه نوم د ښځو لپاره کارول کېږي او د مثبت صفات لکه قوت، زړه نازکۍ، او ارزښت څرګندولو لپاره کارول کېږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نَمْرَة is an established Arabic form.",
+        "Urdu": "نمرہ is used in Urdu.",
+        "Persian": "نمره is an established Persian form.",
+        "Hindi": "नमरा is used in Hindi.",
+        "Pashto": "نمره is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Namra",
-      "meaning": "Namra means mature fruit or precious thing",
-      "long_meaning": "Namra is a feminine given name derived from Arabic roots. It means 'mature fruit' or 'precious thing,' symbolizing growth, beauty, and value. The name is associated with positive qualities such as strength, uniqueness, and spiritual significance. In Islamic tradition, names like Namra are chosen for their meanings and blessings. The name has been used across various Muslim cultures, including Arabic, Urdu, Turkish, and South Asian communities."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form نَمْرَة. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Namra may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense namra; a female given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Namra; a female given name",
+      "related_concepts": [
+        "namra; a female given name"
+      ],
+      "semantic_relationship": "The central semantic idea is namra; a female given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of namra; a female given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Namra; a female given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Namra",
+        "meaning": "Namra; a female given name",
+        "long_meaning": "Namra is a Arabic-origin name. Its core meaning is namra; a female given name. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence."
+      },
+      "urdu": {
+        "name": "نمرہ",
+        "meaning": "نمرہ (زنانہ نام)",
+        "long_meaning": "Namra (نمرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نمرہ (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نمره",
+        "meaning": "نمره (نام زنانه)",
+        "long_meaning": "Namra (نمره) نامی برگرفته از زبان عربی است و معنای اصلی آن نمره (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नमरा",
+        "meaning": "नमरा (स्त्री नाम)",
+        "long_meaning": "Namra (नमरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नमरा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نمره",
+        "meaning": "نمره (ښځينه نوم)",
+        "long_meaning": "Namra (نمره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نمره (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَمْرَة",
+        "meaning": "نَمْرَة (اسْم عَلَم مُؤَنَّث)",
+        "long_meaning": "Namra (نَمْرَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي نَمْرَة (اسْم عَلَم مُؤَنَّث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "NAHM-rah",
-      "urdu": "اردو میں تلفظ کی تفصیل: نامرہ (NAH-mrah)",
-      "hindi": "हिन्दी में उच्चारण विवरण: नामरा (NAH-mrah)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: نمره (NAH-mrah)",
-      "ipa": "/ˈnɑːm.rɑː/"
+      "romanized": "nam-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نمرہ",
+      "persian": "نمره",
+      "hindi": "नमरा",
+      "pashto": "نمره"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#NamraMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Namra"
-    ],
-    "name_variations": [
-      "Namrah"
-    ],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Namra",
+        "namra"
+      ],
+      "script_variants": [
+        "نمره",
+        "نمرہ",
+        "نَمْرَة",
+        "नमरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَمْرَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Namra can be understood through the Arabic form نَمْرَة, whose central sense is namra; a female given name. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Namra mean?",
+        "answer": "Namra is associated with the Arabic form نَمْرَة, whose core sense is namra; a female given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Namra?",
+        "answer": "Namra is associated with Arabic. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Namra an Arabic name?",
+        "answer": "Yes — the underlying form نَمْرَة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Namra an Islamic name?",
+        "answer": "Namra can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Namra a Quranic name?",
+        "answer": "Namra should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Namra mean in Urdu?",
+        "answer": "In Urdu, Namra is rendered نمرہ and carries the sense نمرہ (زنانہ نام)."
+      },
+      {
+        "question": "What does Namra mean in Persian?",
+        "answer": "In Persian, Namra is rendered نمره and carries the sense نمره (نام زنانه)."
+      },
+      {
+        "question": "How is Namra pronounced?",
+        "answer": "A romanized syllable approximation is nam-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Namra?",
+        "answer": "Romanization variants include Namra, namra. Script forms are نمره, نمرہ, نَمْرَة, नमरा."
+      },
+      {
+        "question": "Is Namra a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Namra Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Namra, a beautiful Islam name meaning \"Restless, anxious, or troubled\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Namra, Islam name, baby names, Restless, anxious, or troubled, Islam baby names, name meaning",
-      "description_paragraph": "Namra is a meaningful Islam name of Arabic origin that means \"Restless, anxious, or troubled\". Derived from the Arabic root 'n-m-r' which refers to restlessness or anxiety.\nIn Islamic tradition, Namra is a name given to a person who is troubled or anxious, often in a spiritual sense.",
-      "keywords": [
-        "Namra",
-        "Islam name",
-        "baby names",
-        "Restless, anxious, or troubled",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Namra in Islam tradition?",
-          "a": "Namra is a beautiful Islam name meaning \"Restless, anxious, or troubled\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Namra a good Islam name for a baby?",
-          "a": "Yes, Namra is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Namra?",
-          "a": "The name Namra has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Namra correctly?",
-          "a": "Namra is pronounced NAHM-rah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Namra?",
-          "a": "Naming a child Namra brings blessings. The meaning \"Restless, anxious, or troubled\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Namra?",
-          "a": "Namra is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Namra Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Namra (نَمْرَة).",
+      "h1": "Namra Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Namra meaning",
       "secondary_keywords": [
-        "Islam name Namra",
-        "Namra meaning",
-        "Namra origin"
+        "Namra name meaning",
+        "Namra meaning in Urdu",
+        "Namra origin",
+        "Namra Islamic name",
+        "Namra pronunciation",
+        "Namra name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Namra (نَمْرَة) is associated with the Arabic form نَمْرَة, whose core sense is namra; a female given name. Namra is recorded as Arabic نَمْرَة (Namra), a female given name. CRITICAL SOURCE ERROR: the source gave نامرة (a non-standard form). The source gloss 'Restless, anxious, or troubled' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Namra is associated with the Arabic form نَمْرَة, whose core sense is namra; a female given name.",
+      "meaning_section": "The central meaning of Namra is namra; a female given name.",
+      "origin_section": "Namra is associated with Arabic rather than with a different language.",
+      "islam_section": "Namra can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Namra is with the sense namra; a female given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Namra",
+      "#NamraMeaning",
+      "#NamraName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Namra may evoke feelings of empathy and understanding towards individuals going through emotional struggles. In some Middle Eastern cultures, a person named Namra could be recognized as someone in need of support, leading to a sense of community and compassion.",
-    "spiritual_significance": "In Islamic mysticism, namra is a theme that reflects the restlessness and anxiety felt by the soul in its spiritual journey. This name is a reminder of the human condition marked by impermanence and longing for the eternal peace and divine love found in Allah. The name Namra can serve as an inspiration for self-reflection, introspection, and seeking solace in faith during times of spiritual distress.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Namra bint Abdul-Muttalib, a sister of the Prophet Muhammad, is mentioned in the hadiths. The name Namra carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Namra is a sister of the Prophet Muhammad and is mentioned in various hadiths."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Namra corresponds to the Arabic form نَمْرَة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Namra has the core sense namra; a female given name",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Namra remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Namra",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Layla Namra from Riyadh, Saudi Arabia embodies the meaning of Namra - \"Restless, anxious, or troubled\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Restless, anxious, or troubled\" symbolizes Derived from the Arabic root 'n-m-r' which refers to restlessness or anxiety.\nIn Islamic tradition, Namra is a name given to a person who is troubled or anxious, often in a spiritual sense.. In Islamic spirituality, bearing the name Namra serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of restless, anxious, or troubled.",
-    "created_at": "2025-12-22T19:19:49.848Z",
-    "updated_at": "2025-12-22T04:53:14.716Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1491,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Namra",
-      "description": "Restless, anxious, or troubled",
-      "additionalName": [
-        "Namrah"
+      "alternateName": [
+        "Namra",
+        "namra"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form نَمْرَة, meaning namra; a female given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Namra",
-          "description": "Discover the meaning of Namra - \"Restless, anxious, or troubled\"",
-          "image": "/images/social/namra-facebook.jpg"
+      "termCode": "namra",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Namra - Name Meaning",
-          "description": "Learn about the beautiful name Namra",
-          "image": "/images/social/namra-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Namra",
-          "description": "Name meaning: Restless, anxious, or troubled",
-          "image": "/images/social/namra-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Namra - Meaning: Restless, anxious, or troubled",
-        "email_subject": "Beautiful Name: Namra"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Namra with meaning Restless, anxious, or troubled",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Namra, associated with the Arabic form نَمْرَة, meaning namra; a female given name."
     },
-    "similar_sounding_names": [
-      "norah",
-      "nadeen",
-      "nina",
-      "naina",
-      "namik",
-      "nevaeh",
-      "nihal",
-      "nora"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

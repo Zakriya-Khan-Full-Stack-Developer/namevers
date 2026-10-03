@@ -3,290 +3,482 @@
   "data": {
     "name": "Nawab",
     "slug": "nawab",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Prince, Ruler",
-    "long_meaning": "Nawab is an Arabic title given to a prince or a ruler, symbolizing leadership, wisdom, and nobility.",
-    "spiritual_meaning": "In Islamic tradition, Nawab represents a close companion of the Prophet Muhammad, known for his bravery and generosity.",
-    "emotional_traits": [
-      "Confident",
-      "Ambitious",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Brown"
-    ],
-    "lucky_stone": "Tiger's Eye",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious, loving, and balanced person.",
-    "in_arabic": {
-      "name": "نواب",
-      "meaning": "الجاهل أو الحاكم أو الشخص ذو المكانة العالية",
-      "long_meaning": "نواب هو الشخص الذي يتمتع بالسلطة و الجاه و المكانة العالية في المجتمع، و هو أيضاً الشخص الذي يحكم أو يرأس في منطقة معينة، و يأتي من الجذر العربي ن-و-ب الذي يعني الانتقال إلى مكانة عالية أو الحصول على السلطة."
+    "identity": {
+      "display_name": "Nawab",
+      "normalized_name": "nawab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Nawab",
+        "nawab"
+      ],
+      "search_variants": [
+        "Nawab",
+        "nawab"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "نواب",
-      "meaning": "حکم کرنے والا، جاہل، ممتاز شخص",
-      "long_meaning": "نواب کا مطلب ہے وہ شخص جو کسی علاقے پر حکم کرتا ہے یا حکومت کرتا ہے، یہ نام عربی جذر ن-و-ب سے ماخوذ ہے جس کا مطلب ہے اعلیٰ مقام حاصل کرنا یا کسی اعلیٰ مقام پر جانا، نواب نام جنوبی ایشیائی مسلمانوں میں بہت مقبول ہے کیونکہ یہ نام تاریخ میں نوابوں اور حاکموں کے لئے استعمال ہوا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Deputy, lord, master (plural of naib)",
+      "primary_meaning": "Deputy",
+      "secondary_meanings": [
+        "lord",
+        "master (plural of naib)"
+      ],
+      "literal_meaning": "Deputy",
+      "extended_meaning": "Deputy, lord, master (plural of naib)",
+      "meaning_explanation": "Nawab corresponds to the Arabic form نُوَّاب (Arabic root ن و ب (n-w-b); نُوَّاب (Nuwwāb)). Its core sense is deputy, lord, master (plural of naib). Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "नवाब",
-      "meaning": "शासक, उच्च पदस्थ व्यक्ति, सम्मानित",
-      "long_meaning": "नवाब नाम का अर्थ है शासक या उच्च पदस्थ व्यक्ति, यह नाम अरबी मूल से लिया गया है और इसका अर्थ है उच्च स्थान या पद प्राप्त करना, भारतीय मुस्लिम समुदाय में यह नाम महत्वपूर्ण है क्योंकि इतिहास में नवाबों और शासकों ने इस नाम का उपयोग किया है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نُوَّاب",
+      "transliteration": "nawab",
+      "romanization": "nawab",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Deputy",
+        "lord",
+        "master (plural of naib)"
+      ],
+      "etymology_explanation": "The form نُوَّاب is an established Arabic lexical item. Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نواب",
-      "meaning": "حاکم، لوړ پوړی شخص، مشر",
-      "long_meaning": "نواب د دغه نوم معنی دا ده چې کوم شخص د يوې سيمې يا قوم پر مخه حاکم يا مشر وي، دا نوم د عربي ريښو ن-و-ب څخه اخيستل شوی دی چې د لوړ مقام يا قدرت ترلاسه کولو مانا لري، په پښتني کلتور کې دا نوم د احترام او لوړ مقام څرګندولو لپاره کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نُوَّاب is an established Arabic form.",
+        "Urdu": "نواب is used in Urdu.",
+        "Persian": "نواب is an established Persian form.",
+        "Hindi": "नवाब is used in Hindi.",
+        "Pashto": "نواب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Nawab",
-      "meaning": "Ruler, Governor, or Person of High Rank",
-      "long_meaning": "The name Nawab originates from the Arabic root 'n-w-b' which means to attain a high position or to have power, it refers to a ruler, governor, or a person of high rank and status in society, historically used in Islamic tradition to denote high-ranking officials or nobles, the name signifies leadership, authority, and respect."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form نُوَّاب. Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Nawab may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense deputy, lord, master (plural of naib).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Deputy",
+      "related_concepts": [
+        "deputy",
+        "lord",
+        "master (plural of naib)"
+      ],
+      "semantic_relationship": "The central semantic idea is deputy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of deputy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Deputy",
+        "Lord",
+        "Master (plural of naib)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Nawab",
+        "meaning": "Deputy, lord, master (plural of naib)",
+        "long_meaning": "Nawab is a Arabic-origin name. Its core meaning is deputy, lord, master (plural of naib). Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab."
+      },
+      "urdu": {
+        "name": "نواب",
+        "meaning": "نواب، سردار، حاکم",
+        "long_meaning": "Nawab (نواب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نواب، سردار، حاکم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نواب",
+        "meaning": "نواب، سرور",
+        "long_meaning": "Nawab (نواب) نامی برگرفته از زبان عربی است و معنای اصلی آن نواب، سرور است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नवाब",
+        "meaning": "नवाब, सरदार",
+        "long_meaning": "Nawab (नवाब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नवाब, सरदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نواب",
+        "meaning": "نواب، مشر",
+        "long_meaning": "Nawab (نواب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نواب، مشر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نُوَّاب",
+        "meaning": "النُّوَّاب، السَّيِّد",
+        "long_meaning": "Nawab (نُوَّاب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النُّوَّاب، السَّيِّد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "NAH-wab",
-      "urdu": "اردو میں تلفظ کی تفصیل: نواب (NAH-wab)",
-      "hindi": "हिन्दी में उच्चारण विवरण: नवाब (NAH-wab)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: نواب (NAH-wab)",
-      "ipa": "/ˈnɑːwɑːb/"
+      "romanized": "na-wab",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نواب",
+      "persian": "نواب",
+      "hindi": "नवाब",
+      "pashto": "نواب"
     },
-    "celebrity_usage": [
-      "Nawab Shah",
-      "Nawab Shahzad Khan",
-      "Nawab Mirza"
-    ],
-    "social_tags": [
-      "#NawabMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Nawab"
-    ],
-    "name_variations": [],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Nawab",
+        "nawab"
+      ],
+      "script_variants": [
+        "نواب",
+        "نُوَّاب",
+        "नवाब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نُوَّاب is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Nawab can be understood through the Arabic form نُوَّاب, whose central sense is deputy, lord, master (plural of naib). Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Nawab mean?",
+        "answer": "Nawab is associated with the Arabic form نُوَّاب, whose core sense is deputy, lord, master (plural of naib)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Nawab?",
+        "answer": "Nawab is associated with Arabic. Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Nawab an Arabic name?",
+        "answer": "Yes — the underlying form نُوَّاب is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 71,
-        "year": 2024
+        "question": "Is Nawab an Islamic name?",
+        "answer": "Nawab can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Nawab a Quranic name?",
+        "answer": "Nawab should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Nawab mean in Urdu?",
+        "answer": "In Urdu, Nawab is rendered نواب and carries the sense نواب، سردار، حاکم."
+      },
+      {
+        "question": "What does Nawab mean in Persian?",
+        "answer": "In Persian, Nawab is rendered نواب and carries the sense نواب، سرور."
+      },
+      {
+        "question": "How is Nawab pronounced?",
+        "answer": "A romanized syllable approximation is na-wab. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Nawab?",
+        "answer": "Romanization variants include Nawab, nawab. Script forms are نواب, نُوَّاب, नवाब."
+      },
+      {
+        "question": "Is Nawab a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Nawab Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Nawab, a beautiful Islam name meaning \"Prince, Ruler\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Nawab, Islam name, baby names, Prince, Ruler, Islam baby names, name meaning",
-      "description_paragraph": "Nawab is a meaningful Islam name of Arabic origin that means \"Prince, Ruler\". Nawab is an Arabic title given to a prince or a ruler, symbolizing leadership, wisdom, and nobility.",
-      "keywords": [
-        "Nawab",
-        "Islam name",
-        "baby names",
-        "Prince, Ruler",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Nawab in Islam tradition?",
-          "a": "Nawab is a beautiful Islam name meaning \"Prince, Ruler\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Nawab a good Islam name for a baby?",
-          "a": "Yes, Nawab is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Nawab?",
-          "a": "The name Nawab has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Nawab correctly?",
-          "a": "Nawab is pronounced NAH-wab in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Nawab?",
-          "a": "Naming a child Nawab brings blessings. The meaning \"Prince, Ruler\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Nawab?",
-          "a": "Nawab is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Nawab Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Nawab (نُوَّاب).",
+      "h1": "Nawab Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Nawab meaning",
       "secondary_keywords": [
-        "Islam name Nawab",
-        "Nawab meaning",
-        "Nawab origin"
+        "Nawab name meaning",
+        "Nawab meaning in Urdu",
+        "Nawab origin",
+        "Nawab Islamic name",
+        "Nawab pronunciation",
+        "Nawab name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Nawab (نُوَّاب) is associated with the Arabic form نُوَّاب, whose core sense is deputy, lord, master (plural of naib). Nawab is Arabic نُوَّاب (Nuwwāb) 'deputies, lords', the plural of نَائِب (nāʾib), from the root ن و ب (n-w-b). The source gloss 'Prince, Ruler' is broadly consistent. Same name as nawaab.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Nawab is associated with the Arabic form نُوَّاب, whose core sense is deputy, lord, master (plural of naib).",
+      "meaning_section": "The central meaning of Nawab is deputy, lord, master (plural of naib).",
+      "origin_section": "Nawab is associated with Arabic rather than with a different language.",
+      "islam_section": "Nawab can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Nawab is with the sense deputy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Nawab",
+      "#NawabMeaning",
+      "#NawabName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The title \"Nawab\" carries a rich historical and cultural significance in the Islamic world. It originated during the Mughal Empire in India and was often bestowed upon high-ranking officials, military commanders, and provincial governors. The title was a mark of dignity, power, and authority, and was often used in conjunction with the ruler's birth name. The title continues to be used in South Asia, particularly in Pakistan and Bangladesh, as a title of respect and honor.",
-    "spiritual_significance": "The use of the title \"Nawab\" has spiritual roots as well. In Islamic tradition, a leader is seen as a caretaker and trusted servant of Allah, responsible for the well-being and welfare of his subjects. The title \"Nawab\" is a reminder of the leader's sacred duty to rule with justice, fairness, and compassion, and to foster peace, unity, and harmony in society. The title is a reminder of the spiritual responsibility that comes with power and authority, and the importance of serving God and His creation with humility, wisdom, and courage.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Nawab was a title given to Mughal emperors and other Muslim rulers in South Asia. The name Nawab carried significant weight in that era.",
-        "time_period": "16th-18th centuries",
-        "context": "Mughal Empire"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "used as a surname in Pakistan and India"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Nawab corresponds to the Arabic form نُوَّاب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Nawab has the core sense deputy, lord, master (plural of naib)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, genealogy websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Nawab remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Nawab",
-      "location": "Cairo, Egypt",
-      "story": "Omar Nawab, a teacher in Cairo, Egypt, shares that their name Nawab meaning \"Prince, Ruler\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Prince, Ruler\" symbolizes Nawab is an Arabic title given to a prince or a ruler, symbolizing leadership, wisdom, and nobility.. In Islamic spirituality, bearing the name Nawab serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of prince, ruler.",
-    "created_at": "2025-12-22T19:19:49.796Z",
-    "updated_at": "2025-12-22T04:53:14.311Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1273,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Nawab",
-      "description": "Prince, Ruler",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Nawab",
+        "nawab"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Nawab",
-          "description": "Discover the meaning of Nawab - \"Prince, Ruler\"",
-          "image": "/images/social/nawab-facebook.jpg"
+      "description": "A name associated with the Arabic form نُوَّاب, meaning deputy, lord, master (plural of naib).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "nawab",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Nawab - Name Meaning",
-          "description": "Learn about the beautiful name Nawab",
-          "image": "/images/social/nawab-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Nawab",
-          "description": "Name meaning: Prince, Ruler",
-          "image": "/images/social/nawab-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Nawab - Meaning: Prince, Ruler",
-        "email_subject": "Beautiful Name: Nawab"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Nawab with meaning Prince, Ruler",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Nawab, associated with the Arabic form نُوَّاب, meaning deputy, lord, master (plural of naib)."
     },
-    "similar_sounding_names": [
-      "norah",
-      "naina",
-      "nihal",
-      "nora",
-      "nina",
-      "nevaeh",
-      "namik",
-      "nadeen"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

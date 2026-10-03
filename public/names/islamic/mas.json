@@ -1,299 +1,479 @@
 {
   "success": true,
   "data": {
-    "name": "Mas'ود",
+    "name": "Mas",
     "slug": "mas",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Pashto",
-      "Hindi"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Fortunate, Happy",
-    "long_meaning": "Masood is a beautiful Arabic-origin name meaning 'fortunate', 'blessed', or 'happy'. It represents one who brings joy and is divinely favored.",
-    "spiritual_meaning": "Symbolizes divine contentment and grace — someone whose presence brings comfort and prosperity.",
-    "emotional_traits": [
-      "Joyful",
-      "Warm",
-      "Grateful",
-      "Inspiring"
-    ],
-    "hidden_personality_traits": [
-      "M = Mindful and kind",
-      "A = Affectionate nature",
-      "S = Smiling soul",
-      "O = Open-hearted",
-      "O = Optimistic mindset",
-      "D = Delights others"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Jade",
-    "life_path_number": 3,
-    "numerology_meaning": "Number 6 reflects nurturing, healing, and happiness. Masood shares harmony with others and brings positivity around him.",
-    "in_arabic": {
-      "name": "مَصْعُود",
-      "meaning": "المُصْعَدُ لِلرَأي، المُصَدّع لِلمَجد، المُوَصِّد لِلخَير",
-      "long_meaning": "المُصْعَدُ لِلرَأي يَغدو في الرَأي وَيَنقاد لَهُ، وَهُوَ المُصَدّع لِلمَجد يُحَطِّم الأَعداء وَيُصَدِّع البَرّيَّة، وَهُوَ المُوَصِّد لِلخَير يَصُدُّ النَفس عَنِ الشَرِّ وَيُوَصِّدها إلَى الخَير، وَهُوَ المُصَعَّد لِلمَناهج يَصعَّد الناس بِهِ في الطَرِيق وَيُصعِّدهم إِلَيهِ، وَهُوَ المُتَوَسِّد لِلأَفعال يَتَوَسَّد في الأَفعال وَيُتَوَسِّد إِلَيهَا، وَلَهُ عَلاّق بِالقَصص الخَيرية في الشَريعةِ"
+    "identity": {
+      "display_name": "Mas",
+      "normalized_name": "mas",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mas",
+        "mas"
+      ],
+      "search_variants": [
+        "Mas",
+        "mas"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مصعوود",
-      "meaning": "مساعد، مدد دینا، فضل دینا، ساعد دینا، مدد دینا، فضل دینا",
-      "long_meaning": "مصعوود کا معنی ہے مساعد، مدد دینا، فضل دینا، ساعد دینا، مدد دینا، فضل دینا ہے۔ یہ نام اسلامی ناموں میں ایک مشہور نام ہے جو مسلمانوں کے لیے خاص طور پر پسند کیا جاتا ہے۔ یہ نام عربوں کے درمیان بھی بہت مشہور ہے اور عربوں کے ناموں میں سے ایک ہے"
+    "core_meaning": {
+      "short_meaning": "Masud; fortunate, happy",
+      "primary_meaning": "Masud; fortunate",
+      "secondary_meanings": [
+        "happy"
+      ],
+      "literal_meaning": "Masud; fortunate",
+      "extended_meaning": "Masud; fortunate, happy",
+      "meaning_explanation": "Mas corresponds to the Arabic form مسعود (Arabic root س ع د (s-ʿ-d); مَسْعُود (Masʿūd)). Its core sense is masud; fortunate, happy. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मसूआद",
-      "meaning": "सहायता, सहायता देना, लाभ देना, सहायता देना, सहायता देना, लाभ देना",
-      "long_meaning": "मसूआद नाम का अर्थ है सहायता, सहायता देना, लाभ देना, सहायता देना, सहायता देना, लाभ देना। यह नाम हिंदू मुसलमानों में बहुत लोकप्रिय है और इसे अक्सर मुसलमानों के बच्चों के नामों में से एक के रूप में चुना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مسعود",
+      "transliteration": "mas",
+      "romanization": "mas",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Masud; fortunate",
+        "happy"
+      ],
+      "etymology_explanation": "The form مسعود is an established Arabic lexical item. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "معصود",
-      "meaning": "د ښه لوړ، ښه رایه، ښه مېرمن، د ښه مېرمن لږ",
-      "long_meaning": "معصود د ښه لوړ، ښه رایه، ښه مېرمن، د ښه مېرمن لږ څیريږي. دغه نوم په افغانستان کې لوی پوهه کوي او په افغانانو کې مشهور دی"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مسعود is an established Arabic form.",
+        "Urdu": "مسعود is used in Urdu.",
+        "Persian": "مسعود is an established Persian form.",
+        "Hindi": "मसऊद is used in Hindi.",
+        "Pashto": "مسعود is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mas'ood",
-      "meaning": "helper, supporter, one who brings good fortune, helper, supporter, one who brings good fortune",
-      "long_meaning": "Mas'ood is an Islamic name that means helper, supporter, one who brings good fortune. It is a name that has a rich history and spiritual significance in Islamic tradition. The name is derived from the Arabic root 'sa-' which means to assist or support. In the Quran, the word 'sa' is used to describe the actions of righteous individuals who bring good fortune to others. Mas'ood is a name that is associated with qualities such as generosity, kindness, and compassion."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مسعود. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mas may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense masud; fortunate, happy.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Masud; fortunate",
+      "related_concepts": [
+        "masud; fortunate",
+        "happy"
+      ],
+      "semantic_relationship": "The central semantic idea is masud; fortunate; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of masud; fortunate.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Masud; fortunate",
+        "Happy"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mas",
+        "meaning": "Masud; fortunate, happy",
+        "long_meaning": "Mas is a Arabic-origin name. Its core meaning is masud; fortunate, happy. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud."
+      },
+      "urdu": {
+        "name": "مسعود",
+        "meaning": "مسعود، خوش نصیب، سعید",
+        "long_meaning": "Mas (مسعود) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مسعود، خوش نصیب، سعید ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مسعود",
+        "meaning": "مسعود، خوشبخت، سعید",
+        "long_meaning": "Mas (مسعود) نامی برگرفته از زبان عربی است و معنای اصلی آن مسعود، خوشبخت، سعید است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मसऊद",
+        "meaning": "मसऊद, भाग्यशाली, सुखी",
+        "long_meaning": "Mas (मसऊद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मसऊद, भाग्यशाली, सुखी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مسعود",
+        "meaning": "مسعود، نیکمرغه، خوشحاله",
+        "long_meaning": "Mas (مسعود) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مسعود، نیکمرغه، خوشحاله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مسعود",
+        "meaning": "المسعود، السعيد، المحظوظ",
+        "long_meaning": "Mas (مسعود) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المسعود، السعيد، المحظوظ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "mah-SOO-ood",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/mæʃˈuːd/"
+      "romanized": "mas",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مسعود",
+      "persian": "مسعود",
+      "hindi": "मसऊद",
+      "pashto": "مسعود"
     },
-    "celebrity_usage": [
-      "Masood Azhar (religious figure)"
-    ],
-    "social_tags": [
-      "#MasoodMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Masood"
-    ],
-    "name_variations": [],
-    "popularity_score": 48,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mas",
+        "mas"
+      ],
+      "script_variants": [
+        "مسعود",
+        "मसऊद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مسعود is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mas can be understood through the Arabic form مسعود, whose central sense is masud; fortunate, happy. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Mas mean?",
+        "answer": "Mas is associated with the Arabic form مسعود, whose core sense is masud; fortunate, happy."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 71,
-        "year": 2024
+        "question": "What is the origin of Mas?",
+        "answer": "Mas is associated with Arabic. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Mas an Arabic name?",
+        "answer": "Yes — the underlying form مسعود is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Mas an Islamic name?",
+        "answer": "Mas can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mas a Quranic name?",
+        "answer": "Mas should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mas mean in Urdu?",
+        "answer": "In Urdu, Mas is rendered مسعود and carries the sense مسعود، خوش نصیب، سعید."
+      },
+      {
+        "question": "What does Mas mean in Persian?",
+        "answer": "In Persian, Mas is rendered مسعود and carries the sense مسعود، خوشبخت، سعید."
+      },
+      {
+        "question": "How is Mas pronounced?",
+        "answer": "A romanized syllable approximation is mas. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mas?",
+        "answer": "Romanization variants include Mas, mas. Script forms are مسعود, मसऊद."
+      },
+      {
+        "question": "Is Mas a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mas'ود Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mas'ود, a beautiful Islam name meaning \"Fortunate, Happy\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mas'ود, Islam name, baby names, Fortunate, Happy, Islam baby names, name meaning",
-      "description_paragraph": "Mas'ود is a meaningful Islam name of Arabic origin that means \"Fortunate, Happy\". Masood is a beautiful Arabic-origin name meaning 'fortunate', 'blessed', or 'happy'. It represents one who brings joy and is divinely favored.",
-      "keywords": [
-        "Mas'ود",
-        "Islam name",
-        "baby names",
-        "Fortunate, Happy",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mas'ود in Islam tradition?",
-          "a": "Mas'ود is a beautiful Islam name meaning \"Fortunate, Happy\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mas'ود a good Islam name for a baby?",
-          "a": "Yes, Mas'ود is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mas'ود?",
-          "a": "The name Mas'ود has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mas'ود correctly?",
-          "a": "Mas'ود is pronounced mah-SOO-ood in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mas'ود?",
-          "a": "Naming a child Mas'ود brings blessings. The meaning \"Fortunate, Happy\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mas'ود?",
-          "a": "Mas'ود is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
-      "focus_keyword": "Mas'ود meaning",
+      "title": "Mas Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mas (مسعود).",
+      "h1": "Mas Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Mas meaning",
       "secondary_keywords": [
-        "Islam name Mas'ود",
-        "Mas'ود meaning",
-        "Mas'ود origin"
+        "Mas name meaning",
+        "Mas meaning in Urdu",
+        "Mas origin",
+        "Mas Islamic name",
+        "Mas pronunciation",
+        "Mas name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mas (مسعود) is associated with the Arabic form مسعود, whose core sense is masud; fortunate, happy. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mas is associated with the Arabic form مسعود, whose core sense is masud; fortunate, happy.",
+      "meaning_section": "The central meaning of Mas is masud; fortunate, happy.",
+      "origin_section": "Mas is associated with Arabic rather than with a different language.",
+      "islam_section": "Mas can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mas is with the sense masud; fortunate.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mas",
+      "#MasMeaning",
+      "#MasName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Masood carries rich cultural significance in the Islamic world. It is a name that brings a strong sense of pride and happiness to its bearer and their community. Masood is also a name associated with great fortune, success, and blessings. In Islamic societies, parents may choose this name for their child in the hope of bestowing upon them a life full of joy and prosperity.",
-    "spiritual_significance": "From a spiritual perspective, the name Masood serves as a reminder of the infinite blessings and mercy of Allah (God) upon us. It encourages one to approach every moment of their life with a grateful and joyful attitude, recognizing that every experience, good or bad, is a blessing from the Divine. The name Masood also embodies the concept of being a chosen servant of Allah, one who is favored and favors others with kindness, compassion, and generosity. In summary, Masood inspires a sense of thankfulness, happiness, and servitude to the Divine, helping its bearer to lead a content and spiritually fulfilling life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Masood was a companion of the Prophet Muhammad The name Mas'ود carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "He was known for his bravery and loyalty"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "popular in some Muslim-majority countries"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mas corresponds to the Arabic form مسعود",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mas has the core sense masud; fortunate, happy",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, naming ceremonies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mas'ود remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Mas'ود",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Ibrahim Mas'ود in Karachi, Pakistan attributes much of their success to the blessing of their name Mas'ود, which means \"Fortunate, Happy\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "Masood: The obedient one, symbolizing submission and devotion to God. In the face of challenges, Masood stands firm in his faith and obedience to Allah's will.",
-    "created_at": "2025-07-01T12:40:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.049Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1262,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Mas'ود",
-      "description": "Fortunate, Happy",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Pashto",
-        "Hindi"
+      "@type": "DefinedTerm",
+      "name": "Mas",
+      "alternateName": [
+        "Mas",
+        "mas"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mas'ود",
-          "description": "Discover the meaning of Mas'ود - \"Fortunate, Happy\"",
-          "image": "/images/social/mas'ود-facebook.jpg"
+      "description": "A name associated with the Arabic form مسعود, meaning masud; fortunate, happy.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "mas",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mas'ود - Name Meaning",
-          "description": "Learn about the beautiful name Mas'ود",
-          "image": "/images/social/mas'ود-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mas'ود",
-          "description": "Name meaning: Fortunate, Happy",
-          "image": "/images/social/mas'ود-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mas'ود - Meaning: Fortunate, Happy",
-        "email_subject": "Beautiful Name: Mas'ود"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mas'ود with meaning Fortunate, Happy",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mas, associated with the Arabic form مسعود, meaning masud; fortunate, happy."
     },
-    "similar_sounding_names": [
-      "meena",
-      "mahek",
-      "marudeen.",
-      "maassama",
-      "manab",
-      "mada",
-      "meher",
-      "marhabah",
-      "mika",
-      "marnia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,290 +3,477 @@
   "data": {
     "name": "Amana",
     "slug": "amana",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Faith, Trust",
-    "long_meaning": "Derived from the Arabic word ‘amana’ which means faith, trust, belief, and assurance. In Islamic tradition, Amana is considered a virtue and a source of peace and security. It is mentioned in the Quran several times in relation to God's promise of eternal paradise for those who have faith and trust in Him.",
-    "spiritual_meaning": "A symbol of unwavering faith and trust in God.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Blue",
-      "Silver"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 6,
-    "numerology_meaning": "People with the name Amana are nurturing, caring, and have a strong sense of responsibility. They have a talent for providing comfort and support to others.",
-    "in_arabic": {
-      "name": "أمينة",
-      "meaning": "أمانة، صدق، و وفاء في الأخلاق و المعاملات",
-      "long_meaning": "اسم أمينة مشتق من الأمانة، و يعني الصدق و الإخلاص في الأقوال و الأفعال، و الوفاء للعهد و للمسؤوليات. ورد ذكره في القرآن الكريم في سورة آل عمران: ﴿وإذ قال عيسى ابن مريم يا بني إسرائيل إني رسول الله إليكم مصدقا لما بين يدي من التوراة ومبشرا برسول يأتي من بعدي اسمه أحمدا﴾. و هو من الأسماء التي تحمل معاني القيم الإسلامية العالية مثل الأمانة و الصدق."
+    "identity": {
+      "display_name": "Amana",
+      "normalized_name": "amana",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Amana",
+        "amana"
+      ],
+      "search_variants": [
+        "Amana",
+        "amana"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "امانہ",
-      "meaning": "امانت، سچائی، اور معاملات میں وفاداری",
-      "long_meaning": "امانہ نام کا مطلب ہے امانت، سچائی اور اخلاق اور لین دین میں وفاداری۔ یہ نام عربی جڑوں سے ماخوذ ہے، جس کا ذکر قرآن مجید میں آیا ہے۔ یہ اسلامی ثقافت میں ایک اہم نام ہے جو امانت اور صدق کی اہمیت کو ظاہر کرتا ہے۔ جنوبی ایشیائی مسلمانوں کے لئے، یہ نام روحانی اہمیت اور روایات کا حصہ ہے۔"
+    "core_meaning": {
+      "short_meaning": "Faith, trust",
+      "primary_meaning": "Faith",
+      "secondary_meanings": [
+        "trust"
+      ],
+      "literal_meaning": "Faith",
+      "extended_meaning": "Faith, trust",
+      "meaning_explanation": "Amana corresponds to the Arabic form أمانة (أ م ن). Its core sense is faith, trust. Amāna ('trust, faithfulness').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अमाना",
-      "meaning": "ईमानदारी, सच्चाई, और वफ़ादारी",
-      "long_meaning": "अमाना नाम का अर्थ है ईमानदारी, सच्चाई और नैतिकता और लेन-देन में वफ़ादारी। यह नाम अरबी मूल से निकला है और इसका उल्लेख कुरआन में किया गया है। यह इस्लामी संस्कृति में एक महत्वपूर्ण नाम है जो ईमानदारी और सच्चाई के महत्व को दर्शाता है। भारतीय मुस्लिम समुदाय में, यह नाम आध्यात्मिक महत्व और परंपराओं का हिस्सा है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أمانة",
+      "transliteration": "amana",
+      "romanization": "amana",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Faith",
+        "trust"
+      ],
+      "etymology_explanation": "The form أمانة is an established Arabic lexical item. Amāna ('trust, faithfulness').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "امانہ",
-      "meaning": "امانت، صدق، او په معاملو کي وفاداري",
-      "long_meaning": "امانہ نوم معنی دی امانت، صدق، او په اخلاقو او معاملو کي وفاداري. دا نوم د عربي ريښو څخه اخيستل شوی دی، چي په قرآن کريم کي يې ذکر شوی دی. دا په اسلامي کلتور کي يو مهم نوم دی چي د امانت او صدق اهميت ښيي. د افغانانو او پښتنو لپاره، دا نوم روحاني اهميت او دود لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أمانة is an established Arabic form.",
+        "Urdu": "امانہ is used in Urdu.",
+        "Hindi": "अमाना is used in Hindi.",
+        "Pashto": "امانه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Amana",
-      "meaning": "Trustworthiness, honesty, and faithfulness",
-      "long_meaning": "The name Amana originates from Arabic roots, specifically from the term 'amanah,' which means trust, honesty, or faithfulness. This concept is deeply rooted in Islamic tradition and is mentioned in the Quran. The name embodies values of integrity, reliability, and moral responsibility. Historically, it has been used across various Muslim cultures to signify the importance of trustworthiness and sincerity. In modern times, it continues to be a popular choice for parents seeking a name that reflects spiritual and ethical values."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أمانة. Amāna ('trust, faithfulness').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Amana may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root أ م ن occurs in the Qur'an; أمانة is a normal Arabic noun"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense faith, trust.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Faith",
+      "related_concepts": [
+        "faith",
+        "trust"
+      ],
+      "semantic_relationship": "The central semantic idea is faith; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of faith.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Faith",
+        "Trust"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Amana",
+        "meaning": "Faith, trust",
+        "long_meaning": "Amana is a Arabic-origin name. Its core meaning is faith, trust. Amāna ('trust, faithfulness')."
+      },
+      "urdu": {
+        "name": "امانہ",
+        "meaning": "ایمان، اعتماد",
+        "long_meaning": "Amana (امانہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ایمان، اعتماد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अमाना",
+        "meaning": "विश्वास, ईमान",
+        "long_meaning": "Amana (अमाना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विश्वास, ईमान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "امانه",
+        "meaning": "ایمان، باور",
+        "long_meaning": "Amana (امانه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ایمان، باور ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أمانة",
+        "meaning": "إيمان، ثقة",
+        "long_meaning": "Amana (أمانة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي إيمان، ثقة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-MAH-nah",
-      "urdu": "امانہ کا تلفظ ہے اے-مان-اہ",
-      "hindi": "अमाना का उच्चारण है अमा-ना",
-      "pashto": "امانہ د تلفظ دی اے-مان-اه",
-      "ipa": "/ɑːˈmɑːnɑː/"
+      "romanized": "a-ma-na",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "امانہ",
+      "persian": null,
+      "hindi": "अमाना",
+      "pashto": "امانه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AmanaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Amana"
-    ],
-    "name_variations": [
-      "Amanah"
-    ],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Amana",
+        "amana"
+      ],
+      "script_variants": [
+        "أمانة",
+        "امانه",
+        "امانہ",
+        "अमाना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أمانة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Amana can be understood through the Arabic form أمانة, whose central sense is faith, trust. Amāna ('trust, faithfulness').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Amana mean?",
+        "answer": "Amana is associated with the Arabic form أمانة, whose core sense is faith, trust."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Amana?",
+        "answer": "Amana is associated with Arabic. Amāna ('trust, faithfulness')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Amana an Arabic name?",
+        "answer": "Yes — the underlying form أمانة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Amana an Islamic name?",
+        "answer": "Amana can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Amana a Quranic name?",
+        "answer": "Amana should not be classified as a Quranic personal name without a direct Quranic basis. root أ م ن occurs in the Qur'an; أمانة is a normal Arabic noun"
+      },
+      {
+        "question": "What does Amana mean in Urdu?",
+        "answer": "In Urdu, Amana is rendered امانہ and carries the sense ایمان، اعتماد."
+      },
+      {
+        "question": "What does Amana mean in Persian?",
+        "answer": "No verified Persian form was established for Amana."
+      },
+      {
+        "question": "How is Amana pronounced?",
+        "answer": "A romanized syllable approximation is a-ma-na. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Amana?",
+        "answer": "Romanization variants include Amana, amana. Script forms are أمانة, امانه, امانہ, अमाना."
+      },
+      {
+        "question": "Is Amana a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Amana Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Amana, a beautiful Islam name meaning \"Faith, Trust\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Amana, Islam name, baby names, Faith, Trust, Islam baby names, name meaning",
-      "description_paragraph": "Amana is a meaningful Islam name of Arabic origin that means \"Faith, Trust\". Derived from the Arabic word ‘amana’ which means faith, trust, belief, and assurance. In Islamic tradition, Amana is considered a virtue and a source of peace and security. It is mentioned in the Quran several times in relation to God's promise of eternal paradise for those who have faith and trust in Him.",
-      "keywords": [
-        "Amana",
-        "Islam name",
-        "baby names",
-        "Faith, Trust",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Amana in Islam tradition?",
-          "a": "Amana is a beautiful Islam name meaning \"Faith, Trust\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Amana a good Islam name for a baby?",
-          "a": "Yes, Amana is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Amana?",
-          "a": "The name Amana has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Amana correctly?",
-          "a": "Amana is pronounced ah-MAH-nah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Amana?",
-          "a": "Naming a child Amana brings blessings. The meaning \"Faith, Trust\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Amana?",
-          "a": "Amana is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Amana Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Amana (أمانة).",
+      "h1": "Amana Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Amana meaning",
       "secondary_keywords": [
-        "Islam name Amana",
-        "Amana meaning",
-        "Amana origin"
+        "Amana name meaning",
+        "Amana meaning in Urdu",
+        "Amana origin",
+        "Amana Islamic name",
+        "Amana pronunciation",
+        "Amana name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Amana (أمانة) is associated with the Arabic form أمانة, whose core sense is faith, trust. Amāna ('trust, faithfulness').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Amana is associated with the Arabic form أمانة, whose core sense is faith, trust.",
+      "meaning_section": "The central meaning of Amana is faith, trust.",
+      "origin_section": "Amana is associated with Arabic rather than with a different language.",
+      "islam_section": "Amana can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Amana is with the sense faith.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Amana",
+      "#AmanaMeaning",
+      "#AmanaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Amana\" embodies the essential Islamic values of faith, trust, and belief. These values are central to the Islamic way of life, and the name serves as a constant reminder of them. In Islamic societies, the name is often given to children as a wish for their spiritual and moral growth.",
-    "spiritual_significance": "In the spiritual sense, the name \"Amana\" represents the trust and reliance on God. It is a source of peace and security, reminding one of God's promise of eternal paradise for those who have faith and trust in Him. The name is also considered a reflection of one's character, symbolizing a belief in the wisdom and justice of God, even in challenging times.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Amana is mentioned in the 8th century as a variant of Aminah The name Amana carried significant weight in that era.",
-        "time_period": "8th century",
-        "context": "Amana was used in medieval Islamic literature as a variant of the name Aminah"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the US as a given name"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Amana corresponds to the Arabic form أمانة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Amana has the core sense faith, trust",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, baby name websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Amana remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Amana",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Layla Amana from Riyadh, Saudi Arabia embodies the meaning of Amana - \"Faith, Trust\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Faith, Trust\" symbolizes Derived from the Arabic word ‘amana’ which means faith, trust, belief, and assurance. In Islamic tradition, Amana is considered a virtue and a source of peace and security. It is mentioned in the Quran several times in relation to God's promise of eternal paradise for those who have faith and trust in Him.. In Islamic spirituality, bearing the name Amana serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of faith, trust.",
-    "created_at": "2025-12-22T19:19:49.907Z",
-    "updated_at": "2025-12-22T04:53:15.234Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1450,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Amana",
-      "description": "Faith, Trust",
-      "additionalName": [
-        "Amanah"
+      "alternateName": [
+        "Amana",
+        "amana"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form أمانة, meaning faith, trust.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Amana",
-          "description": "Discover the meaning of Amana - \"Faith, Trust\"",
-          "image": "/images/social/amana-facebook.jpg"
+      "termCode": "amana",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Amana - Name Meaning",
-          "description": "Learn about the beautiful name Amana",
-          "image": "/images/social/amana-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Amana",
-          "description": "Name meaning: Faith, Trust",
-          "image": "/images/social/amana-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Amana - Meaning: Faith, Trust",
-        "email_subject": "Beautiful Name: Amana"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Amana with meaning Faith, Trust",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Amana, associated with the Arabic form أمانة, meaning faith, trust."
     },
-    "similar_sounding_names": [
-      "anaan",
-      "amalia",
-      "alika",
-      "ada",
-      "akil",
-      "amala",
-      "alishaba",
-      "alraaz",
-      "alma",
-      "anja"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

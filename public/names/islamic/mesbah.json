@@ -3,288 +3,481 @@
   "data": {
     "name": "Mesbah",
     "slug": "mesbah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Lamp",
-    "long_meaning": "A source of light and guidance in the darkness of ignorance. In Islamic history, the Mesbah (lamp) was used during Taraweeh prayers during Ramadan.",
-    "spiritual_meaning": "A beacon of light in the spiritual journey of life.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, self-expression, artistic, and social.",
-    "in_arabic": {
-      "name": "مصباح",
-      "meaning": "مصباح يعني مصدر للضوء في الظلام الدنيا والآخرة",
-      "long_meaning": "مصباح هو اسم علم مذكر من أصل عربي و يعني المصباح الذي ينير في الظلام، رمزًا للإضاءة والهداية في الحياة الدنيا والآخرة. وقد وردت مشتقاته في القرآن الكريم، مما يضفي عليه قيمة دينية وروحية كبيرة. يستخدم هذا الاسم في العديد من الثقافات الإسلامية كدلالة على الشخص الذي يضيء درب الآخرين."
+    "identity": {
+      "display_name": "Mesbah",
+      "normalized_name": "mesbah",
+      "name_type": "given_name",
+      "gender": "Unknown",
+      "gender_confidence": "unknown",
+      "gender_note": "No documented personal-name gender usage was established for this form.",
+      "alternate_spellings": [
+        "Mesbah",
+        "mesbah"
+      ],
+      "search_variants": [
+        "Mesbah",
+        "mesbah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مصباح",
-      "meaning": "مصباح کا مطلب ہے روشنی کا ذریعہ، اندھیرے میں ضیا",
-      "long_meaning": "مصباح ایک عربی اصل کا مذکر نام ہے جس کا مطلب ہے روشنی کا ذریعہ یا وہ چیز جو اندھیرے میں ضیا لاتی ہے۔ اس کا تعلق قرآن مجید سے بھی ہے جہاں مشتقات اس لفظ کے ملتے ہیں، جو اسے ایک خاص دینی اور روحانی اہمیت دیتے ہیں۔ جنوبی ایشیاء میں مسلمان اس نام کو ایک ایسے شخص کے لئے استعمال کرتے ہیں جو دوسروں کے لئے روشنی اور رہبری کا ذریعہ ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Lamp, light, lantern",
+      "primary_meaning": "Lamp",
+      "secondary_meanings": [
+        "light",
+        "lantern"
+      ],
+      "literal_meaning": "Lamp",
+      "extended_meaning": "Lamp, light, lantern",
+      "meaning_explanation": "Mesbah corresponds to the Arabic form مصباح (Arabic root ص ب ح (ṣ-b-ḥ); مِصْبَاح (Miṣbāḥ)). Its core sense is lamp, light, lantern. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मेस्बाह",
-      "meaning": "मेस्बाह का अर्थ है प्रकाश का स्रोत, अंधकार में ज्योति",
-      "long_meaning": "मेस्बाह एक अरबी मूल का पुल्लिंग नाम है जिसका अर्थ है प्रकाश का स्रोत या वह वस्तु जो अंधकार में ज्योति प्रदान करती है। इसकी जड़ें कुरआन में भी पाई जाती हैं, जो इसे एक विशेष धार्मिक और आध्यात्मिक महत्व देती हैं। भारतीय मुस्लिम समुदाय में, इस नाम का उपयोग एक ऐसे व्यक्ति के लिए किया जाता है जो दूसरों के लिए प्रकाश और मार्गदर्शन का स्रोत होता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مصباح",
+      "transliteration": "mesbah",
+      "romanization": "mesbah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Lamp",
+        "light",
+        "lantern"
+      ],
+      "etymology_explanation": "The form مصباح is an established Arabic lexical item. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مصباح",
-      "meaning": "مصباح د رڼا سرچینه، په تيارو کې څراغ",
-      "long_meaning": "مصباح د عربي اصلي مذکر نوم دی چې معنی يې د رڼا سرچینه يا هغه څه دي چې په تيارو کې څراغ اچوي. د قران کريم مشتقات پکې موندل کيږي، کوم چې ورته خاص دينی او روحاني ارزښت ورکوي. په افغانستان او پښتونستان کې مسلمانان دا نوم داسې يو چا لپاره کاروي چې د نورو لپاره رڼا او لارښودنه وي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مصباح is an established Arabic form.",
+        "Urdu": "مصباح is used in Urdu.",
+        "Persian": "مصباح is an established Persian form.",
+        "Hindi": "मिस्बाह is used in Hindi.",
+        "Pashto": "مصباح is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mesbah",
-      "meaning": "Mesbah means source of light, guiding through darkness",
-      "long_meaning": "Mesbah is a masculine given name of Arabic origin, meaning 'source of light' or 'that which illuminates in darkness'. The name has roots in the Quran, where related derivatives are found, imbuing it with religious and spiritual significance. Across Islamic cultures, Mesbah is used to denote an individual who serves as a beacon of light and guidance for others. The name symbolizes illumination, wisdom, and the dispelling of ignorance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مصباح. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mesbah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense lamp, light, lantern.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lamp",
+      "related_concepts": [
+        "lamp",
+        "light",
+        "lantern"
+      ],
+      "semantic_relationship": "The central semantic idea is lamp; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of lamp.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Lamp",
+        "Light",
+        "Lantern"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mesbah",
+        "meaning": "Lamp, light, lantern",
+        "long_meaning": "Mesbah is a Arabic-origin name. Its core meaning is lamp, light, lantern. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted."
+      },
+      "urdu": {
+        "name": "مصباح",
+        "meaning": "چراغ، روشنی، مصباح",
+        "long_meaning": "Mesbah (مصباح) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم چراغ، روشنی، مصباح ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مصباح",
+        "meaning": "چراغ، نور، مصباح",
+        "long_meaning": "Mesbah (مصباح) نامی برگرفته از زبان عربی است و معنای اصلی آن چراغ، نور، مصباح است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मिस्बाह",
+        "meaning": "दीपक, प्रकाश, मिस्बाह",
+        "long_meaning": "Mesbah (मिस्बाह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दीपक, प्रकाश, मिस्बाह है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مصباح",
+        "meaning": "څراغ، رڼا",
+        "long_meaning": "Mesbah (مصباح) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې څراغ، رڼا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مصباح",
+        "meaning": "الْمِصْبَاح، السِّرَاج، النُّور",
+        "long_meaning": "Mesbah (مصباح) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمِصْبَاح، السِّرَاج، النُّور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "mes-BAH",
-      "urdu": "اردو میں تلفظ کی تفصیل: مِسْباح",
-      "hindi": "हिन्दी में उच्चारण विवरण: मेस्बाह",
-      "pashto": "په پښتو کې د تلفظ تفصیل: مصباﺡ",
-      "ipa": "/mɪsˈbɑːh/"
+      "romanized": "mes-bah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مصباح",
+      "persian": "مصباح",
+      "hindi": "मिस्बाह",
+      "pashto": "مصباح"
     },
-    "celebrity_usage": [
-      "Mesbah Essayed, Egyptian actress"
-    ],
-    "social_tags": [
-      "#MesbahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mesbah"
-    ],
-    "name_variations": [
-      "Mesba"
-    ],
-    "popularity_score": 75,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mesbah",
+        "mesbah"
+      ],
+      "script_variants": [
+        "مصباح",
+        "मिस्बाह"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مصباح is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mesbah can be understood through the Arabic form مصباح, whose central sense is lamp, light, lantern. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 93,
-        "year": 2024
+        "question": "What does Mesbah mean?",
+        "answer": "Mesbah is associated with the Arabic form مصباح, whose core sense is lamp, light, lantern."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Mesbah?",
+        "answer": "Mesbah is associated with Arabic. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Mesbah an Arabic name?",
+        "answer": "Yes — the underlying form مصباح is Arabic."
+      },
+      {
+        "question": "Is Mesbah an Islamic name?",
+        "answer": "Mesbah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mesbah a Quranic name?",
+        "answer": "Mesbah should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mesbah mean in Urdu?",
+        "answer": "In Urdu, Mesbah is rendered مصباح and carries the sense چراغ، روشنی، مصباح."
+      },
+      {
+        "question": "What does Mesbah mean in Persian?",
+        "answer": "In Persian, Mesbah is rendered مصباح and carries the sense چراغ، نور، مصباح."
+      },
+      {
+        "question": "How is Mesbah pronounced?",
+        "answer": "A romanized syllable approximation is mes-bah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mesbah?",
+        "answer": "Romanization variants include Mesbah, mesbah. Script forms are مصباح, मिस्बाह."
+      },
+      {
+        "question": "Is Mesbah a boy's or girl's name?",
+        "answer": "Documented usage records this form as unknown. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mesbah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mesbah, a beautiful Islam name meaning \"Lamp\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mesbah, Islam name, baby names, Lamp, Islam baby names, name meaning",
-      "description_paragraph": "Mesbah is a meaningful Islam name of Arabic origin that means \"Lamp\". A source of light and guidance in the darkness of ignorance. In Islamic history, the Mesbah (lamp) was used during Taraweeh prayers during Ramadan.",
-      "keywords": [
-        "Mesbah",
-        "Islam name",
-        "baby names",
-        "Lamp",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mesbah in Islam tradition?",
-          "a": "Mesbah is a beautiful Islam name meaning \"Lamp\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mesbah a good Islam name for a baby?",
-          "a": "Yes, Mesbah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mesbah?",
-          "a": "The name Mesbah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mesbah correctly?",
-          "a": "Mesbah is pronounced mes-BAH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mesbah?",
-          "a": "Naming a child Mesbah brings blessings. The meaning \"Lamp\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mesbah?",
-          "a": "Mesbah is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Mesbah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mesbah (مصباح).",
+      "h1": "Mesbah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mesbah meaning",
       "secondary_keywords": [
-        "Islam name Mesbah",
-        "Mesbah meaning",
-        "Mesbah origin"
+        "Mesbah name meaning",
+        "Mesbah meaning in Urdu",
+        "Mesbah origin",
+        "Mesbah Islamic name",
+        "Mesbah pronunciation",
+        "Mesbah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mesbah (مصباح) is associated with the Arabic form مصباح, whose core sense is lamp, light, lantern. Mesbah is Arabic مِصْبَاح (Miṣbāḥ) 'lamp, light, lantern', from the root ص ب ح (ṣ-b-ḥ). The source gloss 'Lamp' is consistent. Recorded as a common noun also used as a given name; no single personal-name gender usage is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mesbah is associated with the Arabic form مصباح, whose core sense is lamp, light, lantern.",
+      "meaning_section": "The central meaning of Mesbah is lamp, light, lantern.",
+      "origin_section": "Mesbah is associated with Arabic rather than with a different language.",
+      "islam_section": "Mesbah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mesbah is with the sense lamp.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mesbah",
+      "#MesbahMeaning",
+      "#MesbahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Mesbah in Islamic culture signifies a symbol of knowledge and wisdom. The Mesbah is a light source that guide the way in the dark during the Taraweeh prayers in Ramadan. Historically, the Mesbah was used to light the path for travelers in deserts and guidance for lost mariners. The name Mesbah is a reminder of the importance of knowledge and seeking guidance, especially during the blessed month of Ramadan.",
-    "spiritual_significance": "The name Mesbah holds deep spiritual significance in Islamic beliefs. It represents the guiding light of Allah (God) in the darkness of ignorance. The light of knowledge and wisdom shines the path towards righteousness and truth. In Sufism (Islamic mysticism), the Mesbah symbolizes the eyes of the heart that are opened to the inner secrets of the universe and the divine revelations. The spiritual journey towards enlightenment is compared to a journey in the dark with only a Mesbah to guide the way. The name Mesbah serves as a constant reminder to seek knowledge, wisdom, and guidance from the divine source.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mesbah was a renowned scholar and Sufi saint of the 13th century. The name Mesbah carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Mesbah was a prominent figure in the Islamic world during the Mamluk Sultanate."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Mesbah is a popular name among Muslims for their children.",
-        "Mesbah is also used as a title for religious leaders and scholars."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mesbah corresponds to the Arabic form مصباح",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mesbah has the core sense lamp, light, lantern",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Mesbah is a common name in various Muslim communities around the world.",
-        "Mesbah is also used as a title for various Islamic organizations and institutions."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In modern times, the name Mesbah continues to be used as a personal name and as a title for religious leaders and scholars. It is also used as a name for various Islamic organizations and institutions."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Mesbah",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Zainab Mesbah in Karachi, Pakistan attributes much of their success to the blessing of their name Mesbah, which means \"Lamp\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Lamp\" symbolizes A source of light and guidance in the darkness of ignorance. In Islamic history, the Mesbah (lamp) was used during Taraweeh prayers during Ramadan.. In Islamic spirituality, bearing the name Mesbah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of lamp.",
-    "created_at": "2025-12-22T19:19:49.921Z",
-    "updated_at": "2025-12-22T04:53:15.413Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1495,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mesbah",
-      "description": "Lamp",
-      "additionalName": [
-        "Mesba"
+      "alternateName": [
+        "Mesbah",
+        "mesbah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form مصباح, meaning lamp, light, lantern.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mesbah",
-          "description": "Discover the meaning of Mesbah - \"Lamp\"",
-          "image": "/images/social/mesbah-facebook.jpg"
+      "termCode": "mesbah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mesbah - Name Meaning",
-          "description": "Learn about the beautiful name Mesbah",
-          "image": "/images/social/mesbah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unknown"
         },
-        "instagram": {
-          "title": "Mesbah",
-          "description": "Name meaning: Lamp",
-          "image": "/images/social/mesbah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mesbah - Meaning: Lamp",
-        "email_subject": "Beautiful Name: Mesbah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mesbah with meaning Lamp",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mesbah, associated with the Arabic form مصباح, meaning lamp, light, lantern."
     },
-    "similar_sounding_names": [
-      "maassama",
-      "manab",
-      "mada",
-      "mahek",
-      "marhabah",
-      "marnia",
-      "mika",
-      "marudeen.",
-      "meena",
-      "meher"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

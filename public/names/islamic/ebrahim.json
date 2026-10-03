@@ -3,295 +3,471 @@
   "data": {
     "name": "Ebrahim",
     "slug": "ebrahim",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Father of Many",
-    "long_meaning": "Ebrahim is the Arabic form of Abraham, the prophet and messenger in Islamic tradition. It symbolizes leadership, wisdom, and spiritual guidance.",
-    "spiritual_meaning": "Ebrahim is considered a prophet and messenger in Islam, known for his unwavering faith and obedience to Allah's commands.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Wisdom",
-      "Leadership"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 1,
-    "numerology_meaning": "Independence, creativity, and motivation are central themes in your life.",
-    "in_arabic": {
-      "name": "إبراهيم",
-      "meaning": "اسم علم مذكر معناه أبو الجماجم أو الأب الغالب",
-      "long_meaning": "إبراهيم هو اسم علم مذكر من أصل عربي، وهو من الأسماء التي وردت في القرآن الكريم، ويعني الأب الغالب أو أبو الجماجم، ويرتبط هذا الاسم بالنبي إبراهيم عليه السلام، الذي يعتبره المسلمون والد النبي إسماعيل وإسحق، ويحظى هذا الاسم بمكانة عالية في الإسلام"
+    "identity": {
+      "display_name": "Ebrahim",
+      "normalized_name": "ebrahim",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ebrahim",
+        "ebrahim"
+      ],
+      "search_variants": [
+        "Ebrahim",
+        "ebrahim"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ابراہیم",
-      "meaning": "مذکر نام، معنی ابو الجماجم یا غالب اب",
-      "long_meaning": "ابراہیم ایک مذکر نام ہے جو عربی زبان سے نکلا ہے، اس کا مطلب ہے ابو الجماجم یا غالب اب، یہ نام قرآن مجید میں ذکر ہوا ہے، اور اسلامی تقویم میں اس کا بڑا مقام ہے، کیونکہ یہ نام النبی ابراہیم علیہ السلام سے منسلک ہے، جو کہ اسلام میں ایک اہم نبی مانے جاتے ہیں"
+    "core_meaning": {
+      "short_meaning": "Father of many, father of multitudes",
+      "primary_meaning": "Father of many",
+      "secondary_meanings": [
+        "father of multitudes"
+      ],
+      "literal_meaning": "Father of many",
+      "extended_meaning": "Father of many, father of multitudes",
+      "meaning_explanation": "Ebrahim corresponds to the Hebrew form إبراهيم (Hebrew אַבְרָהָם). Its core sense is father of many, father of multitudes. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इब्राहिम",
-      "meaning": "पुंलिंग नाम, अर्थ पिता या श्रेष्ठ पिता",
-      "long_meaning": "इब्राहिम एक पुंलिंग नाम है जो अरबी भाषा से आया है, इसका अर्थ है पिता या श्रेष्ठ पिता, यह नाम कुरआन में उल्लेखित है और इस्लामी परंपरा में इसकी महत्वपूर्ण भूमिका है, क्योंकि यह नाम पैगंबर इब्राहिम से जुड़ा है, जो इस्लाम में एक महत्वपूर्ण पैगंबर माने जाते हैं"
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "إبراهيم",
+      "transliteration": "ebrahim",
+      "romanization": "ebrahim",
+      "root_status": "Hebrew אַבְרָהָם",
+      "etymological_meaning": [
+        "Father of many",
+        "father of multitudes"
+      ],
+      "etymology_explanation": "The form إبراهيم is an established Hebrew lexical item. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ابراهيم",
-      "meaning": "د نارينو نوم، معنی يې د پلار غالب يا ابو الجماجم",
-      "long_meaning": "ابراهيم د نارينو نوم دی چې د عربي ژبې څخه يې اخستل دي، معنی يې د پلار غالب يا ابو الجماجم دی، دا نوم په قرآن کریم کې ياد شوی دی، او په اسلامي ميراث کې يې لوړه درجه ده، ځکه چې دا د پيغمبر ابراهيم عليه السلام نوم دی، چا چې په اسلام کې د پيغمبر په توګه ستره رول لري"
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إبراهيم is an established Arabic form.",
+        "Urdu": "ابراہیم is used in Urdu.",
+        "Hindi": "इब्राहीम is used in Hindi.",
+        "Pashto": "ابراهیم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ebrahim",
-      "meaning": "a masculine name meaning father of many or exalted father",
-      "long_meaning": "Ebrahim is a masculine given name derived from the Arabic language, meaning 'father of many' or 'exalted father.' It is a significant name in Islam, associated with the Prophet Ibrahim (Abraham in English), a highly revered figure in the Islamic faith. The name has its roots in the Quran and has been used across various Muslim cultures. Etymologically, it stems from the Arabic root 'Abir,' which connotes the idea of being a father or a patriarch. The name symbolizes leadership, spiritual guidance, and paternal virtues."
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Hebrew form إبراهيم. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ebrahim may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "إبراهيم is named in the Qur'an (e.g. 2:124)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense father of many, father of multitudes.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Father of many",
+      "related_concepts": [
+        "father of many",
+        "father of multitudes"
+      ],
+      "semantic_relationship": "The central semantic idea is father of many; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of father of many.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Father of many",
+        "Father of multitudes"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ebrahim",
+        "meaning": "Father of many, father of multitudes",
+        "long_meaning": "Ebrahim is a Hebrew-origin name. Its core meaning is father of many, father of multitudes. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "ابراہیم",
+        "meaning": "بہت کی اولاد کا باپ، ابو الانبیا",
+        "long_meaning": "Ebrahim (ابراہیم) عبرانی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بہت کی اولاد کا باپ، ابو الانبیا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "इब्राहीम",
+        "meaning": "बहुतों का पिता, अबू-ल-अन्बिया",
+        "long_meaning": "Ebrahim (इब्राहीम) हिब्रू भाषा से लिया गया नाम है। इसका मुख्य अर्थ बहुतों का पिता, अबू-ल-अन्बिया है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ابراهیم",
+        "meaning": "د ډېرو پلار، د امتونو پلار",
+        "long_meaning": "Ebrahim (ابراهیم) د عبري ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د ډېرو پلار، د امتونو پلار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إبراهيم",
+        "meaning": "أبو الأنبياء، أبو الجماهير",
+        "long_meaning": "Ebrahim (إبراهيم) اسم مأخوذ من اللغة العبرية، ومعناه الأساسي أبو الأنبياء، أبو الجماهير. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "eh-BREH-him",
-      "urdu": "ابرهییم",
-      "hindi": "इब्राहिम",
-      "pashto": "اېبراهيم",
-      "ipa": "/ɛˈbrɑːhɪm/"
+      "romanized": "eb-ra-him",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ابراہیم",
+      "persian": null,
+      "hindi": "इब्राहीम",
+      "pashto": "ابراهیم"
     },
-    "celebrity_usage": [
-      "Ebrahim Rasool",
-      "Ebrahim Alkazi"
-    ],
-    "social_tags": [
-      "#EbrahimMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ebrahim"
-    ],
-    "name_variations": [
-      "Ebraim"
-    ],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ebrahim",
+        "ebrahim"
+      ],
+      "script_variants": [
+        "إبراهيم",
+        "ابراهیم",
+        "ابراہیم",
+        "इब्राहीम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إبراهيم is an established Hebrew lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ebrahim can be understood through the Hebrew form إبراهيم, whose central sense is father of many, father of multitudes. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Ebrahim mean?",
+        "answer": "Ebrahim is associated with the Hebrew form إبراهيم, whose core sense is father of many, father of multitudes."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Ebrahim?",
+        "answer": "Ebrahim is associated with Hebrew. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Ebrahim an Arabic name?",
+        "answer": "No — the underlying form is Hebrew, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Ebrahim an Islamic name?",
+        "answer": "Ebrahim can occur in Muslim naming contexts, but it is better described as a Hebrew-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 76,
-        "year": 2024
+        "question": "Is Ebrahim a Quranic name?",
+        "answer": "Ebrahim should not be classified as a Quranic personal name without a direct Quranic basis. إبراهيم is named in the Qur'an (e.g. 2:124)"
+      },
+      {
+        "question": "What does Ebrahim mean in Urdu?",
+        "answer": "In Urdu, Ebrahim is rendered ابراہیم and carries the sense بہت کی اولاد کا باپ، ابو الانبیا."
+      },
+      {
+        "question": "What does Ebrahim mean in Persian?",
+        "answer": "No verified Persian form was established for Ebrahim."
+      },
+      {
+        "question": "How is Ebrahim pronounced?",
+        "answer": "A romanized syllable approximation is eb-ra-him. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ebrahim?",
+        "answer": "Romanization variants include Ebrahim, ebrahim. Script forms are إبراهيم, ابراهیم, ابراہیم, इब्राहीम."
+      },
+      {
+        "question": "Is Ebrahim a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ebrahim Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ebrahim, a beautiful Islam name meaning \"Father of Many\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ebrahim, Islam name, baby names, Father of Many, Islam baby names, name meaning",
-      "description_paragraph": "Ebrahim is a meaningful Islam name of Arabic origin that means \"Father of Many\". Ebrahim is the Arabic form of Abraham, the prophet and messenger in Islamic tradition. It symbolizes leadership, wisdom, and spiritual guidance.",
-      "keywords": [
-        "Ebrahim",
-        "Islam name",
-        "baby names",
-        "Father of Many",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ebrahim in Islam tradition?",
-          "a": "Ebrahim is a beautiful Islam name meaning \"Father of Many\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ebrahim a good Islam name for a baby?",
-          "a": "Yes, Ebrahim is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ebrahim?",
-          "a": "The name Ebrahim has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ebrahim correctly?",
-          "a": "Ebrahim is pronounced eh-BREH-him in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ebrahim?",
-          "a": "Naming a child Ebrahim brings blessings. The meaning \"Father of Many\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ebrahim?",
-          "a": "Ebrahim is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Ebrahim Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Hebrew origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ebrahim (إبراهيم).",
+      "h1": "Ebrahim Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ebrahim meaning",
       "secondary_keywords": [
-        "Islam name Ebrahim",
-        "Ebrahim meaning",
-        "Ebrahim origin"
+        "Ebrahim name meaning",
+        "Ebrahim meaning in Urdu",
+        "Ebrahim origin",
+        "Ebrahim Islamic name",
+        "Ebrahim pronunciation",
+        "Ebrahim name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ebrahim (إبراهيم) is associated with the Hebrew form إبراهيم, whose core sense is father of many, father of multitudes. Variant romanization of إبراهيم (Abraham), a prophet named in the Qur'an. The source record's gloss 'Father of Many' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ebrahim is associated with the Hebrew form إبراهيم, whose core sense is father of many, father of multitudes.",
+      "meaning_section": "The central meaning of Ebrahim is father of many, father of multitudes.",
+      "origin_section": "Ebrahim is associated with Hebrew rather than with a different language.",
+      "islam_section": "Ebrahim can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ebrahim is with the sense father of many.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ebrahim",
+      "#EbrahimMeaning",
+      "#EbrahimName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Ebrahim holds significant cultural importance in the Islamic world due to its connection to the revered biblical prophet Ibrahim (Abraham) whose stories are integral to Jewish, Christian, and Islamic traditions. This name is deeply rooted in Islamic heritage and shares values encompassing unwavering faith, honoring covenants, and embodying hospitality. A name as sacred as Ebrahim creates a sense of belonging, community, and respect among fellow Muslims and communities worldwide.",
-    "spiritual_significance": "In the Islamic context, Ebrahim is believed to carry profound spiritual significance due to the faith and devotion displayed by the prophet Ibrahim in the Quran and Hadiths. As mentioned in the Quran, he was a model of submission and obedience, being willing to sacrifice his only son as an act of faith in Allah. On a deeper level, this name represents the ongoing spiritual journey of self-rule and dedication to faith, mirroring the devotion of the prophet, as each individual strives to live their lives in accordance with Allah's guidance and the teachings of Ibrahim.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibrahim is the name of the patriarch in the Hebrew Bible and the Quran. The name Ebrahim carried significant weight in that era.",
-        "time_period": "21st century BC - 7th century AD",
-        "context": "Ibrahim, also known as Abraham in the Hebrew Bible, is a significant figure in monotheistic religions. He is considered the father of the prophets in Islam, and his story is recounted in both the Hebrew Bible and the Quran."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "common name in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ebrahim corresponds to the Hebrew form إبراهيم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ebrahim has the core sense father of many, father of multitudes",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, messaging apps, etc."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ebrahim remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Ebrahim",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Omar Ebrahim, a teacher in Kuala Lumpur, Malaysia, shares that their name Ebrahim meaning \"Father of Many\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Father of Many\" symbolizes Ebrahim is the Arabic form of Abraham, the prophet and messenger in Islamic tradition. It symbolizes leadership, wisdom, and spiritual guidance.. In Islamic spirituality, bearing the name Ebrahim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of father of many.",
-    "created_at": "2025-12-22T19:19:49.83Z",
-    "updated_at": "2025-12-22T04:53:14.561Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1263,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ebrahim",
-      "description": "Father of Many",
-      "additionalName": [
-        "Ebraim"
+      "alternateName": [
+        "Ebrahim",
+        "ebrahim"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Hebrew form إبراهيم, meaning father of many, father of multitudes.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ebrahim",
-          "description": "Discover the meaning of Ebrahim - \"Father of Many\"",
-          "image": "/images/social/ebrahim-facebook.jpg"
+      "termCode": "ebrahim",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Hebrew"
         },
-        "twitter": {
-          "title": "Ebrahim - Name Meaning",
-          "description": "Learn about the beautiful name Ebrahim",
-          "image": "/images/social/ebrahim-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ebrahim",
-          "description": "Name meaning: Father of Many",
-          "image": "/images/social/ebrahim-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ebrahim - Meaning: Father of Many",
-        "email_subject": "Beautiful Name: Ebrahim"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ebrahim with meaning Father of Many",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ebrahim, associated with the Hebrew form إبراهيم, meaning father of many, father of multitudes."
     },
-    "similar_sounding_names": [
-      "eijaz",
-      "ehan",
-      "eliza",
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

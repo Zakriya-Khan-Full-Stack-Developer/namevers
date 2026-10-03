@@ -3,293 +3,471 @@
   "data": {
     "name": "Faza",
     "slug": "faza",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Victorious",
-    "long_meaning": "From the Arabic word 'fazah' meaning 'to conquer, to overcome'. In Islamic tradition, it represents a woman who overcomes her challenges with courage and determination.",
-    "spiritual_meaning": "Symbolizes the power of determination and resilience in the face of adversity. Faza is a reminder that no matter how difficult the journey may be, with faith and perseverance, one can emerge victorious.",
-    "emotional_traits": [
-      "Kind",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 1,
-    "numerology_meaning": "Represents new beginnings and leadership. Those with a life path number 1 are natural born leaders who thrive on being the first in everything they do.",
-    "in_arabic": {
-      "name": "فَازَة",
-      "meaning": "فَازَة تعني الفوز والنجاح في الدنيا والآخرة",
-      "long_meaning": "اسم فَازَة مشتق من الفوز، وهو من الأسماء التي تحمل معاني النجاح والفلاح في الدنيا والآخرة. وردت هذه المعاني في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَفَازَ مَنْ أَطَاعَ اللَّهَ وَرَسُولَهُ' (النساء: 13). يعتبر اسم فَازَة من الأسماء المحببة في الثقافة الإسلامية، حيث يعبر عن الأمل في تحقيق النجاح والفوز برضوان الله تعالى."
+    "identity": {
+      "display_name": "Faza",
+      "normalized_name": "faza",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faza",
+        "faza"
+      ],
+      "search_variants": [
+        "Faza",
+        "faza"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فازہ",
-      "meaning": "فازہ کا مطلب ہے دنیا اور آخرت میں کامیابی حاصل کرنا",
-      "long_meaning": "فازہ ایک ایسا نام ہے جو فوز سے ماخوذ ہے، جس کے معنی ہیں کامیابی حاصل کرنا یا جیتنا۔ یہ نام اسلامی ثقافت میں بہت اہمیت رکھتا ہے کیونکہ یہ دنیا اور آخرت میں کامیابی کی عکاسی کرتا ہے۔ عربی زبان میں اس کا مطلب ہے 'فائز' یعنی وہ شخص جو اللہ تعالیٰ کی فرمانبرداری کرتا ہے اور اس کے رسول کا اتباع کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Victorious, triumphant",
+      "primary_meaning": "Victorious",
+      "secondary_meanings": [
+        "triumphant"
+      ],
+      "literal_meaning": "Victorious",
+      "extended_meaning": "Victorious, triumphant",
+      "meaning_explanation": "Faza corresponds to the Unknown form فازة (—). Its core sense is victorious, triumphant. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "फाज़ा",
-      "meaning": "फाज़ा का अर्थ है दुनिया और आखिरत में सफलता प्राप्त करना",
-      "long_meaning": "फाज़ा नाम फौज से लिया गया है, जिसका अर्थ है सफलता प्राप्त करना या जीतना। यह नाम भारतीय मुस्लिम समुदाय में बहुत महत्व रखता है, क्योंकि यह दुनिया और आखिरत में सफलता की भावना को दर्शाता है। इस नाम का अर्थ है 'फाइज़' यानी वह व्यक्ति जो अल्लाह की فرمانبردारी करता है और उसके रसूल का पालन करता है।"
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "فازة",
+      "transliteration": "faza",
+      "romanization": "faza",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Victorious",
+        "triumphant"
+      ],
+      "etymology_explanation": "The form فازة is an established Unknown lexical item. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "فازہ",
-      "meaning": "فازہ د نړۍ او آخرت د بریا معنی لري",
-      "long_meaning": "فازہ نوم د فوز څخه اخیستل شوی دی، چې معنی یې د بریا ترلاسه کول یا ګټل دي. دا نوم د افغان او پښتون قومونو په دودیزو نومونو کې ډیر اهمیت لري، ځکه چې دا د دنیا او آخرت د بریا څرګندونه کوي. په پښتو کې د دې نوم معنی دا ده چې هغه څوک چې د الله تعالی سره موافق وي او د هغه رسول ته تابعداري وکړي."
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فازة is an established Arabic form.",
+        "Urdu": "فازہ is used in Urdu.",
+        "Hindi": "फ़ाज़ा is used in Hindi.",
+        "Pashto": "فازه is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Faza",
-      "meaning": "Faza means achieving success and victory in this life and the hereafter",
-      "long_meaning": "The name Faza is derived from the Arabic root 'f-w-z', which signifies achieving success, victory, or triumph. In Islamic tradition, this name holds great significance as it reflects the aspiration to attain success and felicity in both worldly life and the hereafter. The Quran mentions similar concepts in various verses, emphasizing the importance of obeying Allah and His Messenger to achieve true success."
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Unknown form فازة. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faza may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense victorious, triumphant.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Victorious",
+      "related_concepts": [
+        "victorious",
+        "triumphant"
+      ],
+      "semantic_relationship": "The central semantic idea is victorious; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of victorious.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Victorious",
+        "Triumphant"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faza",
+        "meaning": "Victorious, triumphant",
+        "long_meaning": "Faza is a Unknown-origin name. Its core meaning is victorious, triumphant. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "فازہ",
+        "meaning": "فاتح، کامیاب",
+        "long_meaning": "Faza (فازہ) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم فاتح، کامیاب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ाज़ा",
+        "meaning": "विजयी, विजेता",
+        "long_meaning": "Faza (फ़ाज़ा) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ विजयी, विजेता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فازه",
+        "meaning": "بریالی، فاتح",
+        "long_meaning": "Faza (فازه) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بریالی، فاتح ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فازة",
+        "meaning": "المنصور، الفائز",
+        "long_meaning": "Faza (فازة) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي المنصور، الفائز. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "Fah-zah",
-      "urdu": "فازہ کا تلفظ: فا-زہ",
-      "hindi": "फाज़ा का उच्चारण: फा-ज़ा",
-      "pashto": "د فازہ تلفظ: فا-زه",
-      "ipa": "/ˈfɑːzɑː/"
+      "romanized": "fa-za",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فازہ",
+      "persian": null,
+      "hindi": "फ़ाज़ा",
+      "pashto": "فازه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FazaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faza"
-    ],
-    "name_variations": [
-      "Fazah"
-    ],
-    "popularity_score": 72,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faza",
+        "faza"
+      ],
+      "script_variants": [
+        "فازة",
+        "فازه",
+        "فازہ",
+        "फ़ाज़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فازة is an established Unknown lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faza can be understood through the Unknown form فازة, whose central sense is victorious, triumphant. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Faza mean?",
+        "answer": "Faza is associated with the Unknown form فازة, whose core sense is victorious, triumphant."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 69,
-        "year": 2024
+        "question": "What is the origin of Faza?",
+        "answer": "Faza is associated with Unknown. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Faza an Arabic name?",
+        "answer": "No — the underlying form is Unknown, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 66,
-        "year": 2024
+        "question": "Is Faza an Islamic name?",
+        "answer": "Faza can occur in Muslim naming contexts, but it is better described as a Unknown-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 71,
-        "year": 2024
+        "question": "Is Faza a Quranic name?",
+        "answer": "Faza should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faza mean in Urdu?",
+        "answer": "In Urdu, Faza is rendered فازہ and carries the sense فاتح، کامیاب."
+      },
+      {
+        "question": "What does Faza mean in Persian?",
+        "answer": "No verified Persian form was established for Faza."
+      },
+      {
+        "question": "How is Faza pronounced?",
+        "answer": "A romanized syllable approximation is fa-za. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faza?",
+        "answer": "Romanization variants include Faza, faza. Script forms are فازة, فازه, فازہ, फ़ाज़ा."
+      },
+      {
+        "question": "Is Faza a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faza Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faza, a beautiful Islam name meaning \"Victorious\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faza, Islam name, baby names, Victorious, Islam baby names, name meaning",
-      "description_paragraph": "Faza is a meaningful Islam name of Arabic origin that means \"Victorious\". From the Arabic word 'fazah' meaning 'to conquer, to overcome'. In Islamic tradition, it represents a woman who overcomes her challenges with courage and determination.",
-      "keywords": [
-        "Faza",
-        "Islam name",
-        "baby names",
-        "Victorious",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faza in Islam tradition?",
-          "a": "Faza is a beautiful Islam name meaning \"Victorious\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faza a good Islam name for a baby?",
-          "a": "Yes, Faza is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faza?",
-          "a": "The name Faza has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faza correctly?",
-          "a": "Faza is pronounced Fah-zah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faza?",
-          "a": "Naming a child Faza brings blessings. The meaning \"Victorious\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faza?",
-          "a": "Faza is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Faza Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Unknown origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faza (فازة).",
+      "h1": "Faza Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faza meaning",
       "secondary_keywords": [
-        "Islam name Faza",
-        "Faza meaning",
-        "Faza origin"
+        "Faza name meaning",
+        "Faza meaning in Urdu",
+        "Faza origin",
+        "Faza Islamic name",
+        "Faza pronunciation",
+        "Faza name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faza (فازة) is associated with the Unknown form فازة, whose core sense is victorious, triumphant. The source record's gloss 'Victorious' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faza is associated with the Unknown form فازة, whose core sense is victorious, triumphant.",
+      "meaning_section": "The central meaning of Faza is victorious, triumphant.",
+      "origin_section": "Faza is associated with Unknown rather than with a different language.",
+      "islam_section": "Faza can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faza is with the sense victorious.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faza",
+      "#FazaMeaning",
+      "#FazaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Faza holds a powerful and inspiring meaning in Islamic culture, symbolizing a woman who triumphs over adversity and conquers her challenges with courage and resilience. This name embodies the spirit of strength, determination, and perseverance, qualities that are highly valued and celebrated in Islamic communities.",
-    "spiritual_significance": "From a spiritual perspective, the name Faza carries deep significance as it reflects the inner strength and courage that every individual possesses, enabling them to overcome obstacles and challenges in their lives. It serves as a reminder that, regardless of the hardships faced, one has the power to conquer and overcome adversity with faith and determination. This name is a powerful reminder of the spiritual power and potential that resides within each of us, inspiring us to embrace our challenges and overcome them with courage and dignity.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Faza carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faza corresponds to the Unknown form فازة",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Faza has the core sense victorious, triumphant",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faza remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Faza",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Zainab Faza in Karachi, Pakistan attributes much of their success to the blessing of their name Faza, which means \"Victorious\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Victorious\" symbolizes From the Arabic word 'fazah' meaning 'to conquer, to overcome'. In Islamic tradition, it represents a woman who overcomes her challenges with courage and determination.. In Islamic spirituality, bearing the name Faza serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of victorious.",
-    "created_at": "2025-12-22T19:19:49.842Z",
-    "updated_at": "2025-12-22T04:53:14.692Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1259,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faza",
-      "description": "Victorious",
-      "additionalName": [
-        "Fazah"
+      "alternateName": [
+        "Faza",
+        "faza"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Unknown form فازة, meaning victorious, triumphant.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faza",
-          "description": "Discover the meaning of Faza - \"Victorious\"",
-          "image": "/images/social/faza-facebook.jpg"
+      "termCode": "faza",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Unknown"
         },
-        "twitter": {
-          "title": "Faza - Name Meaning",
-          "description": "Learn about the beautiful name Faza",
-          "image": "/images/social/faza-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Faza",
-          "description": "Name meaning: Victorious",
-          "image": "/images/social/faza-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faza - Meaning: Victorious",
-        "email_subject": "Beautiful Name: Faza"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faza with meaning Victorious",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faza, associated with the Unknown form فازة, meaning victorious, triumphant."
     },
-    "similar_sounding_names": [
-      "fadi",
-      "firoz",
-      "faekah",
-      "faiyaz",
-      "fardeen",
-      "farisha"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

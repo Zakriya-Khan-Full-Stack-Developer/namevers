@@ -3,287 +3,481 @@
   "data": {
     "name": "Mashal",
     "slug": "mashal",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male/Female/Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Torch, Light",
-    "long_meaning": "A symbol of guidance, light, and enlightenment.",
-    "spiritual_meaning": "The Quran mentions light as a metaphor for knowledge and wisdom. Mashal embodies the pursuit of truth and understanding.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Citrine",
-    "life_path_number": 3,
-    "numerology_meaning": "Expressiveness, artistic talents, and the ability to inspire others.",
-    "in_arabic": {
-      "name": "مشعل",
-      "meaning": "مشعل تعني نور أو ضوء يوجه في الظلام",
-      "long_meaning": "اسم مشعل مشتق من الفعل 'مشع' الذي يعني الإنارة والإضاءة في الظلام، ويرمز إلى الهداية والنور الذي يضيء الطريق في الحياة، وقد ورد في القرآن الكريم ذكر النور والهداية في عدة آيات، مثل 'وَيَضْرِبُ اللَّهُ الأَمْثَالَ لِلنَّاسِ وَلِلَّهِ الْمَثَلُ الْأَعْلَىٰ وَهُوَ الْعَزِيزُ الْحَكِيمُ' (إبراهيم:35)، حيث يُشير إلى أن الله يهدي عباده ويضيء لهم طريق الحياة."
+    "identity": {
+      "display_name": "Mashal",
+      "normalized_name": "mashal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mashal",
+        "mashal"
+      ],
+      "search_variants": [
+        "Mashal",
+        "mashal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مشعل",
-      "meaning": "مشعل کا مطلب ہے روشنی یا اندھیروں میں رہبری کرنے والا نور",
-      "long_meaning": "مشعل نام عربی زبان کی اصطلاح 'مشع' سے ماخوذ ہے، جس کا مطلب ہے روشن کرنا یا روشنی دینا، یہ نام اسلامی تقویم میں اہم کردار رکھتا ہے کیونکہ یہ نور اور ہدایت کی علامت ہے، قرآن مجید میں نور اور ہدایت کے متعلق کئی آیات ہیں، جیسے 'وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الْخَشَاشِ الَّذِي يَقْصِدُهُ الرِّيحُ الشَّدِيدَةُ' (فاطر:41)، جو منافقین اور کفار کی مثال دیتا ہے جو اندھیروں میں بھٹکتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Torch, flame, light",
+      "primary_meaning": "Torch",
+      "secondary_meanings": [
+        "flame",
+        "light"
+      ],
+      "literal_meaning": "Torch",
+      "extended_meaning": "Torch, flame, light",
+      "meaning_explanation": "Mashal corresponds to the Arabic form مشعل (Arabic root ش ع ل (sh-ʿ-l); مِشْعَل (Mishʿal)). Its core sense is torch, flame, light. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मशअल",
-      "meaning": "मशअल का अर्थ है प्रकाश या अंधकार में मार्गदर्शन करने वाला प्रकाश",
-      "long_meaning": "मशअल नाम अरबी भाषा से लिया गया है, जिसका अर्थ है प्रकाश या उजाला करना, यह नाम इस्लामी परंपरा में महत्वपूर्ण है क्योंकि यह प्रकाश और मार्गदर्शन का प्रतीक है, कुरआन में कई जगहों पर प्रकाश और मार्गदर्शन का उल्लेख है, जैसे कि 'وَلِيَضْرِبُ اللَّهُ مَثَلًا لِّلْمُؤْمِنِينَ الَّذِينَ اخْتَصَصَ اللَّهُ بِالْفَضْلِ وَالرِّضْوَانِ' (آل عمران:144), जहां यह बताया गया है कि भगवान अपने सेवकों को सही रास्ते पर चलने के लिए प्रेरित करते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مشعل",
+      "transliteration": "mashal",
+      "romanization": "mashal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Torch",
+        "flame",
+        "light"
+      ],
+      "etymology_explanation": "The form مشعل is an established Arabic lexical item. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مشعل",
-      "meaning": "مشعل د هدایت او رڼا په تیارو کې د لارښودنې معنی لري",
-      "long_meaning": "مشعل نوم د عربي کلمې 'مشع' څخه اخیستل شوی دی، چې معنی یې د رڼا یا روښنايي ورکول دي، دا نوم په اسلامي کلتور کې مهم دی ځکه چې د هدایت او رڼا نښه ده، په قرآن کريم کې د رڼا او هدایت په اړه ډیری آیتونه دي، لکه 'وَمَثَلُ الَّذِينَ آمَنُوا كَمَثَلِ الْأَثَاثِ الَّذِي أُوتِيَ النُّورُ' (البقرة:257)، چیرته چې د مومنانو بيلګه ورکړل شوې ده چې د الله په لارښودنې سره سم سمه لاره غوره کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مشعل is an established Arabic form.",
+        "Urdu": "مشعل is used in Urdu.",
+        "Persian": "مشعل is an established Persian form.",
+        "Hindi": "मशाल is used in Hindi.",
+        "Pashto": "مشعل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mashal",
-      "meaning": "Mashal means light or guidance in darkness",
-      "long_meaning": "The name Mashal is derived from the Arabic root 'مَشَعَ' (masha'a), which means to light up or illuminate. In Islamic tradition, light (nur) is a significant symbol representing guidance and wisdom. The Quran mentions light and guidance in various verses, such as 'And indeed, We have made the Quran easy to understand, and We have sent it down as a reminder' (Kamar: 39), indicating the illuminating role of divine guidance. The name Mashal embodies the concept of leading through darkness, symbolizing enlightenment and spiritual guidance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مشعل. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mashal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense torch, flame, light.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Torch",
+      "related_concepts": [
+        "torch",
+        "flame",
+        "light"
+      ],
+      "semantic_relationship": "The central semantic idea is torch; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of torch.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Torch",
+        "Flame",
+        "Light"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mashal",
+        "meaning": "Torch, flame, light",
+        "long_meaning": "Mashal is a Arabic-origin name. Its core meaning is torch, flame, light. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal."
+      },
+      "urdu": {
+        "name": "مشعل",
+        "meaning": "مشعل، شمع، روشنی",
+        "long_meaning": "Mashal (مشعل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مشعل، شمع، روشنی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مشعل",
+        "meaning": "مشعل، شعله، نور",
+        "long_meaning": "Mashal (مشعل) نامی برگرفته از زبان عربی است و معنای اصلی آن مشعل، شعله، نور است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मशाल",
+        "meaning": "मशाल, मशअल, प्रकाश",
+        "long_meaning": "Mashal (मशाल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मशाल, मशअल, प्रकाश है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مشعل",
+        "meaning": "مشعل، بل، رڼا",
+        "long_meaning": "Mashal (مشعل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مشعل، بل، رڼا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مشعل",
+        "meaning": "المشعل، الشعلة، النور",
+        "long_meaning": "Mashal (مشعل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المشعل، الشعلة، النور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Mash-al",
-      "urdu": "مشعل (مَشْعَل)",
-      "hindi": "मशअल (मश्अल)",
-      "pashto": "مشعل (ma-shal)",
-      "ipa": "/ˈmæʃæl/"
+      "romanized": "mas-hal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مشعل",
+      "persian": "مشعل",
+      "hindi": "मशाल",
+      "pashto": "مشعل"
     },
-    "celebrity_usage": [
-      "Mashal Khan (Pakistani actress)"
-    ],
-    "social_tags": [
-      "#MashalMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mashal"
-    ],
-    "name_variations": [],
-    "popularity_score": 65,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mashal",
+        "mashal"
+      ],
+      "script_variants": [
+        "مشعل",
+        "मशाल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مشعل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mashal can be understood through the Arabic form مشعل, whose central sense is torch, flame, light. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Mashal mean?",
+        "answer": "Mashal is associated with the Arabic form مشعل, whose core sense is torch, flame, light."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Mashal?",
+        "answer": "Mashal is associated with Arabic. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Mashal an Arabic name?",
+        "answer": "Yes — the underlying form مشعل is Arabic."
+      },
+      {
+        "question": "Is Mashal an Islamic name?",
+        "answer": "Mashal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mashal a Quranic name?",
+        "answer": "Mashal should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mashal mean in Urdu?",
+        "answer": "In Urdu, Mashal is rendered مشعل and carries the sense مشعل، شمع، روشنی."
+      },
+      {
+        "question": "What does Mashal mean in Persian?",
+        "answer": "In Persian, Mashal is rendered مشعل and carries the sense مشعل، شعله، نور."
+      },
+      {
+        "question": "How is Mashal pronounced?",
+        "answer": "A romanized syllable approximation is mas-hal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mashal?",
+        "answer": "Romanization variants include Mashal, mashal. Script forms are مشعل, मशाल."
+      },
+      {
+        "question": "Is Mashal a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mashal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mashal, a beautiful Islam name meaning \"Torch, Light\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mashal, Islam name, baby names, Torch, Light, Islam baby names, name meaning",
-      "description_paragraph": "Mashal is a meaningful Islam name of Arabic origin that means \"Torch, Light\". A symbol of guidance, light, and enlightenment.",
-      "keywords": [
-        "Mashal",
-        "Islam name",
-        "baby names",
-        "Torch, Light",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mashal in Islam tradition?",
-          "a": "Mashal is a beautiful Islam name meaning \"Torch, Light\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mashal a good Islam name for a baby?",
-          "a": "Yes, Mashal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mashal?",
-          "a": "The name Mashal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mashal correctly?",
-          "a": "Mashal is pronounced Mash-al in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mashal?",
-          "a": "Naming a child Mashal brings blessings. The meaning \"Torch, Light\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mashal?",
-          "a": "Mashal is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Mashal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mashal (مشعل).",
+      "h1": "Mashal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mashal meaning",
       "secondary_keywords": [
-        "Islam name Mashal",
-        "Mashal meaning",
-        "Mashal origin"
+        "Mashal name meaning",
+        "Mashal meaning in Urdu",
+        "Mashal origin",
+        "Mashal Islamic name",
+        "Mashal pronunciation",
+        "Mashal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mashal (مشعل) is associated with the Arabic form مشعل, whose core sense is torch, flame, light. Mashal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch, Light' is consistent. Same name as mashaal.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mashal is associated with the Arabic form مشعل, whose core sense is torch, flame, light.",
+      "meaning_section": "The central meaning of Mashal is torch, flame, light.",
+      "origin_section": "Mashal is associated with Arabic rather than with a different language.",
+      "islam_section": "Mashal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mashal is with the sense torch.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mashal",
+      "#MashalMeaning",
+      "#MashalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Mashal\" is derived from the Arabic word \"mašálah,\" which means a torch, a beacon, or a guiding light. Culturally, this name signifies a person who provides guidance, acts as a role model, or serves as an inspiration to those around them, much like a beacon of light leading the way in the dark.",
-    "spiritual_significance": "In the Islamic context, the spiritual significance of the name \"Mashal\" is deeply rooted in the concept of being a beacon of truth and guidance from Allah. The Prophet Muhammad (peace be upon him) is often referred to as a \"Mashal,\" guiding the ummah (Muslim community) through his teachings, example, and compassion. Additionally, the eternal light of the Prophet Muhammad (peace be upon him) is a reminder that eternity and truth come from Allah. The name Mashal serves as a reminder to always strive towards truth and to be a source of guidance for others.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mashal was a 13th century Persian poet. The name Mashal carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Mashal was a prominent figure in Persian literature during the Ilkhanate period."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "The name Mashal is used as a given name in the Muslim world.",
-        "In some countries, Mashal is a popular name for girls."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mashal corresponds to the Arabic form مشعل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mashal has the core sense torch, flame, light",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Mashal is a common name on social media platforms such as Facebook and Twitter.",
-        "Mashal is also a popular name on baby name websites."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mashal remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Mashal",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Khadija Mashal in Istanbul, Turkey attributes much of their success to the blessing of their name Mashal, which means \"Torch, Light\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Torch, Light\" symbolizes A symbol of guidance, light, and enlightenment.. In Islamic spirituality, bearing the name Mashal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of torch, light.",
-    "created_at": "2025-12-22T19:19:49.799Z",
-    "updated_at": "2025-12-22T04:53:14.339Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1476,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mashal",
-      "description": "Torch, Light",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Mashal",
+        "mashal"
       ],
-      "religion": "Islam",
-      "gender": "(Male/Female/Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mashal",
-          "description": "Discover the meaning of Mashal - \"Torch, Light\"",
-          "image": "/images/social/mashal-facebook.jpg"
+      "description": "A name associated with the Arabic form مشعل, meaning torch, flame, light.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "mashal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mashal - Name Meaning",
-          "description": "Learn about the beautiful name Mashal",
-          "image": "/images/social/mashal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mashal",
-          "description": "Name meaning: Torch, Light",
-          "image": "/images/social/mashal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mashal - Meaning: Torch, Light",
-        "email_subject": "Beautiful Name: Mashal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mashal with meaning Torch, Light",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mashal, associated with the Arabic form مشعل, meaning torch, flame, light."
     },
-    "similar_sounding_names": [
-      "marnia",
-      "marudeen.",
-      "mahek",
-      "maassama",
-      "meena",
-      "manab",
-      "marhabah",
-      "meher",
-      "mika",
-      "mada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

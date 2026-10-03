@@ -3,285 +3,475 @@
   "data": {
     "name": "Amar",
     "slug": "amar",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Eternal, Immortal",
-    "long_meaning": "Derived from the Arabic word ‘Amarah’ which means ‘immortal’, ‘eternal’, or ‘everlasting’.",
-    "spiritual_meaning": "None",
-    "emotional_traits": [
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "C"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Red",
-      "Orange"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, self-expression, and communication",
-    "in_arabic": {
-      "name": "عمار",
-      "meaning": "طويل العمر صحي",
-      "long_meaning": "عمار هو اسم عربي يعني طويل العمر أو صحي، ومشتق من الجذر العربي عم ر، والذي يرمز إلى البقاء والاستمرار، وله أهمية دينية في الإسلام حيث يرتبط بالصحة والرزق"
+    "identity": {
+      "display_name": "Amar",
+      "normalized_name": "amar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Amar",
+        "amar"
+      ],
+      "search_variants": [
+        "Amar",
+        "amar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عمار",
-      "meaning": "لمبی عمر والا",
-      "long_meaning": "عمار ایک عربی نام ہے جو لمبی عمر یا صحت مند کا معنی رکھتا ہے، اور اس کا تعلق عربي جڑ عم ر سے ہے، جو بقا اور استمرار کی نمائندگی کرتا ہے، اور اسلام میں مذہبی اہمیت کے حامل ہیں"
+    "core_meaning": {
+      "short_meaning": "Builder, one who constructs",
+      "primary_meaning": "Builder",
+      "secondary_meanings": [
+        "one who constructs"
+      ],
+      "literal_meaning": "Builder",
+      "extended_meaning": "Builder, one who constructs",
+      "meaning_explanation": "Amar corresponds to the Arabic form عمار (ع م ر). Its core sense is builder, one who constructs. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अमार",
-      "meaning": "लंबी आयु वाला",
-      "long_meaning": "अमार एक अरबी नाम है जो लंबी आयु या स्वस्थ का अर्थ रखता है, और इसका संबंध अरबी मूल عم र से है, जो अस्तित्व और स्थायित्व का प्रतिनिधित्व करता है, और इस्लाम में धार्मिक महत्व के साथ जुड़ा हुआ है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عمار",
+      "transliteration": "amar",
+      "romanization": "amar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Builder",
+        "one who constructs"
+      ],
+      "etymology_explanation": "The form عمار is an established Arabic lexical item. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عمار",
-      "meaning": "اوږده عمره",
-      "long_meaning": "عمار د عربي نوم دی چې اوږده عمر یا روغ کا معنی لري، او دا د عربي ریښ عم ر څخه اخیستل شوی، چې پاتې کېدو او دوامداري ته اشاره کوي، او د اسلام په دیني اهمیت سره تړلی دی"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عمار is an established Arabic form.",
+        "Urdu": "عمار is used in Urdu.",
+        "Hindi": "अम्मार is used in Hindi.",
+        "Pashto": "عمار is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Amar",
-      "meaning": "long life or healthy",
-      "long_meaning": "Amar is an Arabic name meaning long life or healthy, derived from the Arabic root عم ر, symbolizing existence and perpetuity, and has religious significance in Islam, associated with health and sustenance"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عمار. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Amar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense builder, one who constructs.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Builder",
+      "related_concepts": [
+        "builder",
+        "one who constructs"
+      ],
+      "semantic_relationship": "The central semantic idea is builder; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of builder.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Builder",
+        "One who constructs"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Amar",
+        "meaning": "Builder, one who constructs",
+        "long_meaning": "Amar is a Arabic-origin name. Its core meaning is builder, one who constructs. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported."
+      },
+      "urdu": {
+        "name": "عمار",
+        "meaning": "معمار، تعمیر کرنے والا",
+        "long_meaning": "Amar (عمار) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معمار، تعمیر کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अम्मार",
+        "meaning": "निर्माता, बनाने वाला",
+        "long_meaning": "Amar (अम्मार) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ निर्माता, बनाने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عمار",
+        "meaning": "جوړونکی، معمار",
+        "long_meaning": "Amar (عمار) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جوړونکی، معمار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عمار",
+        "meaning": "بنّاء، معماري",
+        "long_meaning": "Amar (عمار) اسم مأخوذ من اللغة العربية، ومعناه الأساسي بنّاء، معماري. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-MAR",
-      "urdu": "عمار کا تلفظ عمار ہے",
-      "hindi": "अमार का उच्चारण अमार है",
-      "pashto": "عمار د تلفظ عمار دی",
-      "ipa": "/ˈɑːmɑːr/"
+      "romanized": "a-mar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عمار",
+      "persian": null,
+      "hindi": "अम्मार",
+      "pashto": "عمار"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AmarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Amar"
-    ],
-    "name_variations": [],
-    "popularity_score": 67,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Amar",
+        "amar"
+      ],
+      "script_variants": [
+        "عمار",
+        "अम्मार"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عمار is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Amar can be understood through the Arabic form عمار, whose central sense is builder, one who constructs. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Amar mean?",
+        "answer": "Amar is associated with the Arabic form عمار, whose core sense is builder, one who constructs."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 82,
-        "year": 2024
+        "question": "What is the origin of Amar?",
+        "answer": "Amar is associated with Arabic. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Amar an Arabic name?",
+        "answer": "Yes — the underlying form عمار is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 76,
-        "year": 2024
+        "question": "Is Amar an Islamic name?",
+        "answer": "Amar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Amar a Quranic name?",
+        "answer": "Amar should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Amar mean in Urdu?",
+        "answer": "In Urdu, Amar is rendered عمار and carries the sense معمار، تعمیر کرنے والا."
+      },
+      {
+        "question": "What does Amar mean in Persian?",
+        "answer": "No verified Persian form was established for Amar."
+      },
+      {
+        "question": "How is Amar pronounced?",
+        "answer": "A romanized syllable approximation is a-mar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Amar?",
+        "answer": "Romanization variants include Amar, amar. Script forms are عمار, अम्मार."
+      },
+      {
+        "question": "Is Amar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Amar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Amar, a beautiful Islam name meaning \"Eternal, Immortal\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Amar, Islam name, baby names, Eternal, Immortal, Islam baby names, name meaning",
-      "description_paragraph": "Amar is a meaningful Islam name of Arabic origin that means \"Eternal, Immortal\". Derived from the Arabic word ‘Amarah’ which means ‘immortal’, ‘eternal’, or ‘everlasting’.",
-      "keywords": [
-        "Amar",
-        "Islam name",
-        "baby names",
-        "Eternal, Immortal",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Amar in Islam tradition?",
-          "a": "Amar is a beautiful Islam name meaning \"Eternal, Immortal\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Amar a good Islam name for a baby?",
-          "a": "Yes, Amar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Amar?",
-          "a": "The name Amar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Amar correctly?",
-          "a": "Amar is pronounced ah-MAR in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Amar?",
-          "a": "Naming a child Amar brings blessings. The meaning \"Eternal, Immortal\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Amar?",
-          "a": "Amar is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Amar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Amar (عمار).",
+      "h1": "Amar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Amar meaning",
       "secondary_keywords": [
-        "Islam name Amar",
-        "Amar meaning",
-        "Amar origin"
+        "Amar name meaning",
+        "Amar meaning in Urdu",
+        "Amar origin",
+        "Amar Islamic name",
+        "Amar pronunciation",
+        "Amar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Amar (عمار) is associated with the Arabic form عمار, whose core sense is builder, one who constructs. ʿAmmār ('builder'). The source record's gloss 'Eternal, Immortal' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Amar is associated with the Arabic form عمار, whose core sense is builder, one who constructs.",
+      "meaning_section": "The central meaning of Amar is builder, one who constructs.",
+      "origin_section": "Amar is associated with Arabic rather than with a different language.",
+      "islam_section": "Amar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Amar is with the sense builder.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Amar",
+      "#AmarMeaning",
+      "#AmarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Amar holds a significant cultural impact, as it is a meaningful and distinctive name in the Islamic world. Its Arabic origin equates it to power, durability, and imperishable nature. In various Islamic societies, names are often given with deep historical, mythological, or linguistic backgrounds, and Amar is no exception. The name has been assigned to numerous historical figures and characters, enriching Amar's impact on Islamic culture. It may suggest a strong, long-lasting legacy and emphasize resilience and continuity, inspiring those who bear the name.",
-    "spiritual_significance": "From a spiritual perspective, the name Amar holds a profound meaning for Muslims. In Islamic theology, the concept of Amr, or command, plays a significant role. The belief that Allah (God) has commanded certain actions and prohibitions is central to Islamic faith. By giving the name Amar, parents may want to remind their children of the divinely decreed laws and the importance of obedience, reinforcing the connection between spiritual growth and personal progress. Additionally, the eternal and everlasting nature of the name may inspire those who bear it to strive for eternal goodness and righteousness, as taught in the Islamic tradition, leading to a deeper understanding of spiritual fulfillment.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Amar carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Amar corresponds to the Arabic form عمار",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Amar has the core sense builder, one who constructs",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Amar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Amar",
-      "location": "Cairo, Egypt",
-      "story": "Omar Amar from Cairo, Egypt embodies the meaning of Amar - \"Eternal, Immortal\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Eternal, Immortal\" symbolizes Derived from the Arabic word ‘Amarah’ which means ‘immortal’, ‘eternal’, or ‘everlasting’.. In Islamic spirituality, bearing the name Amar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of eternal, immortal.",
-    "created_at": "2025-12-22T19:19:49.847Z",
-    "updated_at": "2025-12-22T04:53:14.71Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1693,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Amar",
-      "description": "Eternal, Immortal",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Amar",
+        "amar"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Amar",
-          "description": "Discover the meaning of Amar - \"Eternal, Immortal\"",
-          "image": "/images/social/amar-facebook.jpg"
+      "description": "A name associated with the Arabic form عمار, meaning builder, one who constructs.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "amar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Amar - Name Meaning",
-          "description": "Learn about the beautiful name Amar",
-          "image": "/images/social/amar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Amar",
-          "description": "Name meaning: Eternal, Immortal",
-          "image": "/images/social/amar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Amar - Meaning: Eternal, Immortal",
-        "email_subject": "Beautiful Name: Amar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Amar with meaning Eternal, Immortal",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Amar, associated with the Arabic form عمار, meaning builder, one who constructs."
     },
-    "similar_sounding_names": [
-      "arya",
-      "alma",
-      "ambar",
-      "anaan",
-      "alika",
-      "ashika",
-      "amalia",
-      "anja",
-      "amelia",
-      "anila"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

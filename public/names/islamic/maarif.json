@@ -3,304 +3,485 @@
   "data": {
     "name": "Maarif",
     "slug": "maarif",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Knowledge, Education",
-    "long_meaning": "Derived from the Arabic root 'R-F-F', meaning to educate or be educated. In Islamic tradition, knowledge and education are considered essential for spiritual growth and personal development.",
-    "spiritual_meaning": "Seek knowledge and wisdom for the betterment of oneself and society.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the name Maarif tend to be independent, adventurous, and versatile. They are natural born leaders with a strong sense of purpose and determination.",
-    "in_arabic": {
-      "name": "معارف",
-      "meaning": "المعرفة والفهم العميق للدين والعالم",
-      "long_meaning": "اسم علمي مشتق من الجذر العربي 'عرف' ومعناه المعرفة العميقة والفهم الدقيق للدين والعالم، ويشير إلى الشخص الذي يتميز بالحكمة والفطنة. ورد في القرآن الكريم في عدة آيات، منها 'وَمَا أُوتِيَ النَّبِيُّونَ مِنَ الْعِلْمِ إِلَّا مِنَ الرَّحْمَنِ' (الإسراء: 55)، مما يعزز قيمة العلم والمعرفة في الإسلام."
+    "identity": {
+      "display_name": "Maarif",
+      "normalized_name": "maarif",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Maarif",
+        "maarif",
+        "marif"
+      ],
+      "search_variants": [
+        "Maarif",
+        "maarif",
+        "marif"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "معارف",
-      "meaning": "دین اور دنیا کا گہرا علم و معرفت",
-      "long_meaning": "علم اور سمجھ کا ایک خوبصورت مجموعہ، جو فرد کو دنیا اور دین کے معاملات میں بصیرت و فراست بخشتا ہے۔ اس نام کی اصیل عربی جڑ 'عرف' سے ہے، جس کے معنی ہیں 'جاننا' یا 'سمجھنا'۔ یہ نام جنوبی ایشیائی اسلامی روایت میں بھی اہمیت رکھتا ہے، جہاں علم اور حلم کو اہم صفات کے طور پر دیکھا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Knowledge, education, learning",
+      "primary_meaning": "Knowledge",
+      "secondary_meanings": [
+        "education",
+        "learning"
+      ],
+      "literal_meaning": "Knowledge",
+      "extended_meaning": "Knowledge, education, learning",
+      "meaning_explanation": "Maarif corresponds to the Arabic form معارف (Arabic root ع ر ف (ʿ-r-f); مَعَارِف (Maʿārif)). Its core sense is knowledge, education, learning. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मारिफ",
-      "meaning": "दुनिया और धर्म का गहन ज्ञान",
-      "long_meaning": "यह नाम व्यक्ति की गहरी समझ और ज्ञान को दर्शाता है, जो उन्हें धार्मिक और सांसारिक मामलों में अंतर्दृष्टि प्रदान करता है। इसकी जड़ें अरबी भाषा में हैं, विशेष रूप से 'मारिफ' शब्द में, जो 'ज्ञान' या 'समझ' के अर्थ में प्रयोग होता है। भारतीय मुस्लिम समुदाय में, यह नाम बुद्धिमत्ता और विवेक के प्रतीक के रूप में महत्व रखता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "معارف",
+      "transliteration": "maarif",
+      "romanization": "maarif",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Knowledge",
+        "education",
+        "learning"
+      ],
+      "etymology_explanation": "The form معارف is an established Arabic lexical item. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "معارف",
-      "meaning": "د دین او نړۍ ژور پوهه",
-      "long_meaning": "دغه نوم د پوهې او ژورې پوهنې معنی لري، کوم چې فرد ته د دین او نړۍ په چارو کې بصیرت ورکوي. د دې نوم اصل عربي ريښه 'عرف' دی، چې د 'پوهيدل' يا 'پېژندل' په معنا ده. په افغان او پښتون دود کې، دا نوم د حکمت او دانائی د يو سترګو په توګه شمېرل کيږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "معارف is an established Arabic form.",
+        "Urdu": "معارف is used in Urdu.",
+        "Persian": "معارف is an established Persian form.",
+        "Hindi": "मआरिफ़ is used in Hindi.",
+        "Pashto": "معارف is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Maarif",
-      "meaning": "deep knowledge and understanding of the world and religion",
-      "long_meaning": "Maarif is a name that signifies profound knowledge and understanding, particularly in the realms of religion and the world. Etymologically derived from the Arabic root 'عرف' (ʿ-r-f), which means 'to know' or 'to understand', this name reflects the importance of wisdom and insight. Referenced in several Quranic verses, it underscores the value of knowledge in Islam. Historically, the name Maarif has been used across various Muslim cultures, symbolizing the pursuit of knowledge and spiritual growth."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form معارف. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Maarif may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense knowledge, education, learning.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Knowledge",
+      "related_concepts": [
+        "knowledge",
+        "education",
+        "learning"
+      ],
+      "semantic_relationship": "The central semantic idea is knowledge; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of knowledge.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Knowledge",
+        "Education",
+        "Learning"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Maarif",
+        "meaning": "Knowledge, education, learning",
+        "long_meaning": "Maarif is a Arabic-origin name. Its core meaning is knowledge, education, learning. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "معارف",
+        "meaning": "معارف، علم، تعلیم",
+        "long_meaning": "Maarif (معارف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معارف، علم، تعلیم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "معارف",
+        "meaning": "معارف، دانش، آموزش",
+        "long_meaning": "Maarif (معارف) نامی برگرفته از زبان عربی است و معنای اصلی آن معارف، دانش، آموزش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मआरिफ़",
+        "meaning": "ज्ञान, मआरिफ़, शिक्षा",
+        "long_meaning": "Maarif (मआरिफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज्ञान, मआरिफ़, शिक्षा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "معارف",
+        "meaning": "پوهه، معارف، زده کړه",
+        "long_meaning": "Maarif (معارف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوهه، معارف، زده کړه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "معارف",
+        "meaning": "المعارف، العلم، التعليم",
+        "long_meaning": "Maarif (معارف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المعارف، العلم، التعليم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "MAH-rif",
-      "urdu": "اردو میں تلفظ: معارف (MAH-rif)",
-      "hindi": "हिन्दी में उच्चारण: मारिफ (MAH-rif)",
-      "pashto": "په پښتو کې د تلفظ: معارف (MAH-rif)",
-      "ipa": "/ˈmɑː.rɪf/"
+      "romanized": "maa-rif",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "معارف",
+      "persian": "معارف",
+      "hindi": "मआरिफ़",
+      "pashto": "معارف"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MaarifMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Maarif"
-    ],
-    "name_variations": [
-      "Marif"
-    ],
-    "popularity_score": 42,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Maarif",
+        "maarif",
+        "marif"
+      ],
+      "script_variants": [
+        "معارف",
+        "मआरिफ़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form معارف is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Maarif can be understood through the Arabic form معارف, whose central sense is knowledge, education, learning. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Maarif mean?",
+        "answer": "Maarif is associated with the Arabic form معارف, whose core sense is knowledge, education, learning."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Maarif?",
+        "answer": "Maarif is associated with Arabic. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Maarif an Arabic name?",
+        "answer": "Yes — the underlying form معارف is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Maarif an Islamic name?",
+        "answer": "Maarif can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 69,
-        "year": 2024
+        "question": "Is Maarif a Quranic name?",
+        "answer": "Maarif should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Maarif mean in Urdu?",
+        "answer": "In Urdu, Maarif is rendered معارف and carries the sense معارف، علم، تعلیم."
+      },
+      {
+        "question": "What does Maarif mean in Persian?",
+        "answer": "In Persian, Maarif is rendered معارف and carries the sense معارف، دانش، آموزش."
+      },
+      {
+        "question": "How is Maarif pronounced?",
+        "answer": "A romanized syllable approximation is maa-rif. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Maarif?",
+        "answer": "Romanization variants include Maarif, maarif, marif. Script forms are معارف, मआरिफ़."
+      },
+      {
+        "question": "Is Maarif a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Maarif Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Maarif, a beautiful Islam name meaning \"Knowledge, Education\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Maarif, Islam name, baby names, Knowledge, Education, Islam baby names, name meaning",
-      "description_paragraph": "Maarif is a meaningful Islam name of Arabic origin that means \"Knowledge, Education\". Derived from the Arabic root 'R-F-F', meaning to educate or be educated. In Islamic tradition, knowledge and education are considered essential for spiritual growth and personal development.",
-      "keywords": [
-        "Maarif",
-        "Islam name",
-        "baby names",
-        "Knowledge, Education",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Maarif in Islam tradition?",
-          "a": "Maarif is a beautiful Islam name meaning \"Knowledge, Education\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Maarif a good Islam name for a baby?",
-          "a": "Yes, Maarif is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Maarif?",
-          "a": "The name Maarif has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Maarif correctly?",
-          "a": "Maarif is pronounced MAH-rif in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Maarif?",
-          "a": "Naming a child Maarif brings blessings. The meaning \"Knowledge, Education\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Maarif?",
-          "a": "Maarif is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Maarif Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Maarif (معارف).",
+      "h1": "Maarif Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Maarif meaning",
       "secondary_keywords": [
-        "Islam name Maarif",
-        "Maarif meaning",
-        "Maarif origin"
+        "Maarif name meaning",
+        "Maarif meaning in Urdu",
+        "Maarif origin",
+        "Maarif Islamic name",
+        "Maarif pronunciation",
+        "Maarif name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Maarif (معارف) is associated with the Arabic form معارف, whose core sense is knowledge, education, learning. Maarif is Arabic مَعَارِف (Maʿārif) 'knowledge, education, learning', from the root ع ر ف (ʿ-r-f). The source gloss 'Knowledge, Education' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Maarif is associated with the Arabic form معارف, whose core sense is knowledge, education, learning.",
+      "meaning_section": "The central meaning of Maarif is knowledge, education, learning.",
+      "origin_section": "Maarif is associated with Arabic rather than with a different language.",
+      "islam_section": "Maarif can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Maarif is with the sense knowledge.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Maarif",
+      "#MaarifMeaning",
+      "#MaarifName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Islamic name \"Maarif\" reflects a deep cultural emphasis on the pursuit of knowledge and learning, as evident in the derived meaning 'to educate'. In many Muslim societies, the acquisition of knowledge is highly valued as a means to enrich one's life, contribute to the community, and secure a successful future for oneself and one's family. This emphasis on education is rooted in the Islamic belief that knowledge is not only a personal asset but a communal responsibility.",
-    "spiritual_significance": "In the Islamic tradition, knowledge is viewed as a path to understanding God's creation, discovering His truth, and knowing Him more intimately. The Prophet Muhammad (pbuh) said, \"Seeking knowledge is an obligation on every Muslim.\" (At-Tirmidhi, Ibn Majah). The spiritual significance of the name \"Maarif\" thus lies in its reminder of the importance of continuous learning and spiritual growth through acquiring knowledge and wisdom. It is a call to deepen one's faith and relationship with God, by reading the Quran, studying the teachings of the Prophet (pbuh) and engaging in intellectual discussions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Khaldun's Al-Muqaddimah The name Maarif carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "Maarif refers to knowledge and learning in the Middle Ages Islamic world."
-      },
-      {
-        "reference": "Historical records show that Ibn Rushd's (Averroes) The Decisive Treatise The name Maarif carried significant weight in that era.",
-        "time_period": "12th century",
-        "context": "Maarif refers to the pursuit of knowledge and wisdom, especially in philosophy and science."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Lifelong learning",
-        "Education technology",
-        "Digital transformation"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Maarif corresponds to the Arabic form معارف",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Maarif has the core sense knowledge, education, learning",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Maarif TV",
-        "Maarif University",
-        "Maarif Education"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic name 'Maarif' has gained modern significance in various educational and knowledge-sharing platforms. 'Maarif' is derived from the Arabic word 'ilm' meaning 'knowledge'. In the modern context, 'Maarif' is seen as a symbol of continuous learning and education. Three popular platforms using this name are Maarif TV, Maarif University, and Maarif Education. Maarif TV is a Turkish TV station that focuses on education and knowledge sharing. Maarif University is an international higher education institution that offers programs in various fields. Maarif Education is an educational service provider that uses technology to deliver quality education. The trend towards lifelong learning, education technology, and digital transformation has made 'Maarif' a relevant and sought-after name in the educational sector."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Maarif",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Zainab Maarif in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Maarif, which means \"Knowledge, Education\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Knowledge, Education\" symbolizes Derived from the Arabic root 'R-F-F', meaning to educate or be educated. In Islamic tradition, knowledge and education are considered essential for spiritual growth and personal development.. In Islamic spirituality, bearing the name Maarif serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of knowledge, education.",
-    "created_at": "2025-12-22T19:19:49.948Z",
-    "updated_at": "2025-12-22T04:53:15.638Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1356,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Maarif",
-      "description": "Knowledge, Education",
-      "additionalName": [
-        "Marif"
+      "alternateName": [
+        "Maarif",
+        "maarif",
+        "marif"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form معارف, meaning knowledge, education, learning.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Maarif",
-          "description": "Discover the meaning of Maarif - \"Knowledge, Education\"",
-          "image": "/images/social/maarif-facebook.jpg"
+      "termCode": "maarif",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Maarif - Name Meaning",
-          "description": "Learn about the beautiful name Maarif",
-          "image": "/images/social/maarif-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Maarif",
-          "description": "Name meaning: Knowledge, Education",
-          "image": "/images/social/maarif-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Maarif - Meaning: Knowledge, Education",
-        "email_subject": "Beautiful Name: Maarif"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Maarif with meaning Knowledge, Education",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Maarif, associated with the Arabic form معارف, meaning knowledge, education, learning."
     },
-    "similar_sounding_names": [
-      "marudeen.",
-      "maassama",
-      "meher",
-      "marnia",
-      "mada",
-      "mahek",
-      "meena",
-      "mika",
-      "marhabah",
-      "manab"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

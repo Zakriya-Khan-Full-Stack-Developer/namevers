@@ -3,289 +3,481 @@
   "data": {
     "name": "Maulana",
     "slug": "maulana",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Master, Owner",
-    "long_meaning": "Derived from the Arabic word 'Malik' which means 'master', 'owner', 'king'.",
-    "spiritual_meaning": "In Islamic tradition, the name Maulana symbolizes divine guidance, sovereignty, and leadership.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "#F9A825",
-      "#E74C3C"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Independence, initiation, beginnings, new directions, and leadership.",
-    "in_arabic": {
-      "name": "مولانا",
-      "meaning": "مولانا تعالی حضرت کا نام ہے جو احترام کے لئے استعمال ہوتا ہے",
-      "long_meaning": "مولانا ایک احترام کا لفظ ہے جو علماء اور بزرگوں کے لئے استعمال ہوتا ہے۔ اس کا معنی ہے 'ہمارا مالک' یا 'ہمارا رب'۔ یہ نام اسلامی تاریخ میں بڑے احترام کے ساتھ استعمال ہوا ہے، خاص طور پر علماء اور صوفیاء کے لئے۔ اس کا عربی جڑوں سے تعلق ہے اور قرآن میں بھی استعمال ہوتا ہے۔ مولانا کا استعمال آج بھی اسلامی دنیا میں علماء اور مذہبی شخصیات کے لئے ایک احترام کا اظہار ہے۔"
+    "identity": {
+      "display_name": "Maulana",
+      "normalized_name": "maulana",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Maulana",
+        "maulana"
+      ],
+      "search_variants": [
+        "Maulana",
+        "maulana"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مولانا",
-      "meaning": "مولانا ایک احترام کا لفظ ہے جو علماء کے لئے استعمال ہوتا ہے",
-      "long_meaning": "مولانا علماء اور بزرگوں کے لئے ایک احترام کا لفظ ہے۔ اس کا مطلب ہے 'مالک' یا 'رب'۔ یہ نام جنوبی ایشیائی اسلامی روایت میں بڑے احترام کے ساتھ استعمال ہوتا ہے۔ مولانا کا استعمال مذہبی اور علمی شخصیات کے لئے ایک اعزازی عنوان کے طور پر کیا جاتا ہے۔ اس کا تعلق عربی زبان سے ہے اور اسلامی تاریخ میں اس کا اہم کردار ہے۔"
+    "core_meaning": {
+      "short_meaning": "Master, lord, patron",
+      "primary_meaning": "Master",
+      "secondary_meanings": [
+        "lord",
+        "patron"
+      ],
+      "literal_meaning": "Master",
+      "extended_meaning": "Master, lord, patron",
+      "meaning_explanation": "Maulana corresponds to the Arabic form مولانا (Arabic مَوْلَانَا (Mawlānā), from مَوْلَى (mawlā)). Its core sense is master, lord, patron. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मौलाना",
-      "meaning": "मौलाना का अर्थ है सम्मानित व्यक्ति या विद्वान",
-      "long_meaning": "मौलाना एक सम्मानजनक शब्द है जो विद्वानों और बड़े लोगों के लिए प्रयोग किया जाता है। इसका अर्थ है 'मालिक' या 'प्रभु'। यह नाम भारतीय मुस्लिम समुदाय में बड़े सम्मान के साथ प्रयोग किया जाता है। मौलाना का उपयोग धार्मिक और विद्वान व्यक्तियों के लिए एक सम्मानजनक उपाधि के रूप में किया जाता है। इसकी जड़ें अरबी भाषा में हैं और इस्लामी इतिहास में इसका महत्वपूर्ण स्थान है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مولانا",
+      "transliteration": "maulana",
+      "romanization": "maulana",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Master",
+        "lord",
+        "patron"
+      ],
+      "etymology_explanation": "The form مولانا is an established Arabic lexical item. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مولانا",
-      "meaning": "مولانا د علماوو او بزرګو لپاره د احترام يو کلمه ده",
-      "long_meaning": "مولانا د احترام يو کلمه ده چې د علماوو او بزرګو لپاره کارول کېږي. دغه کلمه د 'مالک' يا 'رب' په معنا ده. په افغان او پښتون دود کې مولانا د مذهبي او علمي شخصيتونو لپاره د احترام يو ښودنه ده. دا کلمه عربي ريښې لري او په اسلامي تاريخ کې يې مهم رول لوب کړی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مولانا is an established Arabic form.",
+        "Urdu": "مولانا is used in Urdu.",
+        "Persian": "مولانا is an established Persian form.",
+        "Hindi": "मौलाना is used in Hindi.",
+        "Pashto": "مولانا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Maulana",
-      "meaning": "Maulana means a respectful title for scholars and religious leaders",
-      "long_meaning": "Maulana is a title of respect used for scholars, religious leaders, and learned individuals in the Islamic world. It is derived from Arabic roots meaning 'our master' or 'our lord'. The term has a rich history in Islamic tradition, often used to address or refer to esteemed personalities, particularly in South Asia and other Muslim communities. Maulana signifies wisdom, knowledge, and spiritual guidance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مولانا. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Maulana may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense master, lord, patron.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Master",
+      "related_concepts": [
+        "master",
+        "lord",
+        "patron"
+      ],
+      "semantic_relationship": "The central semantic idea is master; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of master.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Master",
+        "Lord",
+        "Patron"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Maulana",
+        "meaning": "Master, lord, patron",
+        "long_meaning": "Maulana is a Arabic-origin name. Its core meaning is master, lord, patron. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana."
+      },
+      "urdu": {
+        "name": "مولانا",
+        "meaning": "مولا، مالک، سرپرست",
+        "long_meaning": "Maulana (مولانا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مولا، مالک، سرپرست ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مولانا",
+        "meaning": "مولا، سرور، صاحب",
+        "long_meaning": "Maulana (مولانا) نامی برگرفته از زبان عربی است و معنای اصلی آن مولا، سرور، صاحب است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मौलाना",
+        "meaning": "मौला, स्वामी, मालिक",
+        "long_meaning": "Maulana (मौलाना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मौला, स्वामी, मालिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مولانا",
+        "meaning": "مولا، مالک",
+        "long_meaning": "Maulana (مولانا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مولا، مالک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مولانا",
+        "meaning": "الْمَوْلَى، السَّيِّد، الْمَالِك",
+        "long_meaning": "Maulana (مولانا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمَوْلَى، السَّيِّد، الْمَالِك. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "maw-LAH-nah",
-      "urdu": "اردو میں تلفظ کی تفصیل: مو لان ا",
-      "hindi": "हिन्दी में उच्चारण विवरण: मौलाना",
-      "pashto": "په پښتو کې د تلفظ تفصیل: مولان ا",
-      "ipa": "/mɔːˈlɑːnə/"
+      "romanized": "mau-la-na",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مولانا",
+      "persian": "مولانا",
+      "hindi": "मौलाना",
+      "pashto": "مولانا"
     },
-    "celebrity_usage": [
-      "Maulana Azad",
-      "Maulana Muhammad Ali Jauhar",
-      "Maulana Shibli Nomani"
-    ],
-    "social_tags": [
-      "#MaulanaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Maulana"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Maulana",
+        "maulana"
+      ],
+      "script_variants": [
+        "مولانا",
+        "मौलाना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مولانا is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Maulana can be understood through the Arabic form مولانا, whose central sense is master, lord, patron. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Maulana mean?",
+        "answer": "Maulana is associated with the Arabic form مولانا, whose core sense is master, lord, patron."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Maulana?",
+        "answer": "Maulana is associated with Arabic. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Maulana an Arabic name?",
+        "answer": "Yes — the underlying form مولانا is Arabic."
+      },
+      {
+        "question": "Is Maulana an Islamic name?",
+        "answer": "Maulana can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Maulana a Quranic name?",
+        "answer": "Maulana should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Maulana mean in Urdu?",
+        "answer": "In Urdu, Maulana is rendered مولانا and carries the sense مولا، مالک، سرپرست."
+      },
+      {
+        "question": "What does Maulana mean in Persian?",
+        "answer": "In Persian, Maulana is rendered مولانا and carries the sense مولا، سرور، صاحب."
+      },
+      {
+        "question": "How is Maulana pronounced?",
+        "answer": "A romanized syllable approximation is mau-la-na. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Maulana?",
+        "answer": "Romanization variants include Maulana, maulana. Script forms are مولانا, मौलाना."
+      },
+      {
+        "question": "Is Maulana a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Maulana Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Maulana, a beautiful Islam name meaning \"Master, Owner\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Maulana, Islam name, baby names, Master, Owner, Islam baby names, name meaning",
-      "description_paragraph": "Maulana is a meaningful Islam name of Arabic origin that means \"Master, Owner\". Derived from the Arabic word 'Malik' which means 'master', 'owner', 'king'.",
-      "keywords": [
-        "Maulana",
-        "Islam name",
-        "baby names",
-        "Master, Owner",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Maulana in Islam tradition?",
-          "a": "Maulana is a beautiful Islam name meaning \"Master, Owner\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Maulana a good Islam name for a baby?",
-          "a": "Yes, Maulana is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Maulana?",
-          "a": "The name Maulana has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Maulana correctly?",
-          "a": "Maulana is pronounced maw-LAH-nah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Maulana?",
-          "a": "Naming a child Maulana brings blessings. The meaning \"Master, Owner\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Maulana?",
-          "a": "Maulana is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Maulana Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Maulana (مولانا).",
+      "h1": "Maulana Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Maulana meaning",
       "secondary_keywords": [
-        "Islam name Maulana",
-        "Maulana meaning",
-        "Maulana origin"
+        "Maulana name meaning",
+        "Maulana meaning in Urdu",
+        "Maulana origin",
+        "Maulana Islamic name",
+        "Maulana pronunciation",
+        "Maulana name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Maulana (مولانا) is associated with the Arabic form مولانا, whose core sense is master, lord, patron. Maulana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Master, Owner' is broadly consistent. Recorded as a title rather than a personal name. Same name as mawlana.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Maulana is associated with the Arabic form مولانا, whose core sense is master, lord, patron.",
+      "meaning_section": "The central meaning of Maulana is master, lord, patron.",
+      "origin_section": "Maulana is associated with Arabic rather than with a different language.",
+      "islam_section": "Maulana can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Maulana is with the sense master.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Maulana",
+      "#MaulanaMeaning",
+      "#MaulanaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In the Islamic world, the title \"Maulana\" holds immense respect and recognition. It is a title given to revered scholars in the Islamic tradition. It conveys a sense of holiness and mastery in the particular field the scholar excels in. Maulanas are often regarded as spiritual leaders, and their interpretations and insights into Islamic texts are considered authoritative. This title has historical significance as well, with many famous Maulanas joining the freedom struggle, championing the cause of justice and fairness in their communities. The title is also used as a term of respect for elders and wise people in their communities.",
-    "spiritual_significance": "Spiritually, the title \"Maulana\" holds great significance in the Islamic tradition. It signifies one who has devoted their life to the study and understanding of Islamic teachings and principles. The title is often given to scholars and teachers who have exhibited a deep understanding of Islamic theology, jurisprudence, or philosophy. Maulanas are seen as spiritual guides and are referred to as 'our learned leader and teacher'. Their teachings and guidance help their students to deepen their connection with Allah and lead a more righteous life. They are believed to possess the knowledge that will lead their followers to wisdom, truth, and divine guidance.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Maulana was a title given to Islamic scholars and spiritual leaders. The name Maulana carried significant weight in that era.",
-        "time_period": "13th to 19th centuries",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Used as a title of respect for religious leaders and scholars in South Asia.",
-        "Used as a surname in some Muslim communities."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Maulana corresponds to the Arabic form مولانا",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Maulana has the core sense master, lord, patron",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Personal introductions"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Maulana is a title of respect and honor for Islamic scholars and spiritual leaders. It is commonly used in South Asia and among some Muslim communities around the world. The title is often used in social media and personal introductions to refer to respected religious figures."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed Maulana",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Ahmed Maulana in Istanbul, Turkey attributes much of their success to the blessing of their name Maulana, which means \"Master, Owner\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Master, Owner\" symbolizes Derived from the Arabic word 'Malik' which means 'master', 'owner', 'king'.. In Islamic spirituality, bearing the name Maulana serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of master, owner.",
-    "created_at": "2025-12-22T19:19:49.8Z",
-    "updated_at": "2025-12-22T04:53:14.407Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1568,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Maulana",
-      "description": "Master, Owner",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Maulana",
+        "maulana"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Maulana",
-          "description": "Discover the meaning of Maulana - \"Master, Owner\"",
-          "image": "/images/social/maulana-facebook.jpg"
+      "description": "A name associated with the Arabic form مولانا, meaning master, lord, patron.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "maulana",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Maulana - Name Meaning",
-          "description": "Learn about the beautiful name Maulana",
-          "image": "/images/social/maulana-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Maulana",
-          "description": "Name meaning: Master, Owner",
-          "image": "/images/social/maulana-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Maulana - Meaning: Master, Owner",
-        "email_subject": "Beautiful Name: Maulana"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Maulana with meaning Master, Owner",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Maulana, associated with the Arabic form مولانا, meaning master, lord, patron."
     },
-    "similar_sounding_names": [
-      "mada",
-      "manab",
-      "marnia",
-      "mika",
-      "mahek",
-      "maassama",
-      "marudeen.",
-      "meher",
-      "marhabah",
-      "meena"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

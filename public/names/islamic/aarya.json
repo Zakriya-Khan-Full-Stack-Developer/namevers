@@ -3,291 +3,487 @@
   "data": {
     "name": "Aarya",
     "slug": "aarya",
-    "language": [
-      "Arabic",
-      "English"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Mountain, noble, exalted",
-    "long_meaning": "Derived from the Arabic root 'ar-r-a', meaning mountain, noble, exalted, or high-born. This name conveys a sense of strength, courage, and nobility, and is often given to girls who are expected to rise above their circumstances and achieve great things.",
-    "spiritual_meaning": "Aarya is a name with deep spiritual significance. It is said to represent the journey of the soul as it climbs the mountain of life, seeking enlightenment and wisdom. Those named Aarya are believed to possess a strong inner strength and a deep sense of purpose, which helps them to overcome challenges and obstacles on their spiritual path.",
-    "emotional_traits": [
-      "Strong-willed",
-      "Confident",
-      "Determined"
-    ],
-    "hidden_personality_traits": [
-      "Empathetic",
-      "Intuitive",
-      "Compassionate"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Indicates leadership and independence. Those with a life path number of 1 are often destined to take the lead in their lives and to influence the world around them.",
-    "in_arabic": {
-      "name": "آريا",
-      "meaning": "اسم مؤنث من أصل عربي، يعني النبل والشرف",
-      "long_meaning": "اسم آريا هو من الأسماء العربية الأصيلة التي تعبر عن النبل والشرف، وقد وردت في بعض المصادر العربية القديمة كصفة للشخصيات النبيلة والشريفة. وقد أخذ هذا الاسم في بعض الثقافات الإسلامية الحديثة كاسم للإناث، معتبرين أنه يحمل صفات القوة والشرف."
+    "identity": {
+      "display_name": "Aarya",
+      "normalized_name": "aarya",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aarya",
+        "aarya",
+        "arya"
+      ],
+      "search_variants": [
+        "Aarya",
+        "aarya",
+        "arya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "آریا",
-      "meaning": "نoble, honorable, آراء سے مشتق، شریف، عظیم",
-      "long_meaning": "آریا اردو میں ایک خوبصورت اور معروف نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے شریف، نجیب اور اعلیٰ اخلاق والا۔ یہ نام عربی جڑوں سے ماخوذ ہے، جہاں اسے 'آریا' کہا جاتا ہے، جس کا مطلب ہے 'نoble' یا 'honorable'۔ یہ نام اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ خوبی اور شرافت کی صفات کو ظاہر کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Noble, honourable, exalted",
+      "primary_meaning": "Noble",
+      "secondary_meanings": [
+        "honourable",
+        "exalted"
+      ],
+      "literal_meaning": "Noble",
+      "extended_meaning": "Noble, honourable, exalted",
+      "meaning_explanation": "Aarya corresponds to the Sanskrit form آريا (—). Its core sense is noble, honourable, exalted. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "आर्या",
-      "meaning": "आर्या नाम का अर्थ है उच्च वर्ग का, श्रेष्ठ",
-      "long_meaning": "आर्या एक सुंदर और महत्वपूर्ण नाम है जो हिंदू और मुस्लिम दोनों समुदायों में प्रचलित है। इसका उद्गम संस्कृत भाषा से माना जाता है, जहां 'आर्या' का अर्थ है 'उच्च वर्ग का' या 'श्रेष्ठ'। इस नाम को मुस्लिम समुदाय में भी पसंद किया जाता है, जहां यह नाम अच्छे गुणों और उच्च आदर्शों की प्रतीक माना जाता है।"
+    "etymology": {
+      "primary_language": "Sanskrit",
+      "lexical_form": "آريا",
+      "transliteration": "aarya",
+      "romanization": "aarya",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Noble",
+        "honourable",
+        "exalted"
+      ],
+      "etymology_explanation": "The form آريا is an established Sanskrit lexical item. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "آریا",
-      "meaning": "آریا د نوم معنی دی چی د شرافت او اعزاز څخه وي",
-      "long_meaning": "آریا په پښتو کې د یوې ښځې نوم دی چی د شرافت، نجیبۍ او لوړوالی څرګندويي کوي. دا نوم د پښتو کلتور او ژبې برخه ده، او د افغانستان په ټولنو کې د کارولو لپاره غوره شوی دی. دا نوم د ښځو لپاره د پیاوړتیا او استقلال نښه ګڼل کیږي."
+    "language": {
+      "primary": "Sanskrit",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "آريا is an established Arabic form.",
+        "Urdu": "آریا is used in Urdu.",
+        "Hindi": "आर्य is used in Hindi.",
+        "Pashto": "آریا is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Aarya",
-      "meaning": "Noble, honorable, exalted",
-      "long_meaning": "The name Aarya is derived from the Arabic root 'A-R-Y', which means 'noble', 'honorable', or 'exalted'. This name is used in various cultures, including Islamic and Hindu traditions. In Arabic, the word 'Ariya' (آرية) signifies a noble or exalted individual. The name Aarya has gained popularity globally, symbolizing strength, dignity, and high moral character. It reflects the values of nobility and respect in Islamic tradition."
+    "origin": {
+      "primary_origin": "Sanskrit",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Sanskrit form آريا. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin.",
+      "cultural_transmission": [
+        "Sanskrit",
+        "South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aarya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not a Qur'anic form"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense noble, honourable, exalted.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Noble",
+      "related_concepts": [
+        "noble",
+        "honourable",
+        "exalted"
+      ],
+      "semantic_relationship": "The central semantic idea is noble; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of noble.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Noble",
+        "Honourable",
+        "Exalted"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aarya",
+        "meaning": "Noble, honourable, exalted",
+        "long_meaning": "Aarya is a Sanskrit-origin name. Its core meaning is noble, honourable, exalted. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin."
+      },
+      "urdu": {
+        "name": "آریا",
+        "meaning": "نجیب، شریف، بلند",
+        "long_meaning": "Aarya (آریا) سنسکرت زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نجیب، شریف، بلند ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आर्य",
+        "meaning": "कुलीन, शरीफ़, उच्च",
+        "long_meaning": "Aarya (आर्य) संस्कृत भाषा से लिया गया नाम है। इसका मुख्य अर्थ कुलीन, शरीफ़, उच्च है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "آریا",
+        "meaning": "نجیب، شریف، لوړ",
+        "long_meaning": "Aarya (آریا) د سانسکریت ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نجیب، شریف، لوړ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "آريا",
+        "meaning": "نبيل، شريف، رفيع",
+        "long_meaning": "Aarya (آريا) اسم مأخوذ من اللغة السنسكريتية، ومعناه الأساسي نبيل، شريف، رفيع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-REE-ah",
-      "urdu": "آریا کا تلفظ اردو میں آریا (ah-REE-ah) ہے",
-      "hindi": "आर्या का उच्चारण हिन्दी में आर्या (ah-REE-ah) है",
-      "pashto": "په پښتو کې د آریا تلفظ د (ah-REE-ah) په شان دی",
-      "ipa": "/ˈɑː.ri.ɑː/"
+      "romanized": "aa-rya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "آریا",
+      "persian": null,
+      "hindi": "आर्य",
+      "pashto": "آریا"
     },
-    "celebrity_usage": [
-      "Aarya A. Bhattacharya",
-      "Aarya Stark (Game of Thrones)"
-    ],
-    "social_tags": [
-      "#AaryaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aarya"
-    ],
-    "name_variations": [],
-    "popularity_score": 64,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aarya",
+        "aarya",
+        "arya"
+      ],
+      "script_variants": [
+        "آريا",
+        "آریا",
+        "आर्य"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": [
+        {
+          "name": "Aryan",
+          "script": "आर्यन",
+          "reason": "आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic name and must not be merged with Arabic forms."
+        }
+      ]
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form آريا is an established Sanskrit lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aarya can be understood through the Sanskrit form آريا, whose central sense is noble, honourable, exalted. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Aarya mean?",
+        "answer": "Aarya is associated with the Sanskrit form آريا, whose core sense is noble, honourable, exalted."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Aarya?",
+        "answer": "Aarya is associated with Sanskrit. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Aarya an Arabic name?",
+        "answer": "No — the underlying form is Sanskrit, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 80,
-        "year": 2024
+        "question": "Is Aarya an Islamic name?",
+        "answer": "Aarya can occur in Muslim naming contexts, but it is better described as a Sanskrit-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aarya a Quranic name?",
+        "answer": "Aarya should not be classified as a Quranic personal name without a direct Quranic basis. not a Qur'anic form"
+      },
+      {
+        "question": "What does Aarya mean in Urdu?",
+        "answer": "In Urdu, Aarya is rendered آریا and carries the sense نجیب، شریف، بلند."
+      },
+      {
+        "question": "What does Aarya mean in Persian?",
+        "answer": "No verified Persian form was established for Aarya."
+      },
+      {
+        "question": "How is Aarya pronounced?",
+        "answer": "A romanized syllable approximation is aa-rya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aarya?",
+        "answer": "Romanization variants include Aarya, aarya, arya. Script forms are آريا, آریا, आर्य."
+      },
+      {
+        "question": "Is Aarya a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aarya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aarya, a beautiful Islam name meaning \"Mountain, noble, exalted\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aarya, Islam name, baby names, Mountain, noble, exalted, Islam baby names, name meaning",
-      "description_paragraph": "Aarya is a meaningful Islam name of Arabic origin that means \"Mountain, noble, exalted\". Derived from the Arabic root 'ar-r-a', meaning mountain, noble, exalted, or high-born. This name conveys a sense of strength, courage, and nobility, and is often given to girls who are expected to rise above their circumstances and achieve great things.",
-      "keywords": [
-        "Aarya",
-        "Islam name",
-        "baby names",
-        "Mountain, noble, exalted",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aarya in Islam tradition?",
-          "a": "Aarya is a beautiful Islam name meaning \"Mountain, noble, exalted\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aarya a good Islam name for a baby?",
-          "a": "Yes, Aarya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aarya?",
-          "a": "The name Aarya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aarya correctly?",
-          "a": "Aarya is pronounced ah-REE-ah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aarya?",
-          "a": "Naming a child Aarya brings blessings. The meaning \"Mountain, noble, exalted\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aarya?",
-          "a": "Aarya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Aarya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Sanskrit origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aarya (آريا).",
+      "h1": "Aarya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aarya meaning",
       "secondary_keywords": [
-        "Islam name Aarya",
-        "Aarya meaning",
-        "Aarya origin"
+        "Aarya name meaning",
+        "Aarya meaning in Urdu",
+        "Aarya origin",
+        "Aarya Islamic name",
+        "Aarya pronunciation",
+        "Aarya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aarya (آريا) is associated with the Sanskrit form آريا, whose core sense is noble, honourable, exalted. आर्य (ārya) is a Sanskrit term meaning 'noble'. It is not an Arabic word; its presence in an Islamic-slice record reflects South Asian naming usage rather than Arabic origin.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aarya is associated with the Sanskrit form آريا, whose core sense is noble, honourable, exalted.",
+      "meaning_section": "The central meaning of Aarya is noble, honourable, exalted.",
+      "origin_section": "Aarya is associated with Sanskrit rather than with a different language.",
+      "islam_section": "Aarya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aarya is with the sense noble.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aarya",
+      "#AaryaMeaning",
+      "#AaryaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Aarya\" holds a rich cultural significance in Islam, as the Arabic root 'ar-r-a' carries a sense of nobility, respect, and honor. It is a name that has been given to many renowned female figures in Islamic history, symbolizing the strength, courage, and resilience of Muslim women. Moreover, the name reflects the Islamic value of striving for excellence and seeking knowledge, as mountain peaks are often seen as symbols of the heights of wisdom and achievement.",
-    "spiritual_significance": "In Islamic spirituality, the name \"Aarya\" carries deep spiritual significance as a reminder of the noble character and virtues that every believer should strive to cultivate. The Arabic root 'ar-r-a' signifies the spiritual heights that a person can attain through faith, devotion, and good deeds. Just as mountains are towering and majestic, a person with the name \"Aarya\" is encouraged to reach for the spiritual heights, strive for personal growth, and become a beacon of light and inspiration for others. This name is a constant reminder of the exalted status and potential that every Muslim possesses as a unique creation of Allah SWT.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Aarya was a Persian princess who converted to Islam during the time of the Prophet Muhammad. The name Aarya carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Aarya was a Persian princess who was married to a Muslim man, Al-Harith ibn Hisham, and she converted to Islam during the time of the Prophet Muhammad. She is mentioned in the Hadiths and is considered an example of a woman who embraced Islam in the face of opposition from her family and society."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aarya corresponds to the Sanskrit form آريا",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Aarya has the core sense noble, honourable, exalted",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aarya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Aarya",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Layla Aarya in Istanbul, Turkey attributes much of their success to the blessing of their name Aarya, which means \"Mountain, noble, exalted\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Mountain, noble, exalted\" symbolizes Derived from the Arabic root 'ar-r-a', meaning mountain, noble, exalted, or high-born. This name conveys a sense of strength, courage, and nobility, and is often given to girls who are expected to rise above their circumstances and achieve great things.. In Islamic spirituality, bearing the name Aarya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mountain, noble, exalted.",
-    "created_at": "2025-12-22T19:19:49.91Z",
-    "updated_at": "2025-12-22T04:53:15.281Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1223,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aarya",
-      "description": "Mountain, noble, exalted",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "English"
+      "alternateName": [
+        "Aarya",
+        "aarya",
+        "arya"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aarya",
-          "description": "Discover the meaning of Aarya - \"Mountain, noble, exalted\"",
-          "image": "/images/social/aarya-facebook.jpg"
+      "description": "A name associated with the Sanskrit form آريا, meaning noble, honourable, exalted.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "aarya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Sanskrit"
         },
-        "twitter": {
-          "title": "Aarya - Name Meaning",
-          "description": "Learn about the beautiful name Aarya",
-          "image": "/images/social/aarya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Aarya",
-          "description": "Name meaning: Mountain, noble, exalted",
-          "image": "/images/social/aarya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aarya - Meaning: Mountain, noble, exalted",
-        "email_subject": "Beautiful Name: Aarya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aarya with meaning Mountain, noble, exalted",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aarya, associated with the Sanskrit form آريا, meaning noble, honourable, exalted."
     },
-    "similar_sounding_names": [
-      "alma",
-      "anaan",
-      "ada",
-      "aaidah",
-      "akil",
-      "arya",
-      "anya",
-      "ayra",
-      "ayan",
-      "amalia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

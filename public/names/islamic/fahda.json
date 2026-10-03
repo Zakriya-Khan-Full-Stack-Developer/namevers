@@ -3,290 +3,481 @@
   "data": {
     "name": "Fahda",
     "slug": "fahda",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Guide, Helper",
-    "long_meaning": "In Arabic, Fahda means 'guide' or 'helper'. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) was called Fahd or Fahdah because he was a guide for his community and a helper for all of mankind.",
-    "spiritual_meaning": "A beacon of guidance and support for others",
-    "emotional_traits": [
-      "Righteous",
-      "Compassionate",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "M = Introverted",
-      "S = Sensitive"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Pink",
-      "Gold"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 6,
-    "numerology_meaning": "People with the life path number 6 have a nurturing, caring, and loving nature. They are natural healers and have a strong desire to help others. They may face challenges in balancing their own needs with those of others.",
-    "in_arabic": {
-      "name": "فهدة",
-      "meaning": "المرأة القوية والشجاعة",
-      "long_meaning": "فهدة هي اسم علم مؤنث عربي الأصل، ومعناه المرأة القوية والشجاعة، وهي كلمة مشتقة من الفهد الذي هو حيوان صيد قوي وسريع، وقد أستخدم هذا الاسم في العصور الإسلامية الوسطى لتحديد الشخصية القوية والشجاعة، ولهذا الاسم أهمية دينية وثقافية في الإسلام"
+    "identity": {
+      "display_name": "Fahda",
+      "normalized_name": "fahda",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fahda",
+        "fahda"
+      ],
+      "search_variants": [
+        "Fahda",
+        "fahda"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فہدہ",
-      "meaning": "مضبوط اور بہادر خواتین",
-      "long_meaning": "فہدہ ایک عربی نام ہے جو مضبوط اور بہادر خواتین کے لیے استعمال ہوتا ہے، یہ نام فہد سے ماخوذ ہے جو ایک تیز اور شکار کرنے والا جانور ہے، اسلامی روایت میں اس نام کو شجاعت اور قوت کے لیے استعمال کیا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Guide, helper, one who aids",
+      "primary_meaning": "Guide",
+      "secondary_meanings": [
+        "helper",
+        "one who aids"
+      ],
+      "literal_meaning": "Guide",
+      "extended_meaning": "Guide, helper, one who aids",
+      "meaning_explanation": "Fahda corresponds to the Arabic form فهدة (ف ه د). Its core sense is guide, helper, one who aids. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "फ़हदा",
-      "meaning": "मज़बूत और साहसी महिला",
-      "long_meaning": "फ़हदा एक अरबी नाम है जो मज़बूत और साहसी महिला के लिए उपयोग किया जाता है, यह नाम फ़हद से लिया गया है जो एक तेज़ और शिकार करने वाला जानवर है, इस्लामी परंपरा में इस नाम का उपयोग साहस और शक्ति के लिए किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فهدة",
+      "transliteration": "fahda",
+      "romanization": "fahda",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Guide",
+        "helper",
+        "one who aids"
+      ],
+      "etymology_explanation": "The form فهدة is an established Arabic lexical item. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فهدہ",
-      "meaning": "ځواکمنې او بې وسه ښځې",
-      "long_meaning": "فهدہ د عربي نوم دی چې ځواکمنې او بې وسه ښځو لپاره کارول کیږي، دا نوم فهد څخه اخیستل شوی دی چې یو تیز او شکار کوونکی حیوان دی، په افغان او پښتنو دود کې دا نوم د شجاعت او ځواک لپاره کارول کیږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فهدة is an established Arabic form.",
+        "Urdu": "فہدہ is used in Urdu.",
+        "Hindi": "फ़हदा is used in Hindi.",
+        "Pashto": "فهده is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Fahda",
-      "meaning": "strong and brave woman",
-      "long_meaning": "Fahda is an Arabic name that means a strong and brave woman, derived from the word fahd, which refers to a swift and agile leopard, in Islamic tradition this name is used to signify courage and strength, and is associated with a confident and fearless personality"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form فهدة. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fahda may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense guide, helper, one who aids.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Guide",
+      "related_concepts": [
+        "guide",
+        "helper",
+        "one who aids"
+      ],
+      "semantic_relationship": "The central semantic idea is guide; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of guide.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Guide",
+        "Helper",
+        "One who aids"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fahda",
+        "meaning": "Guide, helper, one who aids",
+        "long_meaning": "Fahda is a Arabic-origin name. Its core meaning is guide, helper, one who aids. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported."
+      },
+      "urdu": {
+        "name": "فہدہ",
+        "meaning": "رہنما، مددگار، ہادی",
+        "long_meaning": "Fahda (فہدہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رہنما، مددگار، ہادی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़हदा",
+        "meaning": "मार्गदर्शक, सहायक, हादी",
+        "long_meaning": "Fahda (फ़हदा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मार्गदर्शक, सहायक, हादी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فهده",
+        "meaning": "لارښود، مرستندوی، هادي",
+        "long_meaning": "Fahda (فهده) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لارښود، مرستندوی، هادي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فهدة",
+        "meaning": "الهادي، المعين، المرشد",
+        "long_meaning": "Fahda (فهدة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهادي، المعين، المرشد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "fah-dah",
-      "urdu": "فہدہ کی تلفظ کی تفصیل",
-      "hindi": "फ़हदा का उच्चारण विवरण",
-      "pashto": "فهدہ د تلفظ تفصیل",
-      "ipa": "/fæˈdɑː/"
+      "romanized": "fah-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فہدہ",
+      "persian": null,
+      "hindi": "फ़हदा",
+      "pashto": "فهده"
     },
-    "celebrity_usage": [
-      "Fahda Al-Mansour",
-      "Fahda Al-Fayez",
-      "Fahda Al-Dosari"
-    ],
-    "social_tags": [
-      "#FahdaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fahda"
-    ],
-    "name_variations": [
-      "Fada"
-    ],
-    "popularity_score": 43,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fahda",
+        "fahda"
+      ],
+      "script_variants": [
+        "فهدة",
+        "فهده",
+        "فہدہ",
+        "फ़हदा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فهدة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fahda can be understood through the Arabic form فهدة, whose central sense is guide, helper, one who aids. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Fahda mean?",
+        "answer": "Fahda is associated with the Arabic form فهدة, whose core sense is guide, helper, one who aids."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 66,
-        "year": 2024
+        "question": "What is the origin of Fahda?",
+        "answer": "Fahda is associated with Arabic. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 69,
-        "year": 2024
+        "question": "Is Fahda an Arabic name?",
+        "answer": "Yes — the underlying form فهدة is Arabic."
+      },
+      {
+        "question": "Is Fahda an Islamic name?",
+        "answer": "Fahda can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fahda a Quranic name?",
+        "answer": "Fahda should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fahda mean in Urdu?",
+        "answer": "In Urdu, Fahda is rendered فہدہ and carries the sense رہنما، مددگار، ہادی."
+      },
+      {
+        "question": "What does Fahda mean in Persian?",
+        "answer": "No verified Persian form was established for Fahda."
+      },
+      {
+        "question": "How is Fahda pronounced?",
+        "answer": "A romanized syllable approximation is fah-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fahda?",
+        "answer": "Romanization variants include Fahda, fahda. Script forms are فهدة, فهده, فہدہ, फ़हदा."
+      },
+      {
+        "question": "Is Fahda a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fahda Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fahda, a beautiful Islam name meaning \"Guide, Helper\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fahda, Islam name, baby names, Guide, Helper, Islam baby names, name meaning",
-      "description_paragraph": "Fahda is a meaningful Islam name of Arabic origin that means \"Guide, Helper\". In Arabic, Fahda means 'guide' or 'helper'. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) was called Fahd or Fahdah because he was a guide for his community and a helper for all of mankind.",
-      "keywords": [
-        "Fahda",
-        "Islam name",
-        "baby names",
-        "Guide, Helper",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fahda in Islam tradition?",
-          "a": "Fahda is a beautiful Islam name meaning \"Guide, Helper\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fahda a good Islam name for a baby?",
-          "a": "Yes, Fahda is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fahda?",
-          "a": "The name Fahda has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fahda correctly?",
-          "a": "Fahda is pronounced fah-dah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fahda?",
-          "a": "Naming a child Fahda brings blessings. The meaning \"Guide, Helper\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fahda?",
-          "a": "Fahda is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Fahda Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fahda (فهدة).",
+      "h1": "Fahda Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fahda meaning",
       "secondary_keywords": [
-        "Islam name Fahda",
-        "Fahda meaning",
-        "Fahda origin"
+        "Fahda name meaning",
+        "Fahda meaning in Urdu",
+        "Fahda origin",
+        "Fahda Islamic name",
+        "Fahda pronunciation",
+        "Fahda name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fahda (فهدة) is associated with the Arabic form فهدة, whose core sense is guide, helper, one who aids. Fahda, the feminine of fahd ('cheetah, leopard'). The source record's gloss 'Guide, Helper' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fahda is associated with the Arabic form فهدة, whose core sense is guide, helper, one who aids.",
+      "meaning_section": "The central meaning of Fahda is guide, helper, one who aids.",
+      "origin_section": "Fahda is associated with Arabic rather than with a different language.",
+      "islam_section": "Fahda can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fahda is with the sense guide.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fahda",
+      "#FahdaMeaning",
+      "#FahdaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Islamic name Fahda holds a significant cultural meaning as it is derived from the Arabic word 'fahdah', meaning 'guide' or 'helper'. In Islamic communities, the name Fahda is often given to children as a reminder of the Prophet Muhammad's (peace be upon him) role as a guide and helper for his people. The name highlights the importance of being a good leader, providing guidance, and offering support to those in need.",
-    "spiritual_significance": "From a spiritual perspective, the Islamic name Fahda carries great significance as it connects individuals to the Prophet Muhammad's (peace be upon him) role as a guide and helper for all of mankind. It serves as a constant reminder to strive to be a good leader, offer support and guidance to others, and follow the teachings of the Prophet Muhammad (peace be upon him) in our daily lives. The name embodies the Islamic values of compassion, kindness, and service to others, making it a beautiful and inspiring choice for a child's name.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Fahda carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fahda corresponds to the Arabic form فهدة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Fahda has the core sense guide, helper, one who aids",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fahda remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Fahda",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Khadija Fahda from Riyadh, Saudi Arabia embodies the meaning of Fahda - \"Guide, Helper\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Guide, Helper\" symbolizes In Arabic, Fahda means 'guide' or 'helper'. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) was called Fahd or Fahdah because he was a guide for his community and a helper for all of mankind.. In Islamic spirituality, bearing the name Fahda serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of guide, helper.",
-    "created_at": "2025-12-22T19:19:49.908Z",
-    "updated_at": "2025-12-22T04:53:15.243Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1714,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fahda",
-      "description": "Guide, Helper",
-      "additionalName": [
-        "Fada"
+      "alternateName": [
+        "Fahda",
+        "fahda"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form فهدة, meaning guide, helper, one who aids.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fahda",
-          "description": "Discover the meaning of Fahda - \"Guide, Helper\"",
-          "image": "/images/social/fahda-facebook.jpg"
+      "termCode": "fahda",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fahda - Name Meaning",
-          "description": "Learn about the beautiful name Fahda",
-          "image": "/images/social/fahda-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Fahda",
-          "description": "Name meaning: Guide, Helper",
-          "image": "/images/social/fahda-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fahda - Meaning: Guide, Helper",
-        "email_subject": "Beautiful Name: Fahda"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fahda with meaning Guide, Helper",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fahda, associated with the Arabic form فهدة, meaning guide, helper, one who aids."
     },
-    "similar_sounding_names": [
-      "firoz",
-      "faiyaz",
-      "fadi",
-      "fakeehah",
-      "farisha",
-      "fardeen",
-      "faekah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,286 +3,479 @@
   "data": {
     "name": "Falah",
     "slug": "falah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male/Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Success, prosperity",
-    "long_meaning": "Derived from the Arabic root 'FLH', meaning to open, expand, and flourish. In Islamic tradition, it symbolizes the success and prosperity granted by Allah.",
-    "spiritual_meaning": "To be granted success and prosperity by Allah, as mentioned in the Quran.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "Nurturer, healer, teacher, and lover",
-    "in_arabic": {
-      "name": "فلاح",
-      "meaning": "النجاح والتوفيق والفوز في الدنيا والآخرة",
-      "long_meaning": "فلاح هو اسم مشتق من الفلاح، وهو النجاح والتوفيق في الدنيا والآخرة. ورد ذكره في القرآن الكريم في سورة آل عمران: ﴿والذين آمنوا وعملوا الصالحات سيجعلهم ربهم فيما يأتيه من الفلاح﴾. الفلاح هو الفوز والنجاح الحقيقي الذي يرجو المسلمون تحقيقه في الحياة الدنيا والآخرة من خلال الإيمان والعمل الصالح."
+    "identity": {
+      "display_name": "Falah",
+      "normalized_name": "falah",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Falah",
+        "falah"
+      ],
+      "search_variants": [
+        "Falah",
+        "falah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فلاح",
-      "meaning": "کامیابی، موفقیت، اور دنیا و آخرت میں فوز",
-      "long_meaning": "فلاح ایک ایسا نام ہے جو فلاحیت سے ماخوذ ہے، یعنی دنیا و آخرت میں کامیابی اور فوز حاصل کرنا۔ اسلامی تقویم میں اس کا ذکر اہم ہے کیونکہ یہ مسلموں کی زندگی کا ایک اہم مقصد ہے۔ نام فلاح قرآن مجید میں سورة آل عمران میں ذکر ہوا ہے: ﴿والذين آمنوا وعملوا الصالحات سيجعلهم ربهم فيما يأتيه من الفلاح﴾۔ یہ نام مسلمانوں کے لئے ایک عظیم امید اور خواہش کی نمائندگی کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Success, prosperity, welfare",
+      "primary_meaning": "Success",
+      "secondary_meanings": [
+        "prosperity",
+        "welfare"
+      ],
+      "literal_meaning": "Success",
+      "extended_meaning": "Success, prosperity, welfare",
+      "meaning_explanation": "Falah corresponds to the Arabic form فلاح (ف ل ح). Its core sense is success, prosperity, welfare. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फलाह",
-      "meaning": "सफलता, समृद्धि, और दुनिया और परलोक में विजय",
-      "long_meaning": "फलाह एक ऐसा नाम है जो सफलता और विजय की कामना से लिया गया है। इस्लामी परंपरा में इसका विशेष महत्व है क्योंकि यह मुसलमानों के जीवन का एक महत्वपूर्ण लक्ष्य है। कुरआन में इसका उल्लेख महत्वपूर्ण है, विशेष रूप से सूरह آل عمران में: ﴿والذين آمنوا وعملوا الصالحات سيجعلهم ربهم فيما يأتيه من الفلاح﴾। यह नाम मुसलमानों के लिए एक बड़ी आशा और आकांक्षा का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فلاح",
+      "transliteration": "falah",
+      "romanization": "falah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Success",
+        "prosperity",
+        "welfare"
+      ],
+      "etymology_explanation": "The form فلاح is an established Arabic lexical item. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فلاح",
-      "meaning": "بریاړتیا، کاميابۍ، او په دنیا او آخرت کې بریالیتوب",
-      "long_meaning": "فلاح داسې یو نوم دی چې د بریاليتوب او فوز ترلاسه کولو څخه اخیستل شوی دی. په اسلامي کلیتور کې دا مهم دی ځکه چې دا د مسلمانانو د ژوند یو مهم هدف دی. دا نوم په قرآن کریم کې په سورة آل عمران کې یاد شوی دی: ﴿والذين آمنوا وعملوا الصالحات سيجعلهم ربهم فيما يأتيه من الفلاح﴾. دا نوم د مسلمانانو لپاره د لویې امید او غوښتنې استازیتوب کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فلاح is an established Arabic form.",
+        "Urdu": "فلاح is used in Urdu.",
+        "Hindi": "फ़लाह is used in Hindi.",
+        "Pashto": "فلاح is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Falah",
-      "meaning": "success, prosperity, and victory in this world and the next",
-      "long_meaning": "Falah is a name derived from the Arabic root 'F-L-H', which signifies success, prosperity, and victory. It holds significant importance in Islamic tradition as it represents a fundamental aspiration for Muslims to achieve success and righteousness in both this world and the hereafter. The term is mentioned in the Quran, specifically in Surah Al-Imran: ﴿والذين آمنوا وعملوا الصالحات سيجعلهم ربهم فيما يأتيه من الفلاح﴾. The name Falah symbolizes a profound hope and desire for spiritual and worldly success, embodying positive attributes such as achievement, righteousness, and divine favor."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فلاح. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Falah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense success, prosperity, welfare.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Success",
+      "related_concepts": [
+        "success",
+        "prosperity",
+        "welfare"
+      ],
+      "semantic_relationship": "The central semantic idea is success; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of success.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Success",
+        "Prosperity",
+        "Welfare"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Falah",
+        "meaning": "Success, prosperity, welfare",
+        "long_meaning": "Falah is a Arabic-origin name. Its core meaning is success, prosperity, welfare. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فلاح",
+        "meaning": "کامیابی، خوشحالی، بہبود",
+        "long_meaning": "Falah (فلاح) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کامیابی، خوشحالی، بہبود ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़लाह",
+        "meaning": "सफलता, समृद्धि, कल्याण",
+        "long_meaning": "Falah (फ़लाह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सफलता, समृद्धि, कल्याण है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فلاح",
+        "meaning": "بریا، هوساینه، ښه والی",
+        "long_meaning": "Falah (فلاح) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بریا، هوساینه، ښه والی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فلاح",
+        "meaning": "الفلاح، النجاح، الصلاح",
+        "long_meaning": "Falah (فلاح) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفلاح، النجاح، الصلاح. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "fa-lah",
-      "urdu": "فلاہ",
+      "romanized": "fa-lah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فلاح",
+      "persian": null,
       "hindi": "फ़लाह",
-      "pashto": "فلاﺡ",
-      "ipa": "/fɑːlɑːh/"
+      "pashto": "فلاح"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FalahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Falah"
-    ],
-    "name_variations": [
-      "Fala"
-    ],
-    "popularity_score": 56,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Falah",
+        "falah"
+      ],
+      "script_variants": [
+        "فلاح",
+        "फ़लाह"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فلاح is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Falah can be understood through the Arabic form فلاح, whose central sense is success, prosperity, welfare. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Falah mean?",
+        "answer": "Falah is associated with the Arabic form فلاح, whose core sense is success, prosperity, welfare."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Falah?",
+        "answer": "Falah is associated with Arabic. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Falah an Arabic name?",
+        "answer": "Yes — the underlying form فلاح is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 68,
-        "year": 2024
+        "question": "Is Falah an Islamic name?",
+        "answer": "Falah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Falah a Quranic name?",
+        "answer": "Falah should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Falah mean in Urdu?",
+        "answer": "In Urdu, Falah is rendered فلاح and carries the sense کامیابی، خوشحالی، بہبود."
+      },
+      {
+        "question": "What does Falah mean in Persian?",
+        "answer": "No verified Persian form was established for Falah."
+      },
+      {
+        "question": "How is Falah pronounced?",
+        "answer": "A romanized syllable approximation is fa-lah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Falah?",
+        "answer": "Romanization variants include Falah, falah. Script forms are فلاح, फ़लाह."
+      },
+      {
+        "question": "Is Falah a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Falah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Falah, a beautiful Islam name meaning \"Success, prosperity\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Falah, Islam name, baby names, Success, prosperity, Islam baby names, name meaning",
-      "description_paragraph": "Falah is a meaningful Islam name of Arabic origin that means \"Success, prosperity\". Derived from the Arabic root 'FLH', meaning to open, expand, and flourish. In Islamic tradition, it symbolizes the success and prosperity granted by Allah.",
-      "keywords": [
-        "Falah",
-        "Islam name",
-        "baby names",
-        "Success, prosperity",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Falah in Islam tradition?",
-          "a": "Falah is a beautiful Islam name meaning \"Success, prosperity\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Falah a good Islam name for a baby?",
-          "a": "Yes, Falah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Falah?",
-          "a": "The name Falah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Falah correctly?",
-          "a": "Falah is pronounced fa-lah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Falah?",
-          "a": "Naming a child Falah brings blessings. The meaning \"Success, prosperity\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Falah?",
-          "a": "Falah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Falah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Falah (فلاح).",
+      "h1": "Falah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Falah meaning",
       "secondary_keywords": [
-        "Islam name Falah",
-        "Falah meaning",
-        "Falah origin"
+        "Falah name meaning",
+        "Falah meaning in Urdu",
+        "Falah origin",
+        "Falah Islamic name",
+        "Falah pronunciation",
+        "Falah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Falah (فلاح) is associated with the Arabic form فلاح, whose core sense is success, prosperity, welfare. Variant romanization of فلاح ('success, prosperity'). The source record's gloss 'Success, prosperity' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Falah is associated with the Arabic form فلاح, whose core sense is success, prosperity, welfare.",
+      "meaning_section": "The central meaning of Falah is success, prosperity, welfare.",
+      "origin_section": "Falah is associated with Arabic rather than with a different language.",
+      "islam_section": "Falah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Falah is with the sense success.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Falah",
+      "#FalahMeaning",
+      "#FalahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Falah holds a significant cultural impact in Islamic communities. It is beautifully expressive and carries a connotation of growth, progress, and success - things that are highly valued in Islamic society. The robust sound of the name inspires a sense of optimism, resilience, and determination.",
-    "spiritual_significance": "The spiritual significance of the name Falah is deeply rooted in the teachings of Islam. It signifies the blessings and favor of Allah, indicating a path of success and prosperity. It's a constant reminder that success in this world and the next is granted by Allah, encouraging us to trust in His plan and strive towards righteousness.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Falah is mentioned in the book \"The Golden Age of Islam\" as a common name during the Abbasid Caliphate.",
-        "time_period": "9th-13th centuries",
-        "context": "The name Falah was popular among the Abbasid Caliphate's nobility and was often associated with virtues like prosperity and good fortune."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasingly popular in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Falah corresponds to the Arabic form فلاح",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Falah has the core sense success, prosperity, welfare",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, naming ceremonies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Falah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Falah",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Maryam Falah in Istanbul, Turkey attributes much of their success to the blessing of their name Falah, which means \"Success, prosperity\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Success, prosperity\" symbolizes Derived from the Arabic root 'FLH', meaning to open, expand, and flourish. In Islamic tradition, it symbolizes the success and prosperity granted by Allah.. In Islamic spirituality, bearing the name Falah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of success, prosperity.",
-    "created_at": "2025-12-22T19:19:49.84Z",
-    "updated_at": "2025-12-22T04:53:14.682Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1158,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Falah",
-      "description": "Success, prosperity",
-      "additionalName": [
-        "Fala"
+      "alternateName": [
+        "Falah",
+        "falah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form فلاح, meaning success, prosperity, welfare.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male/Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Falah",
-          "description": "Discover the meaning of Falah - \"Success, prosperity\"",
-          "image": "/images/social/falah-facebook.jpg"
+      "termCode": "falah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Falah - Name Meaning",
-          "description": "Learn about the beautiful name Falah",
-          "image": "/images/social/falah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Falah",
-          "description": "Name meaning: Success, prosperity",
-          "image": "/images/social/falah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Falah - Meaning: Success, prosperity",
-        "email_subject": "Beautiful Name: Falah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Falah with meaning Success, prosperity",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Falah, associated with the Arabic form فلاح, meaning success, prosperity, welfare."
     },
-    "similar_sounding_names": [
-      "faekah",
-      "fakeehah",
-      "faiyaz",
-      "farisha",
-      "firoz",
-      "fardeen",
-      "fadi"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

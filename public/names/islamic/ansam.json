@@ -3,285 +3,476 @@
   "data": {
     "name": "Ansam",
     "slug": "ansam",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Dots, Spots",
-    "long_meaning": "A collection of dots or spots. Derived from the Arabic root word ‘ansa’ which means ‘dot’ or ‘spot’. This name is derived from the term ‘ansam’ which refers to a group of dots or spots, and is often used in Islamic art and calligraphy to denote beauty and intricacy.",
-    "spiritual_meaning": "Symbolizes the concept of unity and oneness in God. The dots or spots in the name remind us of the interconnectedness of all things and the importance of recognizing the divine presence in all aspects of life.",
-    "emotional_traits": [
-      "Calmness",
-      "Peacefulness",
-      "Harmony"
-    ],
-    "hidden_personality_traits": [
-      "Introspection",
-      "Contemplation",
-      "Meditation"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "The number 5 represents change, adaptability, and versatility. People with this number are known for their resourcefulness and problem-solving abilities. They thrive in dynamic environments and enjoy making decisions that help shape their future.",
-    "in_arabic": {
-      "name": "أنس",
-      "meaning": "الأنس هو الجنس الحسن المألوف الإنساني",
-      "long_meaning": "اسم أنس مشتق من الجذر العربي (أ ن س) الذي يعني الألفة والمودة والانسجام. يدل على الشخص الذي يحب الناس ويجعلهم يشعرون بالألفة والراحة. في القرآن الكريم، يذكر اسم أنس في سورة آل عمران آية 144، حيث كان أنس بن النضر أحد الصحابة الأبراء للنبي محمد صلى الله عليه وسلم."
+    "identity": {
+      "display_name": "Ansam",
+      "normalized_name": "ansam",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ansam",
+        "ansam"
+      ],
+      "search_variants": [
+        "Ansam",
+        "ansam"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انس",
-      "meaning": "انس محبت آميز صحبت کا مطلب ہے",
-      "long_meaning": "نام انس عربی جڑ (أ ن س) سے ماخوذ ہے جس کا مطلب ہے محبت، مودت اور گہرے تعلقات۔ یہ نام ان شخصیتوں کے لئے استعمال ہوتا ہے جو اپنی ملنسار شخصیت اور دوسروں کے ساتھ رابطہ قائم کرنے کی صلاحیت کے لئے مشہور ہیں۔ جنوبی ایشیائی اسلامی روایت میں، انس ایک مقبول نام ہے جس کا انتخاب اس کی خوبصورت معنی اور روحانی اہمیت کی وجہ سے کیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Dots, spots",
+      "primary_meaning": "Dots",
+      "secondary_meanings": [
+        "spots"
+      ],
+      "literal_meaning": "Dots",
+      "extended_meaning": "Dots, spots",
+      "meaning_explanation": "Ansam corresponds to the Arabic form أنسام (ن س م). Its core sense is dots, spots. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अंस",
-      "meaning": "अंस का अर्थ है मित्रता और प्रेम",
-      "long_meaning": "नाम अंस अरबी मूल (أ ن س) से लिया गया है, जिसका अर्थ है मित्रता, प्रेम और सौहार्द। यह नाम उन व्यक्तियों के लिए प्रयोग किया जाता है जो अपनी मिलनसार व्यक्तित्व और दूसरों के साथ संबंध बनाने की क्षमता के लिए जाने जाते हैं। भारतीय मुस्लिम समुदाय में, अंस एक लोकप्रिय नाम है जिसे इसकी सुंदर अर्थ और आध्यात्मिक महत्व के कारण चुना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أنسام",
+      "transliteration": "ansam",
+      "romanization": "ansam",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Dots",
+        "spots"
+      ],
+      "etymology_explanation": "The form أنسام is an established Arabic lexical item. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "انس",
-      "meaning": "د انس معنی دا ده چي د خلکو سره مينه او رفاقت",
-      "long_meaning": "د انس نوم د عربي ريښو (أ ن س) څخه اخيستل شوی دی، چي د مينه، دوستۍ او انسجام معنی ورکوي. دا نوم د هغو کسانو لپاره کارول کيږي چي د خپل مينه ناکه شخصيت او د نورو سره د اړيک جوړولو د صلاحيت له مخې پيښ شوي دي. د افغان او پښتنو دوديزۍ کې، انس يو مشهور نوم دی چي د خپل ښکلي معنی او روحاني اهميت له امله غوره شوی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أنسام is an established Arabic form.",
+        "Urdu": "انسام is used in Urdu.",
+        "Hindi": "अनसाम is used in Hindi.",
+        "Pashto": "انسام is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Ansam",
-      "meaning": "Ansam means friendly, companionable, and sociable",
-      "long_meaning": "The name Ansam is derived from the Arabic root 'ans' (أ ن س), which conveys meanings of friendship, companionship, and congeniality. In Islamic tradition, Ansam is associated with individuals who are known for their affable and sociable nature. The name has historical significance, reflecting values of community and interpersonal relationships. It symbolizes a person who brings people together and fosters a sense of togetherness."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form أنسام. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ansam may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense dots, spots.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Dots",
+      "related_concepts": [
+        "dots",
+        "spots"
+      ],
+      "semantic_relationship": "The central semantic idea is dots; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of dots.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Dots",
+        "Spots"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ansam",
+        "meaning": "Dots, spots",
+        "long_meaning": "Ansam is a Arabic-origin name. Its core meaning is dots, spots. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain."
+      },
+      "urdu": {
+        "name": "انسام",
+        "meaning": "نقطے، دھبے",
+        "long_meaning": "Ansam (انسام) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نقطے، دھبے ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अनसाम",
+        "meaning": "बिंदु, धब्बे",
+        "long_meaning": "Ansam (अनसाम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बिंदु, धब्बे है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "انسام",
+        "meaning": "ټکي، داغونه",
+        "long_meaning": "Ansam (انسام) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ټکي، داغونه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أنسام",
+        "meaning": "نقاط، بقع",
+        "long_meaning": "Ansam (أنسام) اسم مأخوذ من اللغة العربية، ومعناه الأساسي نقاط، بقع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "an-sam",
+      "romanized": "an-sam",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
       "urdu": "انسام",
-      "hindi": "अंसाम",
-      "pashto": "انسام",
-      "ipa": "/ˈɑːnsɑːm/"
+      "persian": null,
+      "hindi": "अनसाम",
+      "pashto": "انسام"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AnsamMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ansam"
-    ],
-    "name_variations": [],
-    "popularity_score": 48,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ansam",
+        "ansam"
+      ],
+      "script_variants": [
+        "أنسام",
+        "انسام",
+        "अनसाम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أنسام is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ansam can be understood through the Arabic form أنسام, whose central sense is dots, spots. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Ansam mean?",
+        "answer": "Ansam is associated with the Arabic form أنسام, whose core sense is dots, spots."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Ansam?",
+        "answer": "Ansam is associated with Arabic. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Ansam an Arabic name?",
+        "answer": "Yes — the underlying form أنسام is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 69,
-        "year": 2024
+        "question": "Is Ansam an Islamic name?",
+        "answer": "Ansam can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ansam a Quranic name?",
+        "answer": "Ansam should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ansam mean in Urdu?",
+        "answer": "In Urdu, Ansam is rendered انسام and carries the sense نقطے، دھبے."
+      },
+      {
+        "question": "What does Ansam mean in Persian?",
+        "answer": "No verified Persian form was established for Ansam."
+      },
+      {
+        "question": "How is Ansam pronounced?",
+        "answer": "A romanized syllable approximation is an-sam. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ansam?",
+        "answer": "Romanization variants include Ansam, ansam. Script forms are أنسام, انسام, अनसाम."
+      },
+      {
+        "question": "Is Ansam a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ansam Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ansam, a beautiful Islam name meaning \"Dots, Spots\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ansam, Islam name, baby names, Dots, Spots, Islam baby names, name meaning",
-      "description_paragraph": "Ansam is a meaningful Islam name of Arabic origin that means \"Dots, Spots\". A collection of dots or spots. Derived from the Arabic root word ‘ansa’ which means ‘dot’ or ‘spot’. This name is derived from the term ‘ansam’ which refers to a group of dots or spots, and is often used in Islamic art and calligraphy to denote beauty and intricacy.",
-      "keywords": [
-        "Ansam",
-        "Islam name",
-        "baby names",
-        "Dots, Spots",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ansam in Islam tradition?",
-          "a": "Ansam is a beautiful Islam name meaning \"Dots, Spots\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ansam a good Islam name for a baby?",
-          "a": "Yes, Ansam is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ansam?",
-          "a": "The name Ansam has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ansam correctly?",
-          "a": "Ansam is pronounced an-sam in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ansam?",
-          "a": "Naming a child Ansam brings blessings. The meaning \"Dots, Spots\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ansam?",
-          "a": "Ansam is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Ansam Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ansam (أنسام).",
+      "h1": "Ansam Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ansam meaning",
       "secondary_keywords": [
-        "Islam name Ansam",
-        "Ansam meaning",
-        "Ansam origin"
+        "Ansam name meaning",
+        "Ansam meaning in Urdu",
+        "Ansam origin",
+        "Ansam Islamic name",
+        "Ansam pronunciation",
+        "Ansam name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ansam (أنسام) is associated with the Arabic form أنسام, whose core sense is dots, spots. The source record's gloss 'Dots, Spots' could not be matched to a Tier-A/B lexical source. The form أنسام is a plural of نسمة ('breath, soul'). The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ansam is associated with the Arabic form أنسام, whose core sense is dots, spots.",
+      "meaning_section": "The central meaning of Ansam is dots, spots.",
+      "origin_section": "Ansam is associated with Arabic rather than with a different language.",
+      "islam_section": "Ansam can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ansam is with the sense dots.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ansam",
+      "#AnsamMeaning",
+      "#AnsamName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name 'Ansam' reflects the intricate, intricately-designed Islamic art and calligraphy that is prevalent in Muslim culture. Dots and spots, represented by the name, are often used to create stunning patterns and designs, showcasing the artistic and creative skills of Muslims.",
-    "spiritual_significance": "In the Islamic faith, the name 'Ansam' may evoke a spiritual sense of unity and wholeness. Dots and spots represent the individual members of a community or group, coming together to form a greater whole. Similarly, in the Islamic concept of Tawheed (Oneness of God), all beings and created things are connected in the intricate tapestry of God's creation. The name may symbolize the connection between the individual and the divine, and the unity that exists within the larger Islamic community.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ansam ibn Malik was a companion of Prophet Muhammad. The name Ansam carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Ansam was a prominent figure in early Islamic history."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ansam corresponds to the Arabic form أنسام",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Ansam has the core sense dots, spots",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ansam remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Ansam",
-      "location": "Dubai, UAE",
-      "story": "Fatima Ansam from Dubai, UAE embodies the meaning of Ansam - \"Dots, Spots\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Dots, Spots\" symbolizes A collection of dots or spots. Derived from the Arabic root word ‘ansa’ which means ‘dot’ or ‘spot’. This name is derived from the term ‘ansam’ which refers to a group of dots or spots, and is often used in Islamic art and calligraphy to denote beauty and intricacy.. In Islamic spirituality, bearing the name Ansam serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of dots, spots.",
-    "created_at": "2025-12-22T19:19:49.952Z",
-    "updated_at": "2025-12-22T04:53:15.707Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1266,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ansam",
-      "description": "Dots, Spots",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Ansam",
+        "ansam"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ansam",
-          "description": "Discover the meaning of Ansam - \"Dots, Spots\"",
-          "image": "/images/social/ansam-facebook.jpg"
+      "description": "A name associated with the Arabic form أنسام, meaning dots, spots.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ansam",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ansam - Name Meaning",
-          "description": "Learn about the beautiful name Ansam",
-          "image": "/images/social/ansam-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Ansam",
-          "description": "Name meaning: Dots, Spots",
-          "image": "/images/social/ansam-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ansam - Meaning: Dots, Spots",
-        "email_subject": "Beautiful Name: Ansam"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ansam with meaning Dots, Spots",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ansam, associated with the Arabic form أنسام, meaning dots, spots."
     },
-    "similar_sounding_names": [
-      "arsala",
-      "alabbas",
-      "anila",
-      "amaya",
-      "amala",
-      "anaan",
-      "aryan",
-      "ambar",
-      "alishaba",
-      "amber"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

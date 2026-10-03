@@ -3,297 +3,479 @@
   "data": {
     "name": "Muzna",
     "slug": "muzna",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Raindrop",
-    "long_meaning": "Derived from 'Mizan', it signifies balance and justice in Islam.",
-    "spiritual_meaning": "The name Muzna is derived from 'Mizan', which is a Quranic term meaning balance and justice.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Green"
-    ],
-    "lucky_stone": "Citrine",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-expression, and Communication.",
-    "in_arabic": {
-      "name": "مُزنہ",
-      "meaning": "مُزنہ تعني الغيم أو السحاب الذي يحمل المطر",
-      "long_meaning": "مُزنہ اسم علم مؤنث في اللغة العربية، مشتق من كلمة 'مزن' والتي تعني الغيم أو السحاب الذي يحمل المطر. وردت هذه الكلمة في القرآن الكريم في سورة الفرقان الآية 2، حيث يقول الله تعالى: 'وَهُوَ الَذِي أَرْسَلَ السَحَابَ مُزنًا فَأَنشَأَ بِهِ سحابًا وَأَنزَلَ بِهِ مَاءً فَأَخْرَجَ بِهِ ثَمَرَاتٍ وَأَنشَأَ الْجِبَالَ وَالْحِجَارَةَ'"
+    "identity": {
+      "display_name": "Muzna",
+      "normalized_name": "muzna",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Muzna",
+        "muzna"
+      ],
+      "search_variants": [
+        "Muzna",
+        "muzna"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "موزنا",
-      "meaning": "موزنا کا مطلب ہے بارش کا بادل یا مینہ",
-      "long_meaning": "موزنا ایک علم اسم ہے جو اردو زبان میں استعمال ہوتا ہے۔ اس کا مطلب ہے بارش کا بادل یا مینہ۔ یہ نام عربی زبان سے ماخوذ ہے جہاں اس کا مطلب ہے غیم یا سحاب جو مینہ لاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Muzna; rain cloud, raindrop",
+      "primary_meaning": "Muzna; rain cloud",
+      "secondary_meanings": [
+        "raindrop"
+      ],
+      "literal_meaning": "Muzna; rain cloud",
+      "extended_meaning": "Muzna; rain cloud, raindrop",
+      "meaning_explanation": "Muzna corresponds to the Arabic form مُزْنَة (Arabic root م ز ن (m-z-n); مُزْنَة (Muzna)). Its core sense is muzna; rain cloud, raindrop. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मुज़ना",
-      "meaning": "मुज़ना का अर्थ है बारिश का बादल या मेघ",
-      "long_meaning": "मुज़ना एक सुंदर और अर्थपूर्ण नाम है जो हिंदी और उर्दू में प्रचलित है। इसका अर्थ है बारिश का बादल या मेघ। यह नाम अरबी भाषा से लिया गया है, जहां इसका अर्थ है घन या सحاب जो बारिश लाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُزْنَة",
+      "transliteration": "muzna",
+      "romanization": "muzna",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Muzna; rain cloud",
+        "raindrop"
+      ],
+      "etymology_explanation": "The form مُزْنَة is an established Arabic lexical item. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "موزنه",
-      "meaning": "موزنه د باران وریځ یا مینې معنی لري",
-      "long_meaning": "موزنه په پښتو ژبه کې یو ښکلی نوم دی چې د باران وریځ یا مینې معنی لري. دا نوم د عربي ژبې څخه اخیستل شوی دی چیرې چې د هغې معنی ده غن یا سحاب چې باران راوړي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مُزْنَة is an established Arabic form.",
+        "Urdu": "مزنہ is used in Urdu.",
+        "Persian": "مزنه is an established Persian form.",
+        "Hindi": "मुज़्ना is used in Hindi.",
+        "Pashto": "مزنه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Muzna",
-      "meaning": "Cloud that brings rain or shower",
-      "long_meaning": "Muzna is a beautiful and meaningful name derived from Arabic roots. It refers to a cloud that brings rain or shower. In Islamic tradition, this name has a significant place as it is mentioned in the Quran. Muzna symbolizes blessings, mercy, and fertility."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مُزْنَة. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Muzna may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense muzna; rain cloud, raindrop.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Muzna; rain cloud",
+      "related_concepts": [
+        "muzna; rain cloud",
+        "raindrop"
+      ],
+      "semantic_relationship": "The central semantic idea is muzna; rain cloud; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of muzna; rain cloud.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Muzna; rain cloud",
+        "Raindrop"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Muzna",
+        "meaning": "Muzna; rain cloud, raindrop",
+        "long_meaning": "Muzna is a Arabic-origin name. Its core meaning is muzna; rain cloud, raindrop. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female."
+      },
+      "urdu": {
+        "name": "مزنہ",
+        "meaning": "مزنہ، بادل، بارش کا قطرہ",
+        "long_meaning": "Muzna (مزنہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مزنہ، بادل، بارش کا قطرہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مزنه",
+        "meaning": "مزنه، ابر باران‌زا",
+        "long_meaning": "Muzna (مزنه) نامی برگرفته از زبان عربی است و معنای اصلی آن مزنه، ابر باران‌زا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मुज़्ना",
+        "meaning": "मुज़्ना, वर्षा-बादल",
+        "long_meaning": "Muzna (मुज़्ना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुज़्ना, वर्षा-बादल है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مزنه",
+        "meaning": "مزنه، باراني ورېځ",
+        "long_meaning": "Muzna (مزنه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مزنه، باراني ورېځ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مُزْنَة",
+        "meaning": "الْمُزْنَة، السَّحَابَة",
+        "long_meaning": "Muzna (مُزْنَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمُزْنَة، السَّحَابَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "mooz-nah",
-      "urdu": "موزنا کا تلفظ مووز-ناہ ہے",
-      "hindi": "मुज़ना का उच्चारण मुज़-नाह है",
-      "pashto": "موزنه تلفظ موز-نه دی",
-      "ipa": "/ˈmuːznah/"
+      "romanized": "muz-na",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مزنہ",
+      "persian": "مزنه",
+      "hindi": "मुज़्ना",
+      "pashto": "مزنه"
     },
-    "celebrity_usage": [
-      "Muzna Rasool",
-      "Muzna Alam"
-    ],
-    "social_tags": [
-      "#MuznaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Muzna"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Muzna",
+        "muzna"
+      ],
+      "script_variants": [
+        "مزنه",
+        "مزنہ",
+        "مُزْنَة",
+        "मुज़्ना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مُزْنَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Muzna can be understood through the Arabic form مُزْنَة, whose central sense is muzna; rain cloud, raindrop. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 72,
-        "year": 2024
+        "question": "What does Muzna mean?",
+        "answer": "Muzna is associated with the Arabic form مُزْنَة, whose core sense is muzna; rain cloud, raindrop."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 65,
-        "year": 2024
+        "question": "What is the origin of Muzna?",
+        "answer": "Muzna is associated with Arabic. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 71,
-        "year": 2024
+        "question": "Is Muzna an Arabic name?",
+        "answer": "Yes — the underlying form مُزْنَة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 68,
-        "year": 2024
+        "question": "Is Muzna an Islamic name?",
+        "answer": "Muzna can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 60,
-        "year": 2024
+        "question": "Is Muzna a Quranic name?",
+        "answer": "Muzna should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Muzna mean in Urdu?",
+        "answer": "In Urdu, Muzna is rendered مزنہ and carries the sense مزنہ، بادل، بارش کا قطرہ."
+      },
+      {
+        "question": "What does Muzna mean in Persian?",
+        "answer": "In Persian, Muzna is rendered مزنه and carries the sense مزنه، ابر باران‌زا."
+      },
+      {
+        "question": "How is Muzna pronounced?",
+        "answer": "A romanized syllable approximation is muz-na. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Muzna?",
+        "answer": "Romanization variants include Muzna, muzna. Script forms are مزنه, مزنہ, مُزْنَة, मुज़्ना."
+      },
+      {
+        "question": "Is Muzna a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Muzna Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Muzna, a beautiful Islam name meaning \"Raindrop\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Muzna, Islam name, baby names, Raindrop, Islam baby names, name meaning",
-      "description_paragraph": "Muzna is a meaningful Islam name of Arabic origin that means \"Raindrop\". Derived from 'Mizan', it signifies balance and justice in Islam.",
-      "keywords": [
-        "Muzna",
-        "Islam name",
-        "baby names",
-        "Raindrop",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Muzna in Islam tradition?",
-          "a": "Muzna is a beautiful Islam name meaning \"Raindrop\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Muzna a good Islam name for a baby?",
-          "a": "Yes, Muzna is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Muzna?",
-          "a": "The name Muzna has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Muzna correctly?",
-          "a": "Muzna is pronounced mooz-nah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Muzna?",
-          "a": "Naming a child Muzna brings blessings. The meaning \"Raindrop\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Muzna?",
-          "a": "Muzna is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Muzna Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Muzna (مُزْنَة).",
+      "h1": "Muzna Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Muzna meaning",
       "secondary_keywords": [
-        "Islam name Muzna",
-        "Muzna meaning",
-        "Muzna origin"
+        "Muzna name meaning",
+        "Muzna meaning in Urdu",
+        "Muzna origin",
+        "Muzna Islamic name",
+        "Muzna pronunciation",
+        "Muzna name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Muzna (مُزْنَة) is associated with the Arabic form مُزْنَة, whose core sense is muzna; rain cloud, raindrop. Muzna is Arabic مُزْنَة (Muzna) 'rain cloud, raindrop', from the root م ز ن (m-z-n). CRITICAL SOURCE ERROR: the source gave مُزنہ (a non-standard form); the correct form is مُزْنَة. The source gloss 'Raindrop' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Muzna is associated with the Arabic form مُزْنَة, whose core sense is muzna; rain cloud, raindrop.",
+      "meaning_section": "The central meaning of Muzna is muzna; rain cloud, raindrop.",
+      "origin_section": "Muzna is associated with Arabic rather than with a different language.",
+      "islam_section": "Muzna can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Muzna is with the sense muzna; rain cloud.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Muzna",
+      "#MuznaMeaning",
+      "#MuznaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Muzna holds a profound cultural significance as it is derived from the Arabic word 'Mizan', which represents the scales used in weighing things in Islamic belief. The scales symbolize justice, fairness, and the equal distribution of rights and responsibilities in society. This name reminds us of the importance of maintaining equitability and harmony in everyday life.",
-    "spiritual_significance": "In the mystical and philosophical sense, Muzna represents the attainment of balance and inner peace in an individual's spiritual journey. It is a reminder to strive for equilibrium within ourselves, between our emotions, thoughts, desires, and actions. Embracing Muzna as a name can be an inspiring reminder of the quest for spiritual growth and the pursuit of justice and harmony in the world around us.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Muzna is mentioned in the book 'The History of Islamic Names' by Ibn Manzur The name Muzna carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "The name Muzna was popular among the nobility in the Middle East during the Islamic Golden Age"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Muzna corresponds to the Arabic form مُزْنَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Muzna has the core sense muzna; rain cloud, raindrop",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, naming ceremonies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Muzna remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Muzna",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Maryam Muzna in Cairo, Egypt attributes much of their success to the blessing of their name Muzna, which means \"Raindrop\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Raindrop\" symbolizes Derived from 'Mizan', it signifies balance and justice in Islam.. In Islamic spirituality, bearing the name Muzna serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of raindrop.",
-    "created_at": "2025-12-22T19:19:49.799Z",
-    "updated_at": "2025-12-22T04:53:14.341Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1388,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Muzna",
-      "description": "Raindrop",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Muzna",
+        "muzna"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Muzna",
-          "description": "Discover the meaning of Muzna - \"Raindrop\"",
-          "image": "/images/social/muzna-facebook.jpg"
+      "description": "A name associated with the Arabic form مُزْنَة, meaning muzna; rain cloud, raindrop.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "muzna",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Muzna - Name Meaning",
-          "description": "Learn about the beautiful name Muzna",
-          "image": "/images/social/muzna-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Muzna",
-          "description": "Name meaning: Raindrop",
-          "image": "/images/social/muzna-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Muzna - Meaning: Raindrop",
-        "email_subject": "Beautiful Name: Muzna"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Muzna with meaning Raindrop",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Muzna, associated with the Arabic form مُزْنَة, meaning muzna; rain cloud, raindrop."
     },
-    "similar_sounding_names": [
-      "mahek",
-      "marhabah",
-      "marnia",
-      "meena",
-      "mika",
-      "mada",
-      "maassama",
-      "manab",
-      "meher"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

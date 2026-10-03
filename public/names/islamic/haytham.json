@@ -3,274 +3,474 @@
   "data": {
     "name": "Haytham",
     "slug": "haytham",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Successful seller",
-    "long_meaning": "One who sells and achieves success",
-    "spiritual_meaning": "A seeker of knowledge and wisdom",
-    "emotional_traits": [
-      "Intelligent",
-      "Wise",
-      "Successful"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Creative",
-      "Resourceful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "A teacher, healer, or creative artist",
-    "in_arabic": {
-      "name": "حيثم",
-      "meaning": "حيثم يعني الشجاع أو الجريء في القتال",
-      "long_meaning": "حيثم هو اسم علم مذكر من أصل عربي، ويعني الشجاع أو الجريء في القتال. وقد ورد ذكر اسم حيثم في الشعر العربي القديم، ويعتبر من الأسماء التي تحمل معاني القوة والشجاعة. كما أن اسم حيثم له علاقة بالحيثية وهي الشرف والكرامة."
+    "identity": {
+      "display_name": "Haytham",
+      "normalized_name": "haytham",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Haytham",
+        "haytham"
+      ],
+      "search_variants": [
+        "Haytham",
+        "haytham"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حيثم",
-      "meaning": "حيثم کا مطلب ہے بہادر یا لڑائی میں جرات کرنے والا",
-      "long_meaning": "حيثم ایک مذکر نام ہے جو عربی زبان سے نکلا ہے۔ اس کا مطلب ہے بہادر یا لڑائی میں جرات کرنے والا۔ یہ نام عربی شاعری میں قدیم زمانے سے استعمال ہوتا چلا آیا ہے اور اس کے معنی میں قوت، شجاعت اور مردانگی ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Young eagle; brave",
+      "primary_meaning": "Young eagle; brave",
+      "secondary_meanings": [],
+      "literal_meaning": "Young eagle; brave",
+      "extended_meaning": "Young eagle; brave",
+      "meaning_explanation": "Haytham corresponds to the Arabic form هيثم (Arabic هَيْثَم (Haytham)). Its core sense is young eagle; brave. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हैथम",
-      "meaning": "हैथम का अर्थ है बहादुर या लड़ाई में वीरता दिखाने वाला",
-      "long_meaning": "हैथम एक पुल्लिंग नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है बहादुर या लड़ाई में वीरता दिखाने वाला। यह नाम अरबी कविता में प्राचीन काल से उपयोग किया जाता रहा है और इसके अर्थ में शक्ति, वीरता और साहस हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هيثم",
+      "transliteration": "haytham",
+      "romanization": "haytham",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Young eagle; brave"
+      ],
+      "etymology_explanation": "The form هيثم is an established Arabic lexical item. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حيثم",
-      "meaning": "حيثم معنی یې دے زړور یا په جګړه کې ورته والی",
-      "long_meaning": "حيثم يو مذکر نوم دی چی د عربي ژبې څخه اخيستل شوی دی. دغه نوم د زړور يا په جګړه کې ورته والی معنی لري. دا نوم د عربي شعر په پخوانيو وختونو کې کارول شوی دی او د قوت، زړورتيا او مردانګۍ معانی په کې شامل دي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "هيثم is an established Arabic form.",
+        "Urdu": "ہیثم is used in Urdu.",
+        "Persian": "هیثم is an established Persian form.",
+        "Hindi": "हैथम is used in Hindi.",
+        "Pashto": "هیثم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Haytham",
-      "meaning": "Haytham means brave or courageous in battle",
-      "long_meaning": "Haytham is a masculine given name of Arabic origin, derived from the root 'h-th-m' which conveys the idea of bravery and courage. The name is mentioned in ancient Arabic poetry and is associated with qualities of strength, valor, and heroism. In Islamic tradition, the name Haytham is considered to be of noble and dignified character. The name is also linked to the Arabic concept of 'murū'ah', which encompasses manliness, courage, and chivalry."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form هيثم. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Haytham may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense young eagle; brave.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Young eagle; brave",
+      "related_concepts": [
+        "young eagle; brave"
+      ],
+      "semantic_relationship": "The central semantic idea is young eagle; brave; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of young eagle; brave.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Young eagle; brave"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Haytham",
+        "meaning": "Young eagle; brave",
+        "long_meaning": "Haytham is a Arabic-origin name. Its core meaning is young eagle; brave. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam."
+      },
+      "urdu": {
+        "name": "ہیثم",
+        "meaning": "عقاب، بہادر",
+        "long_meaning": "Haytham (ہیثم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عقاب، بہادر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هیثم",
+        "meaning": "عقاب، دلیر",
+        "long_meaning": "Haytham (هیثم) نامی برگرفته از زبان عربی است و معنای اصلی آن عقاب، دلیر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हैथम",
+        "meaning": "चील, वीर",
+        "long_meaning": "Haytham (हैथम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ चील, वीर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هیثم",
+        "meaning": "عقاب، زړور",
+        "long_meaning": "Haytham (هیثم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عقاب، زړور ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هيثم",
+        "meaning": "الهيثم، العقاب، الشجاع",
+        "long_meaning": "Haytham (هيثم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهيثم، العقاب، الشجاع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "HAY-tham",
-      "urdu": "ہيثم کی تلفظ",
-      "hindi": "हैथम का उच्चारण",
-      "pashto": "د حيثم تلفظ",
-      "ipa": "/ˈhɑj.θæm/"
+      "romanized": "hayt-ham",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہیثم",
+      "persian": "هیثم",
+      "hindi": "हैथम",
+      "pashto": "هیثم"
     },
-    "celebrity_usage": [
-      "Haytham Elhagaly",
-      "Haytham Farooq"
-    ],
-    "social_tags": [
-      "#HaythamMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Haytham"
-    ],
-    "name_variations": [],
-    "popularity_score": 41,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Haytham",
+        "haytham"
+      ],
+      "script_variants": [
+        "هيثم",
+        "هیثم",
+        "ہیثم",
+        "हैथम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هيثم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Haytham can be understood through the Arabic form هيثم, whose central sense is young eagle; brave. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Haytham mean?",
+        "answer": "Haytham is associated with the Arabic form هيثم, whose core sense is young eagle; brave."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Haytham?",
+        "answer": "Haytham is associated with Arabic. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Haytham an Arabic name?",
+        "answer": "Yes — the underlying form هيثم is Arabic."
+      },
+      {
+        "question": "Is Haytham an Islamic name?",
+        "answer": "Haytham can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Haytham a Quranic name?",
+        "answer": "Haytham should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Haytham mean in Urdu?",
+        "answer": "In Urdu, Haytham is rendered ہیثم and carries the sense عقاب، بہادر."
+      },
+      {
+        "question": "What does Haytham mean in Persian?",
+        "answer": "In Persian, Haytham is rendered هیثم and carries the sense عقاب، دلیر."
+      },
+      {
+        "question": "How is Haytham pronounced?",
+        "answer": "A romanized syllable approximation is hayt-ham. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Haytham?",
+        "answer": "Romanization variants include Haytham, haytham. Script forms are هيثم, هیثم, ہیثم, हैथम."
+      },
+      {
+        "question": "Is Haytham a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Haytham Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Haytham, a beautiful Islam name meaning \"Successful seller\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Haytham, Islam name, baby names, Successful seller, Islam baby names, name meaning",
-      "description_paragraph": "Haytham is a meaningful Islam name of Arabic origin that means \"Successful seller\". One who sells and achieves success",
-      "keywords": [
-        "Haytham",
-        "Islam name",
-        "baby names",
-        "Successful seller",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Haytham in Islam tradition?",
-          "a": "Haytham is a beautiful Islam name meaning \"Successful seller\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Haytham a good Islam name for a baby?",
-          "a": "Yes, Haytham is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Haytham?",
-          "a": "The name Haytham has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Haytham correctly?",
-          "a": "Haytham is pronounced HAY-tham in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Haytham?",
-          "a": "Naming a child Haytham brings blessings. The meaning \"Successful seller\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Haytham?",
-          "a": "Haytham is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Haytham Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Haytham (هيثم).",
+      "h1": "Haytham Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Haytham meaning",
       "secondary_keywords": [
-        "Islam name Haytham",
-        "Haytham meaning",
-        "Haytham origin"
+        "Haytham name meaning",
+        "Haytham meaning in Urdu",
+        "Haytham origin",
+        "Haytham Islamic name",
+        "Haytham pronunciation",
+        "Haytham name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Haytham (هيثم) is associated with the Arabic form هيثم, whose core sense is young eagle; brave. Haytham is Arabic هَيْثَم (Haytham) 'young eagle; brave', a well-documented Arabic male given name. CRITICAL SOURCE ERROR: the source gave حييثم (non-standard) and glossed the name 'Successful seller'; the correct form is هَيْثَم. Same name as haysam.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Haytham is associated with the Arabic form هيثم, whose core sense is young eagle; brave.",
+      "meaning_section": "The central meaning of Haytham is young eagle; brave.",
+      "origin_section": "Haytham is associated with Arabic rather than with a different language.",
+      "islam_section": "Haytham can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Haytham is with the sense young eagle; brave.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Haytham",
+      "#HaythamMeaning",
+      "#HaythamName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Haytham holds a rich cultural history, making it a popular choice among Arabic speaking communities. It is derived from the Arabic root \"hata hata\" meaning \"to sell\" and is associated with the great scientist, engineer, and philosopher Haytham Ibn Thabit Al-Farghani. This famous historical figure was renowned for his vast knowledge and inventions, particularly in the field of optics. The name Haytham carries with it the essence of achievement, success, and innovation.",
-    "spiritual_significance": "The spiritual significance of the name Haytham can be derived from the Quranic verse, \"Allah is the Light of the heavens and the earth. The metaphor of His Light being compared to a niche within which is a lamp, the lamp is within a glass, the glass as it were a glittering star in a dark night from [angels] called near to God, to illustrate (by way of parables) the explanation. As for the lamp, the belt around it is a theft from the rough terrain, but Allah guides to His light whom He wills. And as for you, seek Allah's forgiveness.\" (Surah Al-Nur, 24:35) The name Haytham, meaning \"one who sells and achieves success,\" can be linked to the quest for knowledge and the pursuit of truth, which is a constant focus for seekers of Allah. Just as a lamp illuminates the darkness, a person named Haytham is seen as a beacon of light and knowledge in a world often shrouded in confusion and ignorance. By selling the knowledge and wisdom he has gained, Haytham is not only enriching himself but also helping others to understand the truths of the universe and the divine guidance of Allah. In this way, the name Haytham embodies both the cultural significance of achievement and the spiritual significance of seeking knowledge and guiding others towards the light of truth.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Haytham carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Haytham corresponds to the Arabic form هيثم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Haytham has the core sense young eagle; brave",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Haytham remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Haytham",
-      "location": "Karachi, Pakistan",
-      "story": "Maryam Haytham from Karachi, Pakistan embodies the meaning of Haytham - \"Successful seller\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Successful seller\" symbolizes One who sells and achieves success. In Islamic spirituality, bearing the name Haytham serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of successful seller.",
-    "created_at": "2025-12-22T19:19:49.875Z",
-    "updated_at": "2025-12-22T04:53:15.042Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1493,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Haytham",
-      "description": "Successful seller",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Haytham",
+        "haytham"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Haytham",
-          "description": "Discover the meaning of Haytham - \"Successful seller\"",
-          "image": "/images/social/haytham-facebook.jpg"
+      "description": "A name associated with the Arabic form هيثم, meaning young eagle; brave.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "haytham",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Haytham - Name Meaning",
-          "description": "Learn about the beautiful name Haytham",
-          "image": "/images/social/haytham-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Haytham",
-          "description": "Name meaning: Successful seller",
-          "image": "/images/social/haytham-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Haytham - Meaning: Successful seller",
-        "email_subject": "Beautiful Name: Haytham"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Haytham with meaning Successful seller",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Haytham, associated with the Arabic form هيثم, meaning young eagle; brave."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

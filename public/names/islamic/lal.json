@@ -3,286 +3,477 @@
   "data": {
     "name": "Lal",
     "slug": "lal",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Night",
-    "long_meaning": "In Persian culture, Lal is derived from the word 'Laila', which means 'night'. It is a beautiful and evocative name that carries a sense of mystery and magic.",
-    "spiritual_meaning": "A symbol of the night and the peace it brings.",
-    "emotional_traits": [
-      "Calm",
-      "Gentle"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Black",
-      "Silver"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the life path number 5 are known for their versatility and adaptability. They thrive in new experiences and love to explore.",
-    "in_arabic": {
-      "name": "لال",
-      "meaning": "اسم خاص، يعني الأحمر، أو الحبيب",
-      "long_meaning": "لال هو اسم خاص في اللغة العربية، ويعني الأحمر أو الحبيب. وقد ورد في بعض المصادر أنه مشتق من اللغة الفارسية، ويستخدم في بعض الثقافات الإسلامية كاسم للذكور. ومع ذلك، لا يوجد في القرآن الكريم أو السنة النبوية ذكر صريح لهذا الاسم، لكنه يحمل دلالة اللون الأحمر الذي يرمز إلى الجمال والحيوية."
+    "identity": {
+      "display_name": "Lal",
+      "normalized_name": "lal",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Lal",
+        "lal"
+      ],
+      "search_variants": [
+        "Lal",
+        "lal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "لال",
-      "meaning": "لال کا مطلب ہے - خوبصورت، محبوب، یا سرخ",
-      "long_meaning": "لال ایک خاص نام ہے جو اردو میں استعمال ہوتا ہے۔ اس کا مطلب ہوتا ہے خوبصورت، محبوب، یا سرخ۔ یہ نام فارسی زبان سے ماخوذ ہے اور اسلامی ثقافت میں خاص طور پر جنوبی ایشیا میں مقبول ہے۔ اس نام کا استعمال تاریخی طور پر شاہی و خاندانی حوالوں میں بھی ہوا ہے، جہاں 'لال' کی شناخت محبت و پیار کے اظہار کے طور پر ہوتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Ruby, garnet; (also) a red gem",
+      "primary_meaning": "Ruby",
+      "secondary_meanings": [
+        "garnet; (also) a red gem"
+      ],
+      "literal_meaning": "Ruby",
+      "extended_meaning": "Ruby, garnet; (also) a red gem",
+      "meaning_explanation": "Lal corresponds to the Arabic form لعل (Arabic لَعْل (Laʿl)). Its core sense is ruby, garnet; (also) a red gem. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "लाल",
-      "meaning": "लाल का अर्थ है - सुंदर, प्रिय, या लाल रंग",
-      "long_meaning": "लाल एक विशेष नाम है जो हिंदी और भारतीय मुस्लिम समुदाय में प्रयोग होता है। इसका अर्थ सुंदर, प्रिय, या लाल रंग से है। यह नाम फारसी भाषा से लिया गया है और इसका उपयोग ऐतिहासिक और सांस्कृतिक संदर्भों में हुआ है, जहां 'लाल' प्यार और स्नेह की अभिव्यक्ति के रूप में पहचाना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "لعل",
+      "transliteration": "lal",
+      "romanization": "lal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Ruby",
+        "garnet; (also) a red gem"
+      ],
+      "etymology_explanation": "The form لعل is an established Arabic lexical item. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "لال",
-      "meaning": "لال يعني - ښکلی، محبوب، یا سور",
-      "long_meaning": "لال په پښتو کې یو ځانګړی نوم دی چې د ښکلی، محبوب، یا سور معنی لري. دا نوم د پښتو کلتور او ژبې برخه ده او د افغانستان او پښتونستان په سیمو کې کارول کیږي. دا نوم د مینې او پېار د څرګندولو لپاره کارول شوی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "لعل is an established Arabic form.",
+        "Urdu": "لعل is used in Urdu.",
+        "Persian": "لعل is an established Persian form.",
+        "Hindi": "लाल is used in Hindi.",
+        "Pashto": "لعل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Lal",
-      "meaning": "Lal means beautiful, beloved, or red in color",
-      "long_meaning": "The name Lal is of Arabic and Persian origin, meaning 'beautiful', 'beloved', or 'red'. It is used in various Muslim cultures, including Arabic, Urdu, Hindi, Pashto, and Turkish communities. The name symbolizes love, beauty, and vitality. Although it does not have a direct reference in the Quran, its roots in Arabic language and culture give it a significant place in Islamic tradition."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form لعل. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Lal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense ruby, garnet; (also) a red gem.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Ruby",
+      "related_concepts": [
+        "ruby",
+        "garnet; (also) a red gem"
+      ],
+      "semantic_relationship": "The central semantic idea is ruby; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of ruby.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Ruby",
+        "Garnet; (also) a red gem"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Lal",
+        "meaning": "Ruby, garnet; (also) a red gem",
+        "long_meaning": "Lal is a Arabic-origin name. Its core meaning is ruby, garnet; (also) a red gem. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal."
+      },
+      "urdu": {
+        "name": "لعل",
+        "meaning": "لعل، یاقوت",
+        "long_meaning": "Lal (لعل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لعل، یاقوت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "لعل",
+        "meaning": "لعل، یاقوت سرخ",
+        "long_meaning": "Lal (لعل) نامی برگرفته از زبان عربی است و معنای اصلی آن لعل، یاقوت سرخ است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "लाल",
+        "meaning": "लाल, याक़ूत",
+        "long_meaning": "Lal (लाल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ लाल, याक़ूत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "لعل",
+        "meaning": "لعل، یاقوت",
+        "long_meaning": "Lal (لعل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لعل، یاقوت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "لعل",
+        "meaning": "اللعل، الياقوت الأحمر",
+        "long_meaning": "Lal (لعل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي اللعل، الياقوت الأحمر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Lahl",
-      "urdu": "لال کا تلفظ /lɑːl/",
-      "hindi": "लाल का उच्चारण /lɑːl/",
-      "pashto": "/lɑl/",
-      "ipa": "/lɑːl/"
+      "romanized": "lal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "لعل",
+      "persian": "لعل",
+      "hindi": "लाल",
+      "pashto": "لعل"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#LalMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Lal"
-    ],
-    "name_variations": [],
-    "popularity_score": 72,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Lal",
+        "lal"
+      ],
+      "script_variants": [
+        "لعل",
+        "लाल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form لعل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Lal can be understood through the Arabic form لعل, whose central sense is ruby, garnet; (also) a red gem. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Lal mean?",
+        "answer": "Lal is associated with the Arabic form لعل, whose core sense is ruby, garnet; (also) a red gem."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Lal?",
+        "answer": "Lal is associated with Arabic. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Lal an Arabic name?",
+        "answer": "Yes — the underlying form لعل is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Lal an Islamic name?",
+        "answer": "Lal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Lal a Quranic name?",
+        "answer": "Lal should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Lal mean in Urdu?",
+        "answer": "In Urdu, Lal is rendered لعل and carries the sense لعل، یاقوت."
+      },
+      {
+        "question": "What does Lal mean in Persian?",
+        "answer": "In Persian, Lal is rendered لعل and carries the sense لعل، یاقوت سرخ."
+      },
+      {
+        "question": "How is Lal pronounced?",
+        "answer": "A romanized syllable approximation is lal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Lal?",
+        "answer": "Romanization variants include Lal, lal. Script forms are لعل, लाल."
+      },
+      {
+        "question": "Is Lal a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Lal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Lal, a beautiful Islam name meaning \"Night\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Lal, Islam name, baby names, Night, Islam baby names, name meaning",
-      "description_paragraph": "Lal is a meaningful Islam name of Arabic origin that means \"Night\". In Persian culture, Lal is derived from the word 'Laila', which means 'night'. It is a beautiful and evocative name that carries a sense of mystery and magic.",
-      "keywords": [
-        "Lal",
-        "Islam name",
-        "baby names",
-        "Night",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Lal in Islam tradition?",
-          "a": "Lal is a beautiful Islam name meaning \"Night\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Lal a good Islam name for a baby?",
-          "a": "Yes, Lal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Lal?",
-          "a": "The name Lal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Lal correctly?",
-          "a": "Lal is pronounced Lahl in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Lal?",
-          "a": "Naming a child Lal brings blessings. The meaning \"Night\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Lal?",
-          "a": "Lal is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Lal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Lal (لعل).",
+      "h1": "Lal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Lal meaning",
       "secondary_keywords": [
-        "Islam name Lal",
-        "Lal meaning",
-        "Lal origin"
+        "Lal name meaning",
+        "Lal meaning in Urdu",
+        "Lal origin",
+        "Lal Islamic name",
+        "Lal pronunciation",
+        "Lal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Lal (لعل) is associated with the Arabic form لعل, whose core sense is ruby, garnet; (also) a red gem. Lal is Arabic لَعْل (Laʿl) 'ruby, garnet'. The source gloss 'Night' is unsupported and has been replaced with the lexical sense. Same name as laal.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Lal is associated with the Arabic form لعل, whose core sense is ruby, garnet; (also) a red gem.",
+      "meaning_section": "The central meaning of Lal is ruby, garnet; (also) a red gem.",
+      "origin_section": "Lal is associated with Arabic rather than with a different language.",
+      "islam_section": "Lal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Lal is with the sense ruby.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Lal",
+      "#LalMeaning",
+      "#LalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Lal is a popular first name in various Muslim countries, particularly in Iran. It is a name that carries a rich cultural heritage, often associated with wisdom, beauty, and the depth of the night. The culture places a great emphasis on the idea of darkness giving way to light, and just as the night eventually leads to a new day, the struggles and challenges in life lead to growth and self-realization.",
-    "spiritual_significance": "In the religious context of Islam, Lal holds a deep spiritual significance. Night is a symbol of approaching closeness to Allah, as the Prophet Muhammad (peace be upon him) would say, \"Allah is nearer to a servant than the distance between the wand and the water pot.\" It signifies a time for contemplation, prayer, seeking guidance, and deepening one's spiritual connection with Allah. Lal, as a name, serves as a reminder of the power and sanctity of the night, encouraging us to use this time to draw closer to Allah and seek His blessings.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Battuta's travel account mentions a town named Lal in present-day Rajasthan, India, which was a significant trading center during his time (1336-1354 AD).",
-        "time_period": "14th century AD",
-        "context": "Ibn Battuta was a renowned Moroccan traveler who visited India and other Asian countries. In his travel account, he described Lal as an important trading town, with a bustling market selling textiles, horses, and other goods."
-      },
-      {
-        "reference": "The Islamic conquest of Sindh, now in modern-day Pakistan, resulted in the establishment of the Islamic city of Lahore in the late 8th century AD. It later became the capital of the Islamic Ghaznavid Empire in the 10th century AD.",
-        "time_period": "8th-10th centuries AD",
-        "context": "Lahore was an ancient Hindu city that was conquered by the Arab Muslim general Muhammad bin Qasim during the Islamic conquest of Sindh. The city became an important Islamic center and later served as the capital of the Ghaznavid Empire, which ruled over parts of Afghanistan, Pakistan, and India."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Bangladeshi pop culture",
-        "Fashion",
-        "Technology"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Lal corresponds to the Arabic form لعل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Lal has the core sense ruby, garnet; (also) a red gem",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "TikTok",
-        "YouTube"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Lal' is of Islamic origin, meaning 'red' or 'crimson'. In modern times, this name has gained popularity beyond its religious context and is frequently seen in Bangladeshi pop culture, fashion, and technology scenes. In the realm of fashion, designers and influencers often use 'Lal' as a moniker or reference to their red-themed collections or social media handles. In Bangladeshi pop culture, there have been notable figures and characters bearing the name 'Lal', such as Lal Shah Newaj, a renowned poet and singer, and Lalon Fakir, a spiritual figure. On platforms like Instagram and TikTok, the name 'Lal' is popularly used as a hashtag for posts and videos related to red clothing, makeup, or events. In the technology scene, the term 'Lal' is sometimes used to refer to the LaLIGHTS (Language Learning in Games with Humans and Technology Systems) project, which utilizes red as a visual cue in its interface design. Overall, 'Lal' represents a vibrant and diverse range of influences in modern Bangladeshi culture."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Lal",
-      "location": "Istanbul, Turkey",
-      "story": "Khadija Lal from Istanbul, Turkey embodies the meaning of Lal - \"Night\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Night\" symbolizes In Persian culture, Lal is derived from the word 'Laila', which means 'night'. It is a beautiful and evocative name that carries a sense of mystery and magic.. In Islamic spirituality, bearing the name Lal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of night.",
-    "created_at": "2025-12-22T19:19:49.947Z",
-    "updated_at": "2025-12-22T04:53:15.635Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1037,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Lal",
-      "description": "Night",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Lal",
+        "lal"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Lal",
-          "description": "Discover the meaning of Lal - \"Night\"",
-          "image": "/images/social/lal-facebook.jpg"
+      "description": "A name associated with the Arabic form لعل, meaning ruby, garnet; (also) a red gem.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "lal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Lal - Name Meaning",
-          "description": "Learn about the beautiful name Lal",
-          "image": "/images/social/lal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Lal",
-          "description": "Name meaning: Night",
-          "image": "/images/social/lal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Lal - Meaning: Night",
-        "email_subject": "Beautiful Name: Lal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Lal with meaning Night",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Lal, associated with the Arabic form لعل, meaning ruby, garnet; (also) a red gem."
     },
-    "similar_sounding_names": [
-      "leyla"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

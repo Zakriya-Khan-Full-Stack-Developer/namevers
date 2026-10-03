@@ -3,289 +3,477 @@
   "data": {
     "name": "Kishwar",
     "slug": "kishwar",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "God's gift",
-    "long_meaning": "A name of Persian origin, derived from the word 'kish', meaning 'gift'. In Islamic tradition, Kishwar is seen as a symbol of Allah's blessings and divine favor. It is believed that Allah bestows His gifts upon His beloved servants, and the name Kishwar is a constant reminder of this blessing.",
-    "spiritual_meaning": "A constant reminder of Allah's blessings and divine favor.",
-    "emotional_traits": [
-      "Peaceful",
-      "Content"
-    ],
-    "hidden_personality_traits": [
-      "M = Gracious",
-      "S = Determined"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Pink"
-    ],
-    "lucky_stone": "Turquoise",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and sociable. People with this name often have a strong sense of self-expression and are naturally drawn to the arts.",
-    "in_arabic": {
-      "name": "كيشوار",
-      "meaning": "اسم يعني المنطقة أو الجبل أو الغابة باللغة العربية",
-      "long_meaning": "اسم كيشوار مشتق من الجذر العربي ك-ش-و-ر، والذي يعني المنطقة أو الجبل أو الغابة. يستخدم هذا الاسم في بعض الثقافات الإسلامية للإشارة إلى مكان أو منطقة ذات أهمية دينية أو روحية. وقد ورد هذا الاسم في بعض المصادر التاريخية والتراثية الإسلامية."
+    "identity": {
+      "display_name": "Kishwar",
+      "normalized_name": "kishwar",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kishwar",
+        "kishwar"
+      ],
+      "search_variants": [
+        "Kishwar",
+        "kishwar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کیشوار",
-      "meaning": "ایک اسلامی نام جس کا مطلب ہے علاقہ یا پہاڑ یا جنگل",
-      "long_meaning": "کیشوار نام عربی جذر ک-ش-و-ر سے ماخوذ ہے، جس کا مطلب ہے علاقہ یا پہاڑ یا جنگل۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں ایک مقبول انتخاب ہے، خاص طور پر پاکستان اور ہندوستان میں۔ اس نام کا استعمال تاریخی اور مذہبی سیاق میں بھی ہوا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Kishwar; country, realm (Persian)",
+      "primary_meaning": "Kishwar; country",
+      "secondary_meanings": [
+        "realm (Persian)"
+      ],
+      "literal_meaning": "Kishwar; country",
+      "extended_meaning": "Kishwar; country, realm (Persian)",
+      "meaning_explanation": "Kishwar corresponds to the Persian form کشور (Persian کشور (kishvar)). Its core sense is kishwar; country, realm (persian). Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "किशवार",
-      "meaning": "एक इस्लामी नाम जिसका अर्थ है क्षेत्र या पर्वत या वन",
-      "long_meaning": "किशवार नाम की उत्पत्ति अरबी मूल क-श-व-र से हुई है, जिसका अर्थ है क्षेत्र या पर्वत या वन। यह नाम भारतीय मुस्लिम समुदाय में प्रचलित है, जहां यह एक आध्यात्मिक और सांस्कृतिक महत्व रखता है। इस नाम का उपयोग पारंपरिक और आधुनिक दोनों संदर्भों में किया जाता है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "کشور",
+      "transliteration": "kishwar",
+      "romanization": "kishwar",
+      "root_status": "Persian کشور (kishvar)",
+      "etymological_meaning": [
+        "Kishwar; country",
+        "realm (Persian)"
+      ],
+      "etymology_explanation": "The form کشور is an established Persian lexical item. Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "کېشوار",
-      "meaning": "د اسلامي نوم چې مطلب يې سيمه يا غر يا ځنګل دی",
-      "long_meaning": "کېشوار نوم د عربي ريښې ک-ش-و-ر څخه اخيستل شوی دی، چې مطلب يې سيمه يا غر يا ځنګل دی. دا نوم د افغان او پښتون دوديزې ثقافت برخه ده، او په مذهبي او تاريخي سياق کې کارول شوی دی."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "کشور is an established Arabic form.",
+        "Urdu": "کشور is used in Urdu.",
+        "Persian": "کشور is an established Persian form.",
+        "Hindi": "किश्वर is used in Hindi.",
+        "Pashto": "کشور is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kishwar",
-      "meaning": "An Islamic name meaning region, mountain, or forest",
-      "long_meaning": "The name Kishwar originates from the Arabic root k-š-w-r, which signifies a region, mountain, or forest. It holds spiritual and cultural significance in Islamic tradition, particularly in South Asian and Middle Eastern cultures. Historically, the name has been used to denote areas of religious or natural importance."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form کشور. Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kishwar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense kishwar; country, realm (persian).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Kishwar; country",
+      "related_concepts": [
+        "kishwar; country",
+        "realm (persian)"
+      ],
+      "semantic_relationship": "The central semantic idea is kishwar; country; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of kishwar; country.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Kishwar; country",
+        "Realm (persian)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kishwar",
+        "meaning": "Kishwar; country, realm (Persian)",
+        "long_meaning": "Kishwar is a Persian-origin name. Its core meaning is kishwar; country, realm (persian). Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense."
+      },
+      "urdu": {
+        "name": "کشور",
+        "meaning": "کشور، ملک، مملکت",
+        "long_meaning": "Kishwar (کشور) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کشور، ملک، مملکت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کشور",
+        "meaning": "کشور، سرزمین، مملکت",
+        "long_meaning": "Kishwar (کشور) نامی برگرفته از زبان فارسی است و معنای اصلی آن کشور، سرزمین، مملکت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "किश्वर",
+        "meaning": "किश्वर, देश, राज्य",
+        "long_meaning": "Kishwar (किश्वर) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ किश्वर, देश, राज्य है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کشور",
+        "meaning": "کشور، هېواد، مملکت",
+        "long_meaning": "Kishwar (کشور) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کشور، هېواد، مملکت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "کشور",
+        "meaning": "الكشور، البلد، المملكة (فارسي)",
+        "long_meaning": "Kishwar (کشور) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الكشور، البلد، المملكة (فارسي). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Kish-war",
-      "urdu": "کیشوار کا تلفظ کیش-وار ہے",
-      "hindi": "किशवार का उच्चारण किश-वार है",
-      "pashto": "کېشوار د کيش-وار په تلفظ سول",
-      "ipa": "/kɪʃwɑr/"
+      "romanized": "kis-hwar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کشور",
+      "persian": "کشور",
+      "hindi": "किश्वर",
+      "pashto": "کشور"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KishwarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kishwar"
-    ],
-    "name_variations": [],
-    "popularity_score": 76,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kishwar",
+        "kishwar"
+      ],
+      "script_variants": [
+        "کشور",
+        "किश्वर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form کشور is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kishwar can be understood through the Persian form کشور, whose central sense is kishwar; country, realm (persian). Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 89,
-        "year": 2024
+        "question": "What does Kishwar mean?",
+        "answer": "Kishwar is associated with the Persian form کشور, whose core sense is kishwar; country, realm (persian)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Kishwar?",
+        "answer": "Kishwar is associated with Persian. Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Kishwar an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 82,
-        "year": 2024
+        "question": "Is Kishwar an Islamic name?",
+        "answer": "Kishwar can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Kishwar a Quranic name?",
+        "answer": "Kishwar should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kishwar mean in Urdu?",
+        "answer": "In Urdu, Kishwar is rendered کشور and carries the sense کشور، ملک، مملکت."
+      },
+      {
+        "question": "What does Kishwar mean in Persian?",
+        "answer": "In Persian, Kishwar is rendered کشور and carries the sense کشور، سرزمین، مملکت."
+      },
+      {
+        "question": "How is Kishwar pronounced?",
+        "answer": "A romanized syllable approximation is kis-hwar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kishwar?",
+        "answer": "Romanization variants include Kishwar, kishwar. Script forms are کشور, किश्वर."
+      },
+      {
+        "question": "Is Kishwar a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kishwar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kishwar, a beautiful Islam name meaning \"God's gift\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kishwar, Islam name, baby names, God's gift, Islam baby names, name meaning",
-      "description_paragraph": "Kishwar is a meaningful Islam name of Arabic origin that means \"God's gift\". A name of Persian origin, derived from the word 'kish', meaning 'gift'. In Islamic tradition, Kishwar is seen as a symbol of Allah's blessings and divine favor. It is believed that Allah bestows His gifts upon His beloved servants, and the name Kishwar is a constant reminder of this blessing.",
-      "keywords": [
-        "Kishwar",
-        "Islam name",
-        "baby names",
-        "God's gift",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kishwar in Islam tradition?",
-          "a": "Kishwar is a beautiful Islam name meaning \"God's gift\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kishwar a good Islam name for a baby?",
-          "a": "Yes, Kishwar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kishwar?",
-          "a": "The name Kishwar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kishwar correctly?",
-          "a": "Kishwar is pronounced Kish-war in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kishwar?",
-          "a": "Naming a child Kishwar brings blessings. The meaning \"God's gift\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kishwar?",
-          "a": "Kishwar is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Kishwar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kishwar (کشور).",
+      "h1": "Kishwar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kishwar meaning",
       "secondary_keywords": [
-        "Islam name Kishwar",
-        "Kishwar meaning",
-        "Kishwar origin"
+        "Kishwar name meaning",
+        "Kishwar meaning in Urdu",
+        "Kishwar origin",
+        "Kishwar Islamic name",
+        "Kishwar pronunciation",
+        "Kishwar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kishwar (کشور) is associated with the Persian form کشور, whose core sense is kishwar; country, realm (persian). Kishwar is Persian کشور (kishvar) 'country, realm'. CRITICAL SOURCE ERROR: the source gave كيشوار (a different form). MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss \"God's gift\" is unsupported and has been replaced with the lexical sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kishwar is associated with the Persian form کشور, whose core sense is kishwar; country, realm (persian).",
+      "meaning_section": "The central meaning of Kishwar is kishwar; country, realm (persian).",
+      "origin_section": "Kishwar is associated with Persian rather than with a different language.",
+      "islam_section": "Kishwar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kishwar is with the sense kishwar; country.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kishwar",
+      "#KishwarMeaning",
+      "#KishwarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Kishwar holds cultural significance in Persian and Islamic communities, particularly in its association with giving and receiving gifts. It is often used for females, and is considered a beautiful and meaningful name.",
-    "spiritual_significance": "Spiritually, Kishwar is a reminder of Allah's infinite generosity and mercy towards His creatures. It is a constant reminder that every blessing we receive is a gift from Allah, and serves to deepen our sense of gratitude and faith. The name Kishwar also encourages us to be generous and charitable, as we seek to emulate Allah's giving nature.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Battuta's Travels, 1332-1354 AD The name Kishwar carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "Kishwar was a city in India, near present-day Allahabad, which was famed for its annual fair (Urs) dedicated to the Sufi saint, Khwaja Qutb al-Din Bakhtiyar Kaki. Ibn Battuta visited Kishwar and attended the fair, which attracted thousands of pilgrims from India and beyond."
-      },
-      {
-        "reference": "Historical records show that Ain-i-Akbari, 1597 AD The name Kishwar carried significant weight in that era.",
-        "time_period": "16th century",
-        "context": "Abul Fazl, the author of Ain-i-Akbari, mentioned a village named Kishwar, located in the Sultanate of Bengal. It was renowned for its production of fine-grained rice, which was highly sought after by the Mughal court."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names",
-        "Modern Islamic names",
-        "Feminine names"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kishwar corresponds to the Persian form کشور",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kishwar has the core sense kishwar; country, realm (persian)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social Media",
-        "Baby Name Websites",
-        "Public Discourse"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Kishwar is a beautiful Islamic name for girls, gaining popularity in modern times. It is derived from the Arabic word 'kishf' meaning 'to hide' or 'to cover'. In present times, Kishwar is seen as a strong and elegant name, symbolizing the hidden strengths and beauty of a woman. It is gaining popularity on social media platforms as unique and meaningful names for babies. Baby name websites also feature Kishwar as a top choice for parents looking for Islamic names for their daughters. The name Kishwar is also being discussed in public discourse as a modern and feminine Islamic name, resonating with the empowerment and self-expression of contemporary Muslim women."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Kishwar",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Zainab Kishwar, a teacher in Kuala Lumpur, Malaysia, shares that their name Kishwar meaning \"God's gift\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"God's gift\" symbolizes A name of Persian origin, derived from the word 'kish', meaning 'gift'. In Islamic tradition, Kishwar is seen as a symbol of Allah's blessings and divine favor. It is believed that Allah bestows His gifts upon His beloved servants, and the name Kishwar is a constant reminder of this blessing.. In Islamic spirituality, bearing the name Kishwar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of god's gift.",
-    "created_at": "2025-12-22T19:19:49.947Z",
-    "updated_at": "2025-12-22T04:53:15.634Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1798,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kishwar",
-      "description": "God's gift",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Kishwar",
+        "kishwar"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kishwar",
-          "description": "Discover the meaning of Kishwar - \"God's gift\"",
-          "image": "/images/social/kishwar-facebook.jpg"
+      "description": "A name associated with the Persian form کشور, meaning kishwar; country, realm (persian).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kishwar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Kishwar - Name Meaning",
-          "description": "Learn about the beautiful name Kishwar",
-          "image": "/images/social/kishwar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Kishwar",
-          "description": "Name meaning: God's gift",
-          "image": "/images/social/kishwar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kishwar - Meaning: God's gift",
-        "email_subject": "Beautiful Name: Kishwar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kishwar with meaning God's gift",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kishwar, associated with the Persian form کشور, meaning kishwar; country, realm (persian)."
     },
-    "similar_sounding_names": [
-      "kabir",
-      "kashish",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

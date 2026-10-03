@@ -3,282 +3,478 @@
   "data": {
     "name": "Ikhwan",
     "slug": "ikhwan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Brotherhood",
-    "long_meaning": "A name derived from the Arabic root ‘k-h-w’, meaning ‘brother’. In Islamic history, Ikhwan refers to various brotherhoods and Sufi orders. This name represents unity, brotherhood, and spiritual connection.",
-    "spiritual_meaning": "Symbolizing unity, brotherhood, and spiritual connection in Islam.",
-    "emotional_traits": [
-      "Righteous",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "(Ruby)",
-    "life_path_number": 3,
-    "numerology_meaning": "People with the name Ikhwan are often creative, intuitive, and sociable individuals. They have a strong sense of unity and a natural inclination towards spirituality.",
-    "in_arabic": {
-      "name": "إخوان",
-      "meaning": "إخوان تعني أخوة و محبة و تواصل",
-      "long_meaning": "إخوان هو جمع أخ، و يعني الأخوة و المودة و التواصل بين الناس. و هو اسم يدل على الصداقة و الحب و التعاون. في اللغة العربية، الأخوة تعني الاتحاد و التضامن و الشعور بالمسؤولية المشتركة. و في الإسلام، الأخوة تعني الإيمان و التوحيد و العمل الصالح."
+    "identity": {
+      "display_name": "Ikhwan",
+      "normalized_name": "ikhwan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ikhwan",
+        "ikhwan"
+      ],
+      "search_variants": [
+        "Ikhwan",
+        "ikhwan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اخوان",
-      "meaning": "اخوان کا مطلب ہے بھائی چارہ، محبت، اور رشتہ داری",
-      "long_meaning": "اخوان ایک عربی نام ہے جس کا مطلب ہے بھائی چارہ، محبت، اور رشتہ داری۔ یہ نام دوستوں اور بھائیوں کے درمیان رابطے اور محبت کی علامت ہے۔ اسلامی تقالید میں، اخوانیت کا مطلب ہے ایک دوسرے کے ساتھ مل کر کام کرنا، ایک دوسرے کی مدد کرنا، اور ایک مشترکہ مقصد کی طرف بڑھنا۔"
+    "core_meaning": {
+      "short_meaning": "Brothers, brethren",
+      "primary_meaning": "Brothers",
+      "secondary_meanings": [
+        "brethren"
+      ],
+      "literal_meaning": "Brothers",
+      "extended_meaning": "Brothers, brethren",
+      "meaning_explanation": "Ikhwan corresponds to the Arabic form إخوان (Plural of أَخ (akh); إِخْوَان (Ikhwān)). Its core sense is brothers, brethren. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इख़्वान",
-      "meaning": "इख़्वान का अर्थ है भाईचारा, प्रेम और संबंध",
-      "long_meaning": "इख़्वान एक अरबी नाम है जिसका अर्थ है भाईचारा, प्रेम और संबंध। यह नाम दोस्तों और भाइयों के बीच के बंधन और प्रेम का प्रतीक है। इस्लामी परंपरा में, इख़्वानیت का अर्थ है एक दूसरे के साथ मिलकर काम करना, एक दूसरे की मदद करना और एक साझा लक्ष्य की ओर बढ़ना।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إخوان",
+      "transliteration": "ikhwan",
+      "romanization": "ikhwan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Brothers",
+        "brethren"
+      ],
+      "etymology_explanation": "The form إخوان is an established Arabic lexical item. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اخوان",
-      "meaning": "اخوان د دې مطلب د ورورولي، مينې او اړيک",
-      "long_meaning": "اخوان د عربي يوه نوم دی چي د ورورولي، مينې او اړيک مطلب دی. دا نوم د دوستانو او وروڼو تر منځ د اړيک او مينې نښه ده. په اسلامي دود کې، اخوان د دې مطلب دی چې يو بل سره کار وکړو، يو بل سره مرسته وکړو او يو ګډ هدف ته ورسيږو."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إخوان is an established Arabic form.",
+        "Urdu": "اخوان is used in Urdu.",
+        "Persian": "اخوان is an established Persian form.",
+        "Hindi": "इख़वान is used in Hindi.",
+        "Pashto": "اخوان is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Ikhwan",
-      "meaning": "Ikhwan means brotherhood, love, and relationship",
-      "long_meaning": "Ikhwan is an Arabic name that means brotherhood, love, and relationship. It symbolizes the bond and affection between friends and brothers. In Islamic tradition, Ikhwan refers to the unity and solidarity among Muslims, emphasizing the importance of cooperation, mutual support, and shared values. The term is derived from the Arabic root 'akh', which means 'brother', and is mentioned in the Quran as a vital aspect of Islamic community and brotherhood."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form إخوان. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ikhwan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense brothers, brethren.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Brothers",
+      "related_concepts": [
+        "brothers",
+        "brethren"
+      ],
+      "semantic_relationship": "The central semantic idea is brothers; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of brothers.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Brothers",
+        "Brethren"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ikhwan",
+        "meaning": "Brothers, brethren",
+        "long_meaning": "Ikhwan is a Arabic-origin name. Its core meaning is brothers, brethren. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "اخوان",
+        "meaning": "بھائی، اخوان",
+        "long_meaning": "Ikhwan (اخوان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بھائی، اخوان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "اخوان",
+        "meaning": "برادران، اخوان",
+        "long_meaning": "Ikhwan (اخوان) نامی برگرفته از زبان عربی است و معنای اصلی آن برادران، اخوان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इख़वान",
+        "meaning": "भाई, बंधु",
+        "long_meaning": "Ikhwan (इख़वान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ भाई, बंधु है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اخوان",
+        "meaning": "وڼده، وروڼه",
+        "long_meaning": "Ikhwan (اخوان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې وڼده، وروڼه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إخوان",
+        "meaning": "الإخوان، الأخوة، الأصحاب",
+        "long_meaning": "Ikhwan (إخوان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإخوان، الأخوة، الأصحاب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ih-KHWAN",
-      "urdu": "اخوان کا تلفظ ہے اک-خواں",
-      "hindi": "इख़्वान का उच्चारण है इख़-ख़्वान",
-      "pashto": "اخوان د تلفظ دی اخ-خواں",
-      "ipa": "/ɪkˈwɑːn/"
+      "romanized": "ik-hwan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اخوان",
+      "persian": "اخوان",
+      "hindi": "इख़वान",
+      "pashto": "اخوان"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IkhwanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ikhwan"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ikhwan",
+        "ikhwan"
+      ],
+      "script_variants": [
+        "إخوان",
+        "اخوان",
+        "इख़वान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إخوان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ikhwan can be understood through the Arabic form إخوان, whose central sense is brothers, brethren. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Ikhwan mean?",
+        "answer": "Ikhwan is associated with the Arabic form إخوان, whose core sense is brothers, brethren."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Ikhwan?",
+        "answer": "Ikhwan is associated with Arabic. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Ikhwan an Arabic name?",
+        "answer": "Yes — the underlying form إخوان is Arabic."
+      },
+      {
+        "question": "Is Ikhwan an Islamic name?",
+        "answer": "Ikhwan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ikhwan a Quranic name?",
+        "answer": "Ikhwan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ikhwan mean in Urdu?",
+        "answer": "In Urdu, Ikhwan is rendered اخوان and carries the sense بھائی، اخوان."
+      },
+      {
+        "question": "What does Ikhwan mean in Persian?",
+        "answer": "In Persian, Ikhwan is rendered اخوان and carries the sense برادران، اخوان."
+      },
+      {
+        "question": "How is Ikhwan pronounced?",
+        "answer": "A romanized syllable approximation is ik-hwan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ikhwan?",
+        "answer": "Romanization variants include Ikhwan, ikhwan. Script forms are إخوان, اخوان, इख़वान."
+      },
+      {
+        "question": "Is Ikhwan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ikhwan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ikhwan, a beautiful Islam name meaning \"Brotherhood\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ikhwan, Islam name, baby names, Brotherhood, Islam baby names, name meaning",
-      "description_paragraph": "Ikhwan is a meaningful Islam name of Arabic origin that means \"Brotherhood\". A name derived from the Arabic root ‘k-h-w’, meaning ‘brother’. In Islamic history, Ikhwan refers to various brotherhoods and Sufi orders. This name represents unity, brotherhood, and spiritual connection.",
-      "keywords": [
-        "Ikhwan",
-        "Islam name",
-        "baby names",
-        "Brotherhood",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ikhwan in Islam tradition?",
-          "a": "Ikhwan is a beautiful Islam name meaning \"Brotherhood\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ikhwan a good Islam name for a baby?",
-          "a": "Yes, Ikhwan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ikhwan?",
-          "a": "The name Ikhwan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ikhwan correctly?",
-          "a": "Ikhwan is pronounced ih-KHWAN in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ikhwan?",
-          "a": "Naming a child Ikhwan brings blessings. The meaning \"Brotherhood\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ikhwan?",
-          "a": "Ikhwan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Ikhwan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ikhwan (إخوان).",
+      "h1": "Ikhwan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ikhwan meaning",
       "secondary_keywords": [
-        "Islam name Ikhwan",
-        "Ikhwan meaning",
-        "Ikhwan origin"
+        "Ikhwan name meaning",
+        "Ikhwan meaning in Urdu",
+        "Ikhwan origin",
+        "Ikhwan Islamic name",
+        "Ikhwan pronunciation",
+        "Ikhwan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ikhwan (إخوان) is associated with the Arabic form إخوان, whose core sense is brothers, brethren. Ikhwan is Arabic إِخْوَان (Ikhwān) 'brothers, brethren', the plural of أَخ (akh). The source gloss 'Brotherhood' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ikhwan is associated with the Arabic form إخوان, whose core sense is brothers, brethren.",
+      "meaning_section": "The central meaning of Ikhwan is brothers, brethren.",
+      "origin_section": "Ikhwan is associated with Arabic rather than with a different language.",
+      "islam_section": "Ikhwan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ikhwan is with the sense brothers.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ikhwan",
+      "#IkhwanMeaning",
+      "#IkhwanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The term Ikhwan holds significant cultural relevance throughout Islamic history, particularly through various brotherhoods and Sufi orders. These sisterhoods and brotherhoods served as spiritual networks, creating a sense of unity and brotherhood within the Muslim community. Ikhwan gained prominence during the 18th and 19th centuries and contributed significantly to the Islamic world in terms of spreading knowledge, promoting peace, and enhancing cultural development.",
-    "spiritual_significance": "The name Ikhwan holds deep spiritual meaning, representing brotherly love, unity, and commitment among believers. This unity transcends the mere human level and extends into the spiritual realm, highlighting the bond between individuals within their submission to Allah (God). In a Sufi context, the term Ikhwan is used to describe the relationship between the novice (murid) and their spiritual guide (shaikh), emphasizing the idea of being brothers in the path of spiritual development. This bond fosters a sense of commitment, trust, and mutual respect between both parties, ultimately leading to spiritual growth.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The Ikhwan (Brotherhood) was a conservative Islamic movement in Saudi Arabia, founded in 1912 by Ibn Saud and his brother Faisal. The Ikhwan's main goal was to spread the influence of Wahhabism, an ultra-conservative form of Sunni Islam, throughout the Arabian Peninsula.",
-        "time_period": "1912-1925",
-        "context": "Ibn Saud and Faisal, leaders of the Al-Saud family, formed the Ikhwan as a military and religious force to help extend their control over the Arabian Peninsula. The Ikhwan followed the teachings of Muhammad ibn Abd al-Wahhab, a religious leader who advocated the purification of Islam and the elimination of practices considered un-Islamic."
-      },
-      {
-        "reference": "The Ikhwan, also known as the Wahhabi Ikhwan or the Saudi Ikhwan, played a significant role in the unification of Saudi Arabia under King Abdulaziz Al Saud in the late 1920s. However, their rigid and fundamentalist interpretation of Islam led to conflicts with the Saudi royal family and other religious groups, ultimately resulting in their suppression in the 1920s and 1930s.",
-        "time_period": "1925-1930s",
-        "context": "After the successful unification of Saudi Arabia under King Abdulaziz Al Saud, the Ikhwan's strict and uncompromising interpretation of Islam clashed with the more moderate views of the Saudi royal family and other religious groups. This led to a series of rebellions, which were eventually suppressed by the Saudi military. The Ikhwan's influence declined, and they were effectively disbanded as a political force."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic brotherhood or fraternity",
-        "Sense of unity and solidarity among Muslims"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ikhwan corresponds to the Arabic form إخوان",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Ikhwan has the core sense brothers, brethren",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Muslim Brotherhood (political party in Egypt)",
-        "Ikhwan Online (social media platform)",
-        "Ikhwan Wal Fikr (intellectual movement)"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Ikhwan' (Arabic for 'brotherhood') has gained modern usage beyond its traditional Islamic context. It is often associated with organizations and movements that promote a sense of unity and solidarity among Muslims. One of the most well-known modern manifestations of this term is the Muslim Brotherhood, a political party in Egypt that emerged in the 1920s and has since become a major player in Egyptian politics. Another example is Ikhwan Online, a social media platform used by Muslims around the world to connect and share information and ideas. Finally, Ikhwan Wal Fikr is an intellectual movement that seeks to promote Islamic thought and values in contemporary society. Overall, the use of the term 'Ikhwan' reflects a desire among Muslims to build communities and networks based on shared religious and cultural values."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Ikhwan",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Zainab Ikhwan in Cairo, Egypt attributes much of their success to the blessing of their name Ikhwan, which means \"Brotherhood\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Brotherhood\" symbolizes A name derived from the Arabic root ‘k-h-w’, meaning ‘brother’. In Islamic history, Ikhwan refers to various brotherhoods and Sufi orders. This name represents unity, brotherhood, and spiritual connection.. In Islamic spirituality, bearing the name Ikhwan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of brotherhood.",
-    "created_at": "2025-12-22T19:19:49.944Z",
-    "updated_at": "2025-12-22T04:53:15.605Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1488,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ikhwan",
-      "description": "Brotherhood",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Ikhwan",
+        "ikhwan"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ikhwan",
-          "description": "Discover the meaning of Ikhwan - \"Brotherhood\"",
-          "image": "/images/social/ikhwan-facebook.jpg"
+      "description": "A name associated with the Arabic form إخوان, meaning brothers, brethren.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ikhwan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ikhwan - Name Meaning",
-          "description": "Learn about the beautiful name Ikhwan",
-          "image": "/images/social/ikhwan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ikhwan",
-          "description": "Name meaning: Brotherhood",
-          "image": "/images/social/ikhwan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ikhwan - Meaning: Brotherhood",
-        "email_subject": "Beautiful Name: Ikhwan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ikhwan with meaning Brotherhood",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ikhwan, associated with the Arabic form إخوان, meaning brothers, brethren."
     },
-    "similar_sounding_names": [
-      "isa",
-      "iqrit",
-      "izzannisa",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

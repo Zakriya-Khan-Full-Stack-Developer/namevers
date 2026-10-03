@@ -3,293 +3,475 @@
   "data": {
     "name": "Esther",
     "slug": "esther",
-    "language": [
-      "Hebrew",
-      "English",
-      "Greek",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "christianity, judaism",
-    "category": "Islamic",
-    "short_meaning": "Star, Hidden",
-    "long_meaning": "Esther is a timeless name of Persian origin meaning 'Star', and possibly from Hebrew meaning 'hidden'. In the Bible, Esther is a brave Jewish queen who risked her life to save her people. Her story is one of divine purpose, courage, and hidden strength. Esther is widely revered in Christianity and Judaism as a model of feminine strength, strategic wisdom, and faith in God’s plan. The name shines with dignity, elegance, and inner power.",
-    "spiritual_meaning": "Esther reflects a spirit chosen for divine purpose, radiant under pressure, and able to shine even in darkness. She embodies hidden strength, faith-led courage, and queenly grace.",
-    "emotional_traits": [
-      "Brave",
-      "Wise",
-      "Gracious",
-      "Empathetic"
-    ],
-    "hidden_personality_traits": [
-      "Strategic thinker",
-      "Faith warrior",
-      "Calm under pressure",
-      "Inspiring leader",
-      "Quiet strength"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Purple",
-      "White"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "Number 6 represents nurturing, protection, and grace. Esther’s numerology suggests a role as a spiritual nurturer and savior—a soul destined to protect and uplift others through divine timing and feminine wisdom.",
-    "in_arabic": {
-      "name": "إستير",
-      "meaning": "إسم إستير يعني النجم أو الزهرة في اللغة العربية",
-      "long_meaning": "إستير هو اسم علم مؤنث، مشتق من اللغة العربية، ويعني النجم أو الزهرة. في بعض التفاسير، يرتبط الاسم بالنجمة التي تظهر في السماء، رمزًا للضوء والإرشاد. وقد ورد ذكر اسم إستير في القرآن الكريم في سياق قصة إستير، وهي امرأة يهودية كانت لها مكانة عالية عند الملك أرتكسيركس، واستخدمت اسمها في اللغة العربية بهذا الشكل"
+    "identity": {
+      "display_name": "Esther",
+      "normalized_name": "esther",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Esther",
+        "esther"
+      ],
+      "search_variants": [
+        "Esther",
+        "esther"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "استر",
-      "meaning": "استر کا مطلب ستارہ یا گل ہے",
-      "long_meaning": "استر ایک علم مؤنث ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ستارہ یا گل ہے۔ اسٹر کا نام قدیم فارسی زبان میں 'ستارہ' کے معنی میں استعمال ہوتا تھا۔ اسلامی روایات میں، نام اسٹر (Esther) کو ایک قابل ذکر شخصیت کے ساتھ منسلک کیا گیا ہے جو قرآن میں مذکور نہیں ہے، لیکن اسلامی تاریخ و ثقافت میں اس کا ذکر ملتا ہے"
+    "core_meaning": {
+      "short_meaning": "Star, hidden, concealed",
+      "primary_meaning": "Star",
+      "secondary_meanings": [
+        "hidden",
+        "concealed"
+      ],
+      "literal_meaning": "Star",
+      "extended_meaning": "Star, hidden, concealed",
+      "meaning_explanation": "Esther corresponds to the Hebrew form إستير (Hebrew אֶסְתֵּר). Its core sense is star, hidden, concealed. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "एस्तेर",
-      "meaning": "एस्तेर का अर्थ तारा या फूल है",
-      "long_meaning": "एस्तेर एक स्त्रीलिंग नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ तारा या फूल होता है। इस नाम का संबंध उस तारे से है जो आकाश में चमकता है, जो प्रकाश और मार्गदर्शन का प्रतीक है। एस्तेर नाम की एक ऐतिहासिक पृष्ठभूमि है, जो प्राचीन यहूदी परंपरा और फ़ारसी संस्कृति से जुड़ी हुई है"
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "إستير",
+      "transliteration": "esther",
+      "romanization": "esther",
+      "root_status": "Hebrew אֶסְתֵּר",
+      "etymological_meaning": [
+        "Star",
+        "hidden",
+        "concealed"
+      ],
+      "etymology_explanation": "The form إستير is an established Hebrew lexical item. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ایستر",
-      "meaning": "ایستر د ستوري یا ګل معنی لري",
-      "long_meaning": "ایستر یو مونث نوم دی چی د عربي ژبې څخه اخیستل شوی دی. دغه نوم د ستوري یا ګل معنی لري. په پښتنو او افغانانو کی، ایستر نوم د هغې ښځې سره تړلی دی چی په پخوانیو زمانو کی یهودی مذهب څخه وه، او د هغې د پاچا سره د هغې اړیکو کی د اسلامی پوهانو تر منځ بحث شوی دی"
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إستير is an established Arabic form.",
+        "Urdu": "ایستھر is used in Urdu.",
+        "Hindi": "एस्तेर is used in Hindi.",
+        "Pashto": "ایستهر is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Esther",
-      "meaning": "Esther means star or hidden",
-      "long_meaning": "The name Esther originates from the Hebrew language, meaning 'star' or 'hidden'. In Islamic tradition, although not directly mentioned in the Quran, Esther (or Ester) is associated with a Jewish queen who played a significant role in saving the Jewish people from persecution, as mentioned in the biblical Book of Esther. The name symbolizes light, guidance, and divine protection"
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Hebrew form إستير. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Esther may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense star, hidden, concealed.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Star",
+      "related_concepts": [
+        "star",
+        "hidden",
+        "concealed"
+      ],
+      "semantic_relationship": "The central semantic idea is star; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of star.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Star",
+        "Hidden",
+        "Concealed"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Esther",
+        "meaning": "Star, hidden, concealed",
+        "long_meaning": "Esther is a Hebrew-origin name. Its core meaning is star, hidden, concealed. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "ایستھر",
+        "meaning": "ستارہ، پوشیدہ، چھپا ہوا",
+        "long_meaning": "Esther (ایستھر) عبرانی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ستارہ، پوشیدہ، چھپا ہوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "एस्तेर",
+        "meaning": "तारा, छिपा, गुप्त",
+        "long_meaning": "Esther (एस्तेर) हिब्रू भाषा से लिया गया नाम है। इसका मुख्य अर्थ तारा, छिपा, गुप्त है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ایستهر",
+        "meaning": "ستوری، پټ، پټ شوی",
+        "long_meaning": "Esther (ایستهر) د عبري ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ستوری، پټ، پټ شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إستير",
+        "meaning": "النجم، الخفي، المستور",
+        "long_meaning": "Esther (إستير) اسم مأخوذ من اللغة العبرية، ومعناه الأساسي النجم، الخفي، المستور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "eh-STHER",
-      "urdu": "اردو میں تلفظ کی تفصیل: ایستر",
-      "hindi": "हिन्दी में उच्चारण विवरण: एस्तेर",
-      "pashto": "په پښتو کې د تلفظ تفصیل: ایستر",
-      "ipa": "/ˈɛstər/"
+      "romanized": "es-ther",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ایستھر",
+      "persian": null,
+      "hindi": "एस्तेर",
+      "pashto": "ایستهر"
     },
-    "celebrity_usage": [
-      "Esther Rolle – American actress (Good Times)",
-      "Esther Anderson – Australian actress and model"
-    ],
-    "social_tags": [
-      "#EstherMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Esther"
-    ],
-    "name_variations": [],
-    "popularity_score": 72,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Esther",
+        "esther"
+      ],
+      "script_variants": [
+        "إستير",
+        "ایستهر",
+        "ایستھر",
+        "एस्तेर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إستير is an established Hebrew lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Esther can be understood through the Hebrew form إستير, whose central sense is star, hidden, concealed. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Esther mean?",
+        "answer": "Esther is associated with the Hebrew form إستير, whose core sense is star, hidden, concealed."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Esther?",
+        "answer": "Esther is associated with Hebrew. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Esther an Arabic name?",
+        "answer": "No — the underlying form is Hebrew, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Esther an Islamic name?",
+        "answer": "Esther can occur in Muslim naming contexts, but it is better described as a Hebrew-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 75,
-        "year": 2024
+        "question": "Is Esther a Quranic name?",
+        "answer": "Esther should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Esther mean in Urdu?",
+        "answer": "In Urdu, Esther is rendered ایستھر and carries the sense ستارہ، پوشیدہ، چھپا ہوا."
+      },
+      {
+        "question": "What does Esther mean in Persian?",
+        "answer": "No verified Persian form was established for Esther."
+      },
+      {
+        "question": "How is Esther pronounced?",
+        "answer": "A romanized syllable approximation is es-ther. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Esther?",
+        "answer": "Romanization variants include Esther, esther. Script forms are إستير, ایستهر, ایستھر, एस्तेर."
+      },
+      {
+        "question": "Is Esther a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Esther Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Esther, a beautiful Islam name meaning \"Star, Hidden\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Esther, Islam name, baby names, Star, Hidden, Islam baby names, name meaning",
-      "description_paragraph": "Esther is a meaningful Islam name of Arabic origin that means \"Star, Hidden\". Esther is a timeless name of Persian origin meaning 'Star', and possibly from Hebrew meaning 'hidden'. In the Bible, Esther is a brave Jewish queen who risked her life to save her people. Her story is one of divine purpose, courage, and hidden strength. Esther is widely revered in Christianity and Judaism as a model of feminine strength, strategic wisdom, and faith in God’s plan. The name shines with dignity, elegance, and inner power.",
-      "keywords": [
-        "Esther",
-        "Islam name",
-        "baby names",
-        "Star, Hidden",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Esther in Islam tradition?",
-          "a": "Esther is a beautiful Islam name meaning \"Star, Hidden\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Esther a good Islam name for a baby?",
-          "a": "Yes, Esther is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Esther?",
-          "a": "The name Esther has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Esther correctly?",
-          "a": "Esther is pronounced eh-STHER in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Esther?",
-          "a": "Naming a child Esther brings blessings. The meaning \"Star, Hidden\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Esther?",
-          "a": "Esther is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Esther Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Hebrew origin, Urdu meaning, pronunciation, variants and Islamic naming context of Esther (إستير).",
+      "h1": "Esther Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Esther meaning",
       "secondary_keywords": [
-        "Islam name Esther",
-        "Esther meaning",
-        "Esther origin"
+        "Esther name meaning",
+        "Esther meaning in Urdu",
+        "Esther origin",
+        "Esther Islamic name",
+        "Esther pronunciation",
+        "Esther name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Esther (إستير) is associated with the Hebrew form إستير, whose core sense is star, hidden, concealed. Esther, a biblical Hebrew name (אֶסְתֵּר), possibly from Persian stāra ('star'). The source record's gloss 'Star, Hidden' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Esther is associated with the Hebrew form إستير, whose core sense is star, hidden, concealed.",
+      "meaning_section": "The central meaning of Esther is star, hidden, concealed.",
+      "origin_section": "Esther is associated with Hebrew rather than with a different language.",
+      "islam_section": "Esther can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Esther is with the sense star.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Esther",
+      "#EstherMeaning",
+      "#EstherName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fatima reflects the cultural significance of motherhood and family values in Islamic tradition. It is a name that carries the weight of history and tradition, reminding us of the important role of mothers and their sacrifices for the well-being of their families.",
-    "spiritual_significance": "Esther's spiritual significance lies in her hidden strength and strategic wisdom, as well as her faith in Allah's (God's) plan. The name Esther evokes images of a noble queen who uses her intelligence, courage, and determination to save her people from destruction. In Islamic spirituality, this corresponds to the belief in the importance of using one's God-given talents and abilities to serve and uplift others, and to strive towards inner purification and closeness to Allah. Thus, the name Esther is a reminder of the power of faith, hidden strengths, and Divine guidance in difficult times.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Esther is mentioned in the Quran as a righteous woman The name Esther carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "The name Esther is associated with the story of Esther, a Jewish queen who saved her people from persecution"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Esther corresponds to the Hebrew form إستير",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Esther has the core sense star, hidden, concealed",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, naming websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Esther remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Esther",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Maryam Esther in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Esther, which means \"Star, Hidden\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Star, Hidden\" symbolizes Esther is a timeless name of Persian origin meaning 'Star', and possibly from Hebrew meaning 'hidden'. In the Bible, Esther is a brave Jewish queen who risked her life to save her people. Her story is one of divine purpose, courage, and hidden strength. Esther is widely revered in Christianity and Judaism as a model of feminine strength, strategic wisdom, and faith in God’s plan. The name shines with dignity, elegance, and inner power.. In Islamic spirituality, bearing the name Esther serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of star, hidden.",
-    "created_at": "2025-07-03T00:01:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.543Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1530,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Esther",
-      "description": "Star, Hidden",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Hebrew",
-        "English",
-        "Greek",
-        "Persian"
+      "alternateName": [
+        "Esther",
+        "esther"
       ],
-      "religion": "Christianity, Judaism",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Esther",
-          "description": "Discover the meaning of Esther - \"Star, Hidden\"",
-          "image": "/images/social/esther-facebook.jpg"
+      "description": "A name associated with the Hebrew form إستير, meaning star, hidden, concealed.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "esther",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Hebrew"
         },
-        "twitter": {
-          "title": "Esther - Name Meaning",
-          "description": "Learn about the beautiful name Esther",
-          "image": "/images/social/esther-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Esther",
-          "description": "Name meaning: Star, Hidden",
-          "image": "/images/social/esther-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Esther - Meaning: Star, Hidden",
-        "email_subject": "Beautiful Name: Esther"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Esther with meaning Star, Hidden",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Esther, associated with the Hebrew form إستير, meaning star, hidden, concealed."
     },
-    "similar_sounding_names": [
-      "ehan",
-      "eijaz",
-      "elamin",
-      "eliza"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

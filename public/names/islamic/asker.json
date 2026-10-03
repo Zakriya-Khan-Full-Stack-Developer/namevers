@@ -3,299 +3,471 @@
   "data": {
     "name": "Asker",
     "slug": "asker",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Asker, a warrior, is someone who fights for a cause.",
-    "long_meaning": "The name Askariy, Askariyyah, Askari, or Askara means 'soldier' or 'warrior' in Arabic. Askariy is derived from the root as-karana, which means 'to fight'. This name is given to someone who is brave, courageous, and heroic. It is a name that signifies protection, strength, and defense. Askariy is a powerful name that inspires courage and determination. It is a name that is loved by parents who want to give their child a name that is filled with meaning and significance.",
-    "spiritual_meaning": "Asker is a name that represents the warrior within each of us. It reminds us of the courage and strength that we possess, and encourages us to use it for good.",
-    "emotional_traits": [
-      "Brave",
-      "Courageous",
-      "Heroic"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Loyal",
-      "Protective"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green",
-      "Grey"
-    ],
-    "lucky_stone": "Sapphire",
-    "life_path_number": 3,
-    "numerology_meaning": "The number 3 is associated with creativity, self-expression, and communication. It is a number that encourages us to express ourselves freely and to communicate our ideas and emotions to the world.",
-    "in_arabic": {
-      "name": "عسكر",
-      "meaning": "جمع عسكر يعني الجيش أو الجماعة المسلحة",
-      "long_meaning": "اسم عسكر مشتق من الجذر العربي 'ع س ك ر' والذي يعني التجمع أو الجمع. في اللغة العربية، عسكر يُستخدم للإشارة إلى الجيش أو الجماعة المسلحة. كما يمكن أن يعني المكان الذي يتم فيه تجميع الجيش أو القوات العسكرية. في بعض الأحيان، يُستخدم اسم عسكر كاسم علم شخصي، مُستوحى من معاني القوة والحماية."
+    "identity": {
+      "display_name": "Asker",
+      "normalized_name": "asker",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Asker",
+        "asker"
+      ],
+      "search_variants": [
+        "Asker",
+        "asker"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عسكر",
-      "meaning": "عسكر کا مطلب ہے فوج یا مسلح گروہ",
-      "long_meaning": "عسكر نام عربی جڑ 'ع س ك ر' سے نکلا ہے جس کا مطلب ہے جمع ہونا یا گروه بنانا۔ اردو میں، عسكر کا استعمال فوج یا مسلح گروہ کے لئے ہوتا ہے۔ یہ نام قوت، براعت اور حفاظت کی صفات سے وابستہ ہے۔ اسلامی روایت میں، عسكر نام اچھے معنی اور مبارک سمجھا جاتا ہے."
+    "core_meaning": {
+      "short_meaning": "Warrior",
+      "primary_meaning": "Warrior",
+      "secondary_meanings": [],
+      "literal_meaning": "Warrior",
+      "extended_meaning": "Warrior",
+      "meaning_explanation": "Asker corresponds to the Arabic form عسكر (ع س ك ر). Its core sense is warrior. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अस्कर",
-      "meaning": "अस्कर का अर्थ है सेना या सशस्त्र समूह",
-      "long_meaning": "अस्कर नाम अरबी मूल 'अ स क र' से निकला है, जिसका अर्थ है एकत्रित होना या समूह बनाना। हिंदी में, असकर का उपयोग सेना या सशस्त्र समूह के लिए किया जाता है। यह नाम शक्ति, बहादुरी और सुरक्षा के गुणों से जुड़ा है। भारतीय मुस्लिम समुदाय में, असकर नाम को अच्छे अर्थों और आशीर्वाद के रूप में देखा जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عسكر",
+      "transliteration": "asker",
+      "romanization": "asker",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Warrior"
+      ],
+      "etymology_explanation": "The form عسكر is an established Arabic lexical item. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عسکر",
-      "meaning": "عسکر د فوج یا مسلح ډلې معنی لري",
-      "long_meaning": "عسکر نوم د عربی جڑ 'ع س ك ر' څخه اخیستل شوی دی، کوم چې د راټول یا ډلې جوړولو معنی لري. په پښتو کې، عسکر د فوج یا مسلح ډلې لپاره کارول کیږي. دا نوم د ځواک، زړورتیا او خوندیتوب صفاتو سره تړلی دی. په افغان او پښتون دود کې، عسکر نوم ښه معنی او برکت ګڼل کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عسكر is an established Arabic form.",
+        "Urdu": "عسکر is used in Urdu.",
+        "Hindi": "अस्केर is used in Hindi.",
+        "Pashto": "عسکر is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Asker",
-      "meaning": "Asker means army or armed group",
-      "long_meaning": "The name Asker originates from the Arabic root 'ع س ك ر' (ʿ-s-k-r), which means to gather or assemble. In Arabic, the term 'asker' refers to an army or an armed group. The name is associated with qualities of strength, courage, and protection. Historically, it has been used in various Islamic cultures to signify a person of valor and defense. The name Asker is considered to carry positive connotations and blessings in Islamic tradition."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عسكر. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Asker may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense warrior.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Warrior",
+      "related_concepts": [
+        "warrior"
+      ],
+      "semantic_relationship": "The central semantic idea is warrior; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of warrior.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Warrior"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Asker",
+        "meaning": "Warrior",
+        "long_meaning": "Asker is a Arabic-origin name. Its core meaning is warrior. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation."
+      },
+      "urdu": {
+        "name": "عسکر",
+        "meaning": "جنگجو",
+        "long_meaning": "Asker (عسکر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جنگجو ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अस्केर",
+        "meaning": "योद्धा",
+        "long_meaning": "Asker (अस्केर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ योद्धा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عسکر",
+        "meaning": "جنګیالی",
+        "long_meaning": "Asker (عسکر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جنګیالی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عسكر",
+        "meaning": "المحارب",
+        "long_meaning": "Asker (عسكر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المحارب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-skair",
-      "urdu": "اردو میں تلفظ کی تفصیل: عَسْکَر",
-      "hindi": "हिन्दी में उच्चारण विवरण: अस्कर",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عسکر",
-      "ipa": "/ˈɑːskər/"
+      "romanized": "as-ker",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عسکر",
+      "persian": null,
+      "hindi": "अस्केर",
+      "pashto": "عسکر"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AskerMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Asker"
-    ],
-    "name_variations": [],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Asker",
+        "asker"
+      ],
+      "script_variants": [
+        "عسكر",
+        "عسکر",
+        "अस्केर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عسكر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Asker can be understood through the Arabic form عسكر, whose central sense is warrior. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 90,
-        "year": 2024
+        "question": "What does Asker mean?",
+        "answer": "Asker is associated with the Arabic form عسكر, whose core sense is warrior."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Asker?",
+        "answer": "Asker is associated with Arabic. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Asker an Arabic name?",
+        "answer": "Yes — the underlying form عسكر is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Asker an Islamic name?",
+        "answer": "Asker can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 79,
-        "year": 2024
+        "question": "Is Asker a Quranic name?",
+        "answer": "Asker should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Asker mean in Urdu?",
+        "answer": "In Urdu, Asker is rendered عسکر and carries the sense جنگجو."
+      },
+      {
+        "question": "What does Asker mean in Persian?",
+        "answer": "No verified Persian form was established for Asker."
+      },
+      {
+        "question": "How is Asker pronounced?",
+        "answer": "A romanized syllable approximation is as-ker. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Asker?",
+        "answer": "Romanization variants include Asker, asker. Script forms are عسكر, عسکر, अस्केर."
+      },
+      {
+        "question": "Is Asker a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Asker Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Asker, a beautiful Islam name meaning \"Asker, a warrior, is someone who fights for a cause.\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Asker, Islam name, baby names, Asker, a warrior, is someone who fights for a cause., Islam baby names, name meaning",
-      "description_paragraph": "Asker is a meaningful Islam name of Arabic origin that means \"Asker, a warrior, is someone who fights for a cause.\". The name Askariy, Askariyyah, Askari, or Askara means 'soldier' or 'warrior' in Arabic. Askariy is derived from the root as-karana, which means 'to fight'. This name is given to someone who is brave, courageous, and heroic. It is a name that signifies protection, strength, and defense. Askariy is a powerful name that inspires courage and determination. It is a name that is loved by parents who want to give their child a name that is filled with meaning and significance.",
-      "keywords": [
-        "Asker",
-        "Islam name",
-        "baby names",
-        "Asker, a warrior, is someone who fights for a cause.",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Asker in Islam tradition?",
-          "a": "Asker is a beautiful Islam name meaning \"Asker, a warrior, is someone who fights for a cause.\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Asker a good Islam name for a baby?",
-          "a": "Yes, Asker is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Asker?",
-          "a": "The name Asker has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Asker correctly?",
-          "a": "Asker is pronounced ah-skair in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Asker?",
-          "a": "Naming a child Asker brings blessings. The meaning \"Asker, a warrior, is someone who fights for a cause.\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Asker?",
-          "a": "Asker is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Asker Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Asker (عسكر).",
+      "h1": "Asker Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Asker meaning",
       "secondary_keywords": [
-        "Islam name Asker",
-        "Asker meaning",
-        "Asker origin"
+        "Asker name meaning",
+        "Asker meaning in Urdu",
+        "Asker origin",
+        "Asker Islamic name",
+        "Asker pronunciation",
+        "Asker name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Asker (عسكر) is associated with the Arabic form عسكر, whose core sense is warrior. Variant romanization of عسكر ('army'). The source record's gloss 'a warrior' is an approximation.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Asker is associated with the Arabic form عسكر, whose core sense is warrior.",
+      "meaning_section": "The central meaning of Asker is warrior.",
+      "origin_section": "Asker is associated with Arabic rather than with a different language.",
+      "islam_section": "Asker can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Asker is with the sense warrior.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Asker",
+      "#AskerMeaning",
+      "#AskerName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Askariy is a name deeply ingrained in Islamic history and culture. In the early Islamic period, the term Askari was used to describe soldiers who defended the borders of the Islamic Caliphate and protected the Muslim community from external threats. The soldiers were charged with the noble duty of safeguarding the faith, lands, and peoples of the Muslim world. The name Askariy is a reminder of the importance of bravery, courage, and self-sacrifice in the pursuit of protecting the values and lifestyle of Islam. The name continues to resonate in the present day, as the term Askari is often used to describe soldiers or defenders of the faith in various Islamic communities around the world.",
-    "spiritual_significance": "The name Askariy holds deep spiritual significance in Islam. It is a reminder that every Muslim has a duty to defend their faith and loved ones against all forms of oppression and adversity. The name Askariy inspires courage, determination, and a sense of duty to protect and defend the values and lifestyle of Islam. It is a name that encourages individuals to stand up for what is right and just, and to be a source of strength and support for their community. The name Askariy is a powerful reminder that every Muslim is part of a larger collective, and that the strength and resilience of the community depends on each individual's commitment to upholding the values and principles of Islam.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Hajar al-Asqalani mentioned Al-Askar as a title given to the Abbasid Caliph Al-Musta'in Billah (r. 862-866 CE). It was derived from the Arabic word askar, meaning 'army' or 'soldiers', reflecting the caliph's role as commander of the military forces.",
-        "time_period": "862-866 CE",
-        "context": "Abbasid Caliphate, Middle Ages, Islamic History"
-      },
-      {
-        "reference": "Ibn Khaldun, in his 'Muqaddimah', described Askar as a city in North Africa, which was the capital of the Hammadid empire (1014-1152 CE). It was renowned for its military strength and was the base for the Hammadid army, which played a significant role in the Islamic world during the High Middle Ages.",
-        "time_period": "1014-1152 CE",
-        "context": "Hammadid Empire, North Africa, Islamic History"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "militant groups",
-        "cybersecurity",
-        "gaming"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Asker corresponds to the Arabic form عسكر",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Asker has the core sense warrior",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Twitter",
-        "Facebook",
-        "Discord"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic name 'Asker' has seen modern usage in various contexts. In militant groups, Askers are individuals who dedicate themselves to jihad, either physically or through online activities such as propaganda and recruitment. In cybersecurity, Askers are individuals who use their skills to protect Islamic communities and organizations from cyber threats. In the gaming world, Askers are players who use the name as a nod to the historical meaning of 'Asker' - a warrior or soldier."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Asker",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Maryam Asker in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Asker, which means \"Asker, a warrior, is someone who fights for a cause.\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Asker, a warrior, is someone who fights for a cause.\" symbolizes The name Askariy, Askariyyah, Askari, or Askara means 'soldier' or 'warrior' in Arabic. Askariy is derived from the root as-karana, which means 'to fight'. This name is given to someone who is brave, courageous, and heroic. It is a name that signifies protection, strength, and defense. Askariy is a powerful name that inspires courage and determination. It is a name that is loved by parents who want to give their child a name that is filled with meaning and significance.. In Islamic spirituality, bearing the name Asker serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of asker, a warrior, is someone who fights for a cause..",
-    "created_at": "2025-12-22T19:19:49.953Z",
-    "updated_at": "2025-12-22T04:53:15.709Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1370,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Asker",
-      "description": "Asker, a warrior, is someone who fights for a cause.",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Asker",
+        "asker"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Asker",
-          "description": "Discover the meaning of Asker - \"Asker, a warrior, is someone who fights for a cause.\"",
-          "image": "/images/social/asker-facebook.jpg"
+      "description": "A name associated with the Arabic form عسكر, meaning warrior.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "asker",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Asker - Name Meaning",
-          "description": "Learn about the beautiful name Asker",
-          "image": "/images/social/asker-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Asker",
-          "description": "Name meaning: Asker, a warrior, is someone who fights for a cause.",
-          "image": "/images/social/asker-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Asker - Meaning: Asker, a warrior, is someone who fights for a cause.",
-        "email_subject": "Beautiful Name: Asker"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Asker with meaning Asker, a warrior, is someone who fights for a cause.",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Asker, associated with the Arabic form عسكر, meaning warrior."
     },
-    "similar_sounding_names": [
-      "arsala",
-      "ayan",
-      "ada",
-      "azzahra",
-      "anaan",
-      "alma",
-      "ariana",
-      "anila",
-      "anya",
-      "ayra"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

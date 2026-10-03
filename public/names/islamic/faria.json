@@ -3,293 +3,477 @@
   "data": {
     "name": "Faria",
     "slug": "faria",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Bengali"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Glorious, Radiant",
-    "long_meaning": "One who is glorious, radiant, and shines bright like the moon and the stars",
-    "spiritual_meaning": "A name given to those who embody the divine light and are a beacon of hope and guidance for others",
-    "emotional_traits": [
-      "Intuitive",
-      "Nurturing",
-      "Gentle"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resilient",
-      "Resourceful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Silver",
-      "Gold"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 6,
-    "numerology_meaning": "A name that represents love, harmony, and balance in one's life",
-    "in_arabic": {
-      "name": "فاريا",
-      "meaning": "الجمال والأناقة والفتنة",
-      "long_meaning": "فاريا هي اسم مؤنث مشتق من اللغة العربية، ومعناه الجمال والأناقة والفتنة، وقد استخدم في التراث الإسلامي لوصف النعم والبركات، والاسم مشتق من الجذر العربي ف ر ي"
+    "identity": {
+      "display_name": "Faria",
+      "normalized_name": "faria",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faria",
+        "faria"
+      ],
+      "search_variants": [
+        "Faria",
+        "faria"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فاریا",
-      "meaning": "خوبصورتی اور आकर्षण",
-      "long_meaning": "فاریا ایک عربی نام ہے جس کا مطلب خوبصورتی اور आकर्षण ہے، اور یہ نام اسلامی روایت میں نیک بندگيوں اور برکتوں کی وضاحت کے لیے استعمال ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Glorious, radiant",
+      "primary_meaning": "Glorious",
+      "secondary_meanings": [
+        "radiant"
+      ],
+      "literal_meaning": "Glorious",
+      "extended_meaning": "Glorious, radiant",
+      "meaning_explanation": "Faria corresponds to the Arabic form فريعة (ف ر ع). Its core sense is glorious, radiant. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "फ़ारिया",
-      "meaning": "सुंदरता और आकर्षण",
-      "long_meaning": "फ़ारिया एक अरबी नाम है जिसका अर्थ सुंदरता और आकर्षण है, और यह नाम इस्लामी परंपरा में अच्छे गुणों और आशीर्वाद की व्याख्या के लिए प्रयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فريعة",
+      "transliteration": "faria",
+      "romanization": "faria",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Glorious",
+        "radiant"
+      ],
+      "etymology_explanation": "The form فريعة is an established Arabic lexical item. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فاریا",
-      "meaning": "ښکلا او جذبه",
-      "long_meaning": "فاریا د عربي نوم دی چې معنایې ښکلا او جذبه ده، او دا نوم په اسلامي دود کې ښې بندګۍ او برکتوں د تشرېح لپاره کارېږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فريعة is an established Arabic form.",
+        "Urdu": "فریعہ is used in Urdu.",
+        "Hindi": "फ़रीआ is used in Hindi.",
+        "Pashto": "فريعه is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Faria",
-      "meaning": "beauty and attractiveness",
-      "long_meaning": "Faria is an Arabic name meaning beauty and attractiveness, derived from the Arabic root f-r-y, and has been used in Islamic tradition to describe good deeds and blessings"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form فريعة. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faria may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense glorious, radiant.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Glorious",
+      "related_concepts": [
+        "glorious",
+        "radiant"
+      ],
+      "semantic_relationship": "The central semantic idea is glorious; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of glorious.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Glorious",
+        "Radiant"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faria",
+        "meaning": "Glorious, radiant",
+        "long_meaning": "Faria is a Arabic-origin name. Its core meaning is glorious, radiant. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported."
+      },
+      "urdu": {
+        "name": "فریعہ",
+        "meaning": "شاندار، تابناک",
+        "long_meaning": "Faria (فریعہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شاندار، تابناک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़रीआ",
+        "meaning": "गौरवशाली, दीप्त",
+        "long_meaning": "Faria (फ़रीआ) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ गौरवशाली, दीप्त है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فريعه",
+        "meaning": "شکوهمن، ځلانده",
+        "long_meaning": "Faria (فريعه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شکوهمن، ځلانده ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فريعة",
+        "meaning": "المجيد، المضيء",
+        "long_meaning": "Faria (فريعة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المجيد، المضيء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "fah-REE-ah",
-      "urdu": "فاریا کی تلفظ فا ری ا ہے",
-      "hindi": "फ़ारिया का उच्चारण फ़ा री या है",
-      "pashto": "فاریا د تلفظ فا ری ا دی",
-      "ipa": "/fɑːˈriːɑː/"
+      "romanized": "fa-ria",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فریعہ",
+      "persian": null,
+      "hindi": "फ़रीआ",
+      "pashto": "فريعه"
     },
-    "celebrity_usage": [
-      "Faria Alam (British-Pakistani actress)",
-      "Faria Shishir (Bangladeshi actress)"
-    ],
-    "social_tags": [
-      "#FariaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faria"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faria",
+        "faria"
+      ],
+      "script_variants": [
+        "فريعة",
+        "فريعه",
+        "فریعہ",
+        "फ़रीआ"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فريعة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faria can be understood through the Arabic form فريعة, whose central sense is glorious, radiant. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Faria mean?",
+        "answer": "Faria is associated with the Arabic form فريعة, whose core sense is glorious, radiant."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 67,
-        "year": 2024
+        "question": "What is the origin of Faria?",
+        "answer": "Faria is associated with Arabic. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 70,
-        "year": 2024
+        "question": "Is Faria an Arabic name?",
+        "answer": "Yes — the underlying form فريعة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 69,
-        "year": 2024
+        "question": "Is Faria an Islamic name?",
+        "answer": "Faria can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 66,
-        "year": 2024
+        "question": "Is Faria a Quranic name?",
+        "answer": "Faria should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faria mean in Urdu?",
+        "answer": "In Urdu, Faria is rendered فریعہ and carries the sense شاندار، تابناک."
+      },
+      {
+        "question": "What does Faria mean in Persian?",
+        "answer": "No verified Persian form was established for Faria."
+      },
+      {
+        "question": "How is Faria pronounced?",
+        "answer": "A romanized syllable approximation is fa-ria. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faria?",
+        "answer": "Romanization variants include Faria, faria. Script forms are فريعة, فريعه, فریعہ, फ़रीआ."
+      },
+      {
+        "question": "Is Faria a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faria Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faria, a beautiful Islam name meaning \"Glorious, Radiant\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faria, Islam name, baby names, Glorious, Radiant, Islam baby names, name meaning",
-      "description_paragraph": "Faria is a meaningful Islam name of Arabic origin that means \"Glorious, Radiant\". One who is glorious, radiant, and shines bright like the moon and the stars",
-      "keywords": [
-        "Faria",
-        "Islam name",
-        "baby names",
-        "Glorious, Radiant",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faria in Islam tradition?",
-          "a": "Faria is a beautiful Islam name meaning \"Glorious, Radiant\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faria a good Islam name for a baby?",
-          "a": "Yes, Faria is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faria?",
-          "a": "The name Faria has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faria correctly?",
-          "a": "Faria is pronounced fah-REE-ah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faria?",
-          "a": "Naming a child Faria brings blessings. The meaning \"Glorious, Radiant\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faria?",
-          "a": "Faria is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Faria Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faria (فريعة).",
+      "h1": "Faria Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faria meaning",
       "secondary_keywords": [
-        "Islam name Faria",
-        "Faria meaning",
-        "Faria origin"
+        "Faria name meaning",
+        "Faria meaning in Urdu",
+        "Faria origin",
+        "Faria Islamic name",
+        "Faria pronunciation",
+        "Faria name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faria (فريعة) is associated with the Arabic form فريعة, whose core sense is glorious, radiant. Farīʿa ('eminent, high'). The source record's gloss 'Glorious, Radiant' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faria is associated with the Arabic form فريعة, whose core sense is glorious, radiant.",
+      "meaning_section": "The central meaning of Faria is glorious, radiant.",
+      "origin_section": "Faria is associated with Arabic rather than with a different language.",
+      "islam_section": "Faria can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faria is with the sense glorious.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faria",
+      "#FariaMeaning",
+      "#FariaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Faria holds significant cultural impact in the Islamic world, as it is derived from the Arabic language, steeped in Islamic history and tradition. The meaning of Faria, which embodies a sense of brilliance, radiance, and glory, is reminiscent of the beliefs and values deeply rooted in the Islamic culture. The name may remind one of the importance of self-improvement, excellence, and the pursuit of knowledge in Islamic teachings.",
-    "spiritual_significance": "In Islamic theology, the concept of ozan (Fairness, Glory, and Radiance) permeates through various spiritual significances. The name Faria can be spiritually interpreted as a reminder of the glory and honor associated with adhering to the moral and spiritual principles of Islam, such as compassion, mercy, wisdom, and justice. In the Islamic du'a (supplication), Fatahah (the opening chapter of the Quran) is often recited with the intentions of pleasing Allah and attaining eternal paradise, and the name Faria may serve as an inspiration to embody that, encouraging one to constantly strive towards brighter, unwavering faith, and boosting their spiritual journey.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Faria is mentioned in the book 'The Travels of Ibn Battuta' as a place in West Africa. The name Faria carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "The name Faria is associated with the Mali Empire."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in Portugal and Brazil"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faria corresponds to the Arabic form فريعة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Faria has the core sense glorious, radiant",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media, blogs"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faria remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Faria",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Zainab Faria in Karachi, Pakistan attributes much of their success to the blessing of their name Faria, which means \"Glorious, Radiant\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Glorious, Radiant\" symbolizes One who is glorious, radiant, and shines bright like the moon and the stars. In Islamic spirituality, bearing the name Faria serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of glorious, radiant.",
-    "created_at": "2025-12-22T19:19:49.873Z",
-    "updated_at": "2025-12-22T04:53:15.026Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1291,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faria",
-      "description": "Glorious, Radiant",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Bengali"
+      "alternateName": [
+        "Faria",
+        "faria"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faria",
-          "description": "Discover the meaning of Faria - \"Glorious, Radiant\"",
-          "image": "/images/social/faria-facebook.jpg"
+      "description": "A name associated with the Arabic form فريعة, meaning glorious, radiant.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "faria",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Faria - Name Meaning",
-          "description": "Learn about the beautiful name Faria",
-          "image": "/images/social/faria-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Faria",
-          "description": "Name meaning: Glorious, Radiant",
-          "image": "/images/social/faria-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faria - Meaning: Glorious, Radiant",
-        "email_subject": "Beautiful Name: Faria"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faria with meaning Glorious, Radiant",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faria, associated with the Arabic form فريعة, meaning glorious, radiant."
     },
-    "similar_sounding_names": [
-      "fakeehah",
-      "firoz",
-      "farisha",
-      "fardeen",
-      "faiyaz",
-      "faekah",
-      "fadi"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

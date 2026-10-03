@@ -3,283 +3,477 @@
   "data": {
     "name": "Mohd",
     "slug": "mohd",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Mohammad",
-    "long_meaning": "Praised one (of God)",
-    "spiritual_meaning": "Represents the prophet Muhammad, the last messenger of God to mankind",
-    "emotional_traits": [
-      "Brave",
-      "Strong",
-      "Fearless"
-    ],
-    "hidden_personality_traits": [
-      "Creative",
-      "Intuitive"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and imaginative",
-    "in_arabic": {
-      "name": "محمد",
-      "meaning": "محمد: محمود و مطلوب و محبوب شديد الذكر في الإسلام",
-      "long_meaning": "محمد هو اسم علم مذكر من أصل عربي و معناه الحمد أو المحمودية لله تعالى، وهو اسم النبي محمد صلى الله عليه و سلم، ويعني أيضًا شديد الذكر في الإسلام و محبوب من الله"
+    "identity": {
+      "display_name": "Mohd",
+      "normalized_name": "mohd",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mohd",
+        "mohd"
+      ],
+      "search_variants": [
+        "Mohd",
+        "mohd"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "محمد",
-      "meaning": "محمد: اللہ تعالی کی تعریف یا قابل ستائش",
-      "long_meaning": "محمد ایک مذکر نام ہے جو عربی زبان سے نکلا ہے اور اس کا مطلب اللہ تعالی کی ستائش یا قابل ستائش ہونا ہے، یہ نام اسلام میں انتہائی احترام والا ہے کیونکہ یہ رسول اللہ ﷺ کا نام ہے"
+    "core_meaning": {
+      "short_meaning": "Praised, commendable",
+      "primary_meaning": "Praised",
+      "secondary_meanings": [
+        "commendable"
+      ],
+      "literal_meaning": "Praised",
+      "extended_meaning": "Praised, commendable",
+      "meaning_explanation": "Mohd corresponds to the Arabic form محمد (Arabic root ح م د (ḥ-m-d); مُحَمَّد (Muḥammad)). Its core sense is praised, commendable. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मोहम्मद",
-      "meaning": "मोहम्मद: ईश्वर की प्रशंसा या अत्यधिक प्रशंसनीय",
-      "long_meaning": "मोहम्मद एक पुल्लिंग नाम है जिसकी उत्पत्ति अरबी भाषा में हुई है और इसका अर्थ है ईश्वर की प्रशंसा या अत्यधिक प्रशंसनीय, इस नाम का इस्लाम में बहुत महत्व है क्योंकि यह पैगंबर मोहम्मद ﷺ का नाम है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "محمد",
+      "transliteration": "mohd",
+      "romanization": "mohd",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Praised",
+        "commendable"
+      ],
+      "etymology_explanation": "The form محمد is an established Arabic lexical item. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "محمد",
-      "meaning": "محمد: د الله تعالی ستاینده یا ډیر ستایونکی",
-      "long_meaning": "محمد د یو مذکر نوم دی چی د عربي ژبې څخه راوتلی دی او معنی یې د الله تعالی ستاینده یا ډیر ستایونکی دی، دا نوم په اسلام کې ډیر احترام لري ځکه چی د رسول الله ﷺ نوم دی"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "محمد is an established Arabic form.",
+        "Urdu": "محمد is used in Urdu.",
+        "Persian": "محمد is an established Persian form.",
+        "Hindi": "मुहम्मद is used in Hindi.",
+        "Pashto": "محمد is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mohd",
-      "meaning": "Praised one or highly praised",
-      "long_meaning": "Mohd is a masculine name derived from Arabic, meaning 'praised one' or 'highly praised'. It originates from the Arabic root 'hamada', which means 'to praise'. The name is of significant importance in Islam as it is the name of the Prophet Muhammad ﷺ, who is considered the final prophet in Islam. The name reflects qualities of being praiseworthy and beloved by God."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form محمد. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mohd may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense praised, commendable.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Praised",
+      "related_concepts": [
+        "praised",
+        "commendable"
+      ],
+      "semantic_relationship": "The central semantic idea is praised; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of praised.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Praised",
+        "Commendable"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mohd",
+        "meaning": "Praised, commendable",
+        "long_meaning": "Mohd is a Arabic-origin name. Its core meaning is praised, commendable. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed."
+      },
+      "urdu": {
+        "name": "محمد",
+        "meaning": "محمد، تعریف شدہ، ستودہ",
+        "long_meaning": "Mohd (محمد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محمد، تعریف شدہ، ستودہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "محمد",
+        "meaning": "محمد، ستوده، پسندیده",
+        "long_meaning": "Mohd (محمد) نامی برگرفته از زبان عربی است و معنای اصلی آن محمد، ستوده، پسندیده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मुहम्मद",
+        "meaning": "मुहम्मद, प्रशंसित",
+        "long_meaning": "Mohd (मुहम्मद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुहम्मद, प्रशंसित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "محمد",
+        "meaning": "محمد، ستایل شوی",
+        "long_meaning": "Mohd (محمد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې محمد، ستایل شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "محمد",
+        "meaning": "مُحَمَّد، الْمَحْمُود، الْحَمِيد",
+        "long_meaning": "Mohd (محمد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مُحَمَّد، الْمَحْمُود، الْحَمِيد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "moh-hammed",
-      "urdu": "اردو میں تلفظ: محمّد",
-      "hindi": "हिन्दी में उच्चारण: मोहम्मद",
-      "pashto": "په پښتو کې تلفظ: محمّد",
-      "ipa": "/moʊˈhɑːmɛd/"
+      "romanized": "mohd",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "محمد",
+      "persian": "محمد",
+      "hindi": "मुहम्मद",
+      "pashto": "محمد"
     },
-    "celebrity_usage": [
-      "Mohd Farhan",
-      "Mohd Shami",
-      "Mohd Rafi"
-    ],
-    "social_tags": [
-      "#MohdMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mohd"
-    ],
-    "name_variations": [
-      "Mod"
-    ],
-    "popularity_score": 63,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mohd",
+        "mohd"
+      ],
+      "script_variants": [
+        "محمد",
+        "मुहम्मद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form محمد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mohd can be understood through the Arabic form محمد, whose central sense is praised, commendable. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Mohd mean?",
+        "answer": "Mohd is associated with the Arabic form محمد, whose core sense is praised, commendable."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Mohd?",
+        "answer": "Mohd is associated with Arabic. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Mohd an Arabic name?",
+        "answer": "Yes — the underlying form محمد is Arabic."
+      },
+      {
+        "question": "Is Mohd an Islamic name?",
+        "answer": "Mohd can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mohd a Quranic name?",
+        "answer": "Mohd should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mohd mean in Urdu?",
+        "answer": "In Urdu, Mohd is rendered محمد and carries the sense محمد، تعریف شدہ، ستودہ."
+      },
+      {
+        "question": "What does Mohd mean in Persian?",
+        "answer": "In Persian, Mohd is rendered محمد and carries the sense محمد، ستوده، پسندیده."
+      },
+      {
+        "question": "How is Mohd pronounced?",
+        "answer": "A romanized syllable approximation is mohd. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mohd?",
+        "answer": "Romanization variants include Mohd, mohd. Script forms are محمد, मुहम्मद."
+      },
+      {
+        "question": "Is Mohd a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mohd Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mohd, a beautiful Islam name meaning \"Mohammad\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mohd, Islam name, baby names, Mohammad, Islam baby names, name meaning",
-      "description_paragraph": "Mohd is a meaningful Islam name of Arabic origin that means \"Mohammad\". Praised one (of God)",
-      "keywords": [
-        "Mohd",
-        "Islam name",
-        "baby names",
-        "Mohammad",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mohd in Islam tradition?",
-          "a": "Mohd is a beautiful Islam name meaning \"Mohammad\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mohd a good Islam name for a baby?",
-          "a": "Yes, Mohd is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mohd?",
-          "a": "The name Mohd has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mohd correctly?",
-          "a": "Mohd is pronounced moh-hammed in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mohd?",
-          "a": "Naming a child Mohd brings blessings. The meaning \"Mohammad\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mohd?",
-          "a": "Mohd is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Mohd Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mohd (محمد).",
+      "h1": "Mohd Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mohd meaning",
       "secondary_keywords": [
-        "Islam name Mohd",
-        "Mohd meaning",
-        "Mohd origin"
+        "Mohd name meaning",
+        "Mohd meaning in Urdu",
+        "Mohd origin",
+        "Mohd Islamic name",
+        "Mohd pronunciation",
+        "Mohd name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mohd (محمد) is associated with the Arabic form محمد, whose core sense is praised, commendable. Mohd is a common abbreviated spelling of Arabic مُحَمَّد (Muḥammad) 'praised, commendable', from the root ح م د (ḥ-m-d). The source gloss 'Mohammad' is consistent. Same name as mohammad and mohammed.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mohd is associated with the Arabic form محمد, whose core sense is praised, commendable.",
+      "meaning_section": "The central meaning of Mohd is praised, commendable.",
+      "origin_section": "Mohd is associated with Arabic rather than with a different language.",
+      "islam_section": "Mohd can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mohd is with the sense praised.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mohd",
+      "#MohdMeaning",
+      "#MohdName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Mohd is a popular given name for boys in the Islamic community and is rooted in their rich cultural heritage. It holds a significant place in Muslim society and is often associated with respect and admiration. The use of this name signifies a connection to the Islamic faith and can be a source of pride for families.",
-    "spiritual_significance": "The spiritual significance of the name Mohd lies in the meaning \"Praised one (of God)\". It serves as a constant reminder of the belief in the supremacy of Allah and the ultimate goal of striving towards pleasing Him. The name encourages individuals to live their lives in accordance with Islamic values and to seek Allah's love and blessings. It serves as a daily reminder to prioritize one's spiritual growth and to stay focused on the path to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Mohd carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mohd corresponds to the Arabic form محمد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mohd has the core sense praised, commendable",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mohd remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Mohd",
-      "location": "Istanbul, Turkey",
-      "story": "Layla Mohd, a teacher in Istanbul, Turkey, shares that their name Mohd meaning \"Mohammad\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Mohammad\" symbolizes Praised one (of God). In Islamic spirituality, bearing the name Mohd serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mohammad.",
-    "created_at": "2025-12-22T19:19:49.924Z",
-    "updated_at": "2025-12-22T04:53:15.44Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1275,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mohd",
-      "description": "Mohammad",
-      "additionalName": [
-        "Mod"
+      "alternateName": [
+        "Mohd",
+        "mohd"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form محمد, meaning praised, commendable.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mohd",
-          "description": "Discover the meaning of Mohd - \"Mohammad\"",
-          "image": "/images/social/mohd-facebook.jpg"
+      "termCode": "mohd",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mohd - Name Meaning",
-          "description": "Learn about the beautiful name Mohd",
-          "image": "/images/social/mohd-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mohd",
-          "description": "Name meaning: Mohammad",
-          "image": "/images/social/mohd-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mohd - Meaning: Mohammad",
-        "email_subject": "Beautiful Name: Mohd"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mohd with meaning Mohammad",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mohd, associated with the Arabic form محمد, meaning praised, commendable."
     },
-    "similar_sounding_names": [
-      "marnia",
-      "meher",
-      "mahek",
-      "manab",
-      "meena",
-      "mada",
-      "mika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

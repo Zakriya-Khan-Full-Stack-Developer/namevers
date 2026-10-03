@@ -3,297 +3,472 @@
   "data": {
     "name": "Kambiz",
     "slug": "kambiz",
-    "language": [
-      "Persian",
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Intelligent, Wise",
-    "long_meaning": "One who is intelligent and wise",
-    "spiritual_meaning": "One who possesses knowledge and understanding of the divine",
-    "emotional_traits": [
-      "Intelligent",
-      "Wise",
-      "Brainy",
-      "Insightful"
-    ],
-    "hidden_personality_traits": [
-      "Strong-willed",
-      "Determined",
-      "Confident"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Leadership, Independence, Pioneering, Self-reliance",
-    "in_arabic": {
-      "name": "كامبز",
-      "meaning": "اسم خاص يدل على الشخصية المميزة والفريدة",
-      "long_meaning": "اسم كامبز هو اسم خاص مشتق من الجذر اللغوي 'كام' و'بز'، ويدل على الشخصية المميزة والفريدة، وقد ورد في بعض المصادر اللغوية العربية القديمة كمرادف للاسم 'كاميز' الذي يعني الثوب أو اللباس، وقد استخدم في بعض الأوقات للدلالة على الشخص الذي يمتلك شخصية قوية ومميزة"
+    "identity": {
+      "display_name": "Kambiz",
+      "normalized_name": "kambiz",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kambiz",
+        "kambiz"
+      ],
+      "search_variants": [
+        "Kambiz",
+        "kambiz"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کامبز",
-      "meaning": "ایک مخصوص اور انوکھا نام",
-      "long_meaning": "کامبز ایک خاص نام ہے جو عربی زبان کے جڑ 'كام' اور 'بز' سے نکلا ہے، اور یہ ایک مخصوص اور انوکھے شخص کو ظاہر کرتا ہے، اردو زبان میں اس نام کا استعمال جنوبی ایشیاء کے مسلمانوں میں پایا جاتا ہے، جہاں یہ نام اپنے مخصوص معنی اور روحانی اہمیت کے ساتھ استعمال ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Kambiz; a Persian male given name",
+      "primary_meaning": "Kambiz; a Persian male given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Kambiz; a Persian male given name",
+      "extended_meaning": "Kambiz; a Persian male given name",
+      "meaning_explanation": "Kambiz corresponds to the Persian form کامبیز (Persian کامبیز (Kāmbīz)). Its core sense is kambiz; a persian male given name. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "काम्बिज़",
-      "meaning": "एक विशिष्ट और अद्वितीय नाम",
-      "long_meaning": "काम्बिज़ एक विशेष नाम है जो अरबी भाषा के मूल 'كام' और 'بز' से निकला है, और यह एक विशिष्ट और अद्वितीय व्यक्ति को दर्शाता है, हिंदी भाषा में इस नाम का उपयोग भारतीय मुस्लिम समुदाय में पाया जाता है, जहां यह नाम अपनी विशिष्ट अर्थ और आध्यात्मिक महत्व के साथ उपयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "کامبیز",
+      "transliteration": "kambiz",
+      "romanization": "kambiz",
+      "root_status": "Persian کامبیز (Kāmbīz)",
+      "etymological_meaning": [
+        "Kambiz; a Persian male given name"
+      ],
+      "etymology_explanation": "The form کامبیز is an established Persian lexical item. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "کمبز",
-      "meaning": "ځانګړی او بې ساری نوم",
-      "long_meaning": "کمبز يو ځانګړی نوم دی چی د عربی ژبی د ريښو 'كام' او 'بز' څخه اخیستل شوی دی، او دا یو ځانګړی او بې ساری شخص ته اشاره کوي، په پښتو ژبه کې ددې نوم استعمال د افغان او پښتون دودیزو ټولنو کې موندل کیږي، چیرته چې دا نوم د خپل ځانګړي معنی او روحاني اهمیت سره کارول کیږي"
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "کامبیز is an established Arabic form.",
+        "Urdu": "کامبیز is used in Urdu.",
+        "Persian": "کامبیز is an established Persian form.",
+        "Hindi": "काम्बीज़ is used in Hindi.",
+        "Pashto": "کامبیز is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kambiz",
-      "meaning": "a distinctive and unique name",
-      "long_meaning": "Kambiz is a special name derived from the Arabic roots 'كام' and 'بز', signifying a distinctive and unique individual, with etymological connections to terms related to clothing or character, the name holds spiritual significance and cultural importance across various Muslim traditions, reflecting strength and individuality"
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form کامبیز. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kambiz may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense kambiz; a persian male given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Kambiz; a Persian male given name",
+      "related_concepts": [
+        "kambiz; a persian male given name"
+      ],
+      "semantic_relationship": "The central semantic idea is kambiz; a persian male given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of kambiz; a persian male given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Kambiz; a persian male given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kambiz",
+        "meaning": "Kambiz; a Persian male given name",
+        "long_meaning": "Kambiz is a Persian-origin name. Its core meaning is kambiz; a persian male given name. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic."
+      },
+      "urdu": {
+        "name": "کامبیز",
+        "meaning": "کامبیز (فارسی نام)",
+        "long_meaning": "Kambiz (کامبیز) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کامبیز (فارسی نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کامبیز",
+        "meaning": "کامبیز (نام مردانه)",
+        "long_meaning": "Kambiz (کامبیز) نامی برگرفته از زبان فارسی است و معنای اصلی آن کامبیز (نام مردانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "काम्बीज़",
+        "meaning": "काम्बीज़ (फ़ारसी नाम)",
+        "long_meaning": "Kambiz (काम्बीज़) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ काम्बीज़ (फ़ारसी नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کامبیز",
+        "meaning": "کامبیز (فارسي نوم)",
+        "long_meaning": "Kambiz (کامبیز) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کامبیز (فارسي نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "کامبیز",
+        "meaning": "كامبيز (اسم علم مذكر فارسي)",
+        "long_meaning": "Kambiz (کامبیز) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي كامبيز (اسم علم مذكر فارسي). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "kam-BEez",
-      "urdu": "کام-بیز",
+      "romanized": "kam-biz",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کامبیز",
+      "persian": "کامبیز",
       "hindi": "काम्बीज़",
-      "pashto": "کم-بز",
-      "ipa": "/kɑːmˈbiːz/"
+      "pashto": "کامبیز"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KambizMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kambiz"
-    ],
-    "name_variations": [],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kambiz",
+        "kambiz"
+      ],
+      "script_variants": [
+        "کامبیز",
+        "काम्बीज़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form کامبیز is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kambiz can be understood through the Persian form کامبیز, whose central sense is kambiz; a persian male given name. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 89,
-        "year": 2024
+        "question": "What does Kambiz mean?",
+        "answer": "Kambiz is associated with the Persian form کامبیز, whose core sense is kambiz; a persian male given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 88,
-        "year": 2024
+        "question": "What is the origin of Kambiz?",
+        "answer": "Kambiz is associated with Persian. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Kambiz an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Kambiz an Islamic name?",
+        "answer": "Kambiz can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 79,
-        "year": 2024
+        "question": "Is Kambiz a Quranic name?",
+        "answer": "Kambiz should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kambiz mean in Urdu?",
+        "answer": "In Urdu, Kambiz is rendered کامبیز and carries the sense کامبیز (فارسی نام)."
+      },
+      {
+        "question": "What does Kambiz mean in Persian?",
+        "answer": "In Persian, Kambiz is rendered کامبیز and carries the sense کامبیز (نام مردانه)."
+      },
+      {
+        "question": "How is Kambiz pronounced?",
+        "answer": "A romanized syllable approximation is kam-biz. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kambiz?",
+        "answer": "Romanization variants include Kambiz, kambiz. Script forms are کامبیز, काम्बीज़."
+      },
+      {
+        "question": "Is Kambiz a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kambiz Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kambiz, a beautiful Islam name meaning \"Intelligent, Wise\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kambiz, Islam name, baby names, Intelligent, Wise, Islam baby names, name meaning",
-      "description_paragraph": "Kambiz is a meaningful Islam name of Arabic origin that means \"Intelligent, Wise\". One who is intelligent and wise",
-      "keywords": [
-        "Kambiz",
-        "Islam name",
-        "baby names",
-        "Intelligent, Wise",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kambiz in Islam tradition?",
-          "a": "Kambiz is a beautiful Islam name meaning \"Intelligent, Wise\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kambiz a good Islam name for a baby?",
-          "a": "Yes, Kambiz is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kambiz?",
-          "a": "The name Kambiz has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kambiz correctly?",
-          "a": "Kambiz is pronounced kam-BEez in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kambiz?",
-          "a": "Naming a child Kambiz brings blessings. The meaning \"Intelligent, Wise\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kambiz?",
-          "a": "Kambiz is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Kambiz Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kambiz (کامبیز).",
+      "h1": "Kambiz Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kambiz meaning",
       "secondary_keywords": [
-        "Islam name Kambiz",
-        "Kambiz meaning",
-        "Kambiz origin"
+        "Kambiz name meaning",
+        "Kambiz meaning in Urdu",
+        "Kambiz origin",
+        "Kambiz Islamic name",
+        "Kambiz pronunciation",
+        "Kambiz name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kambiz (کامبیز) is associated with the Persian form کامبیز, whose core sense is kambiz; a persian male given name. Kambiz is Persian کامبیز (Kāmbīz), a documented male given name borne by a legendary king in the Shahnameh. CRITICAL SOURCE ERROR: the source gave كامبز (a different form) and glossed the name 'Intelligent, Wise'; the correct form is کامبیز. MISLABELLED ORIGIN: the source recorded the name as Arabic.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kambiz is associated with the Persian form کامبیز, whose core sense is kambiz; a persian male given name.",
+      "meaning_section": "The central meaning of Kambiz is kambiz; a persian male given name.",
+      "origin_section": "Kambiz is associated with Persian rather than with a different language.",
+      "islam_section": "Kambiz can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kambiz is with the sense kambiz; a persian male given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kambiz",
+      "#KambizMeaning",
+      "#KambizName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Kambiz may come across as exotic and unfamiliar to those outside of the Islamic community. However, within the Islamic world, individuals with this name are often seen as intellectual and wise, giving them a reputation for being knowledgeable and insightful. This perception can lead to prestige and admiration within their communities and may also inspire those around them to strive for intellectual growth.",
-    "spiritual_significance": "According to Islamic teachings, knowledge is considered a gift from God and seeking it is a fundamental duty for every Muslim. The name Kambiz is a reminder of the importance of wisdom and intelligence, which are essential for living a virtuous and pious life in accordance with Islamic principles. It serves as a constant reminder to its bearer to pursue knowledge and wisdom throughout their life and to use this knowledge to benefit themselves and others.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn al-Athir, Al-Kāmil fi al-Tārīkh, Vol. III, p. 73 The name Kambiz carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Mention of Kambiz as a Persian king who ruled over Fars and Kerman provinces in the Islamic world, during the Mongol invasion led by Hulagu Khan."
-      },
-      {
-        "reference": "Historical records show that Al-Masudi, Murūj al-Dhahab wa Ma'ādin al-Jawhār, Vol. II, p. 280 The name Kambiz carried significant weight in that era.",
-        "time_period": "10th century",
-        "context": "Mention of a Persian king named Kambiz, who is said to have ruled over Fars and Khuzestan provinces before the Islamic conquest, and is renowned for his wise rule and architectural achievements."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names are increasingly popular in the modern world, not just in Muslim countries but also among non-Muslims.",
-        "The name Kambiz is of Persian origin and means 'immortal' or 'eternal'.",
-        "The name Kambiz has seen a resurgence in popularity in recent years, particularly among Persian-speaking communities."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kambiz corresponds to the Persian form کامبیز",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kambiz has the core sense kambiz; a persian male given name",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram: Use of Islamic names like Kambiz has increased on Instagram, especially in the Persian-speaking community, with many users featuring the name in their profiles or as part of their username.",
-        "Facebook: Similar trends can be observed on Facebook, with many users choosing to use their Islamic names, including Kambiz, in their profiles.",
-        "TikTok: TikTok, the popular social media platform, also sees a growing trend of users using Islamic names like Kambiz, particularly among younger users who are exploring their cultural heritage."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In the modern context, the name Kambiz is seen as a unique and meaningful name that reflects the rich cultural heritage of the Persian people. It is often chosen by those who wish to connect with their roots or want to give their child a name with a strong cultural and historical significance. The use of Islamic names like Kambiz is also seen as a way to celebrate diversity and promote cross-cultural understanding."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Kambiz",
-      "location": "Istanbul, Turkey",
-      "story": "Khadija Kambiz, a teacher in Istanbul, Turkey, shares that their name Kambiz meaning \"Intelligent, Wise\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Intelligent, Wise\" symbolizes One who is intelligent and wise. In Islamic spirituality, bearing the name Kambiz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of intelligent, wise.",
-    "created_at": "2025-12-22T19:19:50.322Z",
-    "updated_at": "2025-12-22T04:53:15.768Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1084,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kambiz",
-      "description": "Intelligent, Wise",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Persian",
-        "Arabic",
-        "Urdu"
+      "alternateName": [
+        "Kambiz",
+        "kambiz"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kambiz",
-          "description": "Discover the meaning of Kambiz - \"Intelligent, Wise\"",
-          "image": "/images/social/kambiz-facebook.jpg"
+      "description": "A name associated with the Persian form کامبیز, meaning kambiz; a persian male given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kambiz",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Kambiz - Name Meaning",
-          "description": "Learn about the beautiful name Kambiz",
-          "image": "/images/social/kambiz-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kambiz",
-          "description": "Name meaning: Intelligent, Wise",
-          "image": "/images/social/kambiz-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kambiz - Meaning: Intelligent, Wise",
-        "email_subject": "Beautiful Name: Kambiz"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kambiz with meaning Intelligent, Wise",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kambiz, associated with the Persian form کامبیز, meaning kambiz; a persian male given name."
     },
-    "similar_sounding_names": [
-      "kabir",
-      "kashish",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

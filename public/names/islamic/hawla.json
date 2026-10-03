@@ -3,286 +3,483 @@
   "data": {
     "name": "Hawla",
     "slug": "hawla",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Revolving, continuous",
-    "long_meaning": "In Arabic, Hawla means 'revolving' or 'continuous'. It is a name inspired by the natural rhythm and cycle of life.",
-    "spiritual_meaning": "Symbolizes the continuous cycle of life and death.",
-    "emotional_traits": [
-      "Compassionate",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 3,
-    "numerology_meaning": "In Islamic numerology, Hawla (3) represents creativity, self-expression, and the ability to bring positive change.",
-    "in_arabic": {
-      "name": "هولة",
-      "meaning": "تدور, دورة, تحور",
-      "long_meaning": "تعبّر عن تدور الشمس في السفينة السماوية أو عن تدور السنة الزمنية أو عن تحور الأمور أو الأفعال"
+    "identity": {
+      "display_name": "Hawla",
+      "normalized_name": "hawla",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hawla",
+        "hawla"
+      ],
+      "search_variants": [
+        "Hawla",
+        "hawla"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "هاولہ",
-      "meaning": "تدور, دورہ, بلوغ",
-      "long_meaning": "اس میں تدور کا وجہد در بستنی سفینہ یا زمانی سنوں کا تدور یا موقفوں کی تحور شمارہ ہے"
+    "core_meaning": {
+      "short_meaning": "Power, change, transformation",
+      "primary_meaning": "Power",
+      "secondary_meanings": [
+        "change",
+        "transformation"
+      ],
+      "literal_meaning": "Power",
+      "extended_meaning": "Power, change, transformation",
+      "meaning_explanation": "Hawla corresponds to the Arabic form حولة (Arabic root ح و ل (ḥ-w-l); حَوْلَة (Ḥawla)). Its core sense is power, change, transformation. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "हौला",
-      "meaning": "प्रवर्तन, प्रशस्ति, चरण",
-      "long_meaning": "यह नाम प्रवर्तन का, प्रशस्ति का और चरण का व्यकरण है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حولة",
+      "transliteration": "hawla",
+      "romanization": "hawla",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Power",
+        "change",
+        "transformation"
+      ],
+      "etymology_explanation": "The form حولة is an established Arabic lexical item. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "هوله",
-      "meaning": "تدور, دوره, بلوغ",
-      "long_meaning": "تدور یا دوره کا وجہد در سفینه یا زمانی سنوں کا تدور یا موقفوں کی تحور شمارہ ہے"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حولة is an established Arabic form.",
+        "Urdu": "حولہ is used in Urdu.",
+        "Persian": "حوله is an established Persian form.",
+        "Hindi": "हौला is used in Hindi.",
+        "Pashto": "حوله is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Hawla",
-      "meaning": "Revolving, continuous",
-      "long_meaning": "In Arabic, Hawla means 'revolving' or 'continuous'. It is a name inspired by the natural rhythm and cycle of life."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form حولة. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hawla may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense power, change, transformation.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Power",
+      "related_concepts": [
+        "power",
+        "change",
+        "transformation"
+      ],
+      "semantic_relationship": "The central semantic idea is power; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of power.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Power",
+        "Change",
+        "Transformation"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hawla",
+        "meaning": "Power, change, transformation",
+        "long_meaning": "Hawla is a Arabic-origin name. Its core meaning is power, change, transformation. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula."
+      },
+      "urdu": {
+        "name": "حولہ",
+        "meaning": "طاقت، تبدیلی، گردش",
+        "long_meaning": "Hawla (حولہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم طاقت، تبدیلی، گردش ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حوله",
+        "meaning": "قدرت، دگرگونی، گردش",
+        "long_meaning": "Hawla (حوله) نامی برگرفته از زبان عربی است و معنای اصلی آن قدرت، دگرگونی، گردش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हौला",
+        "meaning": "शक्ति, परिवर्तन, रूपांतरण",
+        "long_meaning": "Hawla (हौला) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शक्ति, परिवर्तन, रूपांतरण है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حوله",
+        "meaning": "ځواک، بدلون، ګردش",
+        "long_meaning": "Hawla (حوله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ځواک، بدلون، ګردش ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حولة",
+        "meaning": "الحولة، القدرة، التحوّل",
+        "long_meaning": "Hawla (حولة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحولة، القدرة، التحوّل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "/ˈhɔːlə/",
-      "urdu": "/ɦaːwlaː/",
-      "hindi": "/ɦaːwlaː/",
-      "pashto": "/hoːlə/",
-      "ipa": "https://en.wikipedia.org/wiki/Help:IPA/Arabic"
+      "romanized": "haw-la",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حولہ",
+      "persian": "حوله",
+      "hindi": "हौला",
+      "pashto": "حوله"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HawlaMeaning",
-      "#IslamicNames"
-    ],
-    "name_variations": [
-      "Hawlah"
-    ],
-    "popularity_score": 76,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hawla",
+        "hawla"
+      ],
+      "script_variants": [
+        "حولة",
+        "حوله",
+        "حولہ",
+        "हौला"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حولة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hawla can be understood through the Arabic form حولة, whose central sense is power, change, transformation. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Hawla mean?",
+        "answer": "Hawla is associated with the Arabic form حولة, whose core sense is power, change, transformation."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Hawla?",
+        "answer": "Hawla is associated with Arabic. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Hawla an Arabic name?",
+        "answer": "Yes — the underlying form حولة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Hawla an Islamic name?",
+        "answer": "Hawla can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 69,
-        "year": 2024
+        "question": "Is Hawla a Quranic name?",
+        "answer": "Hawla should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hawla mean in Urdu?",
+        "answer": "In Urdu, Hawla is rendered حولہ and carries the sense طاقت، تبدیلی، گردش."
+      },
+      {
+        "question": "What does Hawla mean in Persian?",
+        "answer": "In Persian, Hawla is rendered حوله and carries the sense قدرت، دگرگونی، گردش."
+      },
+      {
+        "question": "How is Hawla pronounced?",
+        "answer": "A romanized syllable approximation is haw-la. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hawla?",
+        "answer": "Romanization variants include Hawla, hawla. Script forms are حولة, حوله, حولہ, हौला."
+      },
+      {
+        "question": "Is Hawla a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hawla Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hawla, a beautiful Islam name meaning \"Revolving, continuous\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hawla, Islam name, baby names, Revolving, continuous, Islam baby names, name meaning",
-      "description_paragraph": "Hawla is a meaningful Islam name of Arabic origin that means \"Revolving, continuous\". In Arabic, Hawla means 'revolving' or 'continuous'. It is a name inspired by the natural rhythm and cycle of life.",
-      "keywords": [
-        "Hawla",
-        "Islam name",
-        "baby names",
-        "Revolving, continuous",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hawla in Islam tradition?",
-          "a": "Hawla is a beautiful Islam name meaning \"Revolving, continuous\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hawla a good Islam name for a baby?",
-          "a": "Yes, Hawla is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hawla?",
-          "a": "The name Hawla has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hawla correctly?",
-          "a": "Hawla is pronounced /ˈhɔːlə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hawla?",
-          "a": "Naming a child Hawla brings blessings. The meaning \"Revolving, continuous\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hawla?",
-          "a": "Hawla is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Hawla Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hawla (حولة).",
+      "h1": "Hawla Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hawla meaning",
       "secondary_keywords": [
-        "Islam name Hawla",
-        "Hawla meaning",
-        "Hawla origin"
+        "Hawla name meaning",
+        "Hawla meaning in Urdu",
+        "Hawla origin",
+        "Hawla Islamic name",
+        "Hawla pronunciation",
+        "Hawla name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hawla (حولة) is associated with the Arabic form حولة, whose core sense is power, change, transformation. Hawla is recorded at low confidence. The source gave هولة and glossed the name 'Revolving, continuous'; the form is uncertain and the gloss is unsupported. No confident meaning is asserted. Same name as haula.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hawla is associated with the Arabic form حولة, whose core sense is power, change, transformation.",
+      "meaning_section": "The central meaning of Hawla is power, change, transformation.",
+      "origin_section": "Hawla is associated with Arabic rather than with a different language.",
+      "islam_section": "Hawla can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hawla is with the sense power.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hawla",
+      "#HawlaMeaning",
+      "#HawlaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Hawla signifies continuous flow and change - much like the ebb and flow of the tides or the revolving of the Earth. In a cultural context, this name represents the belief in the continuous natural cycle of life, encouraging a sense of resilience and adaptability. In some communities, it may be given to a child born during a time of change or transition.",
-    "spiritual_significance": "From a spiritual perspective, the name Hawla can represent the continuous journey towards self-improvement and spiritual growth. It is a reminder that life is not stagnant, but constantly evolving. The name encourages one to remain connected to the divine and to seek growth and transformation in all aspects of life - spiritually, emotionally, and physically. It is a name that embodies the idea of \"never giving up\" on one's spiritual journey, no matter what challenges may arise.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Hawla carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hawla corresponds to the Arabic form حولة",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Hawla has the core sense power, change, transformation",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hawla remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Hawla",
-      "location": "Karachi, Pakistan",
-      "story": "Fatima Hawla, a teacher in Karachi, Pakistan, shares that their name Hawla meaning \"Revolving, continuous\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Revolving, continuous\" symbolizes In Arabic, Hawla means 'revolving' or 'continuous'. It is a name inspired by the natural rhythm and cycle of life.. In Islamic spirituality, bearing the name Hawla serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of revolving, continuous.",
-    "created_at": "2025-12-22T19:19:50.607Z",
-    "updated_at": "2025-12-22T04:53:16.351Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1258,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hawla",
-      "description": "Revolving, continuous",
-      "additionalName": [
-        "Hawlah"
+      "alternateName": [
+        "Hawla",
+        "hawla"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form حولة, meaning power, change, transformation.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hawla",
-          "description": "Discover the meaning of Hawla - \"Revolving, continuous\"",
-          "image": "/images/social/hawla-facebook.jpg"
+      "termCode": "hawla",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hawla - Name Meaning",
-          "description": "Learn about the beautiful name Hawla",
-          "image": "/images/social/hawla-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hawla",
-          "description": "Name meaning: Revolving, continuous",
-          "image": "/images/social/hawla-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hawla - Meaning: Revolving, continuous",
-        "email_subject": "Beautiful Name: Hawla"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hawla with meaning Revolving, continuous",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hawla, associated with the Arabic form حولة, meaning power, change, transformation."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

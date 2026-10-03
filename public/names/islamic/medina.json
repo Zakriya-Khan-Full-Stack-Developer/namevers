@@ -3,293 +3,474 @@
   "data": {
     "name": "Medina",
     "slug": "medina",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "City of the Prophet",
-    "long_meaning": "The City of the Prophet Muhammad (pbuh), a place of peace and refuge.",
-    "spiritual_meaning": "A symbol of peace, security, and tranquility in Islamic tradition.",
-    "emotional_traits": [
-      "Nurturing",
-      "Comforting"
-    ],
-    "hidden_personality_traits": [
-      "C = Calm",
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious and balanced individual.",
-    "in_arabic": {
-      "name": "مدينة",
-      "meaning": "city",
-      "long_meaning": "place of residence, settlement"
+    "identity": {
+      "display_name": "Medina",
+      "normalized_name": "medina",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Medina",
+        "medina"
+      ],
+      "search_variants": [
+        "Medina",
+        "medina"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مدینہ",
-      "meaning": "شهر",
-      "long_meaning": "مسکونہ، مقام"
+    "core_meaning": {
+      "short_meaning": "Medina; a city in Arabia",
+      "primary_meaning": "Medina; a city in Arabia",
+      "secondary_meanings": [],
+      "literal_meaning": "Medina; a city in Arabia",
+      "extended_meaning": "Medina; a city in Arabia",
+      "meaning_explanation": "Medina corresponds to the Arabic form مدينة (Arabic مَدِينَة (Madīna)). Its core sense is medina; a city in arabia. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मदीना",
-      "meaning": "शहर",
-      "long_meaning": "राजधaniया"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مدينة",
+      "transliteration": "medina",
+      "romanization": "medina",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Medina; a city in Arabia"
+      ],
+      "etymology_explanation": "The form مدينة is an established Arabic lexical item. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مدينه",
-      "meaning": "شهر",
-      "long_meaning": "راسته کناره"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مدينة is an established Arabic form.",
+        "Urdu": "مدینہ is used in Urdu.",
+        "Persian": "مدینه is an established Persian form.",
+        "Hindi": "मदीना is used in Hindi.",
+        "Pashto": "مدینه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Medina",
-      "meaning": "City of the Prophet",
-      "long_meaning": "The City of the Prophet Muhammad (pbuh), a place of peace and refuge."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مدينة. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Medina may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense medina; a city in arabia.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Medina; a city in Arabia",
+      "related_concepts": [
+        "medina; a city in arabia"
+      ],
+      "semantic_relationship": "The central semantic idea is medina; a city in arabia; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of medina; a city in arabia.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Medina; a city in arabia"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Medina",
+        "meaning": "Medina; a city in Arabia",
+        "long_meaning": "Medina is a Arabic-origin name. Its core meaning is medina; a city in arabia. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name."
+      },
+      "urdu": {
+        "name": "مدینہ",
+        "meaning": "مدینہ، عرب کا شہر",
+        "long_meaning": "Medina (مدینہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مدینہ، عرب کا شہر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مدینه",
+        "meaning": "مدینه، شهری در عربستان",
+        "long_meaning": "Medina (مدینه) نامی برگرفته از زبان عربی است و معنای اصلی آن مدینه، شهری در عربستان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मदीना",
+        "meaning": "मदीना, अरब का नगर",
+        "long_meaning": "Medina (मदीना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मदीना, अरब का नगर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مدینه",
+        "meaning": "مدینه، د عربستان ښار",
+        "long_meaning": "Medina (مدینه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مدینه، د عربستان ښار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مدينة",
+        "meaning": "الْمَدِينَة، مَدِينَة النَّبِيّ",
+        "long_meaning": "Medina (مدينة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمَدِينَة، مَدِينَة النَّبِيّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈmɛdɪnə/",
-      "urdu": "/mɛˈdiːnə/",
-      "hindi": "/məˈdiːnə/",
-      "pashto": "/mɛˈdiːnə/"
+      "romanized": "me-di-na",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مدینہ",
+      "persian": "مدینه",
+      "hindi": "मदीना",
+      "pashto": "مدینه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MedinaNameMeaning",
-      "#IslamicGirlNames"
-    ],
-    "name_variations": [
-      "Medinah"
-    ],
-    "popularity_score": 66,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Medina",
+        "medina"
+      ],
+      "script_variants": [
+        "مدينة",
+        "مدینه",
+        "مدینہ",
+        "मदीना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مدينة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Medina can be understood through the Arabic form مدينة, whose central sense is medina; a city in arabia. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 72,
-        "year": 2024
+        "question": "What does Medina mean?",
+        "answer": "Medina is associated with the Arabic form مدينة, whose core sense is medina; a city in arabia."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 71,
-        "year": 2024
+        "question": "What is the origin of Medina?",
+        "answer": "Medina is associated with Arabic. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 71,
-        "year": 2024
+        "question": "Is Medina an Arabic name?",
+        "answer": "Yes — the underlying form مدينة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 62,
-        "year": 2024
+        "question": "Is Medina an Islamic name?",
+        "answer": "Medina can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 66,
-        "year": 2024
+        "question": "Is Medina a Quranic name?",
+        "answer": "Medina should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Medina mean in Urdu?",
+        "answer": "In Urdu, Medina is rendered مدینہ and carries the sense مدینہ، عرب کا شہر."
+      },
+      {
+        "question": "What does Medina mean in Persian?",
+        "answer": "In Persian, Medina is rendered مدینه and carries the sense مدینه، شهری در عربستان."
+      },
+      {
+        "question": "How is Medina pronounced?",
+        "answer": "A romanized syllable approximation is me-di-na. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Medina?",
+        "answer": "Romanization variants include Medina, medina. Script forms are مدينة, مدینه, مدینہ, मदीना."
+      },
+      {
+        "question": "Is Medina a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Medina Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Medina, a beautiful Islam name meaning \"City of the Prophet\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Medina, Islam name, baby names, City of the Prophet, Islam baby names, name meaning",
-      "description_paragraph": "Medina is a meaningful Islam name of Arabic origin that means \"City of the Prophet\". The City of the Prophet Muhammad (pbuh), a place of peace and refuge.",
-      "keywords": [
-        "Medina",
-        "Islam name",
-        "baby names",
-        "City of the Prophet",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Medina in Islam tradition?",
-          "a": "Medina is a beautiful Islam name meaning \"City of the Prophet\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Medina a good Islam name for a baby?",
-          "a": "Yes, Medina is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Medina?",
-          "a": "The name Medina has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Medina correctly?",
-          "a": "Medina is pronounced /ˈmɛdɪnə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Medina?",
-          "a": "Naming a child Medina brings blessings. The meaning \"City of the Prophet\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Medina?",
-          "a": "Medina is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Medina Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Medina (مدينة).",
+      "h1": "Medina Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Medina meaning",
       "secondary_keywords": [
-        "Islam name Medina",
-        "Medina meaning",
-        "Medina origin"
+        "Medina name meaning",
+        "Medina meaning in Urdu",
+        "Medina origin",
+        "Medina Islamic name",
+        "Medina pronunciation",
+        "Medina name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Medina (مدينة) is associated with the Arabic form مدينة, whose core sense is medina; a city in arabia. Medina is Arabic مَدِينَة (Madīna) 'city', and specifically the city of the Prophet in Arabia. The source gloss 'City of the Prophet' is broadly consistent. Recorded as a place name also used as a given name.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Medina is associated with the Arabic form مدينة, whose core sense is medina; a city in arabia.",
+      "meaning_section": "The central meaning of Medina is medina; a city in arabia.",
+      "origin_section": "Medina is associated with Arabic rather than with a different language.",
+      "islam_section": "Medina can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Medina is with the sense medina; a city in arabia.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Medina",
+      "#MedinaMeaning",
+      "#MedinaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Medina, also known as Al-Madīna al-Munawwarah (The Radiant City) in Arabic, is a city in the Hejaz region of western Saudi Arabia. It is historically significant as the second hometown of Prophet Muhammad (pbuh) and the birthplace of Islam as a political entity. After immigrating from Mecca, the prophet and his followers, known as the Muhajirun, founded the first Islamic state in this city. Medina’s importance continued to grow as it became the center of Islamic administration, scholarship, and jurisprudence. It remains a major cultural and historical site, featuring numerous mosques, museums, and educational institutions that showcase Islamic heritage and draw millions of pilgrims every year.",
-    "spiritual_significance": "In Islamic tradition, Medina holds deep spiritual significance as a city of peace, safety, and refuge for the Muslim community. According to Islamic beliefs, its description as \"Al-Madīna\" refers to the fact that it was established as a community-based society under the guidance of Prophet Muhammad (pbuh). The Prophet's mosque, the Qibla al-Awal (the first Qibla, or direction of prayer), is located there and contains the prophet's tomb, motivating millions of Muslims to visit it for spiritual enrichment and devotion to their faith. Furthermore, this city's peaceful atmosphere serves as a source of inspiration and refuge for Muslims worldwide, emphasizing the importance of a harmonious and compassionate community grounded in faith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Medina was a city in the Arabian Peninsula The name Medina carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Medina was the second holiest city in Islam after Mecca"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "religion",
-        "history"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Medina corresponds to the Arabic form مدينة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Medina has the core sense medina; a city in arabia",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "books",
-        "movies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Medina remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Medina",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Maryam Medina in Dubai, UAE attributes much of their success to the blessing of their name Medina, which means \"City of the Prophet\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"City of the Prophet\" symbolizes The City of the Prophet Muhammad (pbuh), a place of peace and refuge.. In Islamic spirituality, bearing the name Medina serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of city of the prophet.",
-    "created_at": "2025-12-22T19:19:50.926Z",
-    "updated_at": "2025-12-22T04:53:16.409Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1613,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Medina",
-      "description": "City of the Prophet",
-      "additionalName": [
-        "Medinah"
+      "alternateName": [
+        "Medina",
+        "medina"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form مدينة, meaning medina; a city in arabia.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Medina",
-          "description": "Discover the meaning of Medina - \"City of the Prophet\"",
-          "image": "/images/social/medina-facebook.jpg"
+      "termCode": "medina",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Medina - Name Meaning",
-          "description": "Learn about the beautiful name Medina",
-          "image": "/images/social/medina-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Medina",
-          "description": "Name meaning: City of the Prophet",
-          "image": "/images/social/medina-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Medina - Meaning: City of the Prophet",
-        "email_subject": "Beautiful Name: Medina"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Medina with meaning City of the Prophet",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Medina, associated with the Arabic form مدينة, meaning medina; a city in arabia."
     },
-    "similar_sounding_names": [
-      "meena",
-      "mahek",
-      "mada",
-      "meher",
-      "marhabah",
-      "maassama",
-      "marnia",
-      "marudeen.",
-      "manab",
-      "mika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

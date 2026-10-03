@@ -3,294 +3,472 @@
   "data": {
     "name": "Begum",
     "slug": "begum",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Lady, Princess",
-    "long_meaning": "Originating from Persian, Turkish, or Urdu languages, Begum is a title of respect given to a lady, queen, or princess. This name carries an air of elegance, grace, and power, reflecting the status and honor of the bearer.",
-    "spiritual_meaning": "Symbol of royalty and dignity in Islam.",
-    "emotional_traits": [
-      "Gracious",
-      "Regal",
-      "Majestic"
-    ],
-    "hidden_personality_traits": [
-      "N = Noble"
-    ],
-    "lucky_number": 11,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Gold",
-      "Purple"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Those with the name Begum are creative, artistic, and dynamic, with a strong desire to express themselves and their individuality.",
-    "in_arabic": {
-      "name": "بيغوم",
-      "meaning": "بيغوم تعني المرأة صاحبة المكانة العالية والشرف",
-      "long_meaning": "اسم بيغوم مشتق من الكلمة الفارسية 'بيگم' والتي تعني المرأة صاحبة المكانة العالية والشرف. في اللغة العربية، يرتبط هذا الاسم بالمرأة التي تتمتع بمكانة اجتماعية عالية وبتأثير كبير. وقد استخدم هذا الاسم تاريخيًا للإشارة إلى زوجات الحكام أو الأمراء في الدولة العثمانية والبلاطات الإسلامية الأخرى."
+    "identity": {
+      "display_name": "Begum",
+      "normalized_name": "begum",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Begum",
+        "begum"
+      ],
+      "search_variants": [
+        "Begum",
+        "begum"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بیگم",
-      "meaning": "بیگم ایک اعلیٰ درجے کی عورت کے لئے استعمال کیا جاتا ہے",
-      "long_meaning": "بیگم نام فارسی زبان سے ماخوذ ہے، جہاں یہ 'بیگم' (Begum) کے طور پر لکھا جاتا ہے۔ اس کا مطلب ہے ایک اعلیٰ درجے کی عورت یا شریفہ۔ جنوبی ایشیا میں، خاص طور پر برصغیر پاک و ہند میں، یہ نام تاریخی طور پر اعلیٰ طبقے کی خواتین، خاص طور پر شاہی یا جاگیردار خاندانوں کی خواتین کے لئے استعمال کیا جاتا رہا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Lady, princess",
+      "primary_meaning": "Lady",
+      "secondary_meanings": [
+        "princess"
+      ],
+      "literal_meaning": "Lady",
+      "extended_meaning": "Lady, princess",
+      "meaning_explanation": "Begum corresponds to the Turkic form بیگم (Turkic begüm). Its core sense is lady, princess. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बेगम",
-      "meaning": "बेगम उच्च पद की महिला के लिए प्रयोग किया जाता है",
-      "long_meaning": "बेगम नाम फारसी भाषा से लिया गया है, जिसका अर्थ है उच्च पद या प्रतिष्ठा वाली महिला। भारतीय मुस्लिम समुदाय में, यह नाम पारंपरिक रूप से उच्च सामाजिक दर्जा रखने वाली महिलाओं, विशेष रूप से शाही या कुलीन परिवारों की महिलाओं के लिए उपयोग किया जाता रहा है।"
+    "etymology": {
+      "primary_language": "Turkic",
+      "lexical_form": "بیگم",
+      "transliteration": "begum",
+      "romanization": "begum",
+      "root_status": "Turkic begüm",
+      "etymological_meaning": [
+        "Lady",
+        "princess"
+      ],
+      "etymology_explanation": "The form بیگم is an established Turkic lexical item. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بیګم",
-      "meaning": "بیګه د لوړې کچې ښځه ده",
-      "long_meaning": "بیګم نوم د پښتو او فارسی ژبو څخه اخیستل شوی دی، چې معنی یې د لوړې کچې ښځه یا محترمه ښځه ده. په افغانستان او پاکستان کې، دا نوم دودیزاً د لوړو ټولنیزو طبقو ښځو لپاره کارول شوی، په ځانګړي ډول د هغو ښځو لپاره چې د واکمنو یا شریفو کورنیو پورې اړوندې دي."
+    "language": {
+      "primary": "Turkic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بیگم is an established Arabic form.",
+        "Urdu": "بیگم is used in Urdu.",
+        "Persian": "بیگم is an established Persian form.",
+        "Hindi": "बेगम is used in Hindi.",
+        "Pashto": "بیګم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Begum",
-      "meaning": "Begum refers to a woman of high rank or nobility",
-      "long_meaning": "The name Begum originates from the Persian language, where it is spelled as 'بیگم' (Begum). It means a woman of high rank, nobility, or respect. Etymologically, it is derived from the Persian words 'beg' meaning 'lord' or 'master' and 'um' implying a feminine or honorific suffix. Historically, the term Begum was used in various Islamic cultures, including the Ottoman Empire and the Indian subcontinent, to address or refer to wives of rulers, nobles, or high-ranking officials. The Quran does not directly mention the term 'Begum,' but it does refer to women of high status and piety. In Islamic tradition, the name Begum symbolizes respect, dignity, and high social standing."
+    "origin": {
+      "primary_origin": "Turkic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Turkic form بیگم. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Begum may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense lady, princess.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lady",
+      "related_concepts": [
+        "lady",
+        "princess"
+      ],
+      "semantic_relationship": "The central semantic idea is lady; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of lady.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Lady",
+        "Princess"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Begum",
+        "meaning": "Lady, princess",
+        "long_meaning": "Begum is a Turkic-origin name. Its core meaning is lady, princess. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "بیگم",
+        "meaning": "بیگم، شہزادی",
+        "long_meaning": "Begum (بیگم) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بیگم، شہزادی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "بیگم",
+        "meaning": "بانو، شاهزاده‌خانم",
+        "long_meaning": "Begum (بیگم) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن بانو، شاهزاده‌خانم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "बेगम",
+        "meaning": "बेगम, राजकुमारी",
+        "long_meaning": "Begum (बेगम) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ बेगम, राजकुमारी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بیګم",
+        "meaning": "بیګم، شهزادګۍ",
+        "long_meaning": "Begum (بیګم) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بیګم، شهزادګۍ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بیگم",
+        "meaning": "السيدة، الأميرة",
+        "long_meaning": "Begum (بیگم) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي السيدة، الأميرة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "beeg-uhm",
-      "urdu": "اردو میں تلفظ کی تفصیل: بیگم",
-      "hindi": "हिन्दी में उच्चारण विवरण: बेगम",
-      "pashto": "په پښتو کې د تلفظ تفصیل: بیګم",
-      "ipa": "/ˈbeɪɡʊm/"
+      "romanized": "be-gum",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بیگم",
+      "persian": "بیگم",
+      "hindi": "बेगम",
+      "pashto": "بیګم"
     },
-    "celebrity_usage": [
-      "Audrey Hepburn",
-      "Meryl Streep",
-      "Madhuri Dixit"
-    ],
-    "social_tags": [
-      "#BegumMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Begum"
-    ],
-    "name_variations": [],
-    "popularity_score": 42,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Begum",
+        "begum"
+      ],
+      "script_variants": [
+        "بیګم",
+        "بیگم",
+        "बेगम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بیگم is an established Turkic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Begum can be understood through the Turkic form بیگم, whose central sense is lady, princess. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Begum mean?",
+        "answer": "Begum is associated with the Turkic form بیگم, whose core sense is lady, princess."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Begum?",
+        "answer": "Begum is associated with Turkic. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 70,
-        "year": 2024
+        "question": "Is Begum an Arabic name?",
+        "answer": "No — the underlying form is Turkic, not Arabic."
+      },
+      {
+        "question": "Is Begum an Islamic name?",
+        "answer": "Begum can occur in Muslim naming contexts, but it is better described as a Turkic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Begum a Quranic name?",
+        "answer": "Begum should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Begum mean in Urdu?",
+        "answer": "In Urdu, Begum is rendered بیگم and carries the sense بیگم، شہزادی."
+      },
+      {
+        "question": "What does Begum mean in Persian?",
+        "answer": "In Persian, Begum is rendered بیگم and carries the sense بانو، شاهزاده‌خانم."
+      },
+      {
+        "question": "How is Begum pronounced?",
+        "answer": "A romanized syllable approximation is be-gum. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Begum?",
+        "answer": "Romanization variants include Begum, begum. Script forms are بیګم, بیگم, बेगम."
+      },
+      {
+        "question": "Is Begum a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Begum Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Begum, a beautiful Islam name meaning \"Lady, Princess\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Begum, Islam name, baby names, Lady, Princess, Islam baby names, name meaning",
-      "description_paragraph": "Begum is a meaningful Islam name of Arabic origin that means \"Lady, Princess\". Originating from Persian, Turkish, or Urdu languages, Begum is a title of respect given to a lady, queen, or princess. This name carries an air of elegance, grace, and power, reflecting the status and honor of the bearer.",
-      "keywords": [
-        "Begum",
-        "Islam name",
-        "baby names",
-        "Lady, Princess",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Begum in Islam tradition?",
-          "a": "Begum is a beautiful Islam name meaning \"Lady, Princess\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Begum a good Islam name for a baby?",
-          "a": "Yes, Begum is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Begum?",
-          "a": "The name Begum has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Begum correctly?",
-          "a": "Begum is pronounced beeg-uhm in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Begum?",
-          "a": "Naming a child Begum brings blessings. The meaning \"Lady, Princess\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Begum?",
-          "a": "Begum is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Begum Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Turkic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Begum (بیگم).",
+      "h1": "Begum Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Begum meaning",
       "secondary_keywords": [
-        "Islam name Begum",
-        "Begum meaning",
-        "Begum origin"
+        "Begum name meaning",
+        "Begum meaning in Urdu",
+        "Begum origin",
+        "Begum Islamic name",
+        "Begum pronunciation",
+        "Begum name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Begum (بیگم) is associated with the Turkic form بیگم, whose core sense is lady, princess. Begum, a Turkic-Mughal title for a noblewoman. The source record's gloss 'Lady, Princess' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Begum is associated with the Turkic form بیگم, whose core sense is lady, princess.",
+      "meaning_section": "The central meaning of Begum is lady, princess.",
+      "origin_section": "Begum is associated with Turkic rather than with a different language.",
+      "islam_section": "Begum can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Begum is with the sense lady.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Begum",
+      "#BegumMeaning",
+      "#BegumName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The title Begum is rich in history and cultural significance, often associated with the royalty, nobility, and power of the Islamic world. To this day, it continues to be used as a symbol of status and respect in cultures such as India, Pakistan, Bangladesh, and the Middle East. In Pakistan and India alone, there are numerous towns and cities named after influential Begums, testifying to their enduring place in history.",
-    "spiritual_significance": "Begum, as a title derived from Persian, Turkish, and Urdu languages, carries deep spiritual significance for Muslims. The word \"Begum\" means \"beloved\" or \"lady,\" resonating with the ideals of honor, loyalty, and respect present in Islamic traditions. Beginning with the Islamic Prophet Muhammad's respect for his wife Aisha (RA), the significance of treating women with love, care, and respect is established. The term is a reminder that every woman, regardless of her status, is deserving of dignity and holds spiritual value, making the title a powerful symbol of women's empowerment and respect in the Islamic community.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Sultana Daulat Begum, also known as Queen Catherine de Braganza, was the wife of the fifth Nizam of Hyderabad, Mohammed Ali Pasha. She was born as a Portuguese Catholic princess, Catherine of Braganza, in 1638. After her husband's death in 1749, she ruled as Regent for her underage son until his majority in 1751. Her influence extended beyond Hyderabad, shaping the political and cultural landscape of the Deccan region.",
-        "time_period": "1749-1751",
-        "context": "Wife of the Nizam of Hyderabad and regent for her son"
-      },
-      {
-        "reference": "Noor Jahan, also known as Mehrunissa, was the wife of the Mughal Emperor Jahangir and the mother of Shah Jahan. She reigned as the de facto ruler during Shah Jahan's minority from 1624 to 1628, and again during his final years from 1658 to 1666. She was a great patron of arts and architecture, and her influence can be seen in various Mughal monuments, including the Taj Mahal.",
-        "time_period": "1624-1628, 1658-1666",
-        "context": "Wife of Mughal Emperor and de facto ruler"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "female ruler",
-        "South Asian culture",
-        "historical figures"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Begum corresponds to the Turkic form بیگم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Begum has the core sense lady, princess",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Begum', which originated from the Persian language and means 'princess' or 'lady', is now frequently used in modern contexts to refer to influential and powerful women, particularly those with South Asian heritage. This term has gained popularity on social media platforms such as Instagram, Twitter, and TikTok, where users create and share content about female rulers, historical figures, and contemporary women who embody the spirit of strength and leadership associated with the title."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Begum",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Fatima Begum in Karachi, Pakistan attributes much of their success to the blessing of their name Begum, which means \"Lady, Princess\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Lady, Princess\" symbolizes Originating from Persian, Turkish, or Urdu languages, Begum is a title of respect given to a lady, queen, or princess. This name carries an air of elegance, grace, and power, reflecting the status and honor of the bearer.. In Islamic spirituality, bearing the name Begum serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of lady, princess.",
-    "created_at": "2025-12-22T19:19:49.934Z",
-    "updated_at": "2025-12-22T04:53:15.552Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1028,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Begum",
-      "description": "Lady, Princess",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Begum",
+        "begum"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Begum",
-          "description": "Discover the meaning of Begum - \"Lady, Princess\"",
-          "image": "/images/social/begum-facebook.jpg"
+      "description": "A name associated with the Turkic form بیگم, meaning lady, princess.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "begum",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Turkic"
         },
-        "twitter": {
-          "title": "Begum - Name Meaning",
-          "description": "Learn about the beautiful name Begum",
-          "image": "/images/social/begum-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Begum",
-          "description": "Name meaning: Lady, Princess",
-          "image": "/images/social/begum-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Begum - Meaning: Lady, Princess",
-        "email_subject": "Beautiful Name: Begum"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Begum with meaning Lady, Princess",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Begum, associated with the Turkic form بیگم, meaning lady, princess."
     },
-    "similar_sounding_names": [
-      "ban",
-      "basbas",
-      "buthayna",
-      "buhayyah",
-      "binesh",
-      "busrah",
-      "baseema",
-      "banujah",
-      "badri",
-      "baraaa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

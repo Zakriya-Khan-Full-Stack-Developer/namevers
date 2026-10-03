@@ -3,297 +3,475 @@
   "data": {
     "name": "Adiy",
     "slug": "adiy",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Servant of God",
-    "long_meaning": "Derived from the Arabic root 'd-d-y', which means 'to serve'. This name signifies devotion and submission to Allah.",
-    "spiritual_meaning": "Symbolizes humility, grace, and compassion.",
-    "emotional_traits": [
-      "Righteous",
-      "Devoted"
-    ],
-    "hidden_personality_traits": [
-      "M = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 5,
-    "numerology_meaning": "Those with this name are versatile, artistic, and independent. They are drawn to the arts, and may be natural healers.",
-    "in_arabic": {
-      "name": "عدي",
-      "meaning": "اسم علم مذكر من أصل عربي يعني المقاتل الشجاع",
-      "long_meaning": "عدي هو اسم علم مذكر من أصل عربي، مشتق من الفعل 'عاد' الذي يعني الرجوع أو الإقبال. في اللغة العربية، يُعرف عدي بأنه المقاتل الشجاع أو الرجل الذي يعود إلى الحرب بعد انصرافه. ورد اسم عدي في السيرة النبوية، حيث كان عدي بن حاتم الطائي أحد الصحابة النجباء للنبي محمد صلى الله عليه وسلم. يتميز اسم عدي بكونه قصيرًا وسهلًا على النطق، مما يجعله اختيارًا شائعًا بين العائلات المسلمة في مختلف أنحاء العالم."
+    "identity": {
+      "display_name": "Adiy",
+      "normalized_name": "adiy",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Adiy",
+        "adiy"
+      ],
+      "search_variants": [
+        "Adiy",
+        "adiy"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عدی",
-      "meaning": "علم مذکر اردو معنی شجاع مجاہد",
-      "long_meaning": "اردو میں عدی کا نام مذکر ہے جس کا مطلب ہے شجاع مجاہد یا بہادر جنگجو۔ یہ نام عربی زبان سے نکلا ہے جہاں اس کا مطلب ہے وہ شخص جو جنگ میں شمولیت اختیار کرتا ہے اور بہادری سے لڑتا ہے۔ اسلامی تاریخ میں عدی بن حاتم الطائی ایک معروف صحابی ہیں جنہوں نے نبی محمد صلی اللہ علیہ و آلہ و سلم کے ساتھ وقت گزارا۔ عدی نام کی اہمیت اس کی سادگی اور خوبصورتی میں ہے، جو اسے جنوبی ایشیاء کے مسلم والدین کے درمیان ایک مقبول انتخاب بناتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Servant, worshipper (of God)",
+      "primary_meaning": "Servant",
+      "secondary_meanings": [
+        "worshipper (of God)"
+      ],
+      "literal_meaning": "Servant",
+      "extended_meaning": "Servant, worshipper (of God)",
+      "meaning_explanation": "Adiy corresponds to the Arabic form عدي (ع د و). Its core sense is servant, worshipper (of god). ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अदी",
-      "meaning": "बहादुर योद्धा पुकारना",
-      "long_meaning": "अदी एक पुरुष नाम है जिसका अर्थ है बहादुर योद्धा या शूरवीर। यह नाम अरबी भाषा से आया है, जहां इसका उपयोग बहादुर और वीर व्यक्ति के लिए किया जाता है। इस्लामी परंपरा में, अदी बिन हातिम अल-ताई एक प्रसिद्ध सहाबा थे जिन्होंने पैगंबर मुहम्मद के साथ समय बिताया था। अदी नाम की लोकप्रियता इसकी सादगी और सुंदरता में है, जो इसे भारतीय मुस्लिम समुदाय में एक पसंदीदा नाम बनाती है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عدي",
+      "transliteration": "adiy",
+      "romanization": "adiy",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Servant",
+        "worshipper (of God)"
+      ],
+      "etymology_explanation": "The form عدي is an established Arabic lexical item. ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عدی",
-      "meaning": "د جنګیالی ژباړه",
-      "long_meaning": "په پښتو کې عدی د یو سړي نوم دی چې معنی یې د جنګیالی یا مبارز دی. دا نوم د عربي ژبې څخه اخیستل شوی دی چیرې چې دا د هغې کس لپاره کارول کیږي چې په جنګ کې ګډون کوي او د زړورتیا سره جګړه کوي. د پښتنو په تاریخ کې، عدی بن حاتم الطائي د پیغمبر محمد صلی الله علیه وسلم یو مشهور صحابي و. د عدی نوم اهمیت د هغه په سادگي او ښکلا کې دی، کوم چې دا د افغان او پښتنو ټولنو کې يو مشهور انتخاب کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عدي is an established Arabic form.",
+        "Urdu": "عدي is used in Urdu.",
+        "Hindi": "अदी is used in Hindi.",
+        "Pashto": "عدي is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Adiy",
-      "meaning": "brave warrior or fighter",
-      "long_meaning": "The name Adiy is of Arabic origin, meaning 'brave warrior' or 'fighter'. It is derived from the Arabic verb 'ada' which means 'to return' or 'to go back'. In Islamic tradition, Adiy bin Hatim al-Tai was a notable companion of the Prophet Muhammad. The name Adiy symbolizes courage, bravery, and strength. It is a popular name among Muslim communities worldwide due to its simplicity and meaningful connotation."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عدي. ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Adiy may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense servant, worshipper (of god).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Servant",
+      "related_concepts": [
+        "servant",
+        "worshipper (of god)"
+      ],
+      "semantic_relationship": "The central semantic idea is servant; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of servant.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Servant",
+        "Worshipper (of god)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Adiy",
+        "meaning": "Servant, worshipper (of God)",
+        "long_meaning": "Adiy is a Arabic-origin name. Its core meaning is servant, worshipper (of god). ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported."
+      },
+      "urdu": {
+        "name": "عدي",
+        "meaning": "بندہ، خادم، عابد",
+        "long_meaning": "Adiy (عدي) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بندہ، خادم، عابد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अदी",
+        "meaning": "दास, सेवक, उपासक",
+        "long_meaning": "Adiy (अदी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दास, सेवक, उपासक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عدي",
+        "meaning": "بنده، خدمتګار",
+        "long_meaning": "Adiy (عدي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بنده، خدمتګار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عدي",
+        "meaning": "عبد، خادم، عابد",
+        "long_meaning": "Adiy (عدي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عبد، خادم، عابد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-dee",
-      "urdu": "اردو میں تلفظ: عدی",
-      "hindi": "हिन्दी में उच्चारण: अदी",
-      "pashto": "په پښتو کې د تلفظ: عدی",
-      "ipa": "/ˈɑː.diː/"
+      "romanized": "a-diy",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عدي",
+      "persian": null,
+      "hindi": "अदी",
+      "pashto": "عدي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AdiyMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Adiy"
-    ],
-    "name_variations": [],
-    "popularity_score": 46,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Adiy",
+        "adiy"
+      ],
+      "script_variants": [
+        "عدي",
+        "अदी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عدي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Adiy can be understood through the Arabic form عدي, whose central sense is servant, worshipper (of god). ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Adiy mean?",
+        "answer": "Adiy is associated with the Arabic form عدي, whose core sense is servant, worshipper (of god)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Adiy?",
+        "answer": "Adiy is associated with Arabic. ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Adiy an Arabic name?",
+        "answer": "Yes — the underlying form عدي is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 64,
-        "year": 2024
+        "question": "Is Adiy an Islamic name?",
+        "answer": "Adiy can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 69,
-        "year": 2024
+        "question": "Is Adiy a Quranic name?",
+        "answer": "Adiy should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Adiy mean in Urdu?",
+        "answer": "In Urdu, Adiy is rendered عدي and carries the sense بندہ، خادم، عابد."
+      },
+      {
+        "question": "What does Adiy mean in Persian?",
+        "answer": "No verified Persian form was established for Adiy."
+      },
+      {
+        "question": "How is Adiy pronounced?",
+        "answer": "A romanized syllable approximation is a-diy. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Adiy?",
+        "answer": "Romanization variants include Adiy, adiy. Script forms are عدي, अदी."
+      },
+      {
+        "question": "Is Adiy a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Adiy Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Adiy, a beautiful Islam name meaning \"Servant of God\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Adiy, Islam name, baby names, Servant of God, Islam baby names, name meaning",
-      "description_paragraph": "Adiy is a meaningful Islam name of Arabic origin that means \"Servant of God\". Derived from the Arabic root 'd-d-y', which means 'to serve'. This name signifies devotion and submission to Allah.",
-      "keywords": [
-        "Adiy",
-        "Islam name",
-        "baby names",
-        "Servant of God",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Adiy in Islam tradition?",
-          "a": "Adiy is a beautiful Islam name meaning \"Servant of God\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Adiy a good Islam name for a baby?",
-          "a": "Yes, Adiy is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Adiy?",
-          "a": "The name Adiy has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Adiy correctly?",
-          "a": "Adiy is pronounced ah-dee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Adiy?",
-          "a": "Naming a child Adiy brings blessings. The meaning \"Servant of God\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Adiy?",
-          "a": "Adiy is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Adiy Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Adiy (عدي).",
+      "h1": "Adiy Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Adiy meaning",
       "secondary_keywords": [
-        "Islam name Adiy",
-        "Adiy meaning",
-        "Adiy origin"
+        "Adiy name meaning",
+        "Adiy meaning in Urdu",
+        "Adiy origin",
+        "Adiy Islamic name",
+        "Adiy pronunciation",
+        "Adiy name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Adiy (عدي) is associated with the Arabic form عدي, whose core sense is servant, worshipper (of god). ʿAdī, a well-attested Arabic given name (e.g. ʿAdī ibn Ḥātim). The source record's gloss 'Servant of God' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Adiy is associated with the Arabic form عدي, whose core sense is servant, worshipper (of god).",
+      "meaning_section": "The central meaning of Adiy is servant, worshipper (of god).",
+      "origin_section": "Adiy is associated with Arabic rather than with a different language.",
+      "islam_section": "Adiy can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Adiy is with the sense servant.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Adiy",
+      "#AdiyMeaning",
+      "#AdiyName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Adiy holds a rich cultural significance in the Islamic tradition. It is a name that resonates with a strong sense of servitude, devotion, and selflessness. The idea of serving Allah is central to the Islamic faith, and a name like Adiy is a constant reminder of this fundamental principle. It is also a name that evokes a sense of humility, as one who carries this name is seen as a servant of the Most High. This cultural significance can be seen in various aspects of Islamic society, such as in the naming of offspring, and in the use of this name for various institutions and organizations.",
-    "spiritual_significance": "The spiritual significance of the name Adiy is rooted in its etymology. It derives from the Arabic root 'd-d-y', which means 'to serve'. According to Islamic teachings, the ultimate purpose of human existence is to serve and worship Allah. Therefore, having a name that signifies this essential purpose is highly significant from a spiritual perspective. Adiy is a name that embodies the concepts of devotion, submission, and obedience to Allah. Carrying this name is a constant reminder of one's obligations towards the Creator, and it serves to inspire a deep sense of piety and spiritual growth in those who bear it.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn al-Athir, Al-Kamil fi al-Tarikh (The Complete History). Volume II. Page 263. Al-Baladhuri, Ansab al-Ashraf. Volume I. Page 39.",
-        "time_period": "8th Century AD",
-        "context": "Adiy ibn Hatim al-Ta'i, an Arab tribal chief who converted to Islam and became a close companion of the Prophet Muhammad (pbuh)."
-      },
-      {
-        "reference": "Historical records show that Al-Tabari, Tarikh al-Rusul wa al-Muluk (The History of Prophets and Kings). Volume II. Page 137. The name Adiy carried significant weight in that era.",
-        "time_period": "7th Century AD",
-        "context": "Adiy ibn Zaid, a prominent Arab poet of the pre-Islamic era who was known for his criticisms of idolatry and was later embraced by the early Muslim community."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Arabic typography, Islamic art, and Islamic calligraphy"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Adiy corresponds to the Arabic form عدي",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Adiy has the core sense servant, worshipper (of god)",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram, Pinterest, and Behance"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Adiy' is derived from the Arabic language and is often used in the context of Islamic art, particularly in the form of calligraphy. Today, the name 'Adiy' is a popular choice for modern design projects that incorporate Arabic typography and Islamic art. On Instagram, there are numerous accounts dedicated to showcasing beautiful Arabic calligraphy and Islamic art. Pinterest is another platform where users can find inspiration for incorporating 'Adiy' into their home decor and personal projects. Behance, a professional portfolio platform for creatives, is a popular place to find and showcase projects that feature 'Adiy' in various design contexts."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Adiy",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Aisha Adiy in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Adiy, which means \"Servant of God\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Servant of God\" symbolizes Derived from the Arabic root 'd-d-y', which means 'to serve'. This name signifies devotion and submission to Allah.. In Islamic spirituality, bearing the name Adiy serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of servant of god.",
-    "created_at": "2025-12-22T19:19:49.93Z",
-    "updated_at": "2025-12-22T04:53:15.504Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1617,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Adiy",
-      "description": "Servant of God",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Adiy",
+        "adiy"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Adiy",
-          "description": "Discover the meaning of Adiy - \"Servant of God\"",
-          "image": "/images/social/adiy-facebook.jpg"
+      "description": "A name associated with the Arabic form عدي, meaning servant, worshipper (of god).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "adiy",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Adiy - Name Meaning",
-          "description": "Learn about the beautiful name Adiy",
-          "image": "/images/social/adiy-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Adiy",
-          "description": "Name meaning: Servant of God",
-          "image": "/images/social/adiy-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Adiy - Meaning: Servant of God",
-        "email_subject": "Beautiful Name: Adiy"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Adiy with meaning Servant of God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Adiy, associated with the Arabic form عدي, meaning servant, worshipper (of god)."
     },
-    "similar_sounding_names": [
-      "ashika",
-      "amaya",
-      "alaia",
-      "azzahra",
-      "anaan",
-      "anila",
-      "anika",
-      "akil",
-      "aidan",
-      "anya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

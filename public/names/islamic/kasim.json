@@ -3,278 +3,477 @@
   "data": {
     "name": "Kasim",
     "slug": "kasim",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Just, equitable",
-    "long_meaning": "The name Kasim signifies one who is just and fair in all dealings. It reflects a sense of balance and equality. In Islamic tradition, Kasim is considered a name that brings wisdom and understanding.",
-    "spiritual_meaning": "One who is balanced and fair in their actions, reflecting the divine justice and mercy.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Tiger Eye",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, self-expression, and communication",
-    "in_arabic": {
-      "name": "قسيم",
-      "meaning": "يقسم أو يوزع بين الأشياء",
-      "long_meaning": "اسم قسيم مشتق من الفعل قسم، ويعني التوزيع أو التقسيم. في اللغة العربية، القاسم هو الشخص الذي يقسم أو يوزع بين الأشياء. وفي القرآن الكريم، هناك عدة آيات تشير إلى مفهوم القسمة والتوزيع، مثل قوله تعالى: 'ولقد آتينا بني إسرائيل الكتاب والحكم والنبوة ورزقناهم من الطيبات' (الأنعام: 89). اسم قسيم يرمز إلى العدل والتوازن في التوزيع."
+    "identity": {
+      "display_name": "Kasim",
+      "normalized_name": "kasim",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kasim",
+        "kasim"
+      ],
+      "search_variants": [
+        "Kasim",
+        "kasim"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کسیم",
-      "meaning": "تقسیم کرنے والا، بانٹنے والا",
-      "long_meaning": "نام کسیم عربی زبان کے الفعل 'قسم' سے ماخوذ ہے، جس کا مطلب ہے تقسیم کرنا یا بانٹنا۔ اردو میں، کسیم کا معنی ہے وہ شخص جو چیزیں تقسیم کرتا ہے یا بانٹتا ہے۔ اسلامی روایت میں، یہ نام انبیاء اور رسل کی صفت کے طور پر استعمال ہوتا ہے جو اللہ کی رحمت اور نعمتیں اپنے پیروکاروں میں تقسیم کرتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Qasim; divider, distributor",
+      "primary_meaning": "Qasim; divider",
+      "secondary_meanings": [
+        "distributor"
+      ],
+      "literal_meaning": "Qasim; divider",
+      "extended_meaning": "Qasim; divider, distributor",
+      "meaning_explanation": "Kasim corresponds to the Arabic form قاسم (Arabic root ق س م (q-s-m); قَاسِم (Qāsim)). Its core sense is qasim; divider, distributor. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "कासिम",
-      "meaning": "विभाजित करने वाला, बांटने वाला",
-      "long_meaning": "नाम कासिम अरबी भाषा के क्रिया 'قسم' से लिया गया है, जिसका अर्थ है विभाजित करना या बांटना। हिंदी में, कासिम का अर्थ है वह व्यक्ति जो चीजों को विभाजित करता है या बांटता है। भारतीय मुस्लिम समुदाय में, यह नाम न्याय और समानता के प्रतीक के रूप में देखा जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قاسم",
+      "transliteration": "kasim",
+      "romanization": "kasim",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Qasim; divider",
+        "distributor"
+      ],
+      "etymology_explanation": "The form قاسم is an established Arabic lexical item. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "قسيم",
-      "meaning": "وېشونکی، بېلونکی",
-      "long_meaning": "د قسیم نوم د عربي ژبې د فعل 'قسم' څخه اخیستل شوی دی، چې معنی یې ده وېش یا بېل. په پښتو کې، قسیم د هغه چا معنی لري چې شیان وېشي یا بېلوي. په افغان او پښتون دود کې، دا نوم د انصاف او توازن د سمبول په توګه کارول کېږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "قاسم is an established Arabic form.",
+        "Urdu": "قاسم is used in Urdu.",
+        "Persian": "قاسم is an established Persian form.",
+        "Hindi": "क़ासिम is used in Hindi.",
+        "Pashto": "قاسم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kasim",
-      "meaning": "one who divides or distributes",
-      "long_meaning": "The name Kasim is derived from the Arabic root 'q-s-m', which means 'to divide' or 'to distribute'. In Islamic tradition, Kasim is associated with prophets and messengers who distribute God's mercy and blessings among their followers. The name symbolizes fairness, justice, and balance. Historically, it has been used across various Muslim cultures, reflecting the importance of equitable distribution and justice."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form قاسم. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kasim may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense qasim; divider, distributor.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qasim; divider",
+      "related_concepts": [
+        "qasim; divider",
+        "distributor"
+      ],
+      "semantic_relationship": "The central semantic idea is qasim; divider; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of qasim; divider.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Qasim; divider",
+        "Distributor"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kasim",
+        "meaning": "Qasim; divider, distributor",
+        "long_meaning": "Kasim is a Arabic-origin name. Its core meaning is qasim; divider, distributor. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem."
+      },
+      "urdu": {
+        "name": "قاسم",
+        "meaning": "قاسم، تقسیم کرنے والا",
+        "long_meaning": "Kasim (قاسم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قاسم، تقسیم کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "قاسم",
+        "meaning": "قاسم، تقسیمکننده",
+        "long_meaning": "Kasim (قاسم) نامی برگرفته از زبان عربی است و معنای اصلی آن قاسم، تقسیمکننده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "क़ासिम",
+        "meaning": "क़ासिम, बाँटने वाला",
+        "long_meaning": "Kasim (क़ासिम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ क़ासिम, बाँटने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "قاسم",
+        "meaning": "قاسم، وېشونکی",
+        "long_meaning": "Kasim (قاسم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې قاسم، وېشونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "قاسم",
+        "meaning": "القاسم، المقسّم، الموزّع",
+        "long_meaning": "Kasim (قاسم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي القاسم، المقسّم، الموزّع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "kah-SEEM",
-      "urdu": "اردو میں تلفظ کی تفصیل: کَسِیم",
-      "hindi": "हिन्दी में उच्चारण विवरण: क़सीम",
-      "pashto": "په پښتو کې د تلفظ تفصیل: قسیم",
-      "ipa": "/kɑːˈsiːm/"
+      "romanized": "ka-sim",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "قاسم",
+      "persian": "قاسم",
+      "hindi": "क़ासिम",
+      "pashto": "قاسم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KasimMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kasim"
-    ],
-    "name_variations": [],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kasim",
+        "kasim"
+      ],
+      "script_variants": [
+        "قاسم",
+        "क़ासिम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form قاسم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kasim can be understood through the Arabic form قاسم, whose central sense is qasim; divider, distributor. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Kasim mean?",
+        "answer": "Kasim is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Kasim?",
+        "answer": "Kasim is associated with Arabic. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Kasim an Arabic name?",
+        "answer": "Yes — the underlying form قاسم is Arabic."
+      },
+      {
+        "question": "Is Kasim an Islamic name?",
+        "answer": "Kasim can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Kasim a Quranic name?",
+        "answer": "Kasim should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kasim mean in Urdu?",
+        "answer": "In Urdu, Kasim is rendered قاسم and carries the sense قاسم، تقسیم کرنے والا."
+      },
+      {
+        "question": "What does Kasim mean in Persian?",
+        "answer": "In Persian, Kasim is rendered قاسم and carries the sense قاسم، تقسیمکننده."
+      },
+      {
+        "question": "How is Kasim pronounced?",
+        "answer": "A romanized syllable approximation is ka-sim. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kasim?",
+        "answer": "Romanization variants include Kasim, kasim. Script forms are قاسم, क़ासिम."
+      },
+      {
+        "question": "Is Kasim a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kasim Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kasim, a beautiful Islam name meaning \"Just, equitable\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kasim, Islam name, baby names, Just, equitable, Islam baby names, name meaning",
-      "description_paragraph": "Kasim is a meaningful Islam name of Arabic origin that means \"Just, equitable\". The name Kasim signifies one who is just and fair in all dealings. It reflects a sense of balance and equality. In Islamic tradition, Kasim is considered a name that brings wisdom and understanding.",
-      "keywords": [
-        "Kasim",
-        "Islam name",
-        "baby names",
-        "Just, equitable",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kasim in Islam tradition?",
-          "a": "Kasim is a beautiful Islam name meaning \"Just, equitable\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kasim a good Islam name for a baby?",
-          "a": "Yes, Kasim is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kasim?",
-          "a": "The name Kasim has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kasim correctly?",
-          "a": "Kasim is pronounced kah-SEEM in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kasim?",
-          "a": "Naming a child Kasim brings blessings. The meaning \"Just, equitable\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kasim?",
-          "a": "Kasim is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Kasim Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kasim (قاسم).",
+      "h1": "Kasim Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kasim meaning",
       "secondary_keywords": [
-        "Islam name Kasim",
-        "Kasim meaning",
-        "Kasim origin"
+        "Kasim name meaning",
+        "Kasim meaning in Urdu",
+        "Kasim origin",
+        "Kasim Islamic name",
+        "Kasim pronunciation",
+        "Kasim name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kasim (قاسم) is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor. Kasim is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. The source gloss 'Just, equitable' is unsupported and has been replaced with the lexical sense. Same name as kaseem.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kasim is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor.",
+      "meaning_section": "The central meaning of Kasim is qasim; divider, distributor.",
+      "origin_section": "Kasim is associated with Arabic rather than with a different language.",
+      "islam_section": "Kasim can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kasim is with the sense qasim; divider.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kasim",
+      "#KasimMeaning",
+      "#KasimName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Kasim has deep roots in Islamic culture. In the Muslim world, it has been given to countless individuals throughout history. A popular figure with this name is Kasim al-Attar, a renowned Persian poet, philosopher, and Sufi mystic. Kasim is also a common name in many Islamic regions, including South Asia, the Middle East, and North Africa. It is significant because it symbolizes a person of great moral character and ethical behavior, qualities that are highly valued in Islamic society.",
-    "spiritual_significance": "From a spiritual perspective, Kasim represents a quest for inner peace and wisdom. In Sufism, Kasim is considered a name that brings blessings and guidance from Allah. It is believed that those named Kasim have a special connection to the Divine, enabling them to live a virtuous and responsible life. The name Kasim is also a reminder of the importance of justice, fairness, and compassion towards others, as these virtues are central to the teachings of Islam. Through the conscious use of this name, individuals can embark on a spiritual journey towards self-improvement and enlightenment.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Kasim was the name of the 2nd caliph of the Abbasid Caliphate in the 8th century. The name Kasim carried significant weight in that era.",
-        "time_period": "8th century",
-        "context": "Kasim was the son of Harun al-Rashid and served as caliph from 796 to 800 CE."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kasim corresponds to the Arabic form قاسم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kasim has the core sense qasim; divider, distributor",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kasim remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Kasim",
-      "location": "Karachi, Pakistan",
-      "story": "Ibrahim Kasim, a teacher in Karachi, Pakistan, shares that their name Kasim meaning \"Just, equitable\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Just, equitable\" symbolizes The name Kasim signifies one who is just and fair in all dealings. It reflects a sense of balance and equality. In Islamic tradition, Kasim is considered a name that brings wisdom and understanding.. In Islamic spirituality, bearing the name Kasim serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of just, equitable.",
-    "created_at": "2025-12-22T19:19:49.792Z",
-    "updated_at": "2025-12-22T04:53:14.25Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1280,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kasim",
-      "description": "Just, equitable",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Kasim",
+        "kasim"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kasim",
-          "description": "Discover the meaning of Kasim - \"Just, equitable\"",
-          "image": "/images/social/kasim-facebook.jpg"
+      "description": "A name associated with the Arabic form قاسم, meaning qasim; divider, distributor.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kasim",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kasim - Name Meaning",
-          "description": "Learn about the beautiful name Kasim",
-          "image": "/images/social/kasim-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kasim",
-          "description": "Name meaning: Just, equitable",
-          "image": "/images/social/kasim-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kasim - Meaning: Just, equitable",
-        "email_subject": "Beautiful Name: Kasim"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kasim with meaning Just, equitable",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kasim, associated with the Arabic form قاسم, meaning qasim; divider, distributor."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

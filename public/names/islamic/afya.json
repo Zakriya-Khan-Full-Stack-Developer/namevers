@@ -3,305 +3,477 @@
   "data": {
     "name": "Afya",
     "slug": "afya",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Health, Well-being",
-    "long_meaning": "Derived from the Arabic root ‘afa’ meaning to be healthy or in good health. In Islamic culture, Afya is a name symbolizing good health, well-being, and prosperity.",
-    "spiritual_meaning": "A name rooted in wellness and health, embodying the blessings of Allah.",
-    "emotional_traits": [
-      "Compassionate",
-      "Caring"
-    ],
-    "hidden_personality_traits": [
-      "M = Gentle"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Turquoise"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 11,
-    "numerology_meaning": "Those with this name often have a deep sense of intuition, creativity, and spirituality. They are also highly sensitive and empathetic individuals.",
-    "in_arabic": {
-      "name": "عفية",
-      "meaning": "العفية تعني الصحة والسلامة من كل شر وضر",
-      "long_meaning": "العفية هو اسم يعني الصحة والسلامة من كل شر وضر، ويعود أصوله إلى اللغة العربية، حيث يشتق من الفعل 'عافى' الذي يعني حفظ الصحة والعافية. في القرآن الكريم، الصحة والعافية هي من نعم الله تعالى على عباده. وقد وردت كلمة 'عافية' في القرآن في سياق الحديث عن نعم الله على الناس. ومن معاني العفية أيضًا الابتعاد عن كل ما هو ضار أو مؤذ، والسير على طريق الهداية والرشاد."
+    "identity": {
+      "display_name": "Afya",
+      "normalized_name": "afya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Afya",
+        "afya"
+      ],
+      "search_variants": [
+        "Afya",
+        "afya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عفیا",
-      "meaning": "عفیا کا مطلب ہے صحت و سلامتی ہر نقصان سے",
-      "long_meaning": "عفیا ایک عربی نام ہے جس کا مطلب ہے صحت و سلامتی ہر نقصان سے۔ یہ نام عربی زبان کے فعل 'عافى' سے ماخوذ ہے جس کا مطلب ہے صحت و عافية کو محفوظ رکھنا۔ اسلامی تقویم میں، صحت و عافية اللہ تعالیٰ کی نعمتوں میں سے ایک ہے۔ قرآن میں 'عافية' کا ذکر اللہ کی نعمتوں کے ساتھ ہوا ہے۔ عفیا نام کا انتخاب کرنے والے والدین اپنے بچے کے لیے صحت، سلامتی، اور اللہ کی نعمتوں کی دعا کرتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Health, well-being",
+      "primary_meaning": "Health",
+      "secondary_meanings": [
+        "well-being"
+      ],
+      "literal_meaning": "Health",
+      "extended_meaning": "Health, well-being",
+      "meaning_explanation": "Afya corresponds to the Arabic form عافية (ع ف و). Its core sense is health, well-being. Variant romanization of عافية ('health, well-being').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अफया",
-      "meaning": "अफया का अर्थ है स्वास्थ्य और हर नुकसान से सुरक्षा",
-      "long_meaning": "अफया एक अरबी नाम है जिसका अर्थ है स्वास्थ्य और हर नुकसान से सुरक्षा। यह नाम अरबी भाषा के क्रिया 'عافى' से लिया गया है जिसका अर्थ है स्वास्थ्य और सुरक्षा को बनाए रखना। इस्लामी परंपरा में, स्वास्थ्य और सुरक्षा अल्लाह की नعमतों में से एक है। कुरआन में 'अफिया' का उल्लेख अल्लाह की नعमतों के संदर्भ में किया गया है। अफया नाम रखने वाले माता-पिता अपने बच्चे के लिए स्वास्थ्य, सुरक्षा, और अल्लाह की नعमतों की कामना करते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عافية",
+      "transliteration": "afya",
+      "romanization": "afya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Health",
+        "well-being"
+      ],
+      "etymology_explanation": "The form عافية is an established Arabic lexical item. Variant romanization of عافية ('health, well-being').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عفیه",
-      "meaning": "عفیه د صحت او د هرې زيانونه څخه د ساتنې معنی",
-      "long_meaning": "عفیه د عربي نوم دی چې د صحت او د هرې زيانونه څخه د ساتنې معنی لري. دا نوم د عربي ژبې د 'عافى' فعل څخه اخیستل شوی دی چې د صحت او عافیت ساتلو معنی ورکوي. د اسلامي دودیزو په منځ کې، صحت او عافیت د الله تعالی د نعمتونو څخه دي. په قرآن کې 'عفیه' د الله د نعمتونو په اړه ذکر شوی دی. هغه والدین چې عفیه نوم یې غوره کړی، د خپل ماشوم لپاره د صحت، ساتنې او د الله نعمتونو دعا کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عافية is an established Arabic form.",
+        "Urdu": "عافیہ is used in Urdu.",
+        "Hindi": "आफ़िया is used in Hindi.",
+        "Pashto": "عافيه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Afya",
-      "meaning": "Afya means health and protection from harm",
-      "long_meaning": "Afya is an Arabic name that signifies health and protection from every harm. It originates from the Arabic verb 'عافى' (to preserve health and wellness). In Islamic tradition, health and wellness are considered among the blessings of Allah. The term 'Afya' is mentioned in the Quran as one of Allah's favors upon His servants. The name Afya connotes a sense of well-being, safety, and divine protection. Parents who choose the name Afya for their child are essentially wishing for their child's health, safety, and spiritual well-being."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عافية. Variant romanization of عافية ('health, well-being').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Afya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense health, well-being.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Health",
+      "related_concepts": [
+        "health",
+        "well-being"
+      ],
+      "semantic_relationship": "The central semantic idea is health; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of health.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Health",
+        "Well-being"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Afya",
+        "meaning": "Health, well-being",
+        "long_meaning": "Afya is a Arabic-origin name. Its core meaning is health, well-being. Variant romanization of عافية ('health, well-being')."
+      },
+      "urdu": {
+        "name": "عافیہ",
+        "meaning": "صحت، تندرستی",
+        "long_meaning": "Afya (عافیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم صحت، تندرستی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आफ़िया",
+        "meaning": "स्वास्थ्य, कुशलता",
+        "long_meaning": "Afya (आफ़िया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्वास्थ्य, कुशलता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عافيه",
+        "meaning": "روغتیا، سکون",
+        "long_meaning": "Afya (عافيه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې روغتیا، سکون ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عافية",
+        "meaning": "عافية، صحة",
+        "long_meaning": "Afya (عافية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عافية، صحة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-FEE-ah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عفیا (ah-FEE-ah)",
-      "hindi": "हिन्दी में उच्चारण विवरण: अफया (ah-FEE-ah)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عفیه (ah-FEE-ah)",
-      "ipa": "/ˈɑː.fi.ə/"
+      "romanized": "a-fya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عافیہ",
+      "persian": null,
+      "hindi": "आफ़िया",
+      "pashto": "عافيه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AfyaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Afya"
-    ],
-    "name_variations": [
-      "Afyah"
-    ],
-    "popularity_score": 46,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Afya",
+        "afya"
+      ],
+      "script_variants": [
+        "عافية",
+        "عافيه",
+        "عافیہ",
+        "आफ़िया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عافية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Afya can be understood through the Arabic form عافية, whose central sense is health, well-being. Variant romanization of عافية ('health, well-being').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Afya mean?",
+        "answer": "Afya is associated with the Arabic form عافية, whose core sense is health, well-being."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Afya?",
+        "answer": "Afya is associated with Arabic. Variant romanization of عافية ('health, well-being')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Afya an Arabic name?",
+        "answer": "Yes — the underlying form عافية is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Afya an Islamic name?",
+        "answer": "Afya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Afya a Quranic name?",
+        "answer": "Afya should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Afya mean in Urdu?",
+        "answer": "In Urdu, Afya is rendered عافیہ and carries the sense صحت، تندرستی."
+      },
+      {
+        "question": "What does Afya mean in Persian?",
+        "answer": "No verified Persian form was established for Afya."
+      },
+      {
+        "question": "How is Afya pronounced?",
+        "answer": "A romanized syllable approximation is a-fya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Afya?",
+        "answer": "Romanization variants include Afya, afya. Script forms are عافية, عافيه, عافیہ, आफ़िया."
+      },
+      {
+        "question": "Is Afya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Afya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Afya, a beautiful Islam name meaning \"Health, Well-being\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Afya, Islam name, baby names, Health, Well-being, Islam baby names, name meaning",
-      "description_paragraph": "Afya is a meaningful Islam name of Arabic origin that means \"Health, Well-being\". Derived from the Arabic root ‘afa’ meaning to be healthy or in good health. In Islamic culture, Afya is a name symbolizing good health, well-being, and prosperity.",
-      "keywords": [
-        "Afya",
-        "Islam name",
-        "baby names",
-        "Health, Well-being",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Afya in Islam tradition?",
-          "a": "Afya is a beautiful Islam name meaning \"Health, Well-being\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Afya a good Islam name for a baby?",
-          "a": "Yes, Afya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Afya?",
-          "a": "The name Afya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Afya correctly?",
-          "a": "Afya is pronounced ah-FEE-ah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Afya?",
-          "a": "Naming a child Afya brings blessings. The meaning \"Health, Well-being\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Afya?",
-          "a": "Afya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Afya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Afya (عافية).",
+      "h1": "Afya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Afya meaning",
       "secondary_keywords": [
-        "Islam name Afya",
-        "Afya meaning",
-        "Afya origin"
+        "Afya name meaning",
+        "Afya meaning in Urdu",
+        "Afya origin",
+        "Afya Islamic name",
+        "Afya pronunciation",
+        "Afya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Afya (عافية) is associated with the Arabic form عافية, whose core sense is health, well-being. Variant romanization of عافية ('health, well-being').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Afya is associated with the Arabic form عافية, whose core sense is health, well-being.",
+      "meaning_section": "The central meaning of Afya is health, well-being.",
+      "origin_section": "Afya is associated with Arabic rather than with a different language.",
+      "islam_section": "Afya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Afya is with the sense health.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Afya",
+      "#AfyaMeaning",
+      "#AfyaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Afya holds a significant cultural impact due to its depiction of good health and overall well-being. In Islamic tradition, health is considered to be a crucial element of living a fulfilling and meaningful life. Moreover, it is also seen as a blessing from Allah, emphasizing the importance of self-care, hygiene, and a balanced lifestyle, as depicted in Prophetic traditions such as the Hadith.",
-    "spiritual_significance": "Spiritually, the name Afya signifies the concept of wellness and restoration, emphasizing the interconnectedness of the physical and spiritual aspects of a person. It is a reminder to prioritize Salah and Dhikr in daily life and nurture the soul, as a healthy body enables a healthy mind and strong connection to Allah. Additionally, Afya can also symbolize the significance of seeking religious knowledge and wisdom as a means to spiritual growth and healing.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Battuta's travels mention a town named Afya in present-day Ethiopia around 1330 CE. The town was a significant center of Islamic learning and trade.",
-        "time_period": "1330 CE",
-        "context": "Ibn Battuta's travels and writings provide valuable insights into the Islamic world during the Middle Ages."
-      },
-      {
-        "reference": "The name 'Afya' is mentioned in historical records as a part of the Adal Sultanate in the late 15th and early 16th centuries CE. During this period, the city was an important religious and political center for Muslims in the region.",
-        "time_period": "Late 15th - Early 16th centuries CE",
-        "context": "The Adal Sultanate played a significant role in the history of Ethiopia and the wider Islamic world."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Healthcare",
-        "Wellness",
-        "Technology"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Afya corresponds to the Arabic form عافية",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Afya has the core sense health, well-being",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Telemedicine apps",
-        "Social media",
-        "E-commerce"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Afya' in its modern context is associated with healthcare, wellness, and technology. It is seen on various platforms such as telemedicine apps, social media, and e-commerce. The name 'Afya' is often used to represent the idea of good health and wellbeing, and is particularly relevant in today's digital age where people can easily access healthcare services and wellness resources online. Telemedicine apps, for example, use the name 'Afya' to brand their services, emphasizing their commitment to providing accessible and convenient healthcare. Social media platforms, such as Instagram and Facebook, also use the name 'Afya' to promote health and wellness content, often featuring influencers and experts sharing tips on healthy living and self-care. E-commerce platforms, such as Amazon and Alibaba, also use the name 'Afya' to sell health-related products, from vitamins and supplements to fitness equipment and healthy food options. Overall, the name 'Afya' represents a modern approach to healthcare and wellness, one that is accessible, convenient, and technology-driven."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Afya",
-      "location": "Dubai, UAE",
-      "story": "Fatima Afya from Dubai, UAE embodies the meaning of Afya - \"Health, Well-being\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Health, Well-being\" symbolizes Derived from the Arabic root ‘afa’ meaning to be healthy or in good health. In Islamic culture, Afya is a name symbolizing good health, well-being, and prosperity.. In Islamic spirituality, bearing the name Afya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of health, well-being.",
-    "created_at": "2025-12-22T19:19:50.332Z",
-    "updated_at": "2025-12-22T04:53:15.909Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1448,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Afya",
-      "description": "Health, Well-being",
-      "additionalName": [
-        "Afyah"
+      "alternateName": [
+        "Afya",
+        "afya"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form عافية, meaning health, well-being.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Afya",
-          "description": "Discover the meaning of Afya - \"Health, Well-being\"",
-          "image": "/images/social/afya-facebook.jpg"
+      "termCode": "afya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Afya - Name Meaning",
-          "description": "Learn about the beautiful name Afya",
-          "image": "/images/social/afya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Afya",
-          "description": "Name meaning: Health, Well-being",
-          "image": "/images/social/afya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Afya - Meaning: Health, Well-being",
-        "email_subject": "Beautiful Name: Afya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Afya with meaning Health, Well-being",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Afya, associated with the Arabic form عافية, meaning health, well-being."
     },
-    "similar_sounding_names": [
-      "aryan",
-      "ayan",
-      "ambar",
-      "anya",
-      "ashika",
-      "anika",
-      "amala",
-      "amalia",
-      "arya",
-      "arsala"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

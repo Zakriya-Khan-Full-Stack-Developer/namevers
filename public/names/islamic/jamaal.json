@@ -3,293 +3,485 @@
   "data": {
     "name": "Jamaal",
     "slug": "jamaal",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Adornment",
-    "long_meaning": "The one who is adorned with beauty, noble, and precious things",
-    "spiritual_meaning": "Represents the inner beauty and nobleness of a person, encouraging self-improvement and personal growth",
-    "emotional_traits": [
-      "Joyful",
-      "Adorable"
-    ],
-    "hidden_personality_traits": [
-      "Intelligent",
-      "Mysterious"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Red",
-      "Pink"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and expressionistic",
-    "in_arabic": {
-      "name": "جمال",
-      "meaning": "جمال تعالیٰ کی ایک خوبصورت صفت ہے",
-      "long_meaning": "جمال اللہ تعالیٰ کی خوبصورتی اور شان و شوکت کا ایک جامع نام ہے۔ یہ لفظ 'جمل' سے ماخوذ ہے، جس کا مطلب ہے خوبصورتی یا شان و شوکت۔ اسلامی تقویم میں، جمال کو اللہ تعالیٰ کے 99 ناموں میں سے ایک سمجھا جاتا ہے، جو مسلمانوں کے لئے روحانی اہمیت کا حامل ہے۔"
+    "identity": {
+      "display_name": "Jamaal",
+      "normalized_name": "jamaal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jamaal",
+        "jamaal",
+        "jamal"
+      ],
+      "search_variants": [
+        "Jamaal",
+        "jamaal",
+        "jamal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جمال",
-      "meaning": "خوبصورتی، اللہ کی شان و شوکت",
-      "long_meaning": "جمال نام اللہ تعالیٰ کی خوبصورتی اور شان و شوکت کو ظاہر کرتا ہے۔ یہ نام عربی لفظ 'جمل' سے ماخوذ ہے، جس کا مطلب ہے خوبصورتی یا کمال۔ اسلامی روایت میں، جمال کو اللہ تعالیٰ کے صفات میں سے ایک سمجھا جاتا ہے، جو مسلمانوں کے لئے روحانی نمو اور مثالی شخصیت کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Beauty, comeliness, grace",
+      "primary_meaning": "Beauty",
+      "secondary_meanings": [
+        "comeliness",
+        "grace"
+      ],
+      "literal_meaning": "Beauty",
+      "extended_meaning": "Beauty, comeliness, grace",
+      "meaning_explanation": "Jamaal corresponds to the Arabic form جمال (Arabic root ج م ل (j-m-l); جَمَال (Jamāl)). Its core sense is beauty, comeliness, grace. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "जमाल",
-      "meaning": "ईश्वर की सुंदरता और महिमा",
-      "long_meaning": "जमाल नाम ईश्वर की सुंदरता और महिमा को दर्शाता है। यह नाम अरबी भाषा के शब्द 'जमल' से लिया गया है, जिसका अर्थ है सुंदरता या परिपूर्णता। इस्लामी परंपरा में, जमाल को अल्लाह की विशेषताओं में से एक माना जाता है, जो मुसलमानों के लिए आध्यात्मिक महत्व रखता है और आदर्श व्यक्तित्व का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جمال",
+      "transliteration": "jamaal",
+      "romanization": "jamaal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Beauty",
+        "comeliness",
+        "grace"
+      ],
+      "etymology_explanation": "The form جمال is an established Arabic lexical item. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جمال",
-      "meaning": "د ښکلا او د خدای تعالیٰ شان",
-      "long_meaning": "جمال نوم د خدای تعالیٰ ښکلا او شان څرګندوي. دا نوم د عربي کلمې 'جمل' څخه اخیستل شوی دی، چې معنی یې ښکلا یا بشپړتیا ده. د اسلامي روایت په منځ کې، جمال د خدای تعالیٰ د صفاتو څخه يو ګڼل کيږي، کوم چې د مسلمانانو لپاره روحاني اهميت لري او د مثالي شخصيت نښه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جمال is an established Arabic form.",
+        "Urdu": "جمال is used in Urdu.",
+        "Persian": "جمال is an established Persian form.",
+        "Hindi": "जमाल is used in Hindi.",
+        "Pashto": "جمال is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Jamaal",
-      "meaning": "beauty, goodness, perfection in character",
-      "long_meaning": "Jamaal is derived from the Arabic root 'J-M-L', which means beauty, goodness, or perfection. In Islamic tradition, Jamaal is considered one of the attributes of Allah, signifying divine beauty and perfection. As a given name, Jamaal symbolizes spiritual growth, moral excellence, and a connection to the divine attributes of beauty and goodness."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form جمال. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jamaal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense beauty, comeliness, grace.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Beauty",
+      "related_concepts": [
+        "beauty",
+        "comeliness",
+        "grace"
+      ],
+      "semantic_relationship": "The central semantic idea is beauty; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of beauty.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Beauty",
+        "Comeliness",
+        "Grace"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jamaal",
+        "meaning": "Beauty, comeliness, grace",
+        "long_meaning": "Jamaal is a Arabic-origin name. Its core meaning is beauty, comeliness, grace. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal."
+      },
+      "urdu": {
+        "name": "جمال",
+        "meaning": "جمال، حسن، خوبصورتی",
+        "long_meaning": "Jamaal (جمال) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جمال، حسن، خوبصورتی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جمال",
+        "meaning": "جمال، زیبایی، حسن",
+        "long_meaning": "Jamaal (جمال) نامی برگرفته از زبان عربی است و معنای اصلی آن جمال، زیبایی، حسن است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जमाल",
+        "meaning": "सौंदर्य, जमाल, सुंदरता",
+        "long_meaning": "Jamaal (जमाल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सौंदर्य, जमाल, सुंदरता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جمال",
+        "meaning": "جمال، ښکلا، حسن",
+        "long_meaning": "Jamaal (جمال) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جمال، ښکلا، حسن ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جمال",
+        "meaning": "الجمال، الحسن، البهاء",
+        "long_meaning": "Jamaal (جمال) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجمال، الحسن، البهاء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "jah-MAAL",
-      "urdu": "جمال کا تلفظ: جا-مال",
-      "hindi": "जमाल का उच्चारण: जा-माल",
-      "pashto": "د جمال تلفظ: جا-мал",
-      "ipa": "/dʒɑːˈmɑːl/"
+      "romanized": "ja-maal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جمال",
+      "persian": "جمال",
+      "hindi": "जमाल",
+      "pashto": "جمال"
     },
-    "celebrity_usage": [
-      "Jamal Ibrahim",
-      "Jamal Edwards"
-    ],
-    "social_tags": [
-      "#JamaalMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jamaal"
-    ],
-    "name_variations": [
-      "Jamal"
-    ],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jamaal",
+        "jamaal",
+        "jamal"
+      ],
+      "script_variants": [
+        "جمال",
+        "जमाल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جمال is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jamaal can be understood through the Arabic form جمال, whose central sense is beauty, comeliness, grace. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Jamaal mean?",
+        "answer": "Jamaal is associated with the Arabic form جمال, whose core sense is beauty, comeliness, grace."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 84,
-        "year": 2024
+        "question": "What is the origin of Jamaal?",
+        "answer": "Jamaal is associated with Arabic. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Jamaal an Arabic name?",
+        "answer": "Yes — the underlying form جمال is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 82,
-        "year": 2024
+        "question": "Is Jamaal an Islamic name?",
+        "answer": "Jamaal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jamaal a Quranic name?",
+        "answer": "Jamaal should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jamaal mean in Urdu?",
+        "answer": "In Urdu, Jamaal is rendered جمال and carries the sense جمال، حسن، خوبصورتی."
+      },
+      {
+        "question": "What does Jamaal mean in Persian?",
+        "answer": "In Persian, Jamaal is rendered جمال and carries the sense جمال، زیبایی، حسن."
+      },
+      {
+        "question": "How is Jamaal pronounced?",
+        "answer": "A romanized syllable approximation is ja-maal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jamaal?",
+        "answer": "Romanization variants include Jamaal, jamaal, jamal. Script forms are جمال, जमाल."
+      },
+      {
+        "question": "Is Jamaal a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jamaal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jamaal, a beautiful Islam name meaning \"Adornment\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jamaal, Islam name, baby names, Adornment, Islam baby names, name meaning",
-      "description_paragraph": "Jamaal is a meaningful Islam name of Arabic origin that means \"Adornment\". The one who is adorned with beauty, noble, and precious things",
-      "keywords": [
-        "Jamaal",
-        "Islam name",
-        "baby names",
-        "Adornment",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jamaal in Islam tradition?",
-          "a": "Jamaal is a beautiful Islam name meaning \"Adornment\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jamaal a good Islam name for a baby?",
-          "a": "Yes, Jamaal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jamaal?",
-          "a": "The name Jamaal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jamaal correctly?",
-          "a": "Jamaal is pronounced jah-MAAL in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jamaal?",
-          "a": "Naming a child Jamaal brings blessings. The meaning \"Adornment\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jamaal?",
-          "a": "Jamaal is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Jamaal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jamaal (جمال).",
+      "h1": "Jamaal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jamaal meaning",
       "secondary_keywords": [
-        "Islam name Jamaal",
-        "Jamaal meaning",
-        "Jamaal origin"
+        "Jamaal name meaning",
+        "Jamaal meaning in Urdu",
+        "Jamaal origin",
+        "Jamaal Islamic name",
+        "Jamaal pronunciation",
+        "Jamaal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jamaal (جمال) is associated with the Arabic form جمال, whose core sense is beauty, comeliness, grace. Jamaal is Arabic جَمَال (Jamāl) 'beauty, comeliness, grace', from the root ج م ل (j-m-l). The source gloss 'Adornment' is broadly consistent. Same name as jamal.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jamaal is associated with the Arabic form جمال, whose core sense is beauty, comeliness, grace.",
+      "meaning_section": "The central meaning of Jamaal is beauty, comeliness, grace.",
+      "origin_section": "Jamaal is associated with Arabic rather than with a different language.",
+      "islam_section": "Jamaal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jamaal is with the sense beauty.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jamaal",
+      "#JamaalMeaning",
+      "#JamaalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jamaal, originating from the Arabic language, holds a rich cultural significance in the Islamic world. The name signifies someone who is adorned with beauty, not just physical, but also in terms of their character. This name is also associated with nobility and elegance, reflecting the refined culture and etiquettes practiced in Islamic societies.",
-    "spiritual_significance": "From a spiritual perspective, Jamaal represents the inner beauty and preciousness of every individual, as taught in the Islamic faith. The Prophet Muhammad (peace be upon him) is quoted to have said \"God is beautiful and loves beauty,\" emphasizing the importance of a beautiful heart and a spiritual adornment sought in seeking the pleasure of Allah. The name serves as a constant reminder to nurture one's inner self, fostering virtues, and cultivating a beautiful soul. By embracing this name, one embarks on a lifelong journey to attain both external and inner beauty, aiming to reflect the divine nature of Allah in every aspect of their life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah, Volume 11, Page 527 The name Jamaal carried significant weight in that era.",
-        "time_period": "Year 597 AH (1201 CE)",
-        "context": "Jamaal ad-Din Yusuf bin Ayyub, Saladin's vizier, died this year."
-      },
-      {
-        "reference": "Historical records show that Ibn Khaldun's The Muqaddimah, Volume 1, Page 258 The name Jamaal carried significant weight in that era.",
-        "time_period": "Year 776 AH (1375 CE)",
-        "context": "Jamaal ad-Din Muhammad bin Yusuf Al-Ibn Khaldun, the historian and philosopher, was born."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Middle Eastern names gaining popularity in the Western world",
-        "Increasing acceptance and representation of Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jamaal corresponds to the Arabic form جمال",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Jamaal has the core sense beauty, comeliness, grace",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Entertainment industry",
-        "Fashion and beauty"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Jamaal is a popular Islamic name, originating from the Arabic language. In recent times, Jamaal has gained popularity beyond traditional Muslim communities, with the name appearing more frequently in the Western world. This trend is likely due to the increasing acceptance and representation of Muslim communities in various aspects of society. Jamaal can be found on several modern platforms: \n1. Social media: Jamaal is a common name among Arabic and Muslim communities on social media platforms such as Facebook, Twitter, and Instagram. It is often used as a username or display name, reflecting the growing global presence of Islamic names.\n2. Entertainment industry: Jamaal has appeared in various titles of movies, TV shows, and music albums, showcasing the name's cultural relevance and popularity beyond traditional Muslim communities.\n3. Fashion and beauty: Jamaal is increasingly being used as a name for beauty and fashion brands, demonstrating the name's modern and cosmopolitan appeal."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Jamaal",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Khadija Jamaal, a teacher in Kuala Lumpur, Malaysia, shares that their name Jamaal meaning \"Adornment\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Adornment\" symbolizes The one who is adorned with beauty, noble, and precious things. In Islamic spirituality, bearing the name Jamaal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of adornment.",
-    "created_at": "2025-12-22T19:19:50.322Z",
-    "updated_at": "2025-12-22T04:53:15.751Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1495,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jamaal",
-      "description": "Adornment",
-      "additionalName": [
-        "Jamal"
+      "alternateName": [
+        "Jamaal",
+        "jamaal",
+        "jamal"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form جمال, meaning beauty, comeliness, grace.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jamaal",
-          "description": "Discover the meaning of Jamaal - \"Adornment\"",
-          "image": "/images/social/jamaal-facebook.jpg"
+      "termCode": "jamaal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jamaal - Name Meaning",
-          "description": "Learn about the beautiful name Jamaal",
-          "image": "/images/social/jamaal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Jamaal",
-          "description": "Name meaning: Adornment",
-          "image": "/images/social/jamaal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jamaal - Meaning: Adornment",
-        "email_subject": "Beautiful Name: Jamaal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jamaal with meaning Adornment",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jamaal, associated with the Arabic form جمال, meaning beauty, comeliness, grace."
     },
-    "similar_sounding_names": [
-      "jamesha",
-      "jan",
-      "javier",
-      "jada",
-      "janaan",
-      "jadallah",
-      "jasmina"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

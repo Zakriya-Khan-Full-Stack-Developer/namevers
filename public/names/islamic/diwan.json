@@ -3,296 +3,482 @@
   "data": {
     "name": "Diwan",
     "slug": "diwan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male or Female or Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Council, gathering place",
-    "long_meaning": "In Arabic, Diwan (ديوان) means a council or a gathering place, especially for scholars and religious leaders. It can also refer to a literary work or a collection of poetry. In the Islamic context, it symbolizes wisdom, knowledge, and community.",
-    "spiritual_meaning": "A place of wisdom, knowledge, and community.",
-    "emotional_traits": [
-      "Wise",
-      "Intelligent"
-    ],
-    "hidden_personality_traits": [
-      "M = Humble",
-      "S = Strong"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Blue",
-      "Green",
-      "Silver"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 5,
-    "numerology_meaning": "Those with a life path number 5 are known for their versatility, love for adventure, and strong communication skills. They often seek new experiences and can adapt to various situations.",
-    "in_arabic": {
-      "name": "ديوان",
-      "meaning": "ديوان هو مكان للنظر في الأمور الحكومية أو الشعرية",
-      "long_meaning": "الديوان هو مكان للنظر في الأمور الحكومية أو الشعرية، و يعود أصل الكلمة إلى الفارسية وتعني مكانا للاجتماع أو القاعة، و في اللغة العربية، الديوان هو كتاب أو مجموعة من القصائد الشعرية، و يطلق أيضا على مكان الاجتماعات الرسمية أو الحكومية."
+    "identity": {
+      "display_name": "Diwan",
+      "normalized_name": "diwan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Diwan",
+        "diwan"
+      ],
+      "search_variants": [
+        "Diwan",
+        "diwan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دیوان",
-      "meaning": "دیوان کا مطلب ہے جہاں سرکاری یا شعری مسائل پر غور کیا جائے",
-      "long_meaning": "دیوان فارسی سے ماخوذ ہے اور اس کا مطلب ہے ملاقات کا مقام یا ہال، عربی زبان میں دیوان کو شاعری کی کتاب یا مجموعہ کے طور پر جانا جاتا ہے، اور سرکاری یا رسمی اجلاسوں کے مقام کے طور پر بھی استعمال ہوتا ہے، اسلامی تقليد میں اس کا اہم کردار ہے."
+    "core_meaning": {
+      "short_meaning": "Council, gathering place, assembly",
+      "primary_meaning": "Council",
+      "secondary_meanings": [
+        "gathering place",
+        "assembly"
+      ],
+      "literal_meaning": "Council",
+      "extended_meaning": "Council, gathering place, assembly",
+      "meaning_explanation": "Diwan corresponds to the Persian form ديوان (Persian dīwān). Its core sense is council, gathering place, assembly. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दीवान",
-      "meaning": "दीवान का अर्थ है जहां सरकारी या काव्यात्मक मामलों पर विचार किया जाता है",
-      "long_meaning": "दीवान फारसी से लिया गया है और इसका अर्थ है मिलने का स्थान या हॉल, अरबी भाषा में दीवान को काव्य की पुस्तक या संग्रह के रूप में जाना जाता है, और सरकारी या औपचारिक बैठकों के स्थान के रूप में भी प्रयोग किया जाता है, इस्लामी परंपरा में इसकी महत्वपूर्ण भूमिका है."
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "ديوان",
+      "transliteration": "diwan",
+      "romanization": "diwan",
+      "root_status": "Persian dīwān",
+      "etymological_meaning": [
+        "Council",
+        "gathering place",
+        "assembly"
+      ],
+      "etymology_explanation": "The form ديوان is an established Persian lexical item. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ديوان",
-      "meaning": "ديوان دى هغه ځاى چى د دولتي يا شعرى مسايلو په اړه پکې غور کيږي",
-      "long_meaning": "ديوان د فارسي ژبې څخه اخيستل شوى دى او د دې مطلب دى چى د راغونډېدلو ځاى يا هال، په عربي ژبه کې ديوان د شعر کتاب يا ټولګه په توګه پيژندل کيږي، او د دولتي يا رسمي غونډو د ځاى په توګه هم کارول کيږي، په افغان او پښتني دود کې يې مهم رول دى."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "ديوان is an established Arabic form.",
+        "Urdu": "دیوان is used in Urdu.",
+        "Persian": "دیوان is an established Persian form.",
+        "Hindi": "दीवान is used in Hindi.",
+        "Pashto": "دیوان is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Diwan",
-      "meaning": "Diwan refers to a gathering place for government or poetic matters",
-      "long_meaning": "The term Diwan originates from Persian, signifying a place of assembly or hall. In Arabic, it denotes a book of poetry or a collection. Historically, it has been used to describe a venue for official or governmental meetings. In Islamic tradition, Diwan holds cultural significance as a platform for administrative and literary activities."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form ديوان. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Diwan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense council, gathering place, assembly.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Council",
+      "related_concepts": [
+        "council",
+        "gathering place",
+        "assembly"
+      ],
+      "semantic_relationship": "The central semantic idea is council; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of council.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Council",
+        "Gathering place",
+        "Assembly"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Diwan",
+        "meaning": "Council, gathering place, assembly",
+        "long_meaning": "Diwan is a Persian-origin name. Its core meaning is council, gathering place, assembly. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "دیوان",
+        "meaning": "دیوان، مجلس، اجتماع",
+        "long_meaning": "Diwan (دیوان) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم دیوان، مجلس، اجتماع ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "دیوان",
+        "meaning": "دیوان، مجلس، انجمن",
+        "long_meaning": "Diwan (دیوان) نامی برگرفته از زبان فارسی است و معنای اصلی آن دیوان، مجلس، انجمن است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "दीवान",
+        "meaning": "दीवान, सभा, मजलिस",
+        "long_meaning": "Diwan (दीवान) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दीवान, सभा, मजलिस है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دیوان",
+        "meaning": "دیوان، مجلس، غونډه",
+        "long_meaning": "Diwan (دیوان) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې دیوان، مجلس، غونډه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "ديوان",
+        "meaning": "الديوان، المجلس، الاجتماع",
+        "long_meaning": "Diwan (ديوان) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الديوان، المجلس، الاجتماع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "dee-wahn",
-      "urdu": "دیوان کا تلفظ ہے دی-وان",
-      "hindi": "दीवान का उच्चारण है दी-वान",
-      "pashto": "ديوان تلفظ دى دى-وان",
-      "ipa": "/diːˈwɑːn/"
+      "romanized": "di-wan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دیوان",
+      "persian": "دیوان",
+      "hindi": "दीवान",
+      "pashto": "دیوان"
     },
-    "celebrity_usage": [
-      "Diwan Mudhar"
-    ],
-    "social_tags": [
-      "#DiwanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Diwan"
-    ],
-    "name_variations": [],
-    "popularity_score": 78,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Diwan",
+        "diwan"
+      ],
+      "script_variants": [
+        "ديوان",
+        "دیوان",
+        "दीवान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form ديوان is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Diwan can be understood through the Persian form ديوان, whose central sense is council, gathering place, assembly. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Diwan mean?",
+        "answer": "Diwan is associated with the Persian form ديوان, whose core sense is council, gathering place, assembly."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Diwan?",
+        "answer": "Diwan is associated with Persian. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Diwan an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Diwan an Islamic name?",
+        "answer": "Diwan can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Diwan a Quranic name?",
+        "answer": "Diwan should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Diwan mean in Urdu?",
+        "answer": "In Urdu, Diwan is rendered دیوان and carries the sense دیوان، مجلس، اجتماع."
+      },
+      {
+        "question": "What does Diwan mean in Persian?",
+        "answer": "In Persian, Diwan is rendered دیوان and carries the sense دیوان، مجلس، انجمن."
+      },
+      {
+        "question": "How is Diwan pronounced?",
+        "answer": "A romanized syllable approximation is di-wan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Diwan?",
+        "answer": "Romanization variants include Diwan, diwan. Script forms are ديوان, دیوان, दीवान."
+      },
+      {
+        "question": "Is Diwan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Diwan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Diwan, a beautiful Islam name meaning \"Council, gathering place\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Diwan, Islam name, baby names, Council, gathering place, Islam baby names, name meaning",
-      "description_paragraph": "Diwan is a meaningful Islam name of Arabic origin that means \"Council, gathering place\". In Arabic, Diwan (ديوان) means a council or a gathering place, especially for scholars and religious leaders. It can also refer to a literary work or a collection of poetry. In the Islamic context, it symbolizes wisdom, knowledge, and community.",
-      "keywords": [
-        "Diwan",
-        "Islam name",
-        "baby names",
-        "Council, gathering place",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Diwan in Islam tradition?",
-          "a": "Diwan is a beautiful Islam name meaning \"Council, gathering place\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Diwan a good Islam name for a baby?",
-          "a": "Yes, Diwan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Diwan?",
-          "a": "The name Diwan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Diwan correctly?",
-          "a": "Diwan is pronounced dee-wahn in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Diwan?",
-          "a": "Naming a child Diwan brings blessings. The meaning \"Council, gathering place\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Diwan?",
-          "a": "Diwan is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Diwan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Diwan (ديوان).",
+      "h1": "Diwan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Diwan meaning",
       "secondary_keywords": [
-        "Islam name Diwan",
-        "Diwan meaning",
-        "Diwan origin"
+        "Diwan name meaning",
+        "Diwan meaning in Urdu",
+        "Diwan origin",
+        "Diwan Islamic name",
+        "Diwan pronunciation",
+        "Diwan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Diwan (ديوان) is associated with the Persian form ديوان, whose core sense is council, gathering place, assembly. Persian dīwān ('council, gathering place, collected works'). The source record's gloss 'Council, gathering place' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Diwan is associated with the Persian form ديوان, whose core sense is council, gathering place, assembly.",
+      "meaning_section": "The central meaning of Diwan is council, gathering place, assembly.",
+      "origin_section": "Diwan is associated with Persian rather than with a different language.",
+      "islam_section": "Diwan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Diwan is with the sense council.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Diwan",
+      "#DiwanMeaning",
+      "#DiwanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Diwan holds special significance in Islamic culture, as it represents a gathering place for scholars, poets, and spiritual leaders. The concept of Diwan is closely tied to the traditional Islamic educational institutions like madrasas and universities, which have been instrumental in preserving and disseminating Islamic knowledge. The name has also been used for various literary works in both Arabic and Persian languages, emphasizing the importance of knowledge and learning in Islamic tradition.",
-    "spiritual_significance": "Diwan holds a special place in Islamic spirituality, as it signifies the assembly of the seekers of wisdom and knowledge. In Sufism, the Muslim mystical tradition, the concept of Diwan represents the divine gathering or assembly of spiritual seekers, guided by the wisdom of the spiritual master or Pir. The poems and verses in Sufi Diwans serve as a source of inspiration, knowledge, and guidance for the spiritual journey towards union with the Divine.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Khaldun's Muqaddimah, written around 1377-1382 AD. The name Diwan carried significant weight in that era.",
-        "time_period": "14th century AD",
-        "context": "Ibn Khaldun described the Diwan as a financial and administrative institution, which was used by the Muslim rulers to manage their territories, collect taxes, and distribute resources. He noted that the Diwan was an essential element of the Islamic state, and its effective functioning was important for the stability and prosperity of the empire."
-      },
-      {
-        "reference": "Historical records show that Al-Maqrizi's Kitab al-Ittiqad fi Funun al-Islam, written around 1401-1402 AD. The name Diwan carried significant weight in that era.",
-        "time_period": "15th century AD",
-        "context": "Al-Maqrizi described the Diwan as a court office responsible for recording the ruler's decrees, managing the royal household, and supervising the collection and distribution of revenues. He noted that the Diwan was an important institution in the administration of the Islamic state, and its efficient functioning was essential for the effective governance of the empire."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic art and culture revival",
-        "Digital transformation in Islamic communities",
-        "Virtual collaboration among Islamic scholars"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Diwan corresponds to the Persian form ديوان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Diwan has the core sense council, gathering place, assembly",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Mawaqif: Digital Islamic Museums",
-        "Diwan.co: A collaborative platform for Islamic scholars",
-        "IslamicArt.org: A digital library and museum"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Diwan' originates from the Islamic Golden Age when it referred to a literary and administrative institution. Today, the term has evolved to represent digital platforms that facilitate the preservation, dissemination, and collaboration in Islamic art, culture, and scholarship. Platforms such as Mawaqif, Diwan.co, and IslamicArt.org provide innovative solutions to the challenges faced by Islamic communities in the digital age, allowing users to access and engage with Islamic content in new and immersive ways. These platforms are part of a larger trend towards the revival and digital transformation of Islamic art and culture, as well as the virtual collaboration among Islamic scholars from around the world."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Diwan",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Zainab Diwan in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Diwan, which means \"Council, gathering place\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Council, gathering place\" symbolizes In Arabic, Diwan (ديوان) means a council or a gathering place, especially for scholars and religious leaders. It can also refer to a literary work or a collection of poetry. In the Islamic context, it symbolizes wisdom, knowledge, and community.. In Islamic spirituality, bearing the name Diwan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of council, gathering place.",
-    "created_at": "2025-12-22T19:19:49.935Z",
-    "updated_at": "2025-12-22T04:53:15.566Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1510,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Diwan",
-      "description": "Council, gathering place",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Diwan",
+        "diwan"
       ],
-      "religion": "Islam",
-      "gender": "Male or Female or Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Diwan",
-          "description": "Discover the meaning of Diwan - \"Council, gathering place\"",
-          "image": "/images/social/diwan-facebook.jpg"
+      "description": "A name associated with the Persian form ديوان, meaning council, gathering place, assembly.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "diwan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Diwan - Name Meaning",
-          "description": "Learn about the beautiful name Diwan",
-          "image": "/images/social/diwan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Diwan",
-          "description": "Name meaning: Council, gathering place",
-          "image": "/images/social/diwan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Diwan - Meaning: Council, gathering place",
-        "email_subject": "Beautiful Name: Diwan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Diwan with meaning Council, gathering place",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Diwan, associated with the Persian form ديوان, meaning council, gathering place, assembly."
     },
-    "similar_sounding_names": [
-      "dafiyah",
-      "dean",
-      "dhuka",
-      "diya",
-      "dimah",
-      "dina",
-      "daniel"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

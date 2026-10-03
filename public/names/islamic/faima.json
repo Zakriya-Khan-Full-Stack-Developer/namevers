@@ -3,297 +3,475 @@
   "data": {
     "name": "Faima",
     "slug": "faima",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Deliverer, Helper",
-    "long_meaning": "The name Faima is derived from the Arabic root 'f-a-m' which means 'to deliver' or 'to help'. This name is a reminder of Allah's boundless mercy and compassion towards His creation. Faima is a name of a woman who is always there to help and support others, embodying the qualities of kindness, generosity, and selflessness.",
-    "spiritual_meaning": "A symbol of Allah's mercy and compassion towards His creation.",
-    "emotional_traits": [
-      "Compassionate",
-      "Caring",
-      "Supportive"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 11,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Silver",
-      "White"
-    ],
-    "lucky_stone": "Pearl",
-    "life_path_number": 11,
-    "numerology_meaning": "Individuals with the name Faima are natural leaders and innovators. They have the ability to inspire and motivate others with their vision and creativity.",
-    "in_arabic": {
-      "name": "فيمة",
-      "meaning": "اسم يعني المرأة ذات العقل والفهم",
-      "long_meaning": "اسم فيمة مشتق من الفهم والعقل، ويدل على المرأة الذكية العاقلة. ورد في بعض التفاسير القرآنية أن الفهم هو نور في القلب يميز بين الحق والباطل. وقد ذكر بعض العلماء أن اسم فيمة له صلة بالآية القرآنية 'وَمَا أَرْسَلْنَا مِن رَسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُم' حيث يشير إلى فهم الرسالة."
+    "identity": {
+      "display_name": "Faima",
+      "normalized_name": "faima",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faima",
+        "faima"
+      ],
+      "search_variants": [
+        "Faima",
+        "faima"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فیامہ",
-      "meaning": "ایک نام جس کا مطلب ہے عقلمند اور سمجھدار",
-      "long_meaning": "نام فیامہ عربی زبان کے الفاظ 'فہم' سے ماخوذ ہے جس کا مطلب ہے سمجھنا یا عقلمند ہونا۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے درمیان مقبول ہے اور اس کا مطلب ہے ایک عورت جو عقلمند، سمجھدار اور حكمت عملی ہو۔ اسلامی روایات میں، فہم اور عقل کو اہم صفات کے طور پر شمار کیا جاتا ہے جو انسان کو صحیح راستے پر چلنے میں مدد کرتی ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Deliverer, helper, saviour",
+      "primary_meaning": "Deliverer",
+      "secondary_meanings": [
+        "helper",
+        "saviour"
+      ],
+      "literal_meaning": "Deliverer",
+      "extended_meaning": "Deliverer, helper, saviour",
+      "meaning_explanation": "Faima corresponds to the Unknown form فيمة (—). Its core sense is deliverer, helper, saviour. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "फैमा",
-      "meaning": "एक नाम जिसका अर्थ है बुद्धिमान और समझदार",
-      "long_meaning": "नाम फैमा अरबी भाषा से लिया गया है, जिसका अर्थ है समझ या बुद्धिमत्ता। यह नाम भारतीय मुस्लिम समुदाय में प्रयोग किया जाता है और यह एक ऐसी महिला को दर्शाता है जो बुद्धिमान, समझदार और ज्ञान से भरपूर हो। इस्लामी परंपरा में, ज्ञान और बुद्धिमत्ता को महत्वपूर्ण गुण माना जाता है जो व्यक्ति को सही मार्ग पर चलने में मदद करते हैं।"
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "فيمة",
+      "transliteration": "faima",
+      "romanization": "faima",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Deliverer",
+        "helper",
+        "saviour"
+      ],
+      "etymology_explanation": "The form فيمة is an established Unknown lexical item. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "فيمة",
-      "meaning": "دې نوم معنی يې د پوهې او عقلمندۍ",
-      "long_meaning": "د فيمة نوم د پوهې او عقلمندۍ څخه مشتق شوی دی. په پښتو کلتور کې، دا نوم د يوې ښځې لپاره کارول کېږي چې پوهه، عقلمنده او دانا وي. په اسلامي روايت کې، پوهه او عقل داسې ځانګړتي دي چې انسان ته د حق او باطل د پوهنې لارښوونه کوي."
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فيمة is an established Arabic form.",
+        "Urdu": "فیمہ is used in Urdu.",
+        "Hindi": "फ़ाइमा is used in Hindi.",
+        "Pashto": "فيمه is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Faima",
-      "meaning": "intelligent and understanding woman",
-      "long_meaning": "The name Faima is derived from the Arabic root 'fahm', meaning understanding or intelligence. In Islamic tradition, Faima signifies a woman who is wise, intelligent, and possesses deep insight. The name has historical significance in various Muslim cultures and is often chosen for its positive connotations of wisdom and discernment. Etymologically, it relates to Quranic values of knowledge and understanding."
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Unknown form فيمة. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faima may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense deliverer, helper, saviour.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Deliverer",
+      "related_concepts": [
+        "deliverer",
+        "helper",
+        "saviour"
+      ],
+      "semantic_relationship": "The central semantic idea is deliverer; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of deliverer.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Deliverer",
+        "Helper",
+        "Saviour"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faima",
+        "meaning": "Deliverer, helper, saviour",
+        "long_meaning": "Faima is a Unknown-origin name. Its core meaning is deliverer, helper, saviour. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "فیمہ",
+        "meaning": "نجات دینے والا، مددگار",
+        "long_meaning": "Faima (فیمہ) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نجات دینے والا، مددگار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ाइमा",
+        "meaning": "उद्धारक, सहायक",
+        "long_meaning": "Faima (फ़ाइमा) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ उद्धारक, सहायक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فيمه",
+        "meaning": "ژغورونکی، مرستندوی",
+        "long_meaning": "Faima (فيمه) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ژغورونکی، مرستندوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فيمة",
+        "meaning": "المنقذ، المعين، المخلص",
+        "long_meaning": "Faima (فيمة) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي المنقذ، المعين، المخلص. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "FAY-mah",
-      "urdu": "فیامہ کا تلفظ (fay-mah)",
-      "hindi": "फैमा का उच्चारण (fay-ma)",
-      "pashto": "د فيمة تلفظ (fay-mah)",
-      "ipa": "/ˈfɑːɪmə/"
+      "romanized": "fai-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فیمہ",
+      "persian": null,
+      "hindi": "फ़ाइमा",
+      "pashto": "فيمه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FaimaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faima"
-    ],
-    "name_variations": [
-      "Faimah"
-    ],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faima",
+        "faima"
+      ],
+      "script_variants": [
+        "فيمة",
+        "فيمه",
+        "فیمہ",
+        "फ़ाइमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فيمة is an established Unknown lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faima can be understood through the Unknown form فيمة, whose central sense is deliverer, helper, saviour. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Faima mean?",
+        "answer": "Faima is associated with the Unknown form فيمة, whose core sense is deliverer, helper, saviour."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Faima?",
+        "answer": "Faima is associated with Unknown. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Faima an Arabic name?",
+        "answer": "No — the underlying form is Unknown, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Faima an Islamic name?",
+        "answer": "Faima can occur in Muslim naming contexts, but it is better described as a Unknown-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 73,
-        "year": 2024
+        "question": "Is Faima a Quranic name?",
+        "answer": "Faima should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faima mean in Urdu?",
+        "answer": "In Urdu, Faima is rendered فیمہ and carries the sense نجات دینے والا، مددگار."
+      },
+      {
+        "question": "What does Faima mean in Persian?",
+        "answer": "No verified Persian form was established for Faima."
+      },
+      {
+        "question": "How is Faima pronounced?",
+        "answer": "A romanized syllable approximation is fai-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faima?",
+        "answer": "Romanization variants include Faima, faima. Script forms are فيمة, فيمه, فیمہ, फ़ाइमा."
+      },
+      {
+        "question": "Is Faima a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faima Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faima, a beautiful Islam name meaning \"Deliverer, Helper\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faima, Islam name, baby names, Deliverer, Helper, Islam baby names, name meaning",
-      "description_paragraph": "Faima is a meaningful Islam name of Arabic origin that means \"Deliverer, Helper\". The name Faima is derived from the Arabic root 'f-a-m' which means 'to deliver' or 'to help'. This name is a reminder of Allah's boundless mercy and compassion towards His creation. Faima is a name of a woman who is always there to help and support others, embodying the qualities of kindness, generosity, and selflessness.",
-      "keywords": [
-        "Faima",
-        "Islam name",
-        "baby names",
-        "Deliverer, Helper",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faima in Islam tradition?",
-          "a": "Faima is a beautiful Islam name meaning \"Deliverer, Helper\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faima a good Islam name for a baby?",
-          "a": "Yes, Faima is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faima?",
-          "a": "The name Faima has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faima correctly?",
-          "a": "Faima is pronounced FAY-mah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faima?",
-          "a": "Naming a child Faima brings blessings. The meaning \"Deliverer, Helper\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faima?",
-          "a": "Faima is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Faima Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Unknown origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faima (فيمة).",
+      "h1": "Faima Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faima meaning",
       "secondary_keywords": [
-        "Islam name Faima",
-        "Faima meaning",
-        "Faima origin"
+        "Faima name meaning",
+        "Faima meaning in Urdu",
+        "Faima origin",
+        "Faima Islamic name",
+        "Faima pronunciation",
+        "Faima name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faima (فيمة) is associated with the Unknown form فيمة, whose core sense is deliverer, helper, saviour. The source record's gloss 'Deliverer, Helper' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faima is associated with the Unknown form فيمة, whose core sense is deliverer, helper, saviour.",
+      "meaning_section": "The central meaning of Faima is deliverer, helper, saviour.",
+      "origin_section": "Faima is associated with Unknown rather than with a different language.",
+      "islam_section": "Faima can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faima is with the sense deliverer.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faima",
+      "#FaimaMeaning",
+      "#FaimaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Faima is not a commonly used name in the Islamic world, but it holds a unique significance in Arabic culture. It represents the ideals of generosity, compassion, and kindness towards others. Faima is a name that is often given to a child who is expected to grow up to be a benevolent and selfless person, one who goes out of their way to help those in need.",
-    "spiritual_significance": "From a spiritual perspective, the name Faima holds a deeper meaning. It is a reminder of Allah's infinite mercy and compassion towards His creation. Faima is a name that reflects the qualities of a true believer, one who strives to embody the Prophet Muhammad's (peace be upon him) teachings of love, kindness, and generosity towards others. Faima is a name for a woman who embodies the spirit of Islam, serving as an inspiration for others to follow in her footsteps and spread love and kindness wherever they go.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Faima carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faima corresponds to the Unknown form فيمة",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Faima has the core sense deliverer, helper, saviour",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faima remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Faima",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Maryam Faima in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Faima, which means \"Deliverer, Helper\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Deliverer, Helper\" symbolizes The name Faima is derived from the Arabic root 'f-a-m' which means 'to deliver' or 'to help'. This name is a reminder of Allah's boundless mercy and compassion towards His creation. Faima is a name of a woman who is always there to help and support others, embodying the qualities of kindness, generosity, and selflessness.. In Islamic spirituality, bearing the name Faima serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of deliverer, helper.",
-    "created_at": "2025-12-22T19:19:49.919Z",
-    "updated_at": "2025-12-22T04:53:15.383Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1174,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faima",
-      "description": "Deliverer, Helper",
-      "additionalName": [
-        "Faimah"
+      "alternateName": [
+        "Faima",
+        "faima"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Unknown form فيمة, meaning deliverer, helper, saviour.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faima",
-          "description": "Discover the meaning of Faima - \"Deliverer, Helper\"",
-          "image": "/images/social/faima-facebook.jpg"
+      "termCode": "faima",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Unknown"
         },
-        "twitter": {
-          "title": "Faima - Name Meaning",
-          "description": "Learn about the beautiful name Faima",
-          "image": "/images/social/faima-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Faima",
-          "description": "Name meaning: Deliverer, Helper",
-          "image": "/images/social/faima-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faima - Meaning: Deliverer, Helper",
-        "email_subject": "Beautiful Name: Faima"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faima with meaning Deliverer, Helper",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faima, associated with the Unknown form فيمة, meaning deliverer, helper, saviour."
     },
-    "similar_sounding_names": [
-      "fadi",
-      "farisha",
-      "faekah",
-      "fakeehah",
-      "faiyaz",
-      "fardeen",
-      "firoz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

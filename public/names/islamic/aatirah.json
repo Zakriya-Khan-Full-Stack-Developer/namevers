@@ -3,299 +3,485 @@
   "data": {
     "name": "Aatirah",
     "slug": "aatirah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Noble, Honorable",
-    "long_meaning": "Derived from the Arabic root ‘aatara’, which means ‘to carry’ or ‘to bear’. In Islamic context, Aatirah signifies a noble and honorable woman who carries the weight of her responsibilities with grace and dignity.",
-    "spiritual_meaning": "A noble and honorable woman who embodies the qualities of wisdom, righteousness, and peace.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Silver",
-      "White"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 9,
-    "numerology_meaning": "Those with the name Aatirah have a strong intuition and inner wisdom, which allows them to navigate complex situations with ease. They are natural teachers and have a deep sense of compassion and empathy, making them excellent caregivers and healers.",
-    "in_arabic": {
-      "name": "عاطرة",
-      "meaning": "اسم عاطرة يعني الفتاة ذات الروح العطرة والنفس الحلوة",
-      "long_meaning": "اسم عاطرة مشتق من الجذر العربي 'عطر' والذي يعني الرائحة الجميلة أو العطرة. في اللغة العربية، يُستخدم هذا الاسم للدلالة على الفتاة التي تتميز بروحها الجميلة وقلبها الحلو. كما يمكن أن يشير إلى الشخصية التي تجلب الفرح والسرور لمن حولها. وقد وردت مشتقات هذا الجذر في القرآن الكريم، مما يضفي على الاسم قيمة دينية وروحانية."
+    "identity": {
+      "display_name": "Aatirah",
+      "normalized_name": "aatirah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aatirah",
+        "aatirah",
+        "atirah"
+      ],
+      "search_variants": [
+        "Aatirah",
+        "aatirah",
+        "atirah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عاطرہ",
-      "meaning": "عاطرہ کا مطلب ہے خوبصورت روح اور میٹھے نفس کی مالک",
-      "long_meaning": "عاطرہ نام عربی جڑ 'عطر' سے ماخوذ ہے، جس کا مطلب ہے خوبصورت خوشبو یا خوشبو دینے والی۔ اردو میں، یہ نام اس لڑکی کے لئے استعمال ہوتا ہے جو اپنی خوبصورت روح اور میٹھے نفس کی مالک ہو۔ یہ نام جنوبی ایشیا میں مسلمانوں کے ذریعہ خوبصورت اور معنی خیز نام کے طور پر استعمال کیا جاتا ہے۔ اس جڑ کا ذکر قرآن مجید میں بھی آیا ہے، جو اس نام کو ایک خاص روحانی اہمیت دیتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Fragrant, perfumed, scented",
+      "primary_meaning": "Fragrant",
+      "secondary_meanings": [
+        "perfumed",
+        "scented"
+      ],
+      "literal_meaning": "Fragrant",
+      "extended_meaning": "Fragrant, perfumed, scented",
+      "meaning_explanation": "Aatirah corresponds to the Arabic form عاطرة (ع ط ر). Its core sense is fragrant, perfumed, scented. Variant romanization of aatira.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "आतीराह",
-      "meaning": "आतीराह का अर्थ है सुंदर आत्मा और मीठे स्वभाव की मालकिन",
-      "long_meaning": "आतीराह नाम अरबी मूल 'अतर' से लिया गया है, जिसका अर्थ है सुंदर सुगंध या सुगंधित। हिंदी में, यह नाम उस लड़की के लिए प्रयोग किया जाता है जो अपनी सुंदर आत्मा और मीठे स्वभाव की मालकिन हो। भारतीय मुस्लिम समुदाय में, यह नाम एक सुंदर और अर्थपूर्ण नाम के रूप में प्रयोग किया जाता है। इस मूल का उल्लेख कुरआन में भी मिलता है, जो इस नाम को एक विशेष आध्यात्मिक महत्व देता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عاطرة",
+      "transliteration": "aatirah",
+      "romanization": "aatirah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Fragrant",
+        "perfumed",
+        "scented"
+      ],
+      "etymology_explanation": "The form عاطرة is an established Arabic lexical item. Variant romanization of aatira.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عاطره",
-      "meaning": "عاطره د ښکلاو روح او ښه سولې مالکې معنی لري",
-      "long_meaning": "عاطره نوم د عربي ريښې 'عطر' څخه اخستل شوی دی، چې د ښکلاو بوی یا بوی ورکوونکې معنی لري. په پښتو کې، دا نوم د هغې نجلۍ لپاره کارول کېږي چې د ښکلاو روح او ښه سولې مالکې وي. په افغانستان او پښتونستان کې، دا نوم د يوې ښکلې او معنی لرونکې نجلۍ لپاره کارول کېږي. دا ريښه د قرآن کريم په مبارک کتاب کې هم راغلې ده، چې دا نوم ته يې يو ځانګړی روحاني اهميت ورکوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عاطرة is an established Arabic form.",
+        "Urdu": "عاطرہ is used in Urdu.",
+        "Hindi": "आतिरा is used in Hindi.",
+        "Pashto": "عاطره is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Aatirah",
-      "meaning": "Aatirah means having a sweet soul and fragrant personality",
-      "long_meaning": "The name Aatirah is derived from the Arabic root 'عطر' (atar), which means fragrance or sweet scent. In Islamic tradition, Aatirah signifies a person with a beautiful soul and a pleasant demeanor. The root 'عطر' is mentioned in the Quran, lending the name a spiritual and sacred significance. Aatirah is used across various Muslim cultures to denote a girl with a charming and endearing personality. The name reflects the importance of inner beauty and kindness in Islamic values."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عاطرة. Variant romanization of aatira.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aatirah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ع ط ر does not occur in the Qur'an; عاطرة is a normal Arabic feminine form"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense fragrant, perfumed, scented.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fragrant",
+      "related_concepts": [
+        "fragrant",
+        "perfumed",
+        "scented"
+      ],
+      "semantic_relationship": "The central semantic idea is fragrant; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of fragrant.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Fragrant",
+        "Perfumed",
+        "Scented"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aatirah",
+        "meaning": "Fragrant, perfumed, scented",
+        "long_meaning": "Aatirah is a Arabic-origin name. Its core meaning is fragrant, perfumed, scented. Variant romanization of aatira."
+      },
+      "urdu": {
+        "name": "عاطرہ",
+        "meaning": "خوشبودار، معطر",
+        "long_meaning": "Aatirah (عاطرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوشبودار، معطر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आतिरा",
+        "meaning": "सुगंधित, खुशबूदार",
+        "long_meaning": "Aatirah (आतिरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सुगंधित, खुशबूदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عاطره",
+        "meaning": "خوشبویه، معطر",
+        "long_meaning": "Aatirah (عاطره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوشبویه، معطر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عاطرة",
+        "meaning": "عاطر، عطري، طيب",
+        "long_meaning": "Aatirah (عاطرة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عاطر، عطري، طيب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-TEE-rah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عاطرہ (ah-TEE-rah)",
-      "hindi": "हिन्दी में उच्चारण विवरण: आतीराह (ah-TEE-rah)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عاطره (ah-TEE-rah)",
-      "ipa": "/ɑːˈtiːrɑː/"
+      "romanized": "aa-ti-rah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عاطرہ",
+      "persian": null,
+      "hindi": "आतिरा",
+      "pashto": "عاطره"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AatirahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aatirah"
-    ],
-    "name_variations": [
-      "Aatira"
-    ],
-    "popularity_score": 69,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aatirah",
+        "aatirah",
+        "atirah"
+      ],
+      "script_variants": [
+        "عاطرة",
+        "عاطره",
+        "عاطرہ",
+        "आतिरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عاطرة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aatirah can be understood through the Arabic form عاطرة, whose central sense is fragrant, perfumed, scented. Variant romanization of aatira.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Aatirah mean?",
+        "answer": "Aatirah is associated with the Arabic form عاطرة, whose core sense is fragrant, perfumed, scented."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 82,
-        "year": 2024
+        "question": "What is the origin of Aatirah?",
+        "answer": "Aatirah is associated with Arabic. Variant romanization of aatira."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Aatirah an Arabic name?",
+        "answer": "Yes — the underlying form عاطرة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Aatirah an Islamic name?",
+        "answer": "Aatirah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 73,
-        "year": 2024
+        "question": "Is Aatirah a Quranic name?",
+        "answer": "Aatirah should not be classified as a Quranic personal name without a direct Quranic basis. root ع ط ر does not occur in the Qur'an; عاطرة is a normal Arabic feminine form"
+      },
+      {
+        "question": "What does Aatirah mean in Urdu?",
+        "answer": "In Urdu, Aatirah is rendered عاطرہ and carries the sense خوشبودار، معطر."
+      },
+      {
+        "question": "What does Aatirah mean in Persian?",
+        "answer": "No verified Persian form was established for Aatirah."
+      },
+      {
+        "question": "How is Aatirah pronounced?",
+        "answer": "A romanized syllable approximation is aa-ti-rah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aatirah?",
+        "answer": "Romanization variants include Aatirah, aatirah, atirah. Script forms are عاطرة, عاطره, عاطرہ, आतिरा."
+      },
+      {
+        "question": "Is Aatirah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aatirah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aatirah, a beautiful Islam name meaning \"Noble, Honorable\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aatirah, Islam name, baby names, Noble, Honorable, Islam baby names, name meaning",
-      "description_paragraph": "Aatirah is a meaningful Islam name of Arabic origin that means \"Noble, Honorable\". Derived from the Arabic root ‘aatara’, which means ‘to carry’ or ‘to bear’. In Islamic context, Aatirah signifies a noble and honorable woman who carries the weight of her responsibilities with grace and dignity.",
-      "keywords": [
-        "Aatirah",
-        "Islam name",
-        "baby names",
-        "Noble, Honorable",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aatirah in Islam tradition?",
-          "a": "Aatirah is a beautiful Islam name meaning \"Noble, Honorable\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aatirah a good Islam name for a baby?",
-          "a": "Yes, Aatirah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aatirah?",
-          "a": "The name Aatirah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aatirah correctly?",
-          "a": "Aatirah is pronounced ah-TEE-rah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aatirah?",
-          "a": "Naming a child Aatirah brings blessings. The meaning \"Noble, Honorable\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aatirah?",
-          "a": "Aatirah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Aatirah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aatirah (عاطرة).",
+      "h1": "Aatirah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aatirah meaning",
       "secondary_keywords": [
-        "Islam name Aatirah",
-        "Aatirah meaning",
-        "Aatirah origin"
+        "Aatirah name meaning",
+        "Aatirah meaning in Urdu",
+        "Aatirah origin",
+        "Aatirah Islamic name",
+        "Aatirah pronunciation",
+        "Aatirah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aatirah (عاطرة) is associated with the Arabic form عاطرة, whose core sense is fragrant, perfumed, scented. Variant romanization of aatira.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aatirah is associated with the Arabic form عاطرة, whose core sense is fragrant, perfumed, scented.",
+      "meaning_section": "The central meaning of Aatirah is fragrant, perfumed, scented.",
+      "origin_section": "Aatirah is associated with Arabic rather than with a different language.",
+      "islam_section": "Aatirah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aatirah is with the sense fragrant.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aatirah",
+      "#AatirahMeaning",
+      "#AatirahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Aatirah is a beautiful name for a woman in Islamic culture. It suggests strength, resilience and the ability to carry the weight of responsibilities on one's shoulders. Aatirah is a woman of character, one who is admired for her noble qualities and upholding traditional values.",
-    "spiritual_significance": "In the spiritual realm, Aatirah embodies the woman who carry's the weight of her faith, family, and community with grace, dignity, and patience. She is a beacon of hope, a source of comfort, and a nurturer of love and compassion. The name Aatirah is a constant reminder of the virtues a Muslim woman should strive to cultivate and embody - strength, resilience, compassion, and unwavering faith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Aatirah carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aatirah corresponds to the Arabic form عاطرة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Aatirah has the core sense fragrant, perfumed, scented",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aatirah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Aatirah",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Maryam Aatirah in Cairo, Egypt attributes much of their success to the blessing of their name Aatirah, which means \"Noble, Honorable\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Noble, Honorable\" symbolizes Derived from the Arabic root ‘aatara’, which means ‘to carry’ or ‘to bear’. In Islamic context, Aatirah signifies a noble and honorable woman who carries the weight of her responsibilities with grace and dignity.. In Islamic spirituality, bearing the name Aatirah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of noble, honorable.",
-    "created_at": "2025-12-22T19:19:49.907Z",
-    "updated_at": "2025-12-22T04:53:15.213Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1061,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aatirah",
-      "description": "Noble, Honorable",
-      "additionalName": [
-        "Aatira"
+      "alternateName": [
+        "Aatirah",
+        "aatirah",
+        "atirah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form عاطرة, meaning fragrant, perfumed, scented.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aatirah",
-          "description": "Discover the meaning of Aatirah - \"Noble, Honorable\"",
-          "image": "/images/social/aatirah-facebook.jpg"
+      "termCode": "aatirah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aatirah - Name Meaning",
-          "description": "Learn about the beautiful name Aatirah",
-          "image": "/images/social/aatirah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Aatirah",
-          "description": "Name meaning: Noble, Honorable",
-          "image": "/images/social/aatirah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aatirah - Meaning: Noble, Honorable",
-        "email_subject": "Beautiful Name: Aatirah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aatirah with meaning Noble, Honorable",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aatirah, associated with the Arabic form عاطرة, meaning fragrant, perfumed, scented."
     },
-    "similar_sounding_names": [
-      "anya",
-      "amala",
-      "ayra",
-      "ayan",
-      "arsala",
-      "aaidah",
-      "amalia",
-      "ariana",
-      "alabbas",
-      "anaan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

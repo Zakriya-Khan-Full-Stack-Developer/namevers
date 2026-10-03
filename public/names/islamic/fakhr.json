@@ -3,286 +3,479 @@
   "data": {
     "name": "Fakhr",
     "slug": "fakhr",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Pride, Honor",
-    "long_meaning": "Derived from the Arabic word 'fakarah' which means 'pride' or 'honor'. In Islamic tradition, Fakhr can be seen as a reflection of Allah's pride and honor in His creation.",
-    "spiritual_meaning": "A name for those who seek to be close to Allah and seek His pleasure",
-    "emotional_traits": [
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 9,
-    "numerology_meaning": "Represents spiritual growth, wisdom, and destiny-driven success.",
-    "in_arabic": {
-      "name": "فخر",
-      "meaning": "الاعتزاز و الرفعة و العلو",
-      "long_meaning": "فخر هو اسم مشتق من الفخر و هو الشعور بالاعتزاز و الرفعة و العلو، و يدل على مكانة عالية و شرف كبير. ورد ذكره في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'وَمَن يَستَعِز فَإِنَّ اللَّهَ هُوَ العَزِيزُ' (آل عمران: 139)، و في الحديث النبوي: 'من مات على فراشه مات على فراشه فخرًا'."
+    "identity": {
+      "display_name": "Fakhr",
+      "normalized_name": "fakhr",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fakhr",
+        "fakhr"
+      ],
+      "search_variants": [
+        "Fakhr",
+        "fakhr"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فخر",
-      "meaning": "اعزاز اور رفعت اور علو",
-      "long_meaning": "فخر ایک نام ہے جو عربی زبان سے ماخوذ ہے اور اس کا مطلب ہے اعزاز اور رفعت اور علو۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے درمیان میں بہت مقبول ہے اور اس کا استعمال اکثر ایسے بچوں کے لیے کیا جاتا ہے جو اعلیٰ مقام اور شرف کے ساتھ جینے والے ہوں۔ اس نام کی اہمیت اسلامی روایات میں بھی واضع ہے جہاں فخر کو ایک قابل ستائش صفت کے طور پر ذکر کیا گیا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Pride, honor, glory",
+      "primary_meaning": "Pride",
+      "secondary_meanings": [
+        "honor",
+        "glory"
+      ],
+      "literal_meaning": "Pride",
+      "extended_meaning": "Pride, honor, glory",
+      "meaning_explanation": "Fakhr corresponds to the Arabic form فخر (ف خ ر). Its core sense is pride, honor, glory. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फख्र",
-      "meaning": "आदर और गरिमा और ऊंचाई",
-      "long_meaning": "फख्र एक नाम है जो अरबी भाषा से लिया गया है और इसका अर्थ है आदर और गरिमा और ऊंचाई। यह नाम भारतीय मुस्लिम समुदाय में बहुत लोकप्रिय है और अक्सर इसका उपयोग उन बच्चों के लिए किया जाता है जो उच्च पद और सम्मान के साथ जीवन जीने वाले होते हैं। इस नाम का महत्व इस्लामी परंपराओं में भी स्पष्ट है जहां फख्र को एक प्रशंसनीय विशेषता के रूप में उल्लेख किया गया है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فخر",
+      "transliteration": "fakhr",
+      "romanization": "fakhr",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Pride",
+        "honor",
+        "glory"
+      ],
+      "etymology_explanation": "The form فخر is an established Arabic lexical item. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فخر",
-      "meaning": "عزت او لوړوالی",
-      "long_meaning": "فخر د يو نوم دی چې د عربي ژبې څخه اخيستل شوی دی او د عزت او لوړوالی معنی لري. دا نوم د افغان او پښتون دودیزو ټولنو کې ډیر مشهور دی او ډیری وختونه د هغو ماشومانو لپاره کارول کیږي کوم چې د لوړو موقفونو او عزت سره ژوند کوي. په اسلامي رواياتو کې د دې نوم ارزښت هم څرګند دی چیرته چې فخر د ستاینې وړ ځانګړتیا په توګه بیان شوی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فخر is an established Arabic form.",
+        "Urdu": "فخر is used in Urdu.",
+        "Hindi": "फ़ख़्र is used in Hindi.",
+        "Pashto": "فخر is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Fakhr",
-      "meaning": "Pride, honor, and glory",
-      "long_meaning": "Fakhr is an Arabic name that means 'pride,' 'honor,' and 'glory.' It is derived from the Arabic root 'F-KH-R,' which conveys a sense of elevation and nobility. In Islamic tradition, Fakhr is considered a commendable attribute, as mentioned in the Quran and Hadith. The name Fakhr is popular across Muslim cultures and is often given to children born into families of high social standing or noble lineage."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فخر. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fakhr may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense pride, honor, glory.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Pride",
+      "related_concepts": [
+        "pride",
+        "honor",
+        "glory"
+      ],
+      "semantic_relationship": "The central semantic idea is pride; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of pride.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Pride",
+        "Honor",
+        "Glory"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fakhr",
+        "meaning": "Pride, honor, glory",
+        "long_meaning": "Fakhr is a Arabic-origin name. Its core meaning is pride, honor, glory. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فخر",
+        "meaning": "فخر، عزت، شان",
+        "long_meaning": "Fakhr (فخر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم فخر، عزت، شان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ख़्र",
+        "meaning": "गौरव, सम्मान, शान",
+        "long_meaning": "Fakhr (फ़ख़्र) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ गौरव, सम्मान, शान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فخر",
+        "meaning": "وياړ، عزت، شان",
+        "long_meaning": "Fakhr (فخر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې وياړ، عزت، شان ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فخر",
+        "meaning": "الفخر، العز، المجد",
+        "long_meaning": "Fakhr (فخر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفخر، العز، المجد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "FAKHR",
-      "urdu": "فخر کا تلفظ (فَخْر)",
-      "hindi": "फख्र का उच्चारण (फ-ख-र)",
-      "pashto": "د فخر تلفظ (فَخْر)",
-      "ipa": "/fɑːx.r/"
+      "romanized": "fakhr",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فخر",
+      "persian": null,
+      "hindi": "फ़ख़्र",
+      "pashto": "فخر"
     },
-    "celebrity_usage": [
-      "Fakhr-e-Alam",
-      "Fakhr-i-Alam"
-    ],
-    "social_tags": [
-      "#FakhrMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fakhr"
-    ],
-    "name_variations": [],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fakhr",
+        "fakhr"
+      ],
+      "script_variants": [
+        "فخر",
+        "फ़ख़्र"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فخر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fakhr can be understood through the Arabic form فخر, whose central sense is pride, honor, glory. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Fakhr mean?",
+        "answer": "Fakhr is associated with the Arabic form فخر, whose core sense is pride, honor, glory."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Fakhr?",
+        "answer": "Fakhr is associated with Arabic. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Fakhr an Arabic name?",
+        "answer": "Yes — the underlying form فخر is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 82,
-        "year": 2024
+        "question": "Is Fakhr an Islamic name?",
+        "answer": "Fakhr can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fakhr a Quranic name?",
+        "answer": "Fakhr should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fakhr mean in Urdu?",
+        "answer": "In Urdu, Fakhr is rendered فخر and carries the sense فخر، عزت، شان."
+      },
+      {
+        "question": "What does Fakhr mean in Persian?",
+        "answer": "No verified Persian form was established for Fakhr."
+      },
+      {
+        "question": "How is Fakhr pronounced?",
+        "answer": "A romanized syllable approximation is fakhr. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fakhr?",
+        "answer": "Romanization variants include Fakhr, fakhr. Script forms are فخر, फ़ख़्र."
+      },
+      {
+        "question": "Is Fakhr a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fakhr Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fakhr, a beautiful Islam name meaning \"Pride, Honor\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fakhr, Islam name, baby names, Pride, Honor, Islam baby names, name meaning",
-      "description_paragraph": "Fakhr is a meaningful Islam name of Arabic origin that means \"Pride, Honor\". Derived from the Arabic word 'fakarah' which means 'pride' or 'honor'. In Islamic tradition, Fakhr can be seen as a reflection of Allah's pride and honor in His creation.",
-      "keywords": [
-        "Fakhr",
-        "Islam name",
-        "baby names",
-        "Pride, Honor",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fakhr in Islam tradition?",
-          "a": "Fakhr is a beautiful Islam name meaning \"Pride, Honor\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fakhr a good Islam name for a baby?",
-          "a": "Yes, Fakhr is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fakhr?",
-          "a": "The name Fakhr has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fakhr correctly?",
-          "a": "Fakhr is pronounced FAKHR in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fakhr?",
-          "a": "Naming a child Fakhr brings blessings. The meaning \"Pride, Honor\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fakhr?",
-          "a": "Fakhr is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Fakhr Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fakhr (فخر).",
+      "h1": "Fakhr Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fakhr meaning",
       "secondary_keywords": [
-        "Islam name Fakhr",
-        "Fakhr meaning",
-        "Fakhr origin"
+        "Fakhr name meaning",
+        "Fakhr meaning in Urdu",
+        "Fakhr origin",
+        "Fakhr Islamic name",
+        "Fakhr pronunciation",
+        "Fakhr name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fakhr (فخر) is associated with the Arabic form فخر, whose core sense is pride, honor, glory. Fakhr ('pride, honour, glory'). The source record's gloss 'Pride, Honor' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fakhr is associated with the Arabic form فخر, whose core sense is pride, honor, glory.",
+      "meaning_section": "The central meaning of Fakhr is pride, honor, glory.",
+      "origin_section": "Fakhr is associated with Arabic rather than with a different language.",
+      "islam_section": "Fakhr can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fakhr is with the sense pride.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fakhr",
+      "#FakhrMeaning",
+      "#FakhrName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fakhr holds a prominent place in Islamic culture, particularly in South Asia, as it is considered a honorable and prestigious name for both males and females. It reflects the deep sense of pride and dignity that is valued in Islamic and Middle Eastern societies.",
-    "spiritual_significance": "From a spiritual perspective, the name Fakhr can be seen as a reminder of Allah's pride and honor in His creation. It is a reminder that as His creations, we should strive to honor and uphold the dignity of all human beings and the world that Allah has given us. Additionally, the name Fakhr can serve as a reminder of the honor and pride that comes from living a virtuous and righteous life in accordance with Islamic teachings.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Fakhr carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fakhr corresponds to the Arabic form فخر",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Fakhr has the core sense pride, honor, glory",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fakhr remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Hassan Fakhr",
-      "location": "Cairo, Egypt",
-      "story": "Hassan Fakhr, a teacher in Cairo, Egypt, shares that their name Fakhr meaning \"Pride, Honor\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Pride, Honor\" symbolizes Derived from the Arabic word 'fakarah' which means 'pride' or 'honor'. In Islamic tradition, Fakhr can be seen as a reflection of Allah's pride and honor in His creation.. In Islamic spirituality, bearing the name Fakhr serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of pride, honor.",
-    "created_at": "2025-12-22T19:19:49.889Z",
-    "updated_at": "2025-12-22T04:53:15.118Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1222,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fakhr",
-      "description": "Pride, Honor",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Fakhr",
+        "fakhr"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fakhr",
-          "description": "Discover the meaning of Fakhr - \"Pride, Honor\"",
-          "image": "/images/social/fakhr-facebook.jpg"
+      "description": "A name associated with the Arabic form فخر, meaning pride, honor, glory.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "fakhr",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fakhr - Name Meaning",
-          "description": "Learn about the beautiful name Fakhr",
-          "image": "/images/social/fakhr-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Fakhr",
-          "description": "Name meaning: Pride, Honor",
-          "image": "/images/social/fakhr-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fakhr - Meaning: Pride, Honor",
-        "email_subject": "Beautiful Name: Fakhr"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fakhr with meaning Pride, Honor",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fakhr, associated with the Arabic form فخر, meaning pride, honor, glory."
     },
-    "similar_sounding_names": [
-      "fakeehah",
-      "faekah",
-      "fardeen",
-      "farisha",
-      "firoz",
-      "fadi",
-      "faiyaz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,294 +3,481 @@
   "data": {
     "name": "Anis",
     "slug": "anis",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Hindi"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Companion, Friendly, Intimate Friend",
-    "long_meaning": "Anis is a warm and comforting Arabic name that means 'close friend', 'companion', or one who brings calm and warmth to others.",
-    "spiritual_meaning": "A soul that comforts others — bringing peace, company, and support to hearts that need it most.",
-    "emotional_traits": [
-      "Warm",
-      "Friendly",
-      "Comforting",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "A = Always dependable",
-      "N = Nurtures relationships",
-      "I = Inspires connection",
-      "S = Soft-hearted companion"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Sky Blue",
-      "White"
-    ],
-    "lucky_stone": "Topaz",
-    "life_path_number": 9,
-    "numerology_meaning": "Number 5 signifies adaptability and warmth. Anis is a friend to all — embracing diversity and connection.",
-    "in_arabic": {
-      "name": "عنيس",
-      "meaning": "الرفيق الحبيب، الشخص الذي يأنس بوجوده",
-      "long_meaning": "اسم أنيس مشتق من الجذر العربي (ن-ي-س) الذي يحمل معاني الرفاقة، الحب، والأنس. يدل على الشخص الذي يأنس بوجوده، ويكون رفيقًا محبوبًا. ورد في القرآن الكريم في سورة الفرقان الآية 2: 'وَالَّذِينَ يَأْتُونَ بِالزِّنَا وَلَا يَأْتُونَ بِشَهَادَةٍ وَلَا يَكْذِبُونَ وَلَا يَأْتُونَ بِبَاطِعٍ وَأُوْلَـئِكَ الَّذِينَ يَأْتُونَ بِالْفَاحِشَةِ مَبْذُولَةً أُولَـئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ وَحَسُنَ أُوْلَـئِكَ رَفِيقًا'"
+    "identity": {
+      "display_name": "Anis",
+      "normalized_name": "anis",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Anis",
+        "anis"
+      ],
+      "search_variants": [
+        "Anis",
+        "anis"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انیس",
-      "meaning": "رفيق محبوب، دوست، پیارا",
-      "long_meaning": "انیس نام کی عربی اصل (ن-ي-س) سے ہے جس کا مطلب ہے رفیق، دوست، اور محبوب۔ یہ نام اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ پیارے پن اور رفاقت کی علامت ہے۔ انیس ابن ابی طالب کا نام ہے جو حضرت علی (ع) کے بھائی اور رفیق تھے۔"
+    "core_meaning": {
+      "short_meaning": "Companion, friendly, intimate friend",
+      "primary_meaning": "Companion",
+      "secondary_meanings": [
+        "friendly",
+        "intimate friend"
+      ],
+      "literal_meaning": "Companion",
+      "extended_meaning": "Companion, friendly, intimate friend",
+      "meaning_explanation": "Anis corresponds to the Arabic form أنيس (أ ن س). Its core sense is companion, friendly, intimate friend. Anīs ('friendly, companion, intimate friend').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अनीस",
-      "meaning": "प्यारा मित्र, साथी, प्रिय",
-      "long_meaning": "अनीस नाम की उत्पत्ति अरबी भाषा से हुई है, जिसका अर्थ है प्रिय मित्र या साथी। इस नाम का महत्व इस्लामी परंपरा में है, क्योंकि यह प्यार और साथीपन का प्रतीक है। अनीस इब्न अबी तालिब का नाम है, जो हज़रत अली के भाई और साथी थे।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أنيس",
+      "transliteration": "anis",
+      "romanization": "anis",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Companion",
+        "friendly",
+        "intimate friend"
+      ],
+      "etymology_explanation": "The form أنيس is an established Arabic lexical item. Anīs ('friendly, companion, intimate friend').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "انیس",
-      "meaning": "ملګری، دوست، ګران",
-      "long_meaning": "د انیس نوم عربي اصل (ن-ي-س) څخه دی چې د دوست، رفیق او ګران معنی لري. دا نوم د افغانستان په مسلم ټولنه کې د پام وړ دی، ځکه چې د مينې او رفاقت نښه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أنيس is an established Arabic form.",
+        "Urdu": "انیس is used in Urdu.",
+        "Hindi": "अनीस is used in Hindi.",
+        "Pashto": "انيس is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Anis",
-      "meaning": "intimate friend, companion, beloved",
-      "long_meaning": "The name Anis is derived from the Arabic root (ن-ي-س) which carries meanings of companionship, love, and intimacy. It signifies a close friend or a beloved person. In Islamic tradition, Anis is associated with positive qualities such as friendship and affection. The name has historical significance, being the name of Anis ibn Abi Talib, a companion of the Prophet Muhammad."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أنيس. Anīs ('friendly, companion, intimate friend').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Anis may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense companion, friendly, intimate friend.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Companion",
+      "related_concepts": [
+        "companion",
+        "friendly",
+        "intimate friend"
+      ],
+      "semantic_relationship": "The central semantic idea is companion; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of companion.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Companion",
+        "Friendly",
+        "Intimate friend"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Anis",
+        "meaning": "Companion, friendly, intimate friend",
+        "long_meaning": "Anis is a Arabic-origin name. Its core meaning is companion, friendly, intimate friend. Anīs ('friendly, companion, intimate friend')."
+      },
+      "urdu": {
+        "name": "انیس",
+        "meaning": "ساتھی، دوستانہ، گہرا دوست",
+        "long_meaning": "Anis (انیس) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ساتھی، دوستانہ، گہرا دوست ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अनीस",
+        "meaning": "साथी, मिलनसार, घनिष्ठ मित्र",
+        "long_meaning": "Anis (अनीस) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ साथी, मिलनसार, घनिष्ठ मित्र है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "انيس",
+        "meaning": "مل، ملګری، نږدې مل",
+        "long_meaning": "Anis (انيس) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مل، ملګری، نږدې مل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أنيس",
+        "meaning": "أنيس، صديق، رفيق",
+        "long_meaning": "Anis (أنيس) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أنيس، صديق، رفيق. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "uh-nees",
-      "urdu": "انیس کا تلفظ: اے-نیس",
-      "hindi": "अनीस का उच्चारण: अ-नीस",
-      "pashto": "د انیس تلفظ: اې-نیس",
-      "ipa": "/ˈɑː.nɪs/"
+      "romanized": "a-nis",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "انیس",
+      "persian": null,
+      "hindi": "अनीस",
+      "pashto": "انيس"
     },
-    "celebrity_usage": [
-      "Anis Mojgani (Poet)",
-      "Mir Anis (Urdu poet)"
-    ],
-    "social_tags": [
-      "#AnisMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Anis"
-    ],
-    "name_variations": [],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Anis",
+        "anis"
+      ],
+      "script_variants": [
+        "أنيس",
+        "انيس",
+        "انیس",
+        "अनीस"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أنيس is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Anis can be understood through the Arabic form أنيس, whose central sense is companion, friendly, intimate friend. Anīs ('friendly, companion, intimate friend').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Anis mean?",
+        "answer": "Anis is associated with the Arabic form أنيس, whose core sense is companion, friendly, intimate friend."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Anis?",
+        "answer": "Anis is associated with Arabic. Anīs ('friendly, companion, intimate friend')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 89,
-        "year": 2024
+        "question": "Is Anis an Arabic name?",
+        "answer": "Yes — the underlying form أنيس is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Anis an Islamic name?",
+        "answer": "Anis can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Anis a Quranic name?",
+        "answer": "Anis should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Anis mean in Urdu?",
+        "answer": "In Urdu, Anis is rendered انیس and carries the sense ساتھی، دوستانہ، گہرا دوست."
+      },
+      {
+        "question": "What does Anis mean in Persian?",
+        "answer": "No verified Persian form was established for Anis."
+      },
+      {
+        "question": "How is Anis pronounced?",
+        "answer": "A romanized syllable approximation is a-nis. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Anis?",
+        "answer": "Romanization variants include Anis, anis. Script forms are أنيس, انيس, انیس, अनीस."
+      },
+      {
+        "question": "Is Anis a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Anis Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Anis, a beautiful Islam name meaning \"Companion, Friendly, Intimate Friend\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Anis, Islam name, baby names, Companion, Friendly, Intimate Friend, Islam baby names, name meaning",
-      "description_paragraph": "Anis is a meaningful Islam name of Arabic origin that means \"Companion, Friendly, Intimate Friend\". Anis is a warm and comforting Arabic name that means 'close friend', 'companion', or one who brings calm and warmth to others.",
-      "keywords": [
-        "Anis",
-        "Islam name",
-        "baby names",
-        "Companion, Friendly, Intimate Friend",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Anis in Islam tradition?",
-          "a": "Anis is a beautiful Islam name meaning \"Companion, Friendly, Intimate Friend\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Anis a good Islam name for a baby?",
-          "a": "Yes, Anis is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Anis?",
-          "a": "The name Anis has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Anis correctly?",
-          "a": "Anis is pronounced uh-nees in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Anis?",
-          "a": "Naming a child Anis brings blessings. The meaning \"Companion, Friendly, Intimate Friend\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Anis?",
-          "a": "Anis is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Anis Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Anis (أنيس).",
+      "h1": "Anis Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Anis meaning",
       "secondary_keywords": [
-        "Islam name Anis",
-        "Anis meaning",
-        "Anis origin"
+        "Anis name meaning",
+        "Anis meaning in Urdu",
+        "Anis origin",
+        "Anis Islamic name",
+        "Anis pronunciation",
+        "Anis name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Anis (أنيس) is associated with the Arabic form أنيس, whose core sense is companion, friendly, intimate friend. Anīs ('friendly, companion, intimate friend').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Anis is associated with the Arabic form أنيس, whose core sense is companion, friendly, intimate friend.",
+      "meaning_section": "The central meaning of Anis is companion, friendly, intimate friend.",
+      "origin_section": "Anis is associated with Arabic rather than with a different language.",
+      "islam_section": "Anis can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Anis is with the sense companion.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Anis",
+      "#AnisMeaning",
+      "#AnisName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Anis has a rich cultural significance in Islamic history and communities. It is a name often given to a child as a symbol of the prophetic companionship between the child and their parents. The name Anis also denotes the importance of companionship, love, and friendship in Islamic teachings. The Prophet Muhammad (peace be upon him) often emphasized the importance of such relationships, as seen in his famous Hadith, ''The strong believer is better and more beloved to Allah than the weak believer, and both continue in the same religion.'' (Muslim). The name Anis can be a reminder of the importance of these deep and enduring relationships and the role they play in our daily lives and spiritual growth.",
-    "spiritual_significance": "From a spiritual perspective, Anis is a name that represents the comforting presence of Allah (swt) in our lives. The name evokes the image of a close friend, a devoted and loyal companion, who is always there to offer support, guidance, and love. In Sufi spirituality, the belief is that every believer has a personal guide, a 'murshid' or spiritual guide, who helps them on their journey towards Allah. The name Anis can be seen as a reminder of this relationship, as the word 'anis' can also mean 'solace' or 'consolation'. In times of hardship or difficulty, Anis can serve as a reminder of the comfort and strength that comes from Allah's presence and the support of loved ones and spiritual guides. As such, the name Anis holds deep spiritual significance as a reminder of the comforting presence of Allah and the importance of meaningful relationships in our spiritual growth.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ali ibn Abi Talib was the cousin and son-in-law of Prophet Muhammad. The name Anis carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Ali was one of the most prominent figures in early Islamic history and is considered a hero and role model for Muslims."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Ali is a common name for boys in the Muslim world"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Anis corresponds to the Arabic form أنيس",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Anis has the core sense companion, friendly, intimate friend",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Ali is a popular name on social media platforms"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Anis remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Anis",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Yusuf Anis in Dubai, UAE attributes much of their success to the blessing of their name Anis, which means \"Companion, Friendly, Intimate Friend\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "Anis means \"friend\" in Arabic. In Islamic context, it symbolizes the bond of friendship and brotherhood between believers, reminding us of the importance of unity and companionship in the journey towards Allah.",
-    "created_at": "2025-06-30T12:05:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.032Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1213,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Anis",
-      "description": "Companion, Friendly, Intimate Friend",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Hindi"
+      "alternateName": [
+        "Anis",
+        "anis"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Anis",
-          "description": "Discover the meaning of Anis - \"Companion, Friendly, Intimate Friend\"",
-          "image": "/images/social/anis-facebook.jpg"
+      "description": "A name associated with the Arabic form أنيس, meaning companion, friendly, intimate friend.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "anis",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Anis - Name Meaning",
-          "description": "Learn about the beautiful name Anis",
-          "image": "/images/social/anis-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Anis",
-          "description": "Name meaning: Companion, Friendly, Intimate Friend",
-          "image": "/images/social/anis-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Anis - Meaning: Companion, Friendly, Intimate Friend",
-        "email_subject": "Beautiful Name: Anis"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Anis with meaning Companion, Friendly, Intimate Friend",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Anis, associated with the Arabic form أنيس, meaning companion, friendly, intimate friend."
     },
-    "similar_sounding_names": [
-      "amalia",
-      "ambar",
-      "ayan",
-      "ariana",
-      "ada",
-      "amaya",
-      "alaia",
-      "amber",
-      "azzahra",
-      "amala"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

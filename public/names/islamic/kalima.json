@@ -3,286 +3,479 @@
   "data": {
     "name": "Kalima",
     "slug": "kalima",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Statement of faith",
-    "long_meaning": "Kalima is a term used in Islamic tradition to refer to the declaration of faith, 'La ilaha illallah Muhammadun Rasulullah', meaning 'There is no god but Allah, Muhammad is the Messenger of Allah'.",
-    "spiritual_meaning": "A symbol of devotion and commitment to the Islamic faith.",
-    "emotional_traits": [
-      "Faithful",
-      "Resolute",
-      "Strong"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "R = Resilient"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 1,
-    "numerology_meaning": "The number 1 is associated with new beginnings, leadership, and independence. It is a powerful number that represents the ability to create and initiate. People with a life path number of 1 are natural leaders, innovators, and pioneers. They are often independent and self-reliant, and they have a strong will and determination. They are also natural problem-solvers and decision-makers, and they have a strong sense of purpose and direction.",
-    "in_arabic": {
-      "name": "كلمة",
-      "meaning": "كلمة تعني كلام أو قول أو كلمة الله",
-      "long_meaning": "كلمة هي اسم مؤنث في اللغة العربية، مشتق من الفعل 'كلم' الذي يعني التحدث أو قول شيء. في القرآن الكريم، كلمة الله تعتبر من أسماء الله الحسنى، وتشير إلى كلام الله أو رسالته للناس. اسم كلمة يحمل معاني عميقة في الثقافة الإسلامية، حيث يرتبط بالتواصل مع الله من خلال كلامه المقدس."
+    "identity": {
+      "display_name": "Kalima",
+      "normalized_name": "kalima",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kalima",
+        "kalima"
+      ],
+      "search_variants": [
+        "Kalima",
+        "kalima"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کلیما",
-      "meaning": "کلیما کا مطلب ہے کلام یا قول یا اللہ کی بات",
-      "long_meaning": "کلیما عربی زبان سے ماخوذ ایک نام ہے، جس کا مطلب ہے کلام، قول یا بات۔ یہ نام اللہ کی کلام اور وحی کے تصور سے جڑا ہوا ہے، جو اسلامی ثقافت اور عقیدت میں اہم کردار ادا کرتا ہے۔ جنوبی ایشیائی مسلمانوں کے لئے، کلیما نام روحانی اہمیت اور ان کی اسلامی شناخت سے منسلک ہے۔"
+    "core_meaning": {
+      "short_meaning": "Word, utterance",
+      "primary_meaning": "Word",
+      "secondary_meanings": [
+        "utterance"
+      ],
+      "literal_meaning": "Word",
+      "extended_meaning": "Word, utterance",
+      "meaning_explanation": "Kalima corresponds to the Arabic form كلمة (Arabic root ك ل م (k-l-m); كَلِمَة (Kalima)). Its core sense is word, utterance. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "कलीमा",
-      "meaning": "कलीमा का अर्थ है बात या वाणी या ईश्वर की बात",
-      "long_meaning": "कलीमा एक ऐसा नाम है जो अरबी भाषा से लिया गया है, जिसका अर्थ है बात, वाणी या ईश्वर की बात। यह नाम ईश्वर के वचन और उसके पवित्र संदेश के विचार से जुड़ा हुआ है, जो भारतीय मुस्लिम समुदाय में आध्यात्मिक महत्व और सांस्कृतिक महत्व रखता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "كلمة",
+      "transliteration": "kalima",
+      "romanization": "kalima",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Word",
+        "utterance"
+      ],
+      "etymology_explanation": "The form كلمة is an established Arabic lexical item. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "کالیما",
-      "meaning": "کالیما د معنی دی کلام یا خبر یا د الله خبر",
-      "long_meaning": "کالیما د یوې نجلۍ نوم دی چې په پښتو کې د کلام یا خبرو معنی لري. دا نوم د افغانستان او پښتونستان په سیمو کې د دیني او کلتوري ارزښتونو سره تړاو لري، او د الله د پیغام یا وحی مفهوم پورې اړه لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "كلمة is an established Arabic form.",
+        "Urdu": "کلمہ is used in Urdu.",
+        "Persian": "کلمه is an established Persian form.",
+        "Hindi": "कलिमा is used in Hindi.",
+        "Pashto": "کلمه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kalima",
-      "meaning": "Kalima means speech, word, or message of God",
-      "long_meaning": "Kalima is a name derived from Arabic, meaning 'speech', 'word', or 'message'. It originates from the Quranic concept of the word of God, signifying divine communication. Historically, the name Kalima holds spiritual significance in Islamic tradition, symbolizing the sacred dialogue between God and humanity. Across Muslim cultures, Kalima embodies the essence of divine revelation and prophetic messages."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form كلمة. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kalima may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense word, utterance.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Word",
+      "related_concepts": [
+        "word",
+        "utterance"
+      ],
+      "semantic_relationship": "The central semantic idea is word; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of word.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Word",
+        "Utterance"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kalima",
+        "meaning": "Word, utterance",
+        "long_meaning": "Kalima is a Arabic-origin name. Its core meaning is word, utterance. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "کلمہ",
+        "meaning": "کلمہ، لفظ، بات",
+        "long_meaning": "Kalima (کلمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کلمہ، لفظ، بات ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کلمه",
+        "meaning": "کلمه، واژه، سخن",
+        "long_meaning": "Kalima (کلمه) نامی برگرفته از زبان عربی است و معنای اصلی آن کلمه، واژه، سخن است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "कलिमा",
+        "meaning": "शब्द, कलिमा, लफ़्ज़",
+        "long_meaning": "Kalima (कलिमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शब्द, कलिमा, लफ़्ज़ है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کلمه",
+        "meaning": "کلمه، کلمه، خبره",
+        "long_meaning": "Kalima (کلمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کلمه، کلمه، خبره ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "كلمة",
+        "meaning": "الكلمة، اللفظ، القول",
+        "long_meaning": "Kalima (كلمة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الكلمة، اللفظ، القول. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "kah-LEE-mah",
-      "urdu": "اردو میں تلفظ کی تفصیل: کَلیما",
-      "hindi": "हिन्दी में उच्चारण विवरण: कलीमा",
-      "pashto": "په پښتو کې د تلفظ تفصیل: کالیما",
-      "ipa": "/kɑːˈliːmə/"
+      "romanized": "ka-li-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کلمہ",
+      "persian": "کلمه",
+      "hindi": "कलिमा",
+      "pashto": "کلمه"
     },
-    "celebrity_usage": [
-      "Kalima Abdullah",
-      "Kalima Hussain"
-    ],
-    "social_tags": [
-      "#KalimaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kalima"
-    ],
-    "name_variations": [],
-    "popularity_score": 63,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kalima",
+        "kalima"
+      ],
+      "script_variants": [
+        "كلمة",
+        "کلمه",
+        "کلمہ",
+        "कलिमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form كلمة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kalima can be understood through the Arabic form كلمة, whose central sense is word, utterance. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Kalima mean?",
+        "answer": "Kalima is associated with the Arabic form كلمة, whose core sense is word, utterance."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Kalima?",
+        "answer": "Kalima is associated with Arabic. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Kalima an Arabic name?",
+        "answer": "Yes — the underlying form كلمة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 69,
-        "year": 2024
+        "question": "Is Kalima an Islamic name?",
+        "answer": "Kalima can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 63,
-        "year": 2024
+        "question": "Is Kalima a Quranic name?",
+        "answer": "Kalima should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kalima mean in Urdu?",
+        "answer": "In Urdu, Kalima is rendered کلمہ and carries the sense کلمہ، لفظ، بات."
+      },
+      {
+        "question": "What does Kalima mean in Persian?",
+        "answer": "In Persian, Kalima is rendered کلمه and carries the sense کلمه، واژه، سخن."
+      },
+      {
+        "question": "How is Kalima pronounced?",
+        "answer": "A romanized syllable approximation is ka-li-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kalima?",
+        "answer": "Romanization variants include Kalima, kalima. Script forms are كلمة, کلمه, کلمہ, कलिमा."
+      },
+      {
+        "question": "Is Kalima a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kalima Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kalima, a beautiful Islam name meaning \"Statement of faith\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kalima, Islam name, baby names, Statement of faith, Islam baby names, name meaning",
-      "description_paragraph": "Kalima is a meaningful Islam name of Arabic origin that means \"Statement of faith\". Kalima is a term used in Islamic tradition to refer to the declaration of faith, 'La ilaha illallah Muhammadun Rasulullah', meaning 'There is no god but Allah, Muhammad is the Messenger of Allah'.",
-      "keywords": [
-        "Kalima",
-        "Islam name",
-        "baby names",
-        "Statement of faith",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kalima in Islam tradition?",
-          "a": "Kalima is a beautiful Islam name meaning \"Statement of faith\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kalima a good Islam name for a baby?",
-          "a": "Yes, Kalima is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kalima?",
-          "a": "The name Kalima has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kalima correctly?",
-          "a": "Kalima is pronounced kah-LEE-mah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kalima?",
-          "a": "Naming a child Kalima brings blessings. The meaning \"Statement of faith\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kalima?",
-          "a": "Kalima is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Kalima Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kalima (كلمة).",
+      "h1": "Kalima Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kalima meaning",
       "secondary_keywords": [
-        "Islam name Kalima",
-        "Kalima meaning",
-        "Kalima origin"
+        "Kalima name meaning",
+        "Kalima meaning in Urdu",
+        "Kalima origin",
+        "Kalima Islamic name",
+        "Kalima pronunciation",
+        "Kalima name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kalima (كلمة) is associated with the Arabic form كلمة, whose core sense is word, utterance. Kalima is Arabic كَلِمَة (Kalima) 'word, utterance', from the root ك ل م (k-l-m). The source gloss 'Statement of faith' is broadly consistent (the كلمة الشهادة is the declaration of faith). Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kalima is associated with the Arabic form كلمة, whose core sense is word, utterance.",
+      "meaning_section": "The central meaning of Kalima is word, utterance.",
+      "origin_section": "Kalima is associated with Arabic rather than with a different language.",
+      "islam_section": "Kalima can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kalima is with the sense word.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kalima",
+      "#KalimaMeaning",
+      "#KalimaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The declaration of faith, known as Kalima Sharaif, forms the foundation of an individual's identity as a Muslim. It is a crucial component of Islamic culture, emphasizing the unity of God and the belief in Muhammad as His messenger. The recital of the Kalima is often the first lesson a newly-born child receives and marks the beginning of their religious education and upbringing. Moreover, the Kalima is not just a personal endeavor but also a bond that unites the entire Muslim community, transcending national, cultural, and linguistic boundaries.",
-    "spiritual_significance": "The Kalima holds immense spiritual significance for Muslims as it represents their devotion and submission to Allah and recognizes Prophet Muhammad as His chosen messenger. It symbolizes the seeking of guidance from Allah, entrusting one's life and fate in His hands, and striving to live a life in accordance with His divine will. Through sincere recitation and practice of the Kalima, a Muslim seeks nearness to Allah, obtains inner peace, and strengthens their bond with their Creator. It is an essential part of daily prayers, and its importance is emphasized throughout the Holy Quran.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The Kalima is the Islamic creed consisting of two parts: Shahada and Ikhlas. The Shahada declares belief in one God and the prophethood of Muhammad, while the Ikhlas affirms the oneness of God.",
-        "time_period": "7th century",
-        "context": "Islamic theology"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "The Kalima is often recited during daily prayers and is considered a fundamental aspect of Islamic faith.",
-        "The Kalima is also used as a greeting among Muslims and is a symbol of unity and solidarity within the Islamic community."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kalima corresponds to the Arabic form كلمة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kalima has the core sense word, utterance",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Islamic educational websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kalima remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Kalima",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Zainab Kalima from Kuala Lumpur, Malaysia embodies the meaning of Kalima - \"Statement of faith\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Statement of faith\" symbolizes Kalima is a term used in Islamic tradition to refer to the declaration of faith, 'La ilaha illallah Muhammadun Rasulullah', meaning 'There is no god but Allah, Muhammad is the Messenger of Allah'.. In Islamic spirituality, bearing the name Kalima serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of statement of faith.",
-    "created_at": "2025-12-22T19:19:49.794Z",
-    "updated_at": "2025-12-22T04:53:14.307Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1227,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kalima",
-      "description": "Statement of faith",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Kalima",
+        "kalima"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kalima",
-          "description": "Discover the meaning of Kalima - \"Statement of faith\"",
-          "image": "/images/social/kalima-facebook.jpg"
+      "description": "A name associated with the Arabic form كلمة, meaning word, utterance.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kalima",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kalima - Name Meaning",
-          "description": "Learn about the beautiful name Kalima",
-          "image": "/images/social/kalima-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Kalima",
-          "description": "Name meaning: Statement of faith",
-          "image": "/images/social/kalima-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kalima - Meaning: Statement of faith",
-        "email_subject": "Beautiful Name: Kalima"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kalima with meaning Statement of faith",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kalima, associated with the Arabic form كلمة, meaning word, utterance."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

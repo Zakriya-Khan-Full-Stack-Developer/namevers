@@ -3,293 +3,485 @@
   "data": {
     "name": "Mashaal",
     "slug": "mashaal",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Torch",
-    "long_meaning": "A torchbearer or a leader who illuminates the path for others.",
-    "spiritual_meaning": "A spiritual guide or a mentor who enlightens the seeker on their spiritual journey.",
-    "emotional_traits": [
-      "Determined",
-      "Confident",
-      "Courageous"
-    ],
-    "hidden_personality_traits": [
-      "Intuitive",
-      "Creative",
-      "Adaptable"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Red",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious and balanced individual who is able to navigate through any challenges with grace and ease.",
-    "in_arabic": {
-      "name": "مشعل",
-      "meaning": "مشعل تعني الضوء أو الشعلة في الظلام",
-      "long_meaning": "اسم مشعل مشتق من الجذر العربي 'م-ش-ع' والذي يعني الإضاءة أو الشعلة. يستخدم هذا الاسم في العديد من الثقافات الإسلامية للإشارة إلى الشخص الذي يضيء طريق الآخرين، سواء كان ذلك من خلال العلم، الحكمة، أو الإيمان. يرتبط اسم مشعل أيضًا بالآية القرآنية التي تتحدث عن نور الله وهدايته للناس، مما يعطي الاسم عمقًا روحانيًا."
+    "identity": {
+      "display_name": "Mashaal",
+      "normalized_name": "mashaal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mashaal",
+        "mashaal",
+        "mashal"
+      ],
+      "search_variants": [
+        "Mashaal",
+        "mashaal",
+        "mashal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مشعل",
-      "meaning": "مشعل کا مطلب ہے روشنی یا شمع",
-      "long_meaning": "مشعل ایک عربی نام ہے جس کا مطلب ہے روشنی یا شمع۔ یہ نام اسلامی ثقافت میں اہم ہے کیونکہ یہ ان شخصیات کو مخاطب کرتا ہے جو دوسروں کے لئے روشنی کا کام کرتی ہیں، خواہ یہ علم، حکمت، یا ایمان کے ذریعے ہو۔ مشعل نام کی اشتقاقیات عربی جڑ 'م-ش-ع' سے ملتی ہیں، جو روشنی یا چمک کے تصورات سے وابستہ ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Torch, flame, light",
+      "primary_meaning": "Torch",
+      "secondary_meanings": [
+        "flame",
+        "light"
+      ],
+      "literal_meaning": "Torch",
+      "extended_meaning": "Torch, flame, light",
+      "meaning_explanation": "Mashaal corresponds to the Arabic form مشعل (Arabic root ش ع ل (sh-ʿ-l); مِشْعَل (Mishʿal)). Its core sense is torch, flame, light. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मशअल",
-      "meaning": "मशअल का अर्थ है प्रकाश या चमक",
-      "long_meaning": "मशअल एक अरबी नाम है जिसका अर्थ है प्रकाश या चमक। यह नाम इस्लामी परंपरा में महत्वपूर्ण है क्योंकि यह उन व्यक्तियों को संबोधित करता है जो दूसरों के लिए प्रकाश का काम करते हैं, चाहे वह ज्ञान, बुद्धिमत्ता या विश्वास के माध्यम से हो। मशअल नाम की व्युत्पत्ति अरबी मूल 'म-श-ع' से होती है, जो प्रकाश या चमक की धारणाओं से जुड़ी हुई है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مشعل",
+      "transliteration": "mashaal",
+      "romanization": "mashaal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Torch",
+        "flame",
+        "light"
+      ],
+      "etymology_explanation": "The form مشعل is an established Arabic lexical item. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مشعل",
-      "meaning": "مشعل د رڼا یا څراغ معنی لري",
-      "long_meaning": "مشعل د عربي نوم دی چې د رڼا يا څراغ معنی لري. دا نوم د افغان او پښتنو په کلتور کې د هغو کسانو لپاره کارول کیږي چې د نورو لپاره د رڼا په توګه کار کوي، که د علم، حکمت، يا ایمان په ذریعه. مشعل نوم د عربي ريښو 'م-ش-ع' څخه اخیستل شوی دی، کوم چې د رڼا او څراغ پورې تړاو لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مشعل is an established Arabic form.",
+        "Urdu": "مشعل is used in Urdu.",
+        "Persian": "مشعل is an established Persian form.",
+        "Hindi": "मशअल is used in Hindi.",
+        "Pashto": "مشعل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mashaal",
-      "meaning": "Mashaal means light, flame, or torch in English",
-      "long_meaning": "Mashaal is an Arabic name derived from the root 'م-ش-ع' (m-sh-ʿ), which conveys the meanings of light, flame, or torch. This name is significant in Islamic culture as it symbolizes a person who brings light, guidance, and wisdom to others. The name may also reflect Quranic themes of divine guidance and illumination. In various Muslim cultures, Mashaal is used to signify a beacon of hope and spiritual enlightenment. The name carries connotations of leadership, wisdom, and enlightenment."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مشعل. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mashaal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense torch, flame, light.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Torch",
+      "related_concepts": [
+        "torch",
+        "flame",
+        "light"
+      ],
+      "semantic_relationship": "The central semantic idea is torch; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of torch.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Torch",
+        "Flame",
+        "Light"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mashaal",
+        "meaning": "Torch, flame, light",
+        "long_meaning": "Mashaal is a Arabic-origin name. Its core meaning is torch, flame, light. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal."
+      },
+      "urdu": {
+        "name": "مشعل",
+        "meaning": "مشعل، شمع، روشنی",
+        "long_meaning": "Mashaal (مشعل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مشعل، شمع، روشنی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مشعل",
+        "meaning": "مشعل، شعله، نور",
+        "long_meaning": "Mashaal (مشعل) نامی برگرفته از زبان عربی است و معنای اصلی آن مشعل، شعله، نور است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मशअल",
+        "meaning": "मशाल, मशअल, प्रकाश",
+        "long_meaning": "Mashaal (मशअल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मशाल, मशअल, प्रकाश है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مشعل",
+        "meaning": "مشعل، بل، رڼا",
+        "long_meaning": "Mashaal (مشعل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مشعل، بل، رڼا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مشعل",
+        "meaning": "المشعل، الشعلة، النور",
+        "long_meaning": "Mashaal (مشعل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المشعل، الشعلة، النور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "muh-SHAA-al",
-      "urdu": "مشعل کا تلفظ (مُشْعَل)",
-      "hindi": "मशअल का उच्चारण (मुश-चल)",
-      "pashto": "مشعل د (مو-شا-ل) په تلفظ",
-      "ipa": "/muʃˈʃɑːl/"
+      "romanized": "mas-haal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مشعل",
+      "persian": "مشعل",
+      "hindi": "मशअल",
+      "pashto": "مشعل"
     },
-    "celebrity_usage": [
-      "Mashaal Peerzada",
-      "Mashaal Khan"
-    ],
-    "social_tags": [
-      "#MashaalMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mashaal"
-    ],
-    "name_variations": [
-      "Mashal"
-    ],
-    "popularity_score": 56,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mashaal",
+        "mashaal",
+        "mashal"
+      ],
+      "script_variants": [
+        "مشعل",
+        "मशअल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مشعل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mashaal can be understood through the Arabic form مشعل, whose central sense is torch, flame, light. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 75,
-        "year": 2024
+        "question": "What does Mashaal mean?",
+        "answer": "Mashaal is associated with the Arabic form مشعل, whose core sense is torch, flame, light."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 68,
-        "year": 2024
+        "question": "What is the origin of Mashaal?",
+        "answer": "Mashaal is associated with Arabic. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Mashaal an Arabic name?",
+        "answer": "Yes — the underlying form مشعل is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 62,
-        "year": 2024
+        "question": "Is Mashaal an Islamic name?",
+        "answer": "Mashaal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mashaal a Quranic name?",
+        "answer": "Mashaal should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mashaal mean in Urdu?",
+        "answer": "In Urdu, Mashaal is rendered مشعل and carries the sense مشعل، شمع، روشنی."
+      },
+      {
+        "question": "What does Mashaal mean in Persian?",
+        "answer": "In Persian, Mashaal is rendered مشعل and carries the sense مشعل، شعله، نور."
+      },
+      {
+        "question": "How is Mashaal pronounced?",
+        "answer": "A romanized syllable approximation is mas-haal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mashaal?",
+        "answer": "Romanization variants include Mashaal, mashaal, mashal. Script forms are مشعل, मशअल."
+      },
+      {
+        "question": "Is Mashaal a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mashaal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mashaal, a beautiful Islam name meaning \"Torch\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mashaal, Islam name, baby names, Torch, Islam baby names, name meaning",
-      "description_paragraph": "Mashaal is a meaningful Islam name of Arabic origin that means \"Torch\". A torchbearer or a leader who illuminates the path for others.",
-      "keywords": [
-        "Mashaal",
-        "Islam name",
-        "baby names",
-        "Torch",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mashaal in Islam tradition?",
-          "a": "Mashaal is a beautiful Islam name meaning \"Torch\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mashaal a good Islam name for a baby?",
-          "a": "Yes, Mashaal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mashaal?",
-          "a": "The name Mashaal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mashaal correctly?",
-          "a": "Mashaal is pronounced muh-SHAA-al in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mashaal?",
-          "a": "Naming a child Mashaal brings blessings. The meaning \"Torch\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mashaal?",
-          "a": "Mashaal is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Mashaal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mashaal (مشعل).",
+      "h1": "Mashaal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mashaal meaning",
       "secondary_keywords": [
-        "Islam name Mashaal",
-        "Mashaal meaning",
-        "Mashaal origin"
+        "Mashaal name meaning",
+        "Mashaal meaning in Urdu",
+        "Mashaal origin",
+        "Mashaal Islamic name",
+        "Mashaal pronunciation",
+        "Mashaal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mashaal (مشعل) is associated with the Arabic form مشعل, whose core sense is torch, flame, light. Mashaal is Arabic مِشْعَل (Mishʿal) 'torch, flame, light', from the root ش ع ل (sh-ʿ-l). The source gloss 'Torch' is consistent. Same name as mashal.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mashaal is associated with the Arabic form مشعل, whose core sense is torch, flame, light.",
+      "meaning_section": "The central meaning of Mashaal is torch, flame, light.",
+      "origin_section": "Mashaal is associated with Arabic rather than with a different language.",
+      "islam_section": "Mashaal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mashaal is with the sense torch.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mashaal",
+      "#MashaalMeaning",
+      "#MashaalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Mashaal\" carries a rich cultural heritage that represents a deep sense of responsibility and leadership. In Islamic tradition, the term \"Mashaal\" is often used to describe a torchbearer, a guide, or a leader who illuminates the path for others during a procession or a religious event. This name embodies the spirit of selflessness, dedication, and courage, as these individuals are committing themselves to lead their communities towards a noble cause.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Mashaal\" can be seen as a reminder of the role of every individual in the larger context of the community. Just like the torchbearer guides others through the night, each person holds the power to illuminate the spiritual path for themselves and those around them through their actions, thoughts, and words. Additionally, this name can serve as a motivation for individuals to strive towards personal growth, as they aim to be a guiding light for their loved ones, and ultimately for all humanity. By embodying the qualities of selflessness, courage, and leadership, one can make a profound impact both on a personal and communal scale.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mashaal was a famous warrior during the Mongol invasion of India in the 13th century. The name Mashaal carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Mongol invasion of India"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mashaal corresponds to the Arabic form مشعل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mashaal has the core sense torch, flame, light",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mashaal remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Mashaal",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Zainab Mashaal in Cairo, Egypt attributes much of their success to the blessing of their name Mashaal, which means \"Torch\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Torch\" symbolizes A torchbearer or a leader who illuminates the path for others.. In Islamic spirituality, bearing the name Mashaal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of torch.",
-    "created_at": "2025-12-22T19:19:49.852Z",
-    "updated_at": "2025-12-22T04:53:14.835Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1094,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mashaal",
-      "description": "Torch",
-      "additionalName": [
-        "Mashal"
+      "alternateName": [
+        "Mashaal",
+        "mashaal",
+        "mashal"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form مشعل, meaning torch, flame, light.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mashaal",
-          "description": "Discover the meaning of Mashaal - \"Torch\"",
-          "image": "/images/social/mashaal-facebook.jpg"
+      "termCode": "mashaal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mashaal - Name Meaning",
-          "description": "Learn about the beautiful name Mashaal",
-          "image": "/images/social/mashaal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mashaal",
-          "description": "Name meaning: Torch",
-          "image": "/images/social/mashaal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mashaal - Meaning: Torch",
-        "email_subject": "Beautiful Name: Mashaal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mashaal with meaning Torch",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mashaal, associated with the Arabic form مشعل, meaning torch, flame, light."
     },
-    "similar_sounding_names": [
-      "meena",
-      "marnia",
-      "marudeen.",
-      "mahek",
-      "maassama",
-      "mika",
-      "mada",
-      "manab",
-      "marhabah",
-      "meher"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

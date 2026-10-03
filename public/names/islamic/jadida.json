@@ -3,282 +3,483 @@
   "data": {
     "name": "Jadida",
     "slug": "jadida",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "New, Fresh",
-    "long_meaning": "Derived from the Arabic root j-d-d, meaning 'new, fresh, recent'. In Islamic tradition, Jadida represents the renewal of faith or a new beginning in life.",
-    "spiritual_meaning": "Symbolizes the continuous renewal of faith in Allah and the fresh start offered by His mercy and guidance.",
-    "emotional_traits": [
-      "Compassionate",
-      "Gentle"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Turquoise",
-      "Silver"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 5,
-    "numerology_meaning": "In Islamic numerology, Jadida's life path number (5) represents adaptability, creativity, and resourcefulness. It suggests a person who is versatile and open to new experiences.",
-    "in_arabic": {
-      "name": "جديدة",
-      "meaning": "New",
-      "long_meaning": "Fresh, recent, novel, modern"
+    "identity": {
+      "display_name": "Jadida",
+      "normalized_name": "jadida",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jadida",
+        "jadida"
+      ],
+      "search_variants": [
+        "Jadida",
+        "jadida"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جدیدہ",
-      "meaning": "Naya",
-      "long_meaning": "Naya (Urdu) - New, recent, modern"
+    "core_meaning": {
+      "short_meaning": "New, fresh, recent",
+      "primary_meaning": "New",
+      "secondary_meanings": [
+        "fresh",
+        "recent"
+      ],
+      "literal_meaning": "New",
+      "extended_meaning": "New, fresh, recent",
+      "meaning_explanation": "Jadida corresponds to the Arabic form جديدة (Arabic root ج د د (j-d-d); جَدِيدَة (Jadīda)). Its core sense is new, fresh, recent. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "नया",
-      "meaning": "Naya",
-      "long_meaning": "Naya (Hindi) - New, recent, modern"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جديدة",
+      "transliteration": "jadida",
+      "romanization": "jadida",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "New",
+        "fresh",
+        "recent"
+      ],
+      "etymology_explanation": "The form جديدة is an established Arabic lexical item. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نوي",
-      "meaning": "Nauy",
-      "long_meaning": "Nauy (Pashto) - New, recent, modern"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جديدة is an established Arabic form.",
+        "Urdu": "جدیدہ is used in Urdu.",
+        "Persian": "جدیده is an established Persian form.",
+        "Hindi": "जदीदा is used in Hindi.",
+        "Pashto": "جدیده is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Jadida",
-      "meaning": "New, Fresh",
-      "long_meaning": "Derived from the Arabic root j-d-d, meaning 'new, fresh, recent'. In Islamic tradition, Jadida represents the renewal of faith or a new beginning in life."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form جديدة. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jadida may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense new, fresh, recent.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "New",
+      "related_concepts": [
+        "new",
+        "fresh",
+        "recent"
+      ],
+      "semantic_relationship": "The central semantic idea is new; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of new.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "New",
+        "Fresh",
+        "Recent"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jadida",
+        "meaning": "New, fresh, recent",
+        "long_meaning": "Jadida is a Arabic-origin name. Its core meaning is new, fresh, recent. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective."
+      },
+      "urdu": {
+        "name": "جدیدہ",
+        "meaning": "جدید، نیا، تازہ",
+        "long_meaning": "Jadida (جدیدہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جدید، نیا، تازہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جدیده",
+        "meaning": "جدید، نو، تازه",
+        "long_meaning": "Jadida (جدیده) نامی برگرفته از زبان عربی است و معنای اصلی آن جدید، نو، تازه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जदीदा",
+        "meaning": "नया, ताज़ा, नवीन",
+        "long_meaning": "Jadida (जदीदा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नया, ताज़ा, नवीन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جدیده",
+        "meaning": "نوی، تازه، جدید",
+        "long_meaning": "Jadida (جدیده) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نوی، تازه، جدید ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جديدة",
+        "meaning": "الجديد، الحديث، الطري",
+        "long_meaning": "Jadida (جديدة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجديد، الحديث، الطري. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/dʒəˈdiːdə/",
-      "urdu": "/dʒadɪˈdə/",
-      "hindi": "/dʒəˈdɪdə/",
-      "pashto": "/nɔɪ/",
-      "ipa": "https://en.wikipedia.org/wiki/Jadida_(name)"
+      "romanized": "ja-di-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جدیدہ",
+      "persian": "جدیده",
+      "hindi": "जदीदा",
+      "pashto": "جدیده"
     },
-    "celebrity_usage": [
-      "Jadida Benkhemas",
-      "Jadida Darnell"
-    ],
-    "social_tags": [
-      "#JadidaMeaning",
-      "#IslamicNames"
-    ],
-    "name_variations": [
-      "Jadidah"
-    ],
-    "popularity_score": 67,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jadida",
+        "jadida"
+      ],
+      "script_variants": [
+        "جديدة",
+        "جدیده",
+        "جدیدہ",
+        "जदीदा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جديدة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jadida can be understood through the Arabic form جديدة, whose central sense is new, fresh, recent. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 75,
-        "year": 2024
+        "question": "What does Jadida mean?",
+        "answer": "Jadida is associated with the Arabic form جديدة, whose core sense is new, fresh, recent."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Jadida?",
+        "answer": "Jadida is associated with Arabic. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Jadida an Arabic name?",
+        "answer": "Yes — the underlying form جديدة is Arabic."
+      },
+      {
+        "question": "Is Jadida an Islamic name?",
+        "answer": "Jadida can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jadida a Quranic name?",
+        "answer": "Jadida should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jadida mean in Urdu?",
+        "answer": "In Urdu, Jadida is rendered جدیدہ and carries the sense جدید، نیا، تازہ."
+      },
+      {
+        "question": "What does Jadida mean in Persian?",
+        "answer": "In Persian, Jadida is rendered جدیده and carries the sense جدید، نو، تازه."
+      },
+      {
+        "question": "How is Jadida pronounced?",
+        "answer": "A romanized syllable approximation is ja-di-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jadida?",
+        "answer": "Romanization variants include Jadida, jadida. Script forms are جديدة, جدیده, جدیدہ, जदीदा."
+      },
+      {
+        "question": "Is Jadida a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jadida Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jadida, a beautiful Islam name meaning \"New, Fresh\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jadida, Islam name, baby names, New, Fresh, Islam baby names, name meaning",
-      "description_paragraph": "Jadida is a meaningful Islam name of Arabic origin that means \"New, Fresh\". Derived from the Arabic root j-d-d, meaning 'new, fresh, recent'. In Islamic tradition, Jadida represents the renewal of faith or a new beginning in life.",
-      "keywords": [
-        "Jadida",
-        "Islam name",
-        "baby names",
-        "New, Fresh",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jadida in Islam tradition?",
-          "a": "Jadida is a beautiful Islam name meaning \"New, Fresh\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jadida a good Islam name for a baby?",
-          "a": "Yes, Jadida is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jadida?",
-          "a": "The name Jadida has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jadida correctly?",
-          "a": "Jadida is pronounced /dʒəˈdiːdə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jadida?",
-          "a": "Naming a child Jadida brings blessings. The meaning \"New, Fresh\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jadida?",
-          "a": "Jadida is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Jadida Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jadida (جديدة).",
+      "h1": "Jadida Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jadida meaning",
       "secondary_keywords": [
-        "Islam name Jadida",
-        "Jadida meaning",
-        "Jadida origin"
+        "Jadida name meaning",
+        "Jadida meaning in Urdu",
+        "Jadida origin",
+        "Jadida Islamic name",
+        "Jadida pronunciation",
+        "Jadida name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jadida (جديدة) is associated with the Arabic form جديدة, whose core sense is new, fresh, recent. Jadida is Arabic جَدِيدَة (Jadīda) 'new, fresh, recent', from the root ج د د (j-d-d). The source gloss 'New, Fresh' is consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jadida is associated with the Arabic form جديدة, whose core sense is new, fresh, recent.",
+      "meaning_section": "The central meaning of Jadida is new, fresh, recent.",
+      "origin_section": "Jadida is associated with Arabic rather than with a different language.",
+      "islam_section": "Jadida can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jadida is with the sense new.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jadida",
+      "#JadidaMeaning",
+      "#JadidaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jadida holds significant cultural influence for many Muslims, particularly in North Africa and the Middle East, as it represents the re-emergence or revival of places, ideas, or institutions in Islamic history. For instance, Jadida Al-F âda, in Tunisia, was a small town that grew into a significant cultural and intellectual center during the 13th and 14th centuries. It was also one of the major hubs of the Middle Perisian Renaissance that played a crucial role in spreading knowledge and spreading the influence of Arabic culture and literature across Europe.",
-    "spiritual_significance": "From a spiritual perspective, Jadida holds a profound significance for Muslims as it symbolizes the constant renewal and re-commitment of faith. In Islamic spirituality, Jadida represents the idea that one can return to Allah at any time and seek forgiveness for past mistakes, allowing for the possibility of starting anew.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Jadida carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jadida corresponds to the Arabic form جديدة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Jadida has the core sense new, fresh, recent",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Jadida remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Jadida",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Zainab Jadida in Istanbul, Turkey attributes much of their success to the blessing of their name Jadida, which means \"New, Fresh\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"New, Fresh\" symbolizes Derived from the Arabic root j-d-d, meaning 'new, fresh, recent'. In Islamic tradition, Jadida represents the renewal of faith or a new beginning in life.. In Islamic spirituality, bearing the name Jadida serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of new, fresh.",
-    "created_at": "2025-12-22T19:19:50.607Z",
-    "updated_at": "2025-12-22T04:53:16.358Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1431,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jadida",
-      "description": "New, Fresh",
-      "additionalName": [
-        "Jadidah"
+      "alternateName": [
+        "Jadida",
+        "jadida"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form جديدة, meaning new, fresh, recent.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jadida",
-          "description": "Discover the meaning of Jadida - \"New, Fresh\"",
-          "image": "/images/social/jadida-facebook.jpg"
+      "termCode": "jadida",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jadida - Name Meaning",
-          "description": "Learn about the beautiful name Jadida",
-          "image": "/images/social/jadida-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Jadida",
-          "description": "Name meaning: New, Fresh",
-          "image": "/images/social/jadida-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jadida - Meaning: New, Fresh",
-        "email_subject": "Beautiful Name: Jadida"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jadida with meaning New, Fresh",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jadida, associated with the Arabic form جديدة, meaning new, fresh, recent."
     },
-    "similar_sounding_names": [
-      "javier",
-      "jamesha",
-      "jasmina",
-      "jadallah",
-      "janaan",
-      "jada",
-      "jan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

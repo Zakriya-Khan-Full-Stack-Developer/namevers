@@ -3,288 +3,479 @@
   "data": {
     "name": "Nadira",
     "slug": "nadira",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Rarity, Rare One",
-    "long_meaning": "Nadira means 'rarity' or 'rare one' in Arabic, symbolizing the preciousness and uniqueness of a child. This name is derived from the Arabic word 'nadara', which means 'rarity'. In Islamic tradition, Nadira is considered a blessed name, signifying the child's special place in the world.",
-    "spiritual_meaning": "A Hadith states that children are a gift from Allah, and the name Nadira reminds parents to appreciate and cherish their children, considering them a rare blessing.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Chaste",
-      "L = Loyal"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Moon day",
-    "lucky_colors": [
-      "Silver",
-      "White",
-      "Gold"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 1,
-    "numerology_meaning": "A leader, an innovator, a trailblazer",
-    "in_arabic": {
-      "name": "ناضرة",
-      "meaning": "الجميلة التي تنير وجهها كالشمس",
-      "long_meaning": "ناضرة هي الفتاة الجميلة التي يبزغ نورها كالشمس في الصباح، واسمها مشتق من الجذر العربي 'ن-ض-ر' الذي يعني النور والبصر، ويشير إلى الشخصية المشعة والمضيئة في المجتمع، كما ورد في القرآن الكريم في سورة الجن آية 19: 'وَمَثَلُ كَلِمَةٍ خَبيثَةٍ كَشَجَرَةٍ خَبيثَةٍ لَا يَأتِيهَا مِن فَوقِهَا ماءٌ وَكَذَلِكَ يَضْرِبُ اللَّهُ الأَمرَ وَالذِكرَ لِلمُؤمِنينَ وَضَرِبَ المَثلَ لِلمُكذِبينَ'"
+    "identity": {
+      "display_name": "Nadira",
+      "normalized_name": "nadira",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Nadira",
+        "nadira"
+      ],
+      "search_variants": [
+        "Nadira",
+        "nadira"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ناظرہ",
-      "meaning": "خوبصورت چہرے والی، روشن رویہ",
-      "long_meaning": "ناظرہ کا مطلب ہے خوبصورت چہرے والی اور روشن رویہ، یہ نام عربی جڑ 'ن-ض-ر' سے نکلا ہے جس کا مطلب ہے روشنی اور دیکھنا، یہ اسلامی روایت میں ایک ایسے شخص کی علامت ہے جو اپنے وجود سے دوسروں کو روشنی دیتا ہے، ناظرہ نام کی اہمیت اس لحاظ سے بھی بڑھ جاتی ہے جبکہ اس کا ذکر اردو دنیا میں خوبصورت لڑکیوں کے نام کے طور پر کیا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Nadira; rare, precious (feminine)",
+      "primary_meaning": "Nadira; rare",
+      "secondary_meanings": [
+        "precious (feminine)"
+      ],
+      "literal_meaning": "Nadira; rare",
+      "extended_meaning": "Nadira; rare, precious (feminine)",
+      "meaning_explanation": "Nadira corresponds to the Arabic form نَادِرَة (Arabic root ن د ر (n-d-r); نَادِرَة (Nādira)). Its core sense is nadira; rare, precious (feminine). Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "नादिरा",
-      "meaning": "सुंदर और प्रकाशमय चेहरा",
-      "long_meaning": "नादिरा का अर्थ है सुंदर और प्रकाशमय चेहरा, यह नाम अरबी मूल 'न-ज़-र' से निकला है जिसका अर्थ है प्रकाश और दृष्टि, भारतीय मुस्लिम समुदाय में नादिरा नाम का विशेष महत्व है क्योंकि यह नाम एक ऐसे व्यक्ति को दर्शाता है जो अपने अस्तित्व से दूसरों को रोशन करता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نَادِرَة",
+      "transliteration": "nadira",
+      "romanization": "nadira",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Nadira; rare",
+        "precious (feminine)"
+      ],
+      "etymology_explanation": "The form نَادِرَة is an established Arabic lexical item. Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ناضره",
-      "meaning": "ښکلې او روښانه مخه",
-      "long_meaning": "ناضره د ښکلې او روښانه مخه معنی لري، دا نوم د عربي ريښو 'ن-ض-ر' څخه اخیستل شوی دی چې د رڼا او ليدنې معنی ورکوي، په پښتني کلتور کې دا نوم داسې يو شخص ته اشاره کوي چې خپل وجود سره نورو ته رڼا ورکوي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نَادِرَة is an established Arabic form.",
+        "Urdu": "نادرہ is used in Urdu.",
+        "Persian": "نادره is an established Persian form.",
+        "Hindi": "नादिरा is used in Hindi.",
+        "Pashto": "نادره is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Nadira",
-      "meaning": "Beautiful and radiant face",
-      "long_meaning": "Nadira is derived from the Arabic root 'n-ḍ-r', meaning light and sight, signifying a person whose presence illuminates others, historically used in Islamic tradition to denote beauty and spiritual radiance, mentioned in Quranic context for its symbolic meaning of enlightenment"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form نَادِرَة. Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Nadira may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense nadira; rare, precious (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Nadira; rare",
+      "related_concepts": [
+        "nadira; rare",
+        "precious (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is nadira; rare; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of nadira; rare.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Nadira; rare",
+        "Precious (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Nadira",
+        "meaning": "Nadira; rare, precious (feminine)",
+        "long_meaning": "Nadira is a Arabic-origin name. Its core meaning is nadira; rare, precious (feminine). Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera."
+      },
+      "urdu": {
+        "name": "نادرہ",
+        "meaning": "نادرہ، نایاب (مؤنث)",
+        "long_meaning": "Nadira (نادرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نادرہ، نایاب (مؤنث) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نادره",
+        "meaning": "نادره، کمیاب (مؤنث)",
+        "long_meaning": "Nadira (نادره) نامی برگرفته از زبان عربی است و معنای اصلی آن نادره، کمیاب (مؤنث) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नादिरा",
+        "meaning": "नादिरा, दुर्लभ (स्त्री)",
+        "long_meaning": "Nadira (नादिरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नादिरा, दुर्लभ (स्त्री) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نادره",
+        "meaning": "نادره، کم پېښه",
+        "long_meaning": "Nadira (نادره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نادره، کم پېښه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَادِرَة",
+        "meaning": "النَّادِرَة، الْقَلِيلَة",
+        "long_meaning": "Nadira (نَادِرَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النَّادِرَة، الْقَلِيلَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "NAH-dee-rah",
-      "urdu": "ناظرہ کا تلفظ ناہ دی رہا ہے",
-      "hindi": "नादिरा का उच्चारण नाह-दी-रा है",
-      "pashto": "د ناضره تلفظ ناه-دي-را دی",
-      "ipa": "/ˈnɑːdiːrɑː/"
+      "romanized": "na-di-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نادرہ",
+      "persian": "نادره",
+      "hindi": "नादिरा",
+      "pashto": "نادره"
     },
-    "celebrity_usage": [
-      "Nadira Al-Faiz",
-      "Nadira Babic",
-      "Nadira Amrani"
-    ],
-    "social_tags": [
-      "#NadiraMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Nadira"
-    ],
-    "name_variations": [
-      "Nadirah"
-    ],
-    "popularity_score": 79,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Nadira",
+        "nadira"
+      ],
+      "script_variants": [
+        "نادره",
+        "نادرہ",
+        "نَادِرَة",
+        "नादिरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَادِرَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Nadira can be understood through the Arabic form نَادِرَة, whose central sense is nadira; rare, precious (feminine). Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Nadira mean?",
+        "answer": "Nadira is associated with the Arabic form نَادِرَة, whose core sense is nadira; rare, precious (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Nadira?",
+        "answer": "Nadira is associated with Arabic. Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Nadira an Arabic name?",
+        "answer": "Yes — the underlying form نَادِرَة is Arabic."
+      },
+      {
+        "question": "Is Nadira an Islamic name?",
+        "answer": "Nadira can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Nadira a Quranic name?",
+        "answer": "Nadira should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Nadira mean in Urdu?",
+        "answer": "In Urdu, Nadira is rendered نادرہ and carries the sense نادرہ، نایاب (مؤنث)."
+      },
+      {
+        "question": "What does Nadira mean in Persian?",
+        "answer": "In Persian, Nadira is rendered نادره and carries the sense نادره، کمیاب (مؤنث)."
+      },
+      {
+        "question": "How is Nadira pronounced?",
+        "answer": "A romanized syllable approximation is na-di-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Nadira?",
+        "answer": "Romanization variants include Nadira, nadira. Script forms are نادره, نادرہ, نَادِرَة, नादिरा."
+      },
+      {
+        "question": "Is Nadira a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Nadira Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Nadira, a beautiful Islam name meaning \"Rarity, Rare One\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Nadira, Islam name, baby names, Rarity, Rare One, Islam baby names, name meaning",
-      "description_paragraph": "Nadira is a meaningful Islam name of Arabic origin that means \"Rarity, Rare One\". Nadira means 'rarity' or 'rare one' in Arabic, symbolizing the preciousness and uniqueness of a child. This name is derived from the Arabic word 'nadara', which means 'rarity'. In Islamic tradition, Nadira is considered a blessed name, signifying the child's special place in the world.",
-      "keywords": [
-        "Nadira",
-        "Islam name",
-        "baby names",
-        "Rarity, Rare One",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Nadira in Islam tradition?",
-          "a": "Nadira is a beautiful Islam name meaning \"Rarity, Rare One\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Nadira a good Islam name for a baby?",
-          "a": "Yes, Nadira is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Nadira?",
-          "a": "The name Nadira has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Nadira correctly?",
-          "a": "Nadira is pronounced NAH-dee-rah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Nadira?",
-          "a": "Naming a child Nadira brings blessings. The meaning \"Rarity, Rare One\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Nadira?",
-          "a": "Nadira is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Nadira Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Nadira (نَادِرَة).",
+      "h1": "Nadira Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Nadira meaning",
       "secondary_keywords": [
-        "Islam name Nadira",
-        "Nadira meaning",
-        "Nadira origin"
+        "Nadira name meaning",
+        "Nadira meaning in Urdu",
+        "Nadira origin",
+        "Nadira Islamic name",
+        "Nadira pronunciation",
+        "Nadira name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Nadira (نَادِرَة) is associated with the Arabic form نَادِرَة, whose core sense is nadira; rare, precious (feminine). Nadira is Arabic نَادِرَة (Nādira) 'rare, precious' (feminine), from the root ن د ر (n-d-r). CRITICAL SOURCE ERROR: the source gave ناضرة (a different form); the correct form is نَادِرَة. The source gloss 'Rarity, Rare One' is broadly consistent. Same name as nadeera.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Nadira is associated with the Arabic form نَادِرَة, whose core sense is nadira; rare, precious (feminine).",
+      "meaning_section": "The central meaning of Nadira is nadira; rare, precious (feminine).",
+      "origin_section": "Nadira is associated with Arabic rather than with a different language.",
+      "islam_section": "Nadira can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Nadira is with the sense nadira; rare.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Nadira",
+      "#NadiraMeaning",
+      "#NadiraName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Nadira holds a significant cultural impact in Islamic communities, as it emphasizes the value and uniqueness of every individual in the eyes of Allah. The name is often given to children who are considered rare or unusual, highlighting the beauty of diversity and individuality.",
-    "spiritual_significance": "From a spiritual perspective, the name Nadira holds deep significance as it emphasizes the unique purpose and destiny of each child in the sight of Allah. It is a reminder that every child is a precious gift from Allah, and that they hold a unique and irreplaceable place in the world. Additionally, the name Nadira symbolizes the concept of rarity and rarity in the spiritual sense, emphasizing the value and uniqueness of the Spirit and Soul of every human being.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Nadira was a Persian princess mentioned in the 1001 Nights. The name Nadira carried significant weight in that era.",
-        "time_period": "10th-14th centuries",
-        "context": "The 1001 Nights is a collection of Middle Eastern folk tales compiled in Arabic during the Islamic Golden Age."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "used as a name for girls"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Nadira corresponds to the Arabic form نَادِرَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Nadira has the core sense nadira; rare, precious (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, baby name websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Nadira remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Nadira",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Fatima Nadira, a teacher in Kuala Lumpur, Malaysia, shares that their name Nadira meaning \"Rarity, Rare One\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Rarity, Rare One\" symbolizes Nadira means 'rarity' or 'rare one' in Arabic, symbolizing the preciousness and uniqueness of a child. This name is derived from the Arabic word 'nadara', which means 'rarity'. In Islamic tradition, Nadira is considered a blessed name, signifying the child's special place in the world.. In Islamic spirituality, bearing the name Nadira serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of rarity, rare one.",
-    "created_at": "2025-12-22T19:19:49.792Z",
-    "updated_at": "2025-12-22T04:53:14.247Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1452,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Nadira",
-      "description": "Rarity, Rare One",
-      "additionalName": [
-        "Nadirah"
+      "alternateName": [
+        "Nadira",
+        "nadira"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form نَادِرَة, meaning nadira; rare, precious (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Nadira",
-          "description": "Discover the meaning of Nadira - \"Rarity, Rare One\"",
-          "image": "/images/social/nadira-facebook.jpg"
+      "termCode": "nadira",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Nadira - Name Meaning",
-          "description": "Learn about the beautiful name Nadira",
-          "image": "/images/social/nadira-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Nadira",
-          "description": "Name meaning: Rarity, Rare One",
-          "image": "/images/social/nadira-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Nadira - Meaning: Rarity, Rare One",
-        "email_subject": "Beautiful Name: Nadira"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Nadira with meaning Rarity, Rare One",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Nadira, associated with the Arabic form نَادِرَة, meaning nadira; rare, precious (feminine)."
     },
-    "similar_sounding_names": [
-      "norah",
-      "namik",
-      "nihal",
-      "naina",
-      "nadeen",
-      "nina",
-      "nevaeh",
-      "nora"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

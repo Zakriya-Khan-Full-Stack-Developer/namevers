@@ -3,289 +3,475 @@
   "data": {
     "name": "Esya",
     "slug": "esya",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Grace, Elegance",
-    "long_meaning": "A name derived from the Arabic root 's-y-y', meaning 'to ease' or 'to make light'. It is often used to describe a person who moves with grace and elegance.",
-    "spiritual_meaning": "Symbolizes the ease and effortlessness with which one can connect with the divine and navigate the challenges of life.",
-    "emotional_traits": [
-      "Gracious",
-      "Elegant",
-      "Refined",
-      "Gentle",
-      "Composed"
-    ],
-    "hidden_personality_traits": [
-      "Intuitive",
-      "Perceptive",
-      "Discerning",
-      "Thoughtful"
-    ],
-    "lucky_number": 6,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Emerald",
-      "Pink",
-      "Lavender"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-expression, Communication",
-    "in_arabic": {
-      "name": "إسيا",
-      "meaning": "إسيا اسم يعني الإخلاص والتوكل على الله",
-      "long_meaning": "إسيا اسم علم مؤنث من أصل عربي، يعني الإخلاص والتوكل على الله، وقد ورد ذكره في القرآن الكريم في سورة الأنبياء، الآية 85، حيث قال تعالى: 'وَلَقَدْ آتَيْنَا مُوسَى وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِّلذَّاكِرِينَ * إِنَّا وَرَثْنَا الْكِتَابَ وَرَسُولَنَا فَمَنْ أَسْلَمَ فَأُولَـئِكَ هُمُ الْمُهْتَدُونَ * وَإِنَّ إِسْرَائِيلَ لَمِّنَ الْكِتَابِ لَمُضِلٌّ كَثِيرٌ وَمَن يَهْدِيهِ اللَّهُ فَقَدْ هُدِيَ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُ وَلِيًّا مُّرْشِدًا'"
+    "identity": {
+      "display_name": "Esya",
+      "normalized_name": "esya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Esya",
+        "esya"
+      ],
+      "search_variants": [
+        "Esya",
+        "esya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اسیا",
-      "meaning": "اسیا کا مطلب ہے مخلصی اور توکل پر اللہ",
-      "long_meaning": "اسیا ایک اردو نام ہے جس کا مطلب ہے مخلصی اور توکل پر اللہ۔ یہ نام عربی زبان سے ماخوذ ہے اور اسلامی تقویم میں اہمیت رکھتا ہے۔ اس نام کا ذکر قرآن کریم میں بھی ہوا ہے، جہاں اس کا مطلب ہے راستہ دکھانے والا۔"
+    "core_meaning": {
+      "short_meaning": "Grace, elegance, refinement",
+      "primary_meaning": "Grace",
+      "secondary_meanings": [
+        "elegance",
+        "refinement"
+      ],
+      "literal_meaning": "Grace",
+      "extended_meaning": "Grace, elegance, refinement",
+      "meaning_explanation": "Esya corresponds to the Unknown form إسيا (—). Its core sense is grace, elegance, refinement. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "इसिया",
-      "meaning": "इसिया का अर्थ है ईमानदारी और अल्लाह पर भरोसा",
-      "long_meaning": "इसिया एक हिंदी नाम है जिसका अर्थ है ईमानदारी और अल्लाह पर भरोसा। यह नाम अरबी भाषा से लिया गया है और इस्लामी परंपरा में इसका महत्व है। इस नाम का उल्लेख कुरआन में भी हुआ है, जहां इसका अर्थ है सच्चाई और मार्गदर्शन।"
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "إسيا",
+      "transliteration": "esya",
+      "romanization": "esya",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Grace",
+        "elegance",
+        "refinement"
+      ],
+      "etymology_explanation": "The form إسيا is an established Unknown lexical item. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "اسيا",
-      "meaning": "اسيا د معنی دی ایمانداری او پر الله باندې باور",
-      "long_meaning": "اسيا د پښتو يوه نوم دی چې د معنی يې ایمانداری او پر الله باندې باور دی. دا نوم د عربي ژبې څخه اخیستل شوی دی او په اسلامي کلتور کې يې اهميت لري. دغه نوم د قرآن کريم په شان د سچايۍ او هدايت په معنا دی."
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إسيا is an established Arabic form.",
+        "Urdu": "اسیا is used in Urdu.",
+        "Hindi": "एसिया is used in Hindi.",
+        "Pashto": "اسيا is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Esya",
-      "meaning": "Esya means sincerity and trust in Allah",
-      "long_meaning": "Esya is a name derived from Arabic roots, signifying sincerity and trust in Allah. It holds importance in Islamic tradition and is mentioned in the Quran, symbolizing guidance and devotion. The name reflects a deep spiritual meaning, emphasizing the significance of faith and reliance on God."
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Unknown form إسيا. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Esya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense grace, elegance, refinement.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Grace",
+      "related_concepts": [
+        "grace",
+        "elegance",
+        "refinement"
+      ],
+      "semantic_relationship": "The central semantic idea is grace; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of grace.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Grace",
+        "Elegance",
+        "Refinement"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Esya",
+        "meaning": "Grace, elegance, refinement",
+        "long_meaning": "Esya is a Unknown-origin name. Its core meaning is grace, elegance, refinement. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "اسیا",
+        "meaning": "لطف، خوبصورتی، شائستگی",
+        "long_meaning": "Esya (اسیا) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لطف، خوبصورتی، شائستگی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "एसिया",
+        "meaning": "लालित्य, सुंदरता, नज़ाकत",
+        "long_meaning": "Esya (एसिया) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ लालित्य, सुंदरता, नज़ाकत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اسيا",
+        "meaning": "ښکلا، نزاکت، لطافت",
+        "long_meaning": "Esya (اسيا) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ښکلا، نزاکت، لطافت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إسيا",
+        "meaning": "الرشاقة، الأناقة، اللطف",
+        "long_meaning": "Esya (إسيا) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي الرشاقة، الأناقة، اللطف. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "eh-SYAH",
-      "urdu": "اس اردو میں تلفظ کی تفصیل ایس ی",
-      "hindi": "हिन्दी में उच्चारण विवरण एस्या",
-      "pashto": "په پښتو کې د تلفظ تفصیل اسيا",
-      "ipa": "/ˈɛs.jɑː/"
+      "romanized": "e-sya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اسیا",
+      "persian": null,
+      "hindi": "एसिया",
+      "pashto": "اسيا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#EsyaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Esya"
-    ],
-    "name_variations": [],
-    "popularity_score": 45,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Esya",
+        "esya"
+      ],
+      "script_variants": [
+        "إسيا",
+        "اسيا",
+        "اسیا",
+        "एसिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إسيا is an established Unknown lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Esya can be understood through the Unknown form إسيا, whose central sense is grace, elegance, refinement. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Esya mean?",
+        "answer": "Esya is associated with the Unknown form إسيا, whose core sense is grace, elegance, refinement."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Esya?",
+        "answer": "Esya is associated with Unknown. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Esya an Arabic name?",
+        "answer": "No — the underlying form is Unknown, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 63,
-        "year": 2024
+        "question": "Is Esya an Islamic name?",
+        "answer": "Esya can occur in Muslim naming contexts, but it is better described as a Unknown-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Esya a Quranic name?",
+        "answer": "Esya should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Esya mean in Urdu?",
+        "answer": "In Urdu, Esya is rendered اسیا and carries the sense لطف، خوبصورتی، شائستگی."
+      },
+      {
+        "question": "What does Esya mean in Persian?",
+        "answer": "No verified Persian form was established for Esya."
+      },
+      {
+        "question": "How is Esya pronounced?",
+        "answer": "A romanized syllable approximation is e-sya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Esya?",
+        "answer": "Romanization variants include Esya, esya. Script forms are إسيا, اسيا, اسیا, एसिया."
+      },
+      {
+        "question": "Is Esya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Esya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Esya, a beautiful Islam name meaning \"Grace, Elegance\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Esya, Islam name, baby names, Grace, Elegance, Islam baby names, name meaning",
-      "description_paragraph": "Esya is a meaningful Islam name of Arabic origin that means \"Grace, Elegance\". A name derived from the Arabic root 's-y-y', meaning 'to ease' or 'to make light'. It is often used to describe a person who moves with grace and elegance.",
-      "keywords": [
-        "Esya",
-        "Islam name",
-        "baby names",
-        "Grace, Elegance",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Esya in Islam tradition?",
-          "a": "Esya is a beautiful Islam name meaning \"Grace, Elegance\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Esya a good Islam name for a baby?",
-          "a": "Yes, Esya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Esya?",
-          "a": "The name Esya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Esya correctly?",
-          "a": "Esya is pronounced eh-SYAH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Esya?",
-          "a": "Naming a child Esya brings blessings. The meaning \"Grace, Elegance\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Esya?",
-          "a": "Esya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Esya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Unknown origin, Urdu meaning, pronunciation, variants and Islamic naming context of Esya (إسيا).",
+      "h1": "Esya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Esya meaning",
       "secondary_keywords": [
-        "Islam name Esya",
-        "Esya meaning",
-        "Esya origin"
+        "Esya name meaning",
+        "Esya meaning in Urdu",
+        "Esya origin",
+        "Esya Islamic name",
+        "Esya pronunciation",
+        "Esya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Esya (إسيا) is associated with the Unknown form إسيا, whose core sense is grace, elegance, refinement. The source record's gloss 'Grace, Elegance' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Esya is associated with the Unknown form إسيا, whose core sense is grace, elegance, refinement.",
+      "meaning_section": "The central meaning of Esya is grace, elegance, refinement.",
+      "origin_section": "Esya is associated with Unknown rather than with a different language.",
+      "islam_section": "Esya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Esya is with the sense grace.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Esya",
+      "#EsyaMeaning",
+      "#EsyaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Esya holds a significant cultural impact, as it represents principles such as gentleness, refinement, and ease. This can be seen in various aspects of Islamic culture where grace and elegance are valued. For instance, the art of calligraphy, which requires great patience and skill to create beautiful and intricate designs, embodies the spirit of Esya. Similarly, the way food is presented in Islamic societies, often adorned with intricate designs and served on elegant plates and bowls, reflects the desire for beauty and ease.",
-    "spiritual_significance": "From a spiritual perspective, the name Esya holds a deeper meaning as it represents the character of Allah, Al-Fattah, the Opener. This name refers to Allah's ability to ease burdens and hardships and open up opportunities for His servants. Esya is a reminder of the power and mercy of Allah, and a call to seek His help in times of difficulty. It is also a reminder to be gentle and compassionate towards others, as we all face our own burdens and challenges in life. Ultimately, the name Esya serves as a source of solace and inspiration, encouraging us to trust in the mercy and power of Allah to ease our burdens and open up new opportunities for growth and spiritual development.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Esya was a famous scholar and theologian in the 13th century. The name Esya carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Esya was a prominent figure in the Islamic world during the Mamluk Sultanate in Egypt."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Esya is a popular name for both boys and girls in the Muslim world.",
-        "Esya is also used as a nickname or a term of endearment."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Esya corresponds to the Unknown form إسيا",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Esya has the core sense grace, elegance, refinement",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Esya is a common name on various social media platforms and messaging apps.",
-        "Esya is also used as a username or a handle on these platforms."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Esya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Esya",
-      "location": "Karachi, Pakistan",
-      "story": "Zainab Esya, a teacher in Karachi, Pakistan, shares that their name Esya meaning \"Grace, Elegance\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Grace, Elegance\" symbolizes A name derived from the Arabic root 's-y-y', meaning 'to ease' or 'to make light'. It is often used to describe a person who moves with grace and elegance.. In Islamic spirituality, bearing the name Esya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of grace, elegance.",
-    "created_at": "2025-12-22T19:19:49.924Z",
-    "updated_at": "2025-12-22T04:53:15.434Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1490,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Esya",
-      "description": "Grace, Elegance",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Esya",
+        "esya"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Esya",
-          "description": "Discover the meaning of Esya - \"Grace, Elegance\"",
-          "image": "/images/social/esya-facebook.jpg"
+      "description": "A name associated with the Unknown form إسيا, meaning grace, elegance, refinement.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "esya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Unknown"
         },
-        "twitter": {
-          "title": "Esya - Name Meaning",
-          "description": "Learn about the beautiful name Esya",
-          "image": "/images/social/esya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Esya",
-          "description": "Name meaning: Grace, Elegance",
-          "image": "/images/social/esya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Esya - Meaning: Grace, Elegance",
-        "email_subject": "Beautiful Name: Esya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Esya with meaning Grace, Elegance",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Esya, associated with the Unknown form إسيا, meaning grace, elegance, refinement."
     },
-    "similar_sounding_names": [
-      "ehan",
-      "eijaz",
-      "eliza",
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

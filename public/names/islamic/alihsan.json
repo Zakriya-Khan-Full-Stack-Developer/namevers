@@ -1,287 +1,482 @@
 {
   "success": true,
   "data": {
-    "name": "AlIhsan",
+    "name": "Alihsan",
     "slug": "alihsan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "The one with beautiful character",
-    "long_meaning": "AlIhsan is an Arabic name derived from the word 'ihsan' which means 'to make something beautiful' or 'to do something with utmost excellence'. This name is often used to describe a person with excellent moral character and beautiful manners.",
-    "spiritual_meaning": "A reminder to strive for excellence and righteousness in all aspects of life.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 3,
-    "numerology_meaning": "People with the name AlIhsan are creative, artistic, and expressive. They have a strong desire to be of service to others.",
-    "in_arabic": {
-      "name": "الإحسان",
-      "meaning": "الإحسان يعني فعل الخير والإحسان إلى الآخرين بإتقان وصدق",
-      "long_meaning": "الإحسان هو اسم من أسماء الله الحسنى، ويعني الإحسان إلى الآخرين بإتقان وصدق، وهو من الأسماء التي وردت في القرآن الكريم، مثل قوله تعالى: 'وَلَا يَأْتَلِي عَطِيَةُ اللَّهِ وَاللَّهُ يَهْدِي مَن يَشَاءُ' (الآية 34 من سورة آل عمران)، ويشير إلى الإحسان في العمل والتعامل مع الآخرين، وهو من الأسماء التي تعبر عن صفات الله تعالى"
+    "identity": {
+      "display_name": "Alihsan",
+      "normalized_name": "alihsan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Alihsan",
+        "alihsan"
+      ],
+      "search_variants": [
+        "Alihsan",
+        "alihsan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "الاحسان",
-      "meaning": "الاحسان کا مطلب ہے اچھائی کرنا اور دوسروں کے ساتھ اچھائی سے पेश آنا",
-      "long_meaning": "الاحسان ایک عربی نام ہے جس کا مطلب ہے اچھائی کرنا اور دوسروں کے ساتھ اچھائی سے پیش آنا، یہ نام اللہ کے خوبصورت ناموں میں سے ایک ہے، اور قرآن کریم میں اس کا ذکر کیا گیا ہے، جیسے کہ ارشاد ربانی: 'وَلَا يَأْتَلِي عَطِيَةُ اللَّهِ وَاللَّهُ يَهْدِي مَن يَشَاءُ' (آل عمران کی سورت کی آیت 34)، اور یہ کام اور دوسروں کے ساتھ معاملات میں اچھائی کی علامت ہے"
+    "core_meaning": {
+      "short_meaning": "Excellence, beautiful character, doing good",
+      "primary_meaning": "Excellence",
+      "secondary_meanings": [
+        "beautiful character",
+        "doing good"
+      ],
+      "literal_meaning": "Excellence",
+      "extended_meaning": "Excellence, beautiful character, doing good",
+      "meaning_explanation": "Alihsan corresponds to the Arabic form الإحسان (ح س ن). Its core sense is excellence, beautiful character, doing good. Al-iḥsān ('excellence, doing good, beautiful character').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अलइहसान",
-      "meaning": "अलइहसान का अर्थ है दूसरों के साथ अच्छा व्यवहार करना और उनकी मदद करना",
-      "long_meaning": "अलइहसान एक अरबी नाम है जिसका अर्थ है दूसरों के साथ अच्छा व्यवहार करना और उनकी मदद करना, यह अल्लाह के सुंदर नामों में से एक है, और कुरआन में इसका उल्लेख किया गया है, जैसे कि अल्लाह का फरमान: 'व ला यأتली अतियतुल्लाहि व अल्लाहु यहदी मन यसाअु' (आल इमरान की सूरा की आयत 34), और यह काम और दूसरों के साथ व्यवहार में अच्छाई का प्रतीक है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "الإحسان",
+      "transliteration": "alihsan",
+      "romanization": "alihsan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Excellence",
+        "beautiful character",
+        "doing good"
+      ],
+      "etymology_explanation": "The form الإحسان is an established Arabic lexical item. Al-iḥsān ('excellence, doing good, beautiful character').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "الاحسان",
-      "meaning": "الاحسان د معنی دا لری چې د نورو سره ښه چلند وکړي او هغوی سره مرسته وکړي",
-      "long_meaning": "الاحسان د عربي نوم څخه دی چې د معنی يې د نورو سره ښه چلند وکړي او هغوی سره مرسته وکړي، دا د الله تعالی ښکلي نومونو څخه يو دی، او په قرآن کريم کې يې ذکر شوی دی، لکه د الله تعالی فرماي: 'او نه د الله تعالی د انعام لامله کومک نه ورکوي، او الله تعالی هدايت کوي چا ته چې وغواړي' (سورت آل عمران، آیت 34)، او دا د کار او د نورو سره د چلند ښه والی ته اشاره کوي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "الإحسان is an established Arabic form.",
+        "Urdu": "احسان is used in Urdu.",
+        "Hindi": "एहसान is used in Hindi.",
+        "Pashto": "احسان is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "AlIhsan",
-      "meaning": "The act of doing good, kindness, and benevolence",
-      "long_meaning": "AlIhsan is an Arabic name that originates from the root 'ḥ-s-n' which means to do good, to be kind, and to be benevolent. It is one of the beautiful names of Allah and is mentioned in the Quran, such as in Surah Al-Imran, verse 34: 'And do not covet that which Allah has made some of you to excel over others. For men there is a share of what they have earned, and for women there is a share of what they have earned.' (3:34). The name AlIhsan signifies the act of doing good, kindness, and benevolence towards others, reflecting a virtuous character and a strong sense of moral responsibility"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form الإحسان. Al-iḥsān ('excellence, doing good, beautiful character').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Alihsan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ح س ن occurs in the Qur'an; الإحسان is a normal Arabic noun"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense excellence, beautiful character, doing good.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Excellence",
+      "related_concepts": [
+        "excellence",
+        "beautiful character",
+        "doing good"
+      ],
+      "semantic_relationship": "The central semantic idea is excellence; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of excellence.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Excellence",
+        "Beautiful character",
+        "Doing good"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Alihsan",
+        "meaning": "Excellence, beautiful character, doing good",
+        "long_meaning": "Alihsan is a Arabic-origin name. Its core meaning is excellence, beautiful character, doing good. Al-iḥsān ('excellence, doing good, beautiful character')."
+      },
+      "urdu": {
+        "name": "احسان",
+        "meaning": "احسان، نیکی، حسن سلوک",
+        "long_meaning": "Alihsan (احسان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم احسان، نیکی، حسن سلوک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "एहसान",
+        "meaning": "एहसान, भलाई, सदाचार",
+        "long_meaning": "Alihsan (एहसान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ एहसान, भलाई, सदाचार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "احسان",
+        "meaning": "احسان، ښېګڼه",
+        "long_meaning": "Alihsan (احسان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې احسان، ښېګڼه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "الإحسان",
+        "meaning": "الإحسان، إتقان العمل",
+        "long_meaning": "Alihsan (الإحسان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإحسان، إتقان العمل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "al-eeh-SAHN",
-      "urdu": "الاحسان کا تلفظ ہے: اے ال ایچ ایس اے این",
-      "hindi": "अलइहसान का उच्चारण है: अल-ई-हसां",
-      "pashto": "الاحسان د تلفظ دی: اېل احسان",
-      "ipa": "/ælˈiːhsɑːn/"
+      "romanized": "a-lih-san",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "احسان",
+      "persian": null,
+      "hindi": "एहसान",
+      "pashto": "احسان"
     },
-    "celebrity_usage": [
-      "Muhammad Ali",
-      "Ali Fazal"
-    ],
-    "social_tags": [
-      "#AlIhsanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#AlIhsan"
-    ],
-    "name_variations": [],
-    "popularity_score": 53,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Alihsan",
+        "alihsan"
+      ],
+      "script_variants": [
+        "احسان",
+        "الإحسان",
+        "एहसान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form الإحسان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Alihsan can be understood through the Arabic form الإحسان, whose central sense is excellence, beautiful character, doing good. Al-iḥsān ('excellence, doing good, beautiful character').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Alihsan mean?",
+        "answer": "Alihsan is associated with the Arabic form الإحسان, whose core sense is excellence, beautiful character, doing good."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Alihsan?",
+        "answer": "Alihsan is associated with Arabic. Al-iḥsān ('excellence, doing good, beautiful character')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Alihsan an Arabic name?",
+        "answer": "Yes — the underlying form الإحسان is Arabic."
+      },
+      {
+        "question": "Is Alihsan an Islamic name?",
+        "answer": "Alihsan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Alihsan a Quranic name?",
+        "answer": "Alihsan should not be classified as a Quranic personal name without a direct Quranic basis. root ح س ن occurs in the Qur'an; الإحسان is a normal Arabic noun"
+      },
+      {
+        "question": "What does Alihsan mean in Urdu?",
+        "answer": "In Urdu, Alihsan is rendered احسان and carries the sense احسان، نیکی، حسن سلوک."
+      },
+      {
+        "question": "What does Alihsan mean in Persian?",
+        "answer": "No verified Persian form was established for Alihsan."
+      },
+      {
+        "question": "How is Alihsan pronounced?",
+        "answer": "A romanized syllable approximation is a-lih-san. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Alihsan?",
+        "answer": "Romanization variants include Alihsan, alihsan. Script forms are احسان, الإحسان, एहसान."
+      },
+      {
+        "question": "Is Alihsan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "AlIhsan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of AlIhsan, a beautiful Islam name meaning \"The one with beautiful character\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "AlIhsan, Islam name, baby names, The one with beautiful character, Islam baby names, name meaning",
-      "description_paragraph": "AlIhsan is a meaningful Islam name of Arabic origin that means \"The one with beautiful character\". AlIhsan is an Arabic name derived from the word 'ihsan' which means 'to make something beautiful' or 'to do something with utmost excellence'. This name is often used to describe a person with excellent moral character and beautiful manners.",
-      "keywords": [
-        "AlIhsan",
-        "Islam name",
-        "baby names",
-        "The one with beautiful character",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of AlIhsan in Islam tradition?",
-          "a": "AlIhsan is a beautiful Islam name meaning \"The one with beautiful character\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is AlIhsan a good Islam name for a baby?",
-          "a": "Yes, AlIhsan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name AlIhsan?",
-          "a": "The name AlIhsan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce AlIhsan correctly?",
-          "a": "AlIhsan is pronounced al-eeh-SAHN in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child AlIhsan?",
-          "a": "Naming a child AlIhsan brings blessings. The meaning \"The one with beautiful character\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name AlIhsan?",
-          "a": "AlIhsan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
-      "focus_keyword": "AlIhsan meaning",
+      "title": "Alihsan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Alihsan (الإحسان).",
+      "h1": "Alihsan Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Alihsan meaning",
       "secondary_keywords": [
-        "Islam name AlIhsan",
-        "AlIhsan meaning",
-        "AlIhsan origin"
+        "Alihsan name meaning",
+        "Alihsan meaning in Urdu",
+        "Alihsan origin",
+        "Alihsan Islamic name",
+        "Alihsan pronunciation",
+        "Alihsan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Alihsan (الإحسان) is associated with the Arabic form الإحسان, whose core sense is excellence, beautiful character, doing good. Al-iḥsān ('excellence, doing good, beautiful character').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Alihsan is associated with the Arabic form الإحسان, whose core sense is excellence, beautiful character, doing good.",
+      "meaning_section": "The central meaning of Alihsan is excellence, beautiful character, doing good.",
+      "origin_section": "Alihsan is associated with Arabic rather than with a different language.",
+      "islam_section": "Alihsan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Alihsan is with the sense excellence.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Alihsan",
+      "#AlihsanMeaning",
+      "#AlihsanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name AlIhsan is regarded as a noble and prestigious name in Islamic culture. It signifies having good manners, being kind-hearted, and striving for excellence in all aspects of life. AlIhsan is also associated with the concept of 'Ihsan' in Islamic philosophy, which refers to the act of striving for perfection, sincerity, and close adherence to God's commandments.",
-    "spiritual_significance": "From a spiritual perspective, the name AlIhsan holds great significance in the Islamic tradition. It reflects the ideal of a person striving to live a righteous life and uplift their character to the highest possible level. The name also serves as a reminder of the importance of making the world around us more beautiful through our actions, words, and demeanor. Ultimately, the name AlIhsan is a call to constantly aim for excellence and seek to please Allah through our daily actions and choices.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name AlIhsan carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Alihsan corresponds to the Arabic form الإحسان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Alihsan has the core sense excellence, beautiful character, doing good",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name AlIhsan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija AlIhsan",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Khadija AlIhsan, a teacher in Kuala Lumpur, Malaysia, shares that their name AlIhsan meaning \"The one with beautiful character\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"The one with beautiful character\" symbolizes AlIhsan is an Arabic name derived from the word 'ihsan' which means 'to make something beautiful' or 'to do something with utmost excellence'. This name is often used to describe a person with excellent moral character and beautiful manners.. In Islamic spirituality, bearing the name AlIhsan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of the one with beautiful character.",
-    "created_at": "2025-12-22T19:19:49.918Z",
-    "updated_at": "2025-12-22T04:53:15.333Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1336,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "AlIhsan",
-      "description": "The one with beautiful character",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "@type": "DefinedTerm",
+      "name": "Alihsan",
+      "alternateName": [
+        "Alihsan",
+        "alihsan"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: AlIhsan",
-          "description": "Discover the meaning of AlIhsan - \"The one with beautiful character\"",
-          "image": "/images/social/alihsan-facebook.jpg"
+      "description": "A name associated with the Arabic form الإحسان, meaning excellence, beautiful character, doing good.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "alihsan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "AlIhsan - Name Meaning",
-          "description": "Learn about the beautiful name AlIhsan",
-          "image": "/images/social/alihsan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "AlIhsan",
-          "description": "Name meaning: The one with beautiful character",
-          "image": "/images/social/alihsan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: AlIhsan - Meaning: The one with beautiful character",
-        "email_subject": "Beautiful Name: AlIhsan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "AlIhsan with meaning The one with beautiful character",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Alihsan, associated with the Arabic form الإحسان, meaning excellence, beautiful character, doing good."
     },
-    "similar_sounding_names": [
-      "amaya",
-      "alabbas",
-      "amala",
-      "alraaz",
-      "ambar",
-      "aaidah",
-      "anika",
-      "arya",
-      "alika",
-      "akil"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

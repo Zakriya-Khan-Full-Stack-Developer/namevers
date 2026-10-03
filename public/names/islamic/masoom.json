@@ -3,300 +3,481 @@
   "data": {
     "name": "Masoom",
     "slug": "masoom",
-    "language": [
-      "Urdu",
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Innocent, Truthful",
-    "long_meaning": "One who is free from the knowledge of sin, guiltless, innocent, truthful, sincere.",
-    "spiritual_meaning": "A spiritual name for a child who is pure in heart and soul, and is protected from the knowledge of sin by Allah.",
-    "emotional_traits": [
-      "Innocent",
-      "Truthful",
-      "Honest",
-      "Pure",
-      "Guiltless",
-      "Sincere"
-    ],
-    "hidden_personality_traits": [
-      "Protected",
-      "Guarded"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Blue"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 1,
-    "numerology_meaning": "A number representing new beginnings, creation, and individuality.",
-    "in_arabic": {
-      "name": "مَسُوم",
-      "meaning": "بريئ، ناپاك، بے گناہ، معصوم",
-      "long_meaning": "مَسُومَ مشتق از مَسَمَ يَمْسُمُ مَسْماً و مَسوماً، بمعنى بى‌نشان و بى‌اثر. در اصل به كسى گفته مى‌شود كه از گناه و خطا به دور است و هيچ‌كدام از گناهان كبيره را انجام نمى‌دهد. از اسماء حسناى الهى است و براى كسى كه از گناهان بزرگ دور بوده و به معصوميت نزديك باشد، استعمال مى‌شود."
+    "identity": {
+      "display_name": "Masoom",
+      "normalized_name": "masoom",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Masoom",
+        "masoom"
+      ],
+      "search_variants": [
+        "Masoom",
+        "masoom"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "معصوم",
-      "meaning": "بے گناہ، بے داغ، معصوم، پاکیزہ",
-      "long_meaning": "معصوم کی اصطلاح عربی زبان سے ماخوذ ہے، جس کا مطلب ہے گناہ سے پاک یا بے داغ۔ یہ نام ان بچوں کے لیے استعمال کیا جاتا ہے جو بے گناہ اور پاکیزہ دل کے حامل ہوتے ہیں۔ اسلامی عقیدے میں، معصومیت ایک اہم فضیلت ہے جس کی پیروی کرنا ضروری ہے۔"
+    "core_meaning": {
+      "short_meaning": "Innocent, protected, sinless",
+      "primary_meaning": "Innocent",
+      "secondary_meanings": [
+        "protected",
+        "sinless"
+      ],
+      "literal_meaning": "Innocent",
+      "extended_meaning": "Innocent, protected, sinless",
+      "meaning_explanation": "Masoom corresponds to the Arabic form معصوم (Arabic root ع ص م (ʿ-ṣ-m); مَعْصُوم (Maʿṣūm)). Its core sense is innocent, protected, sinless. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मासूम",
-      "meaning": "बेगुनाह, पवित्र, निर्दोष, मासूम",
-      "long_meaning": "मासूम नाम का अर्थ है जो व्यक्ति पाप रहित हो, बेगुनाह हो। यह नाम उन बच्चों के लिए प्रयोग किया जाता है जो निर्दोष और पवित्र हृदय के होते हैं। इस्लामी परंपरा में, मासूमियत एक महत्वपूर्ण गुण है जिसकी पूजा करना आवश्यक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "معصوم",
+      "transliteration": "masoom",
+      "romanization": "masoom",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Innocent",
+        "protected",
+        "sinless"
+      ],
+      "etymology_explanation": "The form معصوم is an established Arabic lexical item. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "معصوم",
-      "meaning": "بې ګناه، پاک، معصوم، سترګی",
-      "long_meaning": "معصوم د عربي کلمې څخه اخیستل شوی دی، چې معنی یې ګناه څخه پاک یا بې داغ دی. دا نوم د هغو ماشومانو لپاره کارول کیږي چې بې ګناه او پاک زړه وي. په اسلامي عقیده کې، معصومیت يو مهم فضیلت دی چې د تعقیبولو لپاره اړین دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "معصوم is an established Arabic form.",
+        "Urdu": "معصوم is used in Urdu.",
+        "Persian": "معصوم is an established Persian form.",
+        "Hindi": "मासूम is used in Hindi.",
+        "Pashto": "معصوم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Masoom",
-      "meaning": "Innocent, sinless, pure, and guiltless",
-      "long_meaning": "The name Masoom originates from Arabic roots, specifically from the term 'ma'sūm', which means 'protected' or 'sinless'. In Islamic tradition, it refers to someone who is free from major sins and is considered innocent or pure. This name symbolizes a person with a virtuous and unblemished character, reflecting ideals of moral integrity and spiritual cleanliness."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form معصوم. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Masoom may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense innocent, protected, sinless.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Innocent",
+      "related_concepts": [
+        "innocent",
+        "protected",
+        "sinless"
+      ],
+      "semantic_relationship": "The central semantic idea is innocent; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of innocent.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Innocent",
+        "Protected",
+        "Sinless"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Masoom",
+        "meaning": "Innocent, protected, sinless",
+        "long_meaning": "Masoom is a Arabic-origin name. Its core meaning is innocent, protected, sinless. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent."
+      },
+      "urdu": {
+        "name": "معصوم",
+        "meaning": "معصوم، بے گناہ، محفوظ",
+        "long_meaning": "Masoom (معصوم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معصوم، بے گناہ، محفوظ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "معصوم",
+        "meaning": "معصوم، بی‌گناه، محفوظ",
+        "long_meaning": "Masoom (معصوم) نامی برگرفته از زبان عربی است و معنای اصلی آن معصوم، بی‌گناه، محفوظ است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मासूम",
+        "meaning": "मासूम, निर्दोष, सुरक्षित",
+        "long_meaning": "Masoom (मासूम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मासूम, निर्दोष, सुरक्षित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "معصوم",
+        "meaning": "معصوم، بې ګناه، ساتل شوی",
+        "long_meaning": "Masoom (معصوم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې معصوم، بې ګناه، ساتل شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "معصوم",
+        "meaning": "الْمَعْصُوم، الْبَرِيء، الْمَحْفُوظ",
+        "long_meaning": "Masoom (معصوم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمَعْصُوم، الْبَرِيء، الْمَحْفُوظ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "mæsˈuːm",
-      "urdu": "اردو میں تلفظ کی تفصیل: مَعْصُوم",
-      "hindi": "हिन्दी में उच्चारण विवरण: मासूम",
-      "pashto": "په پښتو کې د تلفظ تفصیل: معصوم",
-      "ipa": "/mæsˈuːm/"
+      "romanized": "ma-soom",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "معصوم",
+      "persian": "معصوم",
+      "hindi": "मासूम",
+      "pashto": "معصوم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MasoomMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Masoom"
-    ],
-    "name_variations": [
-      "Masum"
-    ],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Masoom",
+        "masoom"
+      ],
+      "script_variants": [
+        "معصوم",
+        "मासूम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form معصوم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Masoom can be understood through the Arabic form معصوم, whose central sense is innocent, protected, sinless. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Masoom mean?",
+        "answer": "Masoom is associated with the Arabic form معصوم, whose core sense is innocent, protected, sinless."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Masoom?",
+        "answer": "Masoom is associated with Arabic. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Masoom an Arabic name?",
+        "answer": "Yes — the underlying form معصوم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Masoom an Islamic name?",
+        "answer": "Masoom can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 73,
-        "year": 2024
+        "question": "Is Masoom a Quranic name?",
+        "answer": "Masoom should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Masoom mean in Urdu?",
+        "answer": "In Urdu, Masoom is rendered معصوم and carries the sense معصوم، بے گناہ، محفوظ."
+      },
+      {
+        "question": "What does Masoom mean in Persian?",
+        "answer": "In Persian, Masoom is rendered معصوم and carries the sense معصوم، بی‌گناه، محفوظ."
+      },
+      {
+        "question": "How is Masoom pronounced?",
+        "answer": "A romanized syllable approximation is ma-soom. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Masoom?",
+        "answer": "Romanization variants include Masoom, masoom. Script forms are معصوم, मासूम."
+      },
+      {
+        "question": "Is Masoom a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Masoom Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Masoom, a beautiful Islam name meaning \"Innocent, Truthful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Masoom, Islam name, baby names, Innocent, Truthful, Islam baby names, name meaning",
-      "description_paragraph": "Masoom is a meaningful Islam name of Arabic origin that means \"Innocent, Truthful\". One who is free from the knowledge of sin, guiltless, innocent, truthful, sincere.",
-      "keywords": [
-        "Masoom",
-        "Islam name",
-        "baby names",
-        "Innocent, Truthful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Masoom in Islam tradition?",
-          "a": "Masoom is a beautiful Islam name meaning \"Innocent, Truthful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Masoom a good Islam name for a baby?",
-          "a": "Yes, Masoom is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Masoom?",
-          "a": "The name Masoom has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Masoom correctly?",
-          "a": "Masoom is pronounced mæsˈuːm in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Masoom?",
-          "a": "Naming a child Masoom brings blessings. The meaning \"Innocent, Truthful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Masoom?",
-          "a": "Masoom is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Masoom Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Masoom (معصوم).",
+      "h1": "Masoom Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Masoom meaning",
       "secondary_keywords": [
-        "Islam name Masoom",
-        "Masoom meaning",
-        "Masoom origin"
+        "Masoom name meaning",
+        "Masoom meaning in Urdu",
+        "Masoom origin",
+        "Masoom Islamic name",
+        "Masoom pronunciation",
+        "Masoom name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Masoom (معصوم) is associated with the Arabic form معصوم, whose core sense is innocent, protected, sinless. Masoom is Arabic مَعْصُوم (Maʿṣūm) 'innocent, protected, sinless', from the root ع ص م (ʿ-ṣ-m). CRITICAL SOURCE ERROR: the source gave مَسُوم (a different form) and recorded the gender as female; the correct form is مَعْصُوم and documented usage is predominantly male. The source gloss 'Innocent, Truthful' is broadly consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Masoom is associated with the Arabic form معصوم, whose core sense is innocent, protected, sinless.",
+      "meaning_section": "The central meaning of Masoom is innocent, protected, sinless.",
+      "origin_section": "Masoom is associated with Arabic rather than with a different language.",
+      "islam_section": "Masoom can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Masoom is with the sense innocent.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Masoom",
+      "#MasoomMeaning",
+      "#MasoomName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Masoom holds a significant cultural impact in the Islamic world. It is a name that reflects the virtues of honesty, truthfulness, and innocence expected from individuals in Islamic societies. In many Muslim communities, this name is given to children as a way to encourage them to live up to the high moral standards and values held in the Islamic faith.",
-    "spiritual_significance": "Spiritually, the name Masoom holds great significance in Islam. It represents a person who is free from the knowledge of sin and guilt, thus being sincere and truthful in their actions and intentions towards God and others. It is a reminder of the importance of living a virtuous and God-conscious life, and striving to be innocent in one's thoughts, words, and deeds.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Masoom carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Masoom corresponds to the Arabic form معصوم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Masoom has the core sense innocent, protected, sinless",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Masoom remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Masoom",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Maryam Masoom, a teacher in Riyadh, Saudi Arabia, shares that their name Masoom meaning \"Innocent, Truthful\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Innocent, Truthful\" symbolizes One who is free from the knowledge of sin, guiltless, innocent, truthful, sincere.. In Islamic spirituality, bearing the name Masoom serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of innocent, truthful.",
-    "created_at": "2025-12-22T19:19:49.905Z",
-    "updated_at": "2025-12-22T04:53:15.194Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1486,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Masoom",
-      "description": "Innocent, Truthful",
-      "additionalName": [
-        "Masum"
+      "alternateName": [
+        "Masoom",
+        "masoom"
       ],
-      "knowsLanguage": [
-        "Urdu",
-        "Arabic"
+      "description": "A name associated with the Arabic form معصوم, meaning innocent, protected, sinless.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Masoom",
-          "description": "Discover the meaning of Masoom - \"Innocent, Truthful\"",
-          "image": "/images/social/masoom-facebook.jpg"
+      "termCode": "masoom",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Masoom - Name Meaning",
-          "description": "Learn about the beautiful name Masoom",
-          "image": "/images/social/masoom-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Masoom",
-          "description": "Name meaning: Innocent, Truthful",
-          "image": "/images/social/masoom-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Masoom - Meaning: Innocent, Truthful",
-        "email_subject": "Beautiful Name: Masoom"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Masoom with meaning Innocent, Truthful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Masoom, associated with the Arabic form معصوم, meaning innocent, protected, sinless."
     },
-    "similar_sounding_names": [
-      "maassama",
-      "marnia",
-      "meher",
-      "meena",
-      "manab",
-      "mahek",
-      "mika",
-      "mada",
-      "marudeen.",
-      "marhabah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

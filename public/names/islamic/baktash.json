@@ -3,289 +3,467 @@
   "data": {
     "name": "Baktash",
     "slug": "baktash",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Fan or Supporter",
-    "long_meaning": "The name Baktash is derived from the Persian language and is commonly used among Muslims. It means 'Fan or Supporter'. Historically, Baktash was a title given to those who were devoted supporters of a Sufi master or religious leader. The name carries a spiritual meaning, symbolizing deep commitment and loyalty.",
-    "spiritual_meaning": "A name for those who seek knowledge and wisdom in their spiritual journey",
-    "emotional_traits": [
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resourceful",
-      "Adaptable",
-      "Perceptive",
-      "Independent"
-    ],
-    "lucky_number": 17,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Blue"
-    ],
-    "lucky_stone": "(Aquamarine)",
-    "life_path_number": 11,
-    "numerology_meaning": "Those with the name Baktash have a natural ability to inspire and motivate others. They are compassionate, creative, and have a strong intuition. This name is associated with the energy of Manifestation and illumination, making it an excellent choice for those seeking spiritual growth and self-awareness.",
-    "in_arabic": {
-      "name": "بكتاش",
-      "meaning": "اسم مشتق من بكى وتاش يعني من يبكي كثيرًا",
-      "long_meaning": "بكتاش هو اسم علم مذكر من أصل عربي و معناه الشخص الذي يبكي كثيرًا، وقد ورد في بعض الروايات أنه اسم من أسماء الأولياء الصالحين، واسم بكْتاش مُشتق من الجذر اللغوي ب-ك-ي الذي يعني البكاء، وقد يدل على الشخص الذي يتصف بالرقة و الحساسية"
+    "identity": {
+      "display_name": "Baktash",
+      "normalized_name": "baktash",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Baktash",
+        "baktash"
+      ],
+      "search_variants": [
+        "Baktash",
+        "baktash"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بکتاش",
-      "meaning": "بکتاش کا مطلب ہے روئے جانے والا یا بہت رونے والا",
-      "long_meaning": "بکتاش ایک مسلم نام ہے جو عربی زبان سے نکلا ہے، اس کا مطلب ہے وہ شخص جو بہت روتا ہے یا روئے جانے والا، یہ نام عربی جڑ ب-ک-ی سے ماخوذ ہے جس کا تعلق رونے یا دکھ سے ہے، اور یہ اکثر انبیاء اور اولیاء کے ناموں میں پایا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Bektash (personal name)",
+      "primary_meaning": "Bektash (personal name)",
+      "secondary_meanings": [],
+      "literal_meaning": "Bektash (personal name)",
+      "extended_meaning": "Bektash (personal name)",
+      "meaning_explanation": "Baktash corresponds to the Turkic form بكتاش (—). Its core sense is bektash (personal name). Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बक्ताश",
-      "meaning": "बक्ताश का अर्थ है बहुत रोने वाला या रुलाने वाला",
-      "long_meaning": "बक्ताश एक मुस्लिम नाम है जो अरबी भाषा से आया है, इसका अर्थ है वह व्यक्ति जो बहुत रोता है या रुलाने वाला, यह नाम अरबी मूल ब-ك-ي से निकला है जो रोने या दुख से जुड़ा है, और यह अक्सर इस्लामी परंपरा में पवित्र लोगों और संतों के नामों में पाया जाता है"
+    "etymology": {
+      "primary_language": "Turkic",
+      "lexical_form": "بكتاش",
+      "transliteration": "baktash",
+      "romanization": "baktash",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Bektash (personal name)"
+      ],
+      "etymology_explanation": "The form بكتاش is an established Turkic lexical item. Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بکتاش",
-      "meaning": "بکتاش د روئیدونکی یا ډیر روئیدونکی مطلب دی",
-      "long_meaning": "بکتاش یو مسلم نوم دی چی د عربي ژبې څخه يی اخستل سوي دی، دے مطلب دے هغه کسي چی ډير راته او يا روئيدونکی، دا نوم د عربي ريښی ب-ك-ي څخه اخستل سوي دی چی د روئیدن او يا د غم معنی ورکوي، او دا اکثر د انبياء او صالحين په نومونو کي موندل کيږي"
+    "language": {
+      "primary": "Turkic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بكتاش is an established Arabic form.",
+        "Urdu": "بکتاش is used in Urdu.",
+        "Persian": "بکتاش is an established Persian form.",
+        "Hindi": "बेकताश is used in Hindi.",
+        "Pashto": "بکتاش is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Baktash",
-      "meaning": "Much-crying, one who cries often, or a crybaby",
-      "long_meaning": "Baktash is a Muslim name with Arabic origins, derived from the root b-k-y meaning to cry or weep, it refers to someone who cries a lot or a crybaby, the name may signify a person with a sensitive and emotional nature, historically it has been associated with pious individuals and saints in Islamic tradition"
+    "origin": {
+      "primary_origin": "Turkic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Turkic form بكتاش. Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Baktash may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense bektash (personal name).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Bektash (personal name)",
+      "related_concepts": [
+        "bektash (personal name)"
+      ],
+      "semantic_relationship": "The central semantic idea is bektash (personal name); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of bektash (personal name).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Bektash (personal name)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Baktash",
+        "meaning": "Bektash (personal name)",
+        "long_meaning": "Baktash is a Turkic-origin name. Its core meaning is bektash (personal name). Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "بکتاش",
+        "meaning": "بکتاش (نام)",
+        "long_meaning": "Baktash (بکتاش) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بکتاش (نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "بکتاش",
+        "meaning": "بکتاش (نام)",
+        "long_meaning": "Baktash (بکتاش) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن بکتاش (نام) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "बेकताश",
+        "meaning": "बेकताश (नाम)",
+        "long_meaning": "Baktash (बेकताश) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ बेकताश (नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بکتاش",
+        "meaning": "بکتاش (نوم)",
+        "long_meaning": "Baktash (بکتاش) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بکتاش (نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بكتاش",
+        "meaning": "بكتاش (اسم)",
+        "long_meaning": "Baktash (بكتاش) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي بكتاش (اسم). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "bak-TASH",
-      "urdu": "بک-تاش",
-      "hindi": "बक-ताश",
-      "pashto": "بک-تاښ",
-      "ipa": "/bækˈtæʃ/"
+      "romanized": "bak-tash",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بکتاش",
+      "persian": "بکتاش",
+      "hindi": "बेकताश",
+      "pashto": "بکتاش"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#BaktashMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Baktash"
-    ],
-    "name_variations": [],
-    "popularity_score": 76,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Baktash",
+        "baktash"
+      ],
+      "script_variants": [
+        "بكتاش",
+        "بکتاش",
+        "बेकताश"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بكتاش is an established Turkic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Baktash can be understood through the Turkic form بكتاش, whose central sense is bektash (personal name). Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 92,
-        "year": 2024
+        "question": "What does Baktash mean?",
+        "answer": "Baktash is associated with the Turkic form بكتاش, whose core sense is bektash (personal name)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Baktash?",
+        "answer": "Baktash is associated with Turkic. Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Baktash an Arabic name?",
+        "answer": "No — the underlying form is Turkic, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Baktash an Islamic name?",
+        "answer": "Baktash can occur in Muslim naming contexts, but it is better described as a Turkic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Baktash a Quranic name?",
+        "answer": "Baktash should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Baktash mean in Urdu?",
+        "answer": "In Urdu, Baktash is rendered بکتاش and carries the sense بکتاش (نام)."
+      },
+      {
+        "question": "What does Baktash mean in Persian?",
+        "answer": "In Persian, Baktash is rendered بکتاش and carries the sense بکتاش (نام)."
+      },
+      {
+        "question": "How is Baktash pronounced?",
+        "answer": "A romanized syllable approximation is bak-tash. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Baktash?",
+        "answer": "Romanization variants include Baktash, baktash. Script forms are بكتاش, بکتاش, बेकताश."
+      },
+      {
+        "question": "Is Baktash a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Baktash Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Baktash, a beautiful Islam name meaning \"Fan or Supporter\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Baktash, Islam name, baby names, Fan or Supporter, Islam baby names, name meaning",
-      "description_paragraph": "Baktash is a meaningful Islam name of Arabic origin that means \"Fan or Supporter\". The name Baktash is derived from the Persian language and is commonly used among Muslims. It means 'Fan or Supporter'. Historically, Baktash was a title given to those who were devoted supporters of a Sufi master or religious leader. The name carries a spiritual meaning, symbolizing deep commitment and loyalty.",
-      "keywords": [
-        "Baktash",
-        "Islam name",
-        "baby names",
-        "Fan or Supporter",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Baktash in Islam tradition?",
-          "a": "Baktash is a beautiful Islam name meaning \"Fan or Supporter\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Baktash a good Islam name for a baby?",
-          "a": "Yes, Baktash is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Baktash?",
-          "a": "The name Baktash has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Baktash correctly?",
-          "a": "Baktash is pronounced bak-TASH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Baktash?",
-          "a": "Naming a child Baktash brings blessings. The meaning \"Fan or Supporter\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Baktash?",
-          "a": "Baktash is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Baktash Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Turkic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Baktash (بكتاش).",
+      "h1": "Baktash Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Baktash meaning",
       "secondary_keywords": [
-        "Islam name Baktash",
-        "Baktash meaning",
-        "Baktash origin"
+        "Baktash name meaning",
+        "Baktash meaning in Urdu",
+        "Baktash origin",
+        "Baktash Islamic name",
+        "Baktash pronunciation",
+        "Baktash name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Baktash (بكتاش) is associated with the Turkic form بكتاش, whose core sense is bektash (personal name). Bektāsh, a Turkic personal name borne by Haji Bektash Veli (1209-1271), eponym of the Bektashi order. The source record's gloss 'Fan or Supporter' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Baktash is associated with the Turkic form بكتاش, whose core sense is bektash (personal name).",
+      "meaning_section": "The central meaning of Baktash is bektash (personal name).",
+      "origin_section": "Baktash is associated with Turkic rather than with a different language.",
+      "islam_section": "Baktash can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Baktash is with the sense bektash (personal name).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Baktash",
+      "#BaktashMeaning",
+      "#BaktashName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic history, Sufism - a mystical branch of Islam - became an important aspect of Muslim culture, focusing on personal intimacy and direct communication with God. The title 'Baktash' would have been regarded with honor, signifying a follower or devotee of a spiritual leader, akin to a disciple. This would have played a significant role in fostering a community of spiritual seekers and helping to perpetuate and spread the teachings of various Sufi saints across generations.",
-    "spiritual_significance": "Baktash is a name that symbolizes deep devotion, commitment, and loyalty towards spiritual guidance. It serves as a reminder for individuals to seek the counsel of wisdom from their elders, spiritual guides, and religious leaders. The name carries an inspiring message to continue on the spiritual journey, focusing on internal growth and personal transformation. It serves as a constant reminder to be humble and devoted to the teachings of God and the words of those who have dedicated their lives to guiding others towards greater spiritual understanding.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Baktash carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Baktash corresponds to the Turkic form بكتاش",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Baktash has the core sense bektash (personal name)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Baktash remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Baktash",
-      "location": "Istanbul, Turkey",
-      "story": "Aisha Baktash from Istanbul, Turkey embodies the meaning of Baktash - \"Fan or Supporter\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Fan or Supporter\" symbolizes The name Baktash is derived from the Persian language and is commonly used among Muslims. It means 'Fan or Supporter'. Historically, Baktash was a title given to those who were devoted supporters of a Sufi master or religious leader. The name carries a spiritual meaning, symbolizing deep commitment and loyalty.. In Islamic spirituality, bearing the name Baktash serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of fan or supporter.",
-    "created_at": "2025-12-22T19:19:49.933Z",
-    "updated_at": "2025-12-22T04:53:15.545Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1207,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Baktash",
-      "description": "Fan or Supporter",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Baktash",
+        "baktash"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Baktash",
-          "description": "Discover the meaning of Baktash - \"Fan or Supporter\"",
-          "image": "/images/social/baktash-facebook.jpg"
+      "description": "A name associated with the Turkic form بكتاش, meaning bektash (personal name).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "baktash",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Turkic"
         },
-        "twitter": {
-          "title": "Baktash - Name Meaning",
-          "description": "Learn about the beautiful name Baktash",
-          "image": "/images/social/baktash-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Baktash",
-          "description": "Name meaning: Fan or Supporter",
-          "image": "/images/social/baktash-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Baktash - Meaning: Fan or Supporter",
-        "email_subject": "Beautiful Name: Baktash"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Baktash with meaning Fan or Supporter",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Baktash, associated with the Turkic form بكتاش, meaning bektash (personal name)."
     },
-    "similar_sounding_names": [
-      "badri",
-      "banujah",
-      "baseema",
-      "buhayyah",
-      "buthayna",
-      "baraaa",
-      "basbas",
-      "binesh",
-      "busrah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

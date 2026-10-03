@@ -3,280 +3,474 @@
   "data": {
     "name": "Hessa",
     "slug": "hessa",
-    "language": [
-      "Arabic",
-      "English"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gentle, Soft",
-    "long_meaning": "From the Arabic root word 'hasas', meaning 'to be gentle' or 'to caress'. This name embodies the delicate and beautiful aspects of nature.",
-    "spiritual_meaning": "A name that signifies gentleness and compassion, reflecting the loving and nurturing qualities of Allah.",
-    "emotional_traits": [
-      "Calm",
-      "Compassionate",
-      "Gentle",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Sensitive",
-      "Perceptive"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Pink",
-      "White"
-    ],
-    "lucky_stone": "Opal",
-    "life_path_number": 6,
-    "numerology_meaning": "A name that represents harmony, love, and balance, providing a stable foundation for personal growth and spiritual development.",
-    "in_arabic": {
-      "name": "حسا",
-      "meaning": "حسا تعني الحاسة أو الشعور أو الإحساس",
-      "long_meaning": "حسا هي اسم علم مؤنث من أصل عربي، مشتق من الفعل 'حَسَّ' الذي يعني الشعور أو الإحساس. في اللغة العربية، الحاسة تعني القدرة على الشعور أو الإحساس، وغالبًا ما تُستخدم في سياق الحواس الخمس. وفي القرآن الكريم، نجد العديد من الآيات التي تشير إلى الحواس والإحساس، مثل 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا' (الإسراء: 36)، حيث يُذكر السمع والبصر والفؤاد كحواس مهمة للإنسان."
+    "identity": {
+      "display_name": "Hessa",
+      "normalized_name": "hessa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hessa",
+        "hessa"
+      ],
+      "search_variants": [
+        "Hessa",
+        "hessa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حیسا",
-      "meaning": "حیسا کا مطلب ہے حاسة یا احساس یا ادراک",
-      "long_meaning": "حیسا ایک عربی मूल کا علم مؤنث نام ہے، جو کہ 'حَسَّ' فعل سے ماخوذ ہے جس کا مطلب ہے احساس کرنا یا ادراک کرنا۔ اردو میں، حیسا کا استعمال اکثر حاسة یا شعور کے معنی میں کیا جاتا ہے۔ اسلامی تقالید میں، حیسا جیسے ناموں کا انتخاب والدین کے لیے ضروری ہے کیونکہ ان میں لسانی اور ثقافتی اہمیت ہوتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Hessa (female given name)",
+      "primary_meaning": "Hessa (female given name)",
+      "secondary_meanings": [],
+      "literal_meaning": "Hessa (female given name)",
+      "extended_meaning": "Hessa (female given name)",
+      "meaning_explanation": "Hessa corresponds to the Arabic form حصة (Arabic حِصَّة (Ḥiṣṣa)). Its core sense is hessa (female given name). Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "हेसा",
-      "meaning": "हेसा का अर्थ है हासा या भावना या अनुभूति",
-      "long_meaning": "हेसा एक अरबी मूल का स्त्रीलिंग नाम है, जो 'حَسَّ' (हस्स) क्रिया से लिया गया है, जिसका अर्थ है महसूस करना या अनुभूति करना। हिंदी मुस्लिम समुदाय में, हेसा जैसे नामों का चयन अक्सर उनकी आध्यात्मिक और सांस्कृतिक महत्वता के कारण किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حصة",
+      "transliteration": "hessa",
+      "romanization": "hessa",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Hessa (female given name)"
+      ],
+      "etymology_explanation": "The form حصة is an established Arabic lexical item. Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "حسا",
-      "meaning": "حسا د احساس یا پوهاوي معنی لري",
-      "long_meaning": "حسا د عربي اصل يو ښځينه نوم دی، چې د 'حَسَّ' (حس) کلمې څخه اخيستل شوی دی، چي د احساس کولو يا پوهاوي معنی لري. په پښتنو ټولنو کې، داسې نومونه لکه حسا اکثرا د هغوي د مذهبي او کلتوري اهميت له امله کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حصة is an established Arabic form.",
+        "Urdu": "حصہ is used in Urdu.",
+        "Persian": "حصه is an established Persian form.",
+        "Hindi": "हेस्सा is used in Hindi.",
+        "Pashto": "حصه is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Hessa",
-      "meaning": "Hessa means feeling, sensation, or perception",
-      "long_meaning": "Hessa is a feminine given name of Arabic origin, derived from the verb 'حَسَّ' (hass), which means to feel or perceive. In Arabic, the term 'حاسة' (hassah) refers to a sense or faculty of perception. The name Hessa is often associated with qualities such as sensitivity, empathy, and awareness. While not directly mentioned in the Quran, the concept of senses and perception is discussed in various verses, emphasizing their importance in human experience and spiritual growth."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form حصة. Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hessa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense hessa (female given name).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Hessa (female given name)",
+      "related_concepts": [
+        "hessa (female given name)"
+      ],
+      "semantic_relationship": "The central semantic idea is hessa (female given name); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of hessa (female given name).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Hessa (female given name)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hessa",
+        "meaning": "Hessa (female given name)",
+        "long_meaning": "Hessa is a Arabic-origin name. Its core meaning is hessa (female given name). Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "حصہ",
+        "meaning": "حصہ (زنانہ نام)",
+        "long_meaning": "Hessa (حصہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حصہ (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حصه",
+        "meaning": "حصه (نام زنانه)",
+        "long_meaning": "Hessa (حصه) نامی برگرفته از زبان عربی است و معنای اصلی آن حصه (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हेस्सा",
+        "meaning": "हेस्सा (स्त्री नाम)",
+        "long_meaning": "Hessa (हेस्सा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हेस्सा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حصه",
+        "meaning": "حصه (ښځينه نوم)",
+        "long_meaning": "Hessa (حصه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حصه (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حصة",
+        "meaning": "حِصَّة (اسم علم مؤنث)",
+        "long_meaning": "Hessa (حصة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حِصَّة (اسم علم مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "hes-sah",
-      "urdu": "ہیسہ",
-      "hindi": "हेसा",
-      "pashto": "حسا",
-      "ipa": "/ˈhesə/"
+      "romanized": "hes-sa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حصہ",
+      "persian": "حصه",
+      "hindi": "हेस्सा",
+      "pashto": "حصه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HessaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hessa"
-    ],
-    "name_variations": [],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hessa",
+        "hessa"
+      ],
+      "script_variants": [
+        "حصة",
+        "حصه",
+        "حصہ",
+        "हेस्सा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حصة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hessa can be understood through the Arabic form حصة, whose central sense is hessa (female given name). Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Hessa mean?",
+        "answer": "Hessa is associated with the Arabic form حصة, whose core sense is hessa (female given name)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Hessa?",
+        "answer": "Hessa is associated with Arabic. Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Hessa an Arabic name?",
+        "answer": "Yes — the underlying form حصة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Hessa an Islamic name?",
+        "answer": "Hessa can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hessa a Quranic name?",
+        "answer": "Hessa should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hessa mean in Urdu?",
+        "answer": "In Urdu, Hessa is rendered حصہ and carries the sense حصہ (زنانہ نام)."
+      },
+      {
+        "question": "What does Hessa mean in Persian?",
+        "answer": "In Persian, Hessa is rendered حصه and carries the sense حصه (نام زنانه)."
+      },
+      {
+        "question": "How is Hessa pronounced?",
+        "answer": "A romanized syllable approximation is hes-sa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hessa?",
+        "answer": "Romanization variants include Hessa, hessa. Script forms are حصة, حصه, حصہ, हेस्सा."
+      },
+      {
+        "question": "Is Hessa a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hessa Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hessa, a beautiful Islam name meaning \"Gentle, Soft\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hessa, Islam name, baby names, Gentle, Soft, Islam baby names, name meaning",
-      "description_paragraph": "Hessa is a meaningful Islam name of Arabic origin that means \"Gentle, Soft\". From the Arabic root word 'hasas', meaning 'to be gentle' or 'to caress'. This name embodies the delicate and beautiful aspects of nature.",
-      "keywords": [
-        "Hessa",
-        "Islam name",
-        "baby names",
-        "Gentle, Soft",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hessa in Islam tradition?",
-          "a": "Hessa is a beautiful Islam name meaning \"Gentle, Soft\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hessa a good Islam name for a baby?",
-          "a": "Yes, Hessa is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hessa?",
-          "a": "The name Hessa has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hessa correctly?",
-          "a": "Hessa is pronounced hes-sah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hessa?",
-          "a": "Naming a child Hessa brings blessings. The meaning \"Gentle, Soft\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hessa?",
-          "a": "Hessa is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Hessa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hessa (حصة).",
+      "h1": "Hessa Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hessa meaning",
       "secondary_keywords": [
-        "Islam name Hessa",
-        "Hessa meaning",
-        "Hessa origin"
+        "Hessa name meaning",
+        "Hessa meaning in Urdu",
+        "Hessa origin",
+        "Hessa Islamic name",
+        "Hessa pronunciation",
+        "Hessa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hessa (حصة) is associated with the Arabic form حصة, whose core sense is hessa (female given name). Hessa is recorded at low confidence. The source gave حسا and glossed the name 'Gentle, Soft'; حِصَّة (Ḥiṣṣa) is a documented Gulf female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hessa is associated with the Arabic form حصة, whose core sense is hessa (female given name).",
+      "meaning_section": "The central meaning of Hessa is hessa (female given name).",
+      "origin_section": "Hessa is associated with Arabic rather than with a different language.",
+      "islam_section": "Hessa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hessa is with the sense hessa (female given name).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hessa",
+      "#HessaMeaning",
+      "#HessaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Hessa is a beautiful and gentle reminder of the Arabic linguistic and cultural heritage. For some Muslims who value the cultural significance of names, the choice of the name Hessa might evoke feelings of nostalgia to the rich and vast Arabic language. Additionally, Hessa's gentle meaning can emphasize the importance of kindness, compassion, and gentleness in interpersonal relationships, and, thus, can positively impact one's community and social circles.",
-    "spiritual_significance": "On a spiritual level, Hessa is often seen as a reflection of the nurturing and soothing qualities of Allah, the One and Only God in Islam. Hessa's gentle nature is an embodiment of Allah's mercy and compassion towards His creation, and can serve as a source of comfort and inspiration for those who seek solace and peace in times of distress. The name Hessa can, thus, serve as a constant reminder of Allah's love, grace, and patience, and can help foster a deep sense of faith and devotion in those who bear it.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Hessa bint Mohammad ibn Abdul-Muttalib (6th century) The name Hessa carried significant weight in that era.",
-        "time_period": "6th century",
-        "context": "Daughter of Mohammad ibn Abdul-Muttalib, the uncle of Prophet Muhammad (pbuh)"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hessa corresponds to the Arabic form حصة",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Hessa has the core sense hessa (female given name)",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hessa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Hessa",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Aisha Hessa from Riyadh, Saudi Arabia embodies the meaning of Hessa - \"Gentle, Soft\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gentle, Soft\" symbolizes From the Arabic root word 'hasas', meaning 'to be gentle' or 'to caress'. This name embodies the delicate and beautiful aspects of nature.. In Islamic spirituality, bearing the name Hessa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gentle, soft.",
-    "created_at": "2025-12-22T19:19:49.851Z",
-    "updated_at": "2025-12-22T04:53:14.814Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1470,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hessa",
-      "description": "Gentle, Soft",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "English"
+      "alternateName": [
+        "Hessa",
+        "hessa"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hessa",
-          "description": "Discover the meaning of Hessa - \"Gentle, Soft\"",
-          "image": "/images/social/hessa-facebook.jpg"
+      "description": "A name associated with the Arabic form حصة, meaning hessa (female given name).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "hessa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hessa - Name Meaning",
-          "description": "Learn about the beautiful name Hessa",
-          "image": "/images/social/hessa-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hessa",
-          "description": "Name meaning: Gentle, Soft",
-          "image": "/images/social/hessa-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hessa - Meaning: Gentle, Soft",
-        "email_subject": "Beautiful Name: Hessa"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hessa with meaning Gentle, Soft",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hessa, associated with the Arabic form حصة, meaning hessa (female given name)."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

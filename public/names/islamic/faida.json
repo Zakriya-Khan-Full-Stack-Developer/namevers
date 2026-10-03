@@ -3,276 +3,481 @@
   "data": {
     "name": "Faida",
     "slug": "faida",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gain, Profit, Success",
-    "long_meaning": "Someone who gains or profits in various aspects of life",
-    "spiritual_meaning": "Represents the blessings and abundance granted by Allah",
-    "emotional_traits": [
-      "Determined",
-      "Focused",
-      "Ambitious"
-    ],
-    "hidden_personality_traits": [
-      "Resourceful",
-      "Adaptable",
-      "Resilient"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-expression, and Communication",
-    "in_arabic": {
-      "name": "فائدة",
-      "meaning": "المَنفعت، النفع، المَصلحة",
-      "long_meaning": "المُصطلح في الفقه الإسلامي، يُرمز إلى الفائدة التي تُحصل من الصدقة والخيرات، ويتصل بالتفسير، حيث يُستخدم في سورة البقرة، الآية 262، ويُعتبر مصدرًا للفعل فاءَضَ، بمعنى النفع أو المصلحة، وهو ما يُؤكد على أهمية التبرع والخير في الإسلام، ويتسم بالإيجابية والتفاؤل، ويُشير إلى الفائدة التي تُحصل من التطوع والصالح."
+    "identity": {
+      "display_name": "Faida",
+      "normalized_name": "faida",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faida",
+        "faida"
+      ],
+      "search_variants": [
+        "Faida",
+        "faida"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فائده",
-      "meaning": "مصطلح فی فقہ اسلام، ہِدایات کا نتیجہ",
-      "long_meaning": "اسلامی فقہ میں استعمال ہونے والا مفہوم ہے، صدقات و خیرات سے حاصل ہونے والی فائدے کا نام ہے، قرآن کے مختلف آیتوں میں استعمال کیا جا سکتا ہے، جیسے سورة البقره ۔آیت 262، اس کا اشتقاق فاءض سے ہوتا ہے، جس کا مطلب ہوتا ہے کہ نفع یا فائدہ، یہ اسلام میں تبرع اور خیر کے اہمیت کو ظاہر کرتا ہے، مثبت اور حوصلہ افزا ہے، اور یہ سچ ہے کہ اس سے حصول ہوتی ہے جب کہ انسان طوعی اور صالحی کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Gain, profit, success",
+      "primary_meaning": "Gain",
+      "secondary_meanings": [
+        "profit",
+        "success"
+      ],
+      "literal_meaning": "Gain",
+      "extended_meaning": "Gain, profit, success",
+      "meaning_explanation": "Faida corresponds to the Arabic form فائدة (ف ي د). Its core sense is gain, profit, success. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फायदा",
-      "meaning": "इस्लामी कानून में शब्द, लाभ, लाभ",
-      "long_meaning": "इस्लामी कानून में इस्तेमाल किया जाने वाला शब्द है, जो सदका और खैरात से प्राप्त होने वाले लाभ का नाम है, कुरआन के विभिन्न आयतों में इसका उपयोग किया जा सकता है, जैसे कि सूरह अल-बकरा, आयत 262, इसका उत्पत्ति फादा से होता है, जिसका अर्थ है लाभ या लाभ, यह इस्लाम में तबरा और खैर के महत्व को दर्शाता है, सकारात्मक और प्रेरक है, और यह सच है कि जब कोई व्यक्ति ताउत और सतही काम करता है तो वह इसे प्राप्त करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فائدة",
+      "transliteration": "faida",
+      "romanization": "faida",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gain",
+        "profit",
+        "success"
+      ],
+      "etymology_explanation": "The form فائدة is an established Arabic lexical item. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فائده",
-      "meaning": "مصطلح د اسلامي حقوق، ګټه",
-      "long_meaning": "د اسلامي حقوق په کچه په څرګندوييده گړی ده، چې په دې معنی ده، چې د صدقې او نیکماليو له ګټه اخيستل شوی وړاندي، د قرآن کریم په کچه هم په دې معنا څرګندويه شوی ده، څرنګه چې د سورة البقرې په آيت 262 کې، دا د فائدې مفهوم په اسلامي حقوق کې د تبرع او نیکماليو اړتيا او اېښودنه راڅرګندوي، په دې معنی چې دا د انسان د نیکماليو او تبرع له لارې د الهيو اړتيا په پوره کول سره نږدې اړتيا لري، چې په دې کچه د انسان د ګټې په لاس ورکول سره د نیکماليو او تبرع اړتيا رامینځته کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فائدة is an established Arabic form.",
+        "Urdu": "فائدہ is used in Urdu.",
+        "Hindi": "फ़ाइदा is used in Hindi.",
+        "Pashto": "فائده is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Faida",
-      "meaning": "Islamic law term, benefit, advantage, profit, gain",
-      "long_meaning": "Faida is a term used in Islamic jurisprudence, referring to the benefit or advantage derived from acts of charity and good deeds, as mentioned in the Quran, such as in Surah Al-Baqarah, Verse 262, indicating the importance of charity and good deeds in Islam, conveying a positive and encouraging message, emphasizing the idea that through acts of charity and good deeds, one can obtain this benefit or advantage, aligning with Islamic teachings on the value of kindness and generosity."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فائدة. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faida may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gain, profit, success.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gain",
+      "related_concepts": [
+        "gain",
+        "profit",
+        "success"
+      ],
+      "semantic_relationship": "The central semantic idea is gain; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gain.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gain",
+        "Profit",
+        "Success"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faida",
+        "meaning": "Gain, profit, success",
+        "long_meaning": "Faida is a Arabic-origin name. Its core meaning is gain, profit, success. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فائدہ",
+        "meaning": "نفع، فائدہ، کامیابی",
+        "long_meaning": "Faida (فائدہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نفع، فائدہ، کامیابی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ाइदा",
+        "meaning": "लाभ, फ़ायदा, सफलता",
+        "long_meaning": "Faida (फ़ाइदा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ लाभ, फ़ायदा, सफलता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فائده",
+        "meaning": "ګټه، فایده، بریا",
+        "long_meaning": "Faida (فائده) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ګټه، فایده، بریا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فائدة",
+        "meaning": "الفائدة، الربح، النجاح",
+        "long_meaning": "Faida (فائدة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفائدة، الربح، النجاح. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈfɑɪdɑː/",
-      "urdu": " اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈfaɪdə/"
+      "romanized": "fai-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فائدہ",
+      "persian": null,
+      "hindi": "फ़ाइदा",
+      "pashto": "فائده"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FaidaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faida"
-    ],
-    "name_variations": [],
-    "popularity_score": 76,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faida",
+        "faida"
+      ],
+      "script_variants": [
+        "فائدة",
+        "فائده",
+        "فائدہ",
+        "फ़ाइदा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فائدة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faida can be understood through the Arabic form فائدة, whose central sense is gain, profit, success. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Faida mean?",
+        "answer": "Faida is associated with the Arabic form فائدة, whose core sense is gain, profit, success."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Faida?",
+        "answer": "Faida is associated with Arabic. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 68,
-        "year": 2024
+        "question": "Is Faida an Arabic name?",
+        "answer": "Yes — the underlying form فائدة is Arabic."
+      },
+      {
+        "question": "Is Faida an Islamic name?",
+        "answer": "Faida can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Faida a Quranic name?",
+        "answer": "Faida should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faida mean in Urdu?",
+        "answer": "In Urdu, Faida is rendered فائدہ and carries the sense نفع، فائدہ، کامیابی."
+      },
+      {
+        "question": "What does Faida mean in Persian?",
+        "answer": "No verified Persian form was established for Faida."
+      },
+      {
+        "question": "How is Faida pronounced?",
+        "answer": "A romanized syllable approximation is fai-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faida?",
+        "answer": "Romanization variants include Faida, faida. Script forms are فائدة, فائده, فائدہ, फ़ाइदा."
+      },
+      {
+        "question": "Is Faida a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faida Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faida, a beautiful Islam name meaning \"Gain, Profit, Success\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faida, Islam name, baby names, Gain, Profit, Success, Islam baby names, name meaning",
-      "description_paragraph": "Faida is a meaningful Islam name of Arabic origin that means \"Gain, Profit, Success\". Someone who gains or profits in various aspects of life",
-      "keywords": [
-        "Faida",
-        "Islam name",
-        "baby names",
-        "Gain, Profit, Success",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faida in Islam tradition?",
-          "a": "Faida is a beautiful Islam name meaning \"Gain, Profit, Success\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faida a good Islam name for a baby?",
-          "a": "Yes, Faida is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faida?",
-          "a": "The name Faida has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faida correctly?",
-          "a": "Faida is pronounced /ˈfɑɪdɑː/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faida?",
-          "a": "Naming a child Faida brings blessings. The meaning \"Gain, Profit, Success\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faida?",
-          "a": "Faida is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Faida Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faida (فائدة).",
+      "h1": "Faida Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faida meaning",
       "secondary_keywords": [
-        "Islam name Faida",
-        "Faida meaning",
-        "Faida origin"
+        "Faida name meaning",
+        "Faida meaning in Urdu",
+        "Faida origin",
+        "Faida Islamic name",
+        "Faida pronunciation",
+        "Faida name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faida (فائدة) is associated with the Arabic form فائدة, whose core sense is gain, profit, success. Fāʾida ('benefit, advantage, profit'). The source record's gloss 'Gain, Profit, Success' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faida is associated with the Arabic form فائدة, whose core sense is gain, profit, success.",
+      "meaning_section": "The central meaning of Faida is gain, profit, success.",
+      "origin_section": "Faida is associated with Arabic rather than with a different language.",
+      "islam_section": "Faida can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faida is with the sense gain.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faida",
+      "#FaidaMeaning",
+      "#FaidaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Faida\" holds a significant cultural impact, especially in the Islamic community, representing the idea of being successful and prosperous in all aspects of life. It encourages the pursuit of knowledge, hard work, and perseverance as keys to achieving personal gains and contributing to society. In a broader sense, the name symbolizes the socio-economic advancement and progress of individuals and communities within the Islamic world.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Faida\" holds a deep meaning rooted in the teachings of the Islamic faith. The word \"faida\" itself comes from the Arabic root \"f-d-d,\" which means \"to recompense, return, or afford.\" This spiritual significance emphasizes the importance of giving and receiving, whether it is in the context of acting kindly towards others or striving for personal growth and enlightenment. By drawing on the idea of recompense and profit, the name encourages individuals to reflect on the rewards and benefits of their actions, both in this world and in the hereafter. In essence, the name \"Faida\" underscores the interconnectedness of our actions and the consequences they yield, both spiritually and materially, ultimately promoting a holistic approach to personal growth and spiritual development.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Faida carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faida corresponds to the Arabic form فائدة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Faida has the core sense gain, profit, success",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faida remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Faida",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Fatima Faida, a teacher in Riyadh, Saudi Arabia, shares that their name Faida meaning \"Gain, Profit, Success\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Gain, Profit, Success\" symbolizes Someone who gains or profits in various aspects of life. In Islamic spirituality, bearing the name Faida serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gain, profit, success.",
-    "created_at": "2025-12-22T19:19:49.85Z",
-    "updated_at": "2025-12-22T04:53:14.781Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1100,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faida",
-      "description": "Gain, Profit, Success",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Faida",
+        "faida"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faida",
-          "description": "Discover the meaning of Faida - \"Gain, Profit, Success\"",
-          "image": "/images/social/faida-facebook.jpg"
+      "description": "A name associated with the Arabic form فائدة, meaning gain, profit, success.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "faida",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Faida - Name Meaning",
-          "description": "Learn about the beautiful name Faida",
-          "image": "/images/social/faida-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Faida",
-          "description": "Name meaning: Gain, Profit, Success",
-          "image": "/images/social/faida-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faida - Meaning: Gain, Profit, Success",
-        "email_subject": "Beautiful Name: Faida"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faida with meaning Gain, Profit, Success",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faida, associated with the Arabic form فائدة, meaning gain, profit, success."
     },
-    "similar_sounding_names": [
-      "firoz",
-      "farisha",
-      "fadi",
-      "faekah",
-      "fardeen",
-      "fakeehah",
-      "faiyaz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

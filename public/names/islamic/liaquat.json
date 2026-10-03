@@ -3,277 +3,482 @@
   "data": {
     "name": "Liaquat",
     "slug": "liaquat",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Helper, Supporter",
-    "long_meaning": "One who helps and supports, derived from the Arabic root letters l-q-w which mean 'to help' or 'to aid'. In Islamic history, Liaquat was the title given to various political and military leaders who served as supporters and helpers of the Prophet Muhammad (pbuh) and the Muslim community.",
-    "spiritual_meaning": "Symbolizes selflessness and commitment to helping others in need.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Those with the name Liaquat are creative, enthusiastic, and imaginative, with a strong desire to express themselves and their ideas. They are natural problem solvers and are often drawn to careers that involve helping others or creative expression.",
-    "in_arabic": {
-      "name": "لياقت",
-      "meaning": "رجل متميز بأخلاق طيبة",
-      "long_meaning": "لياقت هو اسم علم عربي يرمز إلى شخصية رائعة، يوصف بالشجاعة، والصبر، والسماحة، والمروءة، ويحمل إلهامًا لتكون الشخصية الكريمة، ومحفزًا للتحلي بالخير، ويعد اسمًا مناسبًا لتلك الشخصيات التي تتميز بالحكمة، والفكر، والتطوع، في إطار الإسلام، يُعتبر اسم لياقت من الأسماء الشريفة التي تحمل المعنى العالي"
+    "identity": {
+      "display_name": "Liaquat",
+      "normalized_name": "liaquat",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Liaquat",
+        "liaquat"
+      ],
+      "search_variants": [
+        "Liaquat",
+        "liaquat"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "لیاقت",
-      "meaning": "ایک کردار کی خوبیوں سے مشہور شخص",
-      "long_meaning": "لیاقت ایک نام ہے جو اسلام میں اچھی اخلاقیات، شجاعت، صبر، سماحت اور مروٰہی کے معنی میں آتا ہے۔ یہ نام ایک کردار کی خوبیوں کو ظاہر کرنے کے لیے دیا گیا ہے، ایک ایسا کردار جو اپنی اچھی اخلاقیات، فہم و خرد اور مروٰہیت کے باعث لوگوں کے دل میں محبوب ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Fitness, competence, ability",
+      "primary_meaning": "Fitness",
+      "secondary_meanings": [
+        "competence",
+        "ability"
+      ],
+      "literal_meaning": "Fitness",
+      "extended_meaning": "Fitness, competence, ability",
+      "meaning_explanation": "Liaquat corresponds to the Arabic form لياقة (Arabic root ل ي ق (l-y-q); لِيَاقَة (Liyāqa)). Its core sense is fitness, competence, ability. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "लियाकत",
-      "meaning": "एक अच्छे चरित्र का व्यक्ति",
-      "long_meaning": "लियाकत नाम एक अच्छे चरित्र का प्रतीक है, जो शौर्य, धैर्य, सज्जनता, और मारूवाद के गुणों से भरपूर होता है। यह नाम उन लोगों के लिए उपयुक्त है, जो मारूवाद और अच्छे व्यवहार के लिए प्रसिद्ध हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "لياقة",
+      "transliteration": "liaquat",
+      "romanization": "liaquat",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Fitness",
+        "competence",
+        "ability"
+      ],
+      "etymology_explanation": "The form لياقة is an established Arabic lexical item. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "لياقت",
-      "meaning": "يوه کسي چاريتريزه",
-      "long_meaning": "لياقت نوم يوه کسي چاريتريزه ده چي په افغانستان او پښتنو Culture کي په لوست کيدای شي، لياقت دا کسي چاريتريزه ده چي په خپل ځان کي د شجاعت، د صبر، د سماحتي او د مروېدو ځانګړي ځايونه ولري، په داسې حال کي چي دا کسي چاريتريزه ده چي په خپل ځان کي د شجاعت، د صبر، د سماحتي او د مروېدو ځانګړي ځايونه لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "لياقة is an established Arabic form.",
+        "Urdu": "لیاقت is used in Urdu.",
+        "Persian": "لیاقت is an established Persian form.",
+        "Hindi": "लियाक़त is used in Hindi.",
+        "Pashto": "لیاقت is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Liaquat",
-      "meaning": "a person with good character, courage, patience, generosity, and mercy",
-      "long_meaning": "Liaquat is a name that signifies a person of great character, known for their bravery, patience, generosity, and mercy. It is a name that inspires people to be kind, compassionate, and generous, and is considered a noble name in Islamic tradition. The name Liaquat is derived from the Arabic root 'li-qat', which means 'to be worthy of' or 'to be deserving of'. It is a name that is associated with good character, wisdom, and spiritual growth, and is considered a suitable name for those who embody these qualities."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form لياقة. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Liaquat may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense fitness, competence, ability.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fitness",
+      "related_concepts": [
+        "fitness",
+        "competence",
+        "ability"
+      ],
+      "semantic_relationship": "The central semantic idea is fitness; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of fitness.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Fitness",
+        "Competence",
+        "Ability"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Liaquat",
+        "meaning": "Fitness, competence, ability",
+        "long_meaning": "Liaquat is a Arabic-origin name. Its core meaning is fitness, competence, ability. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat."
+      },
+      "urdu": {
+        "name": "لیاقت",
+        "meaning": "لیاقت، قابلیت، اہلیت",
+        "long_meaning": "Liaquat (لیاقت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لیاقت، قابلیت، اہلیت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "لیاقت",
+        "meaning": "لیاقت، شایستگی، توانایی",
+        "long_meaning": "Liaquat (لیاقت) نامی برگرفته از زبان عربی است و معنای اصلی آن لیاقت، شایستگی، توانایی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "लियाक़त",
+        "meaning": "योग्यता, लियाक़त, क़ाबलियत",
+        "long_meaning": "Liaquat (लियाक़त) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ योग्यता, लियाक़त, क़ाबलियत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "لیاقت",
+        "meaning": "لیاقت، وړتیا، قابلیت",
+        "long_meaning": "Liaquat (لیاقت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لیاقت، وړتیا، قابلیت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "لياقة",
+        "meaning": "اللياقة، الكفاءة، الأهلية",
+        "long_meaning": "Liaquat (لياقة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي اللياقة، الكفاءة، الأهلية. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "li-AH-kat",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈliː.ɑː.kət/"
+      "romanized": "lia-quat",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "لیاقت",
+      "persian": "لیاقت",
+      "hindi": "लियाक़त",
+      "pashto": "لیاقت"
     },
-    "celebrity_usage": [
-      "Liaquat Ali Khan"
-    ],
-    "social_tags": [
-      "#LiaquatMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Liaquat"
-    ],
-    "name_variations": [],
-    "popularity_score": 42,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Liaquat",
+        "liaquat"
+      ],
+      "script_variants": [
+        "لياقة",
+        "لیاقت",
+        "लियाक़त"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form لياقة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Liaquat can be understood through the Arabic form لياقة, whose central sense is fitness, competence, ability. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 92,
-        "year": 2024
+        "question": "What does Liaquat mean?",
+        "answer": "Liaquat is associated with the Arabic form لياقة, whose core sense is fitness, competence, ability."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 87,
-        "year": 2024
+        "question": "What is the origin of Liaquat?",
+        "answer": "Liaquat is associated with Arabic. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 90,
-        "year": 2024
+        "question": "Is Liaquat an Arabic name?",
+        "answer": "Yes — the underlying form لياقة is Arabic."
+      },
+      {
+        "question": "Is Liaquat an Islamic name?",
+        "answer": "Liaquat can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Liaquat a Quranic name?",
+        "answer": "Liaquat should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Liaquat mean in Urdu?",
+        "answer": "In Urdu, Liaquat is rendered لیاقت and carries the sense لیاقت، قابلیت، اہلیت."
+      },
+      {
+        "question": "What does Liaquat mean in Persian?",
+        "answer": "In Persian, Liaquat is rendered لیاقت and carries the sense لیاقت، شایستگی، توانایی."
+      },
+      {
+        "question": "How is Liaquat pronounced?",
+        "answer": "A romanized syllable approximation is lia-quat. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Liaquat?",
+        "answer": "Romanization variants include Liaquat, liaquat. Script forms are لياقة, لیاقت, लियाक़त."
+      },
+      {
+        "question": "Is Liaquat a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Liaquat Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Liaquat, a beautiful Islam name meaning \"Helper, Supporter\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Liaquat, Islam name, baby names, Helper, Supporter, Islam baby names, name meaning",
-      "description_paragraph": "Liaquat is a meaningful Islam name of Arabic origin that means \"Helper, Supporter\". One who helps and supports, derived from the Arabic root letters l-q-w which mean 'to help' or 'to aid'. In Islamic history, Liaquat was the title given to various political and military leaders who served as supporters and helpers of the Prophet Muhammad (pbuh) and the Muslim community.",
-      "keywords": [
-        "Liaquat",
-        "Islam name",
-        "baby names",
-        "Helper, Supporter",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Liaquat in Islam tradition?",
-          "a": "Liaquat is a beautiful Islam name meaning \"Helper, Supporter\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Liaquat a good Islam name for a baby?",
-          "a": "Yes, Liaquat is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Liaquat?",
-          "a": "The name Liaquat has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Liaquat correctly?",
-          "a": "Liaquat is pronounced li-AH-kat in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Liaquat?",
-          "a": "Naming a child Liaquat brings blessings. The meaning \"Helper, Supporter\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Liaquat?",
-          "a": "Liaquat is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Liaquat Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Liaquat (لياقة).",
+      "h1": "Liaquat Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Liaquat meaning",
       "secondary_keywords": [
-        "Islam name Liaquat",
-        "Liaquat meaning",
-        "Liaquat origin"
+        "Liaquat name meaning",
+        "Liaquat meaning in Urdu",
+        "Liaquat origin",
+        "Liaquat Islamic name",
+        "Liaquat pronunciation",
+        "Liaquat name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Liaquat (لياقة) is associated with the Arabic form لياقة, whose core sense is fitness, competence, ability. Liaquat is Arabic لِيَاقَة (Liyāqa) 'fitness, competence, ability', from the root ل ي ق (l-y-q); the form لِيَاقَت is the Persian/Urdu rendering. The source gloss 'Helper, Supporter' is unsupported and has been replaced with the lexical sense. Same name as liaqat.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Liaquat is associated with the Arabic form لياقة, whose core sense is fitness, competence, ability.",
+      "meaning_section": "The central meaning of Liaquat is fitness, competence, ability.",
+      "origin_section": "Liaquat is associated with Arabic rather than with a different language.",
+      "islam_section": "Liaquat can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Liaquat is with the sense fitness.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Liaquat",
+      "#LiaquatMeaning",
+      "#LiaquatName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Liaquat holds significant cultural importance in Islamic history, as it was used to refer to revered leaders and figures who provided support and aid to the Muslim community during times of turmoil and conflict. One such leader was Liaquat Ali Khan, the first Prime Minister of Pakistan, who is remembered for his dedication to serving the needs of his people and strengthening the newly-established country.",
-    "spiritual_significance": "On a deeper level, the name Liaquat underscores the importance of brotherhood, support, and solidarity in the Islamic community. It is a reminder of the belief in collective responsibility and the duty to help and uplift one another, as emphasized in the Quran: \"And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you and that which He has brought down to you of the scarce water; and strive with that which Allah has provided for you of means of transport, horses, donkeys and mules.\" (3:103) Thus, the name Liaquat serves as a continuous reminder of the spiritual significance of helping and supporting one another, both in times of need and in daily life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Liaquat Ali Khan served as the first Prime Minister of Pakistan from 1947 until his assassination in 1951. He was a key figure in Pakistan's struggle for independence from British rule and was a strong advocate for a separate Muslim state. In his role as Prime Minister, he worked to establish Pakistan's national identity and to build a strong and stable government.",
-        "time_period": "1947-1951",
-        "context": "Independence of Pakistan and early government building"
-      },
-      {
-        "reference": "Liaquat Ali Khan was also a close ally of Muhammad Ali Jinnah, the founder of Pakistan. Together, they led the Muslim League, which advocated for a separate Muslim state in British India. In the late 1940s, as the British began to withdraw from India, Liaquat Ali Khan played a crucial role in negotiating the terms of Pakistan's independence and in organizing the new government.",
-        "time_period": "Late 1940s",
-        "context": "Pakistan's struggle for independence"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Politics, Business, Education"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Liaquat corresponds to the Arabic form لياقة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Liaquat has the core sense fitness, competence, ability",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Facebook, LinkedIn, Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Liaquat is of Arabic origin and means 'helpful'. In the modern context, it is a common name in Pakistan and other Muslim countries. In the political sphere, Liaquat Ali Khan was the first Prime Minister of Pakistan, serving from 1947 to 1951. In the business world, there are several notable individuals with this name, such as Liaquat Ali Lucky, a prominent businessman in Pakistan. In the educational sector, there are numerous schools and universities named after Liaquat Ali Khan in Pakistan and other countries. The name Liaquat is also seen on various social media platforms, including Facebook, LinkedIn, and Twitter, where individuals with this name connect with others and share information and updates related to their personal and professional lives."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Liaquat",
-      "location": "Istanbul, Turkey",
-      "story": "Ibrahim Liaquat from Istanbul, Turkey embodies the meaning of Liaquat - \"Helper, Supporter\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Helper, Supporter\" symbolizes One who helps and supports, derived from the Arabic root letters l-q-w which mean 'to help' or 'to aid'. In Islamic history, Liaquat was the title given to various political and military leaders who served as supporters and helpers of the Prophet Muhammad (pbuh) and the Muslim community.. In Islamic spirituality, bearing the name Liaquat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of helper, supporter.",
-    "created_at": "2025-12-22T19:19:50.327Z",
-    "updated_at": "2025-12-22T04:53:15.865Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1565,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Liaquat",
-      "description": "Helper, Supporter",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Liaquat",
+        "liaquat"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Liaquat",
-          "description": "Discover the meaning of Liaquat - \"Helper, Supporter\"",
-          "image": "/images/social/liaquat-facebook.jpg"
+      "description": "A name associated with the Arabic form لياقة, meaning fitness, competence, ability.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "liaquat",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Liaquat - Name Meaning",
-          "description": "Learn about the beautiful name Liaquat",
-          "image": "/images/social/liaquat-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Liaquat",
-          "description": "Name meaning: Helper, Supporter",
-          "image": "/images/social/liaquat-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Liaquat - Meaning: Helper, Supporter",
-        "email_subject": "Beautiful Name: Liaquat"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Liaquat with meaning Helper, Supporter",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Liaquat, associated with the Arabic form لياقة, meaning fitness, competence, ability."
     },
-    "similar_sounding_names": [
-      "leyla"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

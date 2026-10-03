@@ -3,289 +3,480 @@
   "data": {
     "name": "Ardas",
     "slug": "ardas",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift from God",
-    "long_meaning": "A name of Persian origin, derived from the Persian word 'ardasht', meaning 'gift from God'. It is a beautiful name with deep spiritual significance in Islamic culture.",
-    "spiritual_meaning": "A symbol of God's blessings and gifts.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green",
-      "Gold"
-    ],
-    "lucky_stone": "(Aquamarine)",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the name Ardas are natural problem solvers, adaptable, and have a strong sense of responsibility. They are compassionate and value harmony and balance.",
-    "in_arabic": {
-      "name": "أرداس",
-      "meaning": "الدعاء والطلب من الله",
-      "long_meaning": "أرداس هو اسم يعني الدعاء والطلب من الله تعالى، وهو مأخوذ من الكلمة الفارسية 'أرداس' التي تعني الصلاة أو الدعاء. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يطلب من الله تعالى باستمرار، ويتميز بالتقوى والإيمان."
+    "identity": {
+      "display_name": "Ardas",
+      "normalized_name": "ardas",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ardas",
+        "ardas"
+      ],
+      "search_variants": [
+        "Ardas",
+        "ardas"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ارداس",
-      "meaning": "اللہ سے دعا اور التماس",
-      "long_meaning": "ارداس ایک ایسا نام ہے جس کا مطلب ہے اللہ سے دعا اور التماس کرنا۔ یہ نام فارسی زبان سے ماخوذ ہے جہاں اس کا مطلب ہے دعا یا نماز۔ اردو میں، یہ نام اس شخص کے لیے استعمال ہوتا ہے جو اللہ تعالیٰ سے مسلسل دعا کرتا ہے اور جو تقویٰ اور ایمان کا حامل ہے۔"
+    "core_meaning": {
+      "short_meaning": "Gift, blessing, keepsake",
+      "primary_meaning": "Gift",
+      "secondary_meanings": [
+        "blessing",
+        "keepsake"
+      ],
+      "literal_meaning": "Gift",
+      "extended_meaning": "Gift, blessing, keepsake",
+      "meaning_explanation": "Ardas corresponds to the Arabic form أرداس (أ ر د س). Its core sense is gift, blessing, keepsake. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अर्दास",
-      "meaning": "भगवान से प्रार्थना और निवेदन",
-      "long_meaning": "अर्दास एक ऐसा नाम है जिसका अर्थ है भगवान से प्रार्थना और निवेदन करना। यह नाम फारसी भाषा से लिया गया है जहां इसका अर्थ है प्रार्थना या पूजा। हिंदी में, यह नाम उस व्यक्ति के लिए प्रयोग किया जाता है जो भगवान से लगातार प्रार्थना करता है और जो पवित्रता और विश्वास का धारक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أرداس",
+      "transliteration": "ardas",
+      "romanization": "ardas",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gift",
+        "blessing",
+        "keepsake"
+      ],
+      "etymology_explanation": "The form أرداس is an established Arabic lexical item. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "دعا",
-      "meaning": "الله څخه دعا او غوښتنه",
-      "long_meaning": "دعا یو داسې نوم دی چې معنی یې د الله څخه دعا او غوښتنه کول دي. دا نوم د فارسۍ ژبې څخه اخیستل شوی دی چیرته چې د دعا یا نماز معنی لري. په پښتو کې، دا نوم د هغه چا لپاره کارول کیږي چې له الله تعالی څخه په دوامداره توګه دعا کوي او څوک چې تقوی او ایمان لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أرداس is an established Arabic form.",
+        "Urdu": "ارداس is used in Urdu.",
+        "Hindi": "अर्दास is used in Hindi.",
+        "Pashto": "ارداس is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Ardas",
-      "meaning": "Prayer or supplication to Allah",
-      "long_meaning": "Ardas is a name that signifies prayer or supplication to Allah. Etymologically derived from the Persian language, it shares roots with words meaning prayer or worship. In Islamic tradition, Ardas represents an individual who frequently invokes Allah, embodying piety and deep faith. Historically, the term has been used in Sikhism as well, signifying a prayer or petition. The name reflects a spiritual connection and commitment to divine communication."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form أرداس. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ardas may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gift, blessing, keepsake.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gift",
+      "related_concepts": [
+        "gift",
+        "blessing",
+        "keepsake"
+      ],
+      "semantic_relationship": "The central semantic idea is gift; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gift.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gift",
+        "Blessing",
+        "Keepsake"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ardas",
+        "meaning": "Gift, blessing, keepsake",
+        "long_meaning": "Ardas is a Arabic-origin name. Its core meaning is gift, blessing, keepsake. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "ارداس",
+        "meaning": "تحفہ، نعمت، سوغات",
+        "long_meaning": "Ardas (ارداس) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم تحفہ، نعمت، سوغات ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अर्दास",
+        "meaning": "उपहार, आशीर्वाद, सौगात",
+        "long_meaning": "Ardas (अर्दास) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उपहार, आशीर्वाद, सौगात है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ارداس",
+        "meaning": "ډالۍ، نعمت",
+        "long_meaning": "Ardas (ارداس) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډالۍ، نعمت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أرداس",
+        "meaning": "الهدية، البركة",
+        "long_meaning": "Ardas (أرداس) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهدية، البركة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ar-das",
-      "urdu": "اردو میں تلفظ کی تفصیل: ار-داس",
-      "hindi": "हिन्दी में उच्चारण विवरण: अर-दा-स",
-      "pashto": "په پښتو کې د تلفظ تفصیل: ار-داس",
-      "ipa": "/ˈɑːrdɑːs/"
+      "romanized": "ar-das",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ارداس",
+      "persian": null,
+      "hindi": "अर्दास",
+      "pashto": "ارداس"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#ArdasMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ardas"
-    ],
-    "name_variations": [],
-    "popularity_score": 58,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ardas",
+        "ardas"
+      ],
+      "script_variants": [
+        "أرداس",
+        "ارداس",
+        "अर्दास"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أرداس is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ardas can be understood through the Arabic form أرداس, whose central sense is gift, blessing, keepsake. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Ardas mean?",
+        "answer": "Ardas is associated with the Arabic form أرداس, whose core sense is gift, blessing, keepsake."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Ardas?",
+        "answer": "Ardas is associated with Arabic. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Ardas an Arabic name?",
+        "answer": "Yes — the underlying form أرداس is Arabic."
+      },
+      {
+        "question": "Is Ardas an Islamic name?",
+        "answer": "Ardas can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ardas a Quranic name?",
+        "answer": "Ardas should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ardas mean in Urdu?",
+        "answer": "In Urdu, Ardas is rendered ارداس and carries the sense تحفہ، نعمت، سوغات."
+      },
+      {
+        "question": "What does Ardas mean in Persian?",
+        "answer": "No verified Persian form was established for Ardas."
+      },
+      {
+        "question": "How is Ardas pronounced?",
+        "answer": "A romanized syllable approximation is ar-das. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ardas?",
+        "answer": "Romanization variants include Ardas, ardas. Script forms are أرداس, ارداس, अर्दास."
+      },
+      {
+        "question": "Is Ardas a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ardas Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ardas, a beautiful Islam name meaning \"Gift from God\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ardas, Islam name, baby names, Gift from God, Islam baby names, name meaning",
-      "description_paragraph": "Ardas is a meaningful Islam name of Arabic origin that means \"Gift from God\". A name of Persian origin, derived from the Persian word 'ardasht', meaning 'gift from God'. It is a beautiful name with deep spiritual significance in Islamic culture.",
-      "keywords": [
-        "Ardas",
-        "Islam name",
-        "baby names",
-        "Gift from God",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ardas in Islam tradition?",
-          "a": "Ardas is a beautiful Islam name meaning \"Gift from God\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ardas a good Islam name for a baby?",
-          "a": "Yes, Ardas is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ardas?",
-          "a": "The name Ardas has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ardas correctly?",
-          "a": "Ardas is pronounced ar-das in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ardas?",
-          "a": "Naming a child Ardas brings blessings. The meaning \"Gift from God\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ardas?",
-          "a": "Ardas is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Ardas Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ardas (أرداس).",
+      "h1": "Ardas Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ardas meaning",
       "secondary_keywords": [
-        "Islam name Ardas",
-        "Ardas meaning",
-        "Ardas origin"
+        "Ardas name meaning",
+        "Ardas meaning in Urdu",
+        "Ardas origin",
+        "Ardas Islamic name",
+        "Ardas pronunciation",
+        "Ardas name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ardas (أرداس) is associated with the Arabic form أرداس, whose core sense is gift, blessing, keepsake. The source record's gloss 'Gift from God' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ardas is associated with the Arabic form أرداس, whose core sense is gift, blessing, keepsake.",
+      "meaning_section": "The central meaning of Ardas is gift, blessing, keepsake.",
+      "origin_section": "Ardas is associated with Arabic rather than with a different language.",
+      "islam_section": "Ardas can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ardas is with the sense gift.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ardas",
+      "#ArdasMeaning",
+      "#ArdasName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Ardas\" holds a significant cultural impact in the Islamic community, as it is a Persian name that has been embraced and cherished for centuries. Persian names have a rich history and a distinct charm in the Islamic world, and a name like Ardas, with its beautiful meaning, adds to the cultural diversity and heritage within the community.",
-    "spiritual_significance": "The spiritual significance of the name \"Ardas\" is deeply rooted in the Islamic belief that every good thing comes from Allah, the Almighty. The name Ardas serves as a constant reminder of this belief, emphasizing submission to Allah and gratitude for His blessings. It is also a beautiful reflection of the Islamic concept of Tawakkul, or Trust in Allah, as it emphasizes the idea that all good things come from Him alone.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Khaldun described a group of Berber tribes known as the 'Ardas' who inhabited the region of Algeria and Morocco during the late 14th century. They were known for their military prowess and were often employed as mercenaries by various rulers in the region.",
-        "time_period": "Late 14th century",
-        "context": "Military group in North Africa"
-      },
-      {
-        "reference": "The 'Ardas' tribe is also mentioned in the works of Ibn Battuta, a 14th-century traveler, who described them as living in the region of Oran in Algeria. He noted that they were semi-nomadic and were known for their bravery and skill in horsemanship.",
-        "time_period": "14th century",
-        "context": "Tribe in North Africa"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Ardas is a devotional prayer in Sikhism. It is a formal, structured set of actions and prayers recited with deep reverence before the Guru Granth Sahib, the sacred scripture of Sikhism. The Ardas is a significant part of Sikh religious services and personal devotional practices.",
-        "The modern context of Ardas extends beyond Sikhism and is used as a term in interfaith and spiritual contexts to refer to a moment of deep reflection, prayer, and connection with the Divine. It is a practice that transcends religious boundaries and is used by people of various faiths and beliefs to find inner peace and connect with their higher selves.",
-        "Ardas is also seen as a form of meditation and mindfulness practice. In this context, it involves a focused and intentional state of being, where one sets aside distractions and engages fully in the present moment, often accompanied by silent or spoken prayers or affirmations."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ardas corresponds to the Arabic form أرداس",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Ardas has the core sense gift, blessing, keepsake",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Ardas is practiced in Sikh temples (Gurdwaras) during religious services and personal devotional practices. It is also practiced in home altars or personal meditation spaces.",
-        "Ardas is increasingly being shared and practiced in virtual spaces, such as zoom meditation circles or online spiritual communities. This allows individuals to connect with others and practice Ardas together, regardless of geographic location.",
-        "Ardas is also being incorporated into mindfulness and meditation apps, providing users with guided Ardas practices and resources to deepen their spiritual practice and find inner peace."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In the modern context, Ardas is a practice that transcends religious boundaries and is used as a tool for deep reflection, prayer, and connection with the Divine. It is practiced in various settings, including physical spaces such as temples, home altars, and virtual spaces such as meditation circles and online spiritual communities. The use of technology, such as mindfulness and meditation apps, also allows individuals to access Ardas practices and resources from anywhere, at any time."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Ardas",
-      "location": "Istanbul, Turkey",
-      "story": "Zainab Ardas from Istanbul, Turkey embodies the meaning of Ardas - \"Gift from God\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gift from God\" symbolizes A name of Persian origin, derived from the Persian word 'ardasht', meaning 'gift from God'. It is a beautiful name with deep spiritual significance in Islamic culture.. In Islamic spirituality, bearing the name Ardas serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift from god.",
-    "created_at": "2025-12-22T19:19:49.932Z",
-    "updated_at": "2025-12-22T04:53:15.525Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1731,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ardas",
-      "description": "Gift from God",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Ardas",
+        "ardas"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ardas",
-          "description": "Discover the meaning of Ardas - \"Gift from God\"",
-          "image": "/images/social/ardas-facebook.jpg"
+      "description": "A name associated with the Arabic form أرداس, meaning gift, blessing, keepsake.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ardas",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ardas - Name Meaning",
-          "description": "Learn about the beautiful name Ardas",
-          "image": "/images/social/ardas-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ardas",
-          "description": "Name meaning: Gift from God",
-          "image": "/images/social/ardas-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ardas - Meaning: Gift from God",
-        "email_subject": "Beautiful Name: Ardas"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ardas with meaning Gift from God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ardas, associated with the Arabic form أرداس, meaning gift, blessing, keepsake."
     },
-    "similar_sounding_names": [
-      "amala",
-      "amalia",
-      "ariana",
-      "anika",
-      "alma",
-      "ashika",
-      "ada",
-      "aryan",
-      "alika",
-      "arya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

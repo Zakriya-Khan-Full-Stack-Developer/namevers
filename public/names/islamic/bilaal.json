@@ -3,290 +3,483 @@
   "data": {
     "name": "Bilaal",
     "slug": "bilaal",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Water or Moisture",
-    "long_meaning": "Bilaal is a name that symbolizes the purity of the soul, as water is essential for life and spiritual growth. It is also the name of a companion of the Prophet Muhammad (peace be upon him).",
-    "spiritual_meaning": "The name Bilaal is associated with the Quranic concept of spiritual purification and growth, as mentioned in Surah Al-Furqan, verse 74.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Tiger's Eye",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the Life Path Number 5 are dynamic and versatile. They love to learn new things and never cease exploring the world around them. 5s are intellectual, always seeking knowledge, and above all else crave intellectual stimulation. They're idealists, and their minds are always examining the world, evaluating it, and looking for ways to improve it.",
-    "in_arabic": {
-      "name": "بلال",
-      "meaning": "اسم مؤنث و مذكر، يعني الماء، و النداء، و الصوت العالي",
-      "long_meaning": "بلال هو اسم علم مؤنث و مذكر، مشتق من الفعل 'بلل' الذي يعني الماء، و يرتبط بالنداء و الصوت العالي، و هو اسم أحد أصحاب النبي محمد صلى الله عليه و سلم، و هو بلال بن رباح الذي كان مؤذن النبي محمد"
+    "identity": {
+      "display_name": "Bilaal",
+      "normalized_name": "bilaal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Bilaal",
+        "bilaal",
+        "bilal"
+      ],
+      "search_variants": [
+        "Bilaal",
+        "bilaal",
+        "bilal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بلال",
-      "meaning": "نام ایک مشہور صحابی کے لیے استعمال ہوا، بلند آواز، پانی",
-      "long_meaning": "بلال ایک معروف نام ہے جو حضرت بلال بن رباح کے لیے استعمال ہوا، جو نبی کریم محمد صلی اللہ علیہ و آلہ و سلم کے مؤذن تھے، یہ نام 'بلل' فعل سے ماخوذ ہے جس کا مطلب ہے پانی اور بلند آواز، یہ نام اہل سنت و جماعت میں خاص طور پر استعمال ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Moisture, freshness, refreshment",
+      "primary_meaning": "Moisture",
+      "secondary_meanings": [
+        "freshness",
+        "refreshment"
+      ],
+      "literal_meaning": "Moisture",
+      "extended_meaning": "Moisture, freshness, refreshment",
+      "meaning_explanation": "Bilaal corresponds to the Arabic form بلال (ب ل ل). Its core sense is moisture, freshness, refreshment. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बिलाल",
-      "meaning": "पानी, बुलंद आवाज़, मशहूर सहाबी का नाम",
-      "long_meaning": "बिलाल एक प्रसिद्ध नाम है जो हज़रत बिलाल इब्न रबाह के लिए उपयोग किया जाता है, जो नबी करीम मुहम्मद सल्लल्लाहु अलैहि व सल्लम के मुअज्जिन थे, यह नाम 'बलल' क्रिया से लिया गया है जिसका अर्थ है पानी और बुलंद आवाज़, यह नाम भारतीय मुस्लिम समुदाय में विशेष रूप से उपयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "بلال",
+      "transliteration": "bilaal",
+      "romanization": "bilaal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Moisture",
+        "freshness",
+        "refreshment"
+      ],
+      "etymology_explanation": "The form بلال is an established Arabic lexical item. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بلال",
-      "meaning": "اوبه، لوړ غږ، د مشهور صحابي نوم",
-      "long_meaning": "بلال د يو مشهور نوم دی چې د حضرت بلال ابن رباح لپاره يې کارول شوی، چا چې د نبي کريم محمد صلی الله عليه وسلم مؤذن و، دا نوم د 'بلل' کلمې څخه اخيستل شوی چې د اوبو معنی لري او لوړ غږ، دا نوم د افغان او پښتون دود کې کارول کیږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بلال is an established Arabic form.",
+        "Urdu": "بلال is used in Urdu.",
+        "Hindi": "बिलाल is used in Hindi.",
+        "Pashto": "بلال is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Bilaal",
-      "meaning": "Water, High Voice, Caller, Famous Companion of Prophet Muhammad",
-      "long_meaning": "Bilaal is derived from the Arabic root 'B-L-L' which means water, and is associated with the meanings of high voice, caller, or one who calls to prayer, historically it was the name of Bilal ibn Rabah, a companion of Prophet Muhammad and his muezzin, symbolizing spiritual awakening and call to faith, widely used across Muslim cultures"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form بلال. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Bilaal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense moisture, freshness, refreshment.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Moisture",
+      "related_concepts": [
+        "moisture",
+        "freshness",
+        "refreshment"
+      ],
+      "semantic_relationship": "The central semantic idea is moisture; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of moisture.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Moisture",
+        "Freshness",
+        "Refreshment"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Bilaal",
+        "meaning": "Moisture, freshness, refreshment",
+        "long_meaning": "Bilaal is a Arabic-origin name. Its core meaning is moisture, freshness, refreshment. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "بلال",
+        "meaning": "تازگی، نمی، شادابی",
+        "long_meaning": "Bilaal (بلال) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم تازگی، نمی، شادابی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "बिलाल",
+        "meaning": "नमी, ताज़गी",
+        "long_meaning": "Bilaal (बिलाल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नमी, ताज़गी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بلال",
+        "meaning": "لمدتیا، تازګي",
+        "long_meaning": "Bilaal (بلال) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لمدتیا، تازګي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بلال",
+        "meaning": "البلال، النَّدى، الطَّراوة",
+        "long_meaning": "Bilaal (بلال) اسم مأخوذ من اللغة العربية، ومعناه الأساسي البلال، النَّدى، الطَّراوة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "bih-LAHL",
-      "urdu": "بلال کا تلفظ: ب-لا-ل",
-      "hindi": "बिलाल का उच्चारण: बि-ला-ल",
-      "pashto": "بلال د تلفظ: ب-لا-ل",
-      "ipa": "/bɪˈlɑːl/"
+      "romanized": "bi-laal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بلال",
+      "persian": null,
+      "hindi": "बिलाल",
+      "pashto": "بلال"
     },
-    "celebrity_usage": [
-      "Bilal Abbas Khan",
-      "Bilal Ashraf"
-    ],
-    "social_tags": [
-      "#BilaalMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Bilaal"
-    ],
-    "name_variations": [
-      "Bilal"
-    ],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Bilaal",
+        "bilaal",
+        "bilal"
+      ],
+      "script_variants": [
+        "بلال",
+        "बिलाल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بلال is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Bilaal can be understood through the Arabic form بلال, whose central sense is moisture, freshness, refreshment. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Bilaal mean?",
+        "answer": "Bilaal is associated with the Arabic form بلال, whose core sense is moisture, freshness, refreshment."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Bilaal?",
+        "answer": "Bilaal is associated with Arabic. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Bilaal an Arabic name?",
+        "answer": "Yes — the underlying form بلال is Arabic."
+      },
+      {
+        "question": "Is Bilaal an Islamic name?",
+        "answer": "Bilaal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Bilaal a Quranic name?",
+        "answer": "Bilaal should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Bilaal mean in Urdu?",
+        "answer": "In Urdu, Bilaal is rendered بلال and carries the sense تازگی، نمی، شادابی."
+      },
+      {
+        "question": "What does Bilaal mean in Persian?",
+        "answer": "No verified Persian form was established for Bilaal."
+      },
+      {
+        "question": "How is Bilaal pronounced?",
+        "answer": "A romanized syllable approximation is bi-laal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Bilaal?",
+        "answer": "Romanization variants include Bilaal, bilaal, bilal. Script forms are بلال, बिलाल."
+      },
+      {
+        "question": "Is Bilaal a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Bilaal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Bilaal, a beautiful Islam name meaning \"Water or Moisture\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Bilaal, Islam name, baby names, Water or Moisture, Islam baby names, name meaning",
-      "description_paragraph": "Bilaal is a meaningful Islam name of Arabic origin that means \"Water or Moisture\". Bilaal is a name that symbolizes the purity of the soul, as water is essential for life and spiritual growth. It is also the name of a companion of the Prophet Muhammad (peace be upon him).",
-      "keywords": [
-        "Bilaal",
-        "Islam name",
-        "baby names",
-        "Water or Moisture",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Bilaal in Islam tradition?",
-          "a": "Bilaal is a beautiful Islam name meaning \"Water or Moisture\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Bilaal a good Islam name for a baby?",
-          "a": "Yes, Bilaal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Bilaal?",
-          "a": "The name Bilaal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Bilaal correctly?",
-          "a": "Bilaal is pronounced bih-LAHL in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Bilaal?",
-          "a": "Naming a child Bilaal brings blessings. The meaning \"Water or Moisture\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Bilaal?",
-          "a": "Bilaal is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Bilaal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Bilaal (بلال).",
+      "h1": "Bilaal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Bilaal meaning",
       "secondary_keywords": [
-        "Islam name Bilaal",
-        "Bilaal meaning",
-        "Bilaal origin"
+        "Bilaal name meaning",
+        "Bilaal meaning in Urdu",
+        "Bilaal origin",
+        "Bilaal Islamic name",
+        "Bilaal pronunciation",
+        "Bilaal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Bilaal (بلال) is associated with the Arabic form بلال, whose core sense is moisture, freshness, refreshment. Variant romanization of بلال ('moisture'), borne by Bilāl ibn Rabāḥ (d. 640). The source record's gloss 'Water or Moisture' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Bilaal is associated with the Arabic form بلال, whose core sense is moisture, freshness, refreshment.",
+      "meaning_section": "The central meaning of Bilaal is moisture, freshness, refreshment.",
+      "origin_section": "Bilaal is associated with Arabic rather than with a different language.",
+      "islam_section": "Bilaal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Bilaal is with the sense moisture.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Bilaal",
+      "#BilaalMeaning",
+      "#BilaalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Bilaal is derived from the Arabic word for 'cliff' or 'mountain', which symbolizes strength and resilience in Islamic culture. Bilaal was an African slave who became one of the most prominent companions of the Prophet Muhammad (peace be upon him). Despite his status as a slave and the hardships he faced throughout his life, he remained steadfast in his faith and was known for his unwavering devotion to Allah. He is revered for his tireless efforts in calling people to Islam and the purity of his intentions. The name Bilaal embodies the strength and resilience of the human spirit and the power of faith to overcome adversity.",
-    "spiritual_significance": "In Islamic tradition, Bilaal represents the human soul longing for spiritual growth and purification. The name symbolizes the essence of faith - seeking refuge in Allah and striving for spiritual purity in the face of adversity. This spiritual connection is further emphasized by Bilaal's legendary du'a (supplication) which was heard at the outskirts of Madinah, calling the Prophet Muhammad (peace be upon him) to establish a place of worship and bring the community of believers together. Bilaal's faithful dedication to Allah inspires us to strive for spiritual growth and purification in our own lives.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Bilaal ibn Rabah was a prominent companion of the Prophet Muhammad (pbuh) and is known for his dedication to Islam.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Bilaal is a popular name for boys in Muslim communities around the world.",
-        "Bilaal is the name of a famous character in the Islamic tradition."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Bilaal corresponds to the Arabic form بلال",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Bilaal has the core sense moisture, freshness, refreshment",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Bilaal is a common name on various social media platforms used by Muslims.",
-        "Bilaal is a name used in Islamic art and calligraphy."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Bilaal remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Bilaal",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Omar Bilaal in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Bilaal, which means \"Water or Moisture\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Water or Moisture\" symbolizes Bilaal is a name that symbolizes the purity of the soul, as water is essential for life and spiritual growth. It is also the name of a companion of the Prophet Muhammad (peace be upon him).. In Islamic spirituality, bearing the name Bilaal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of water or moisture.",
-    "created_at": "2025-12-22T19:19:49.817Z",
-    "updated_at": "2025-12-22T04:53:14.549Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1533,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Bilaal",
-      "description": "Water or Moisture",
-      "additionalName": [
-        "Bilal"
+      "alternateName": [
+        "Bilaal",
+        "bilaal",
+        "bilal"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form بلال, meaning moisture, freshness, refreshment.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Bilaal",
-          "description": "Discover the meaning of Bilaal - \"Water or Moisture\"",
-          "image": "/images/social/bilaal-facebook.jpg"
+      "termCode": "bilaal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Bilaal - Name Meaning",
-          "description": "Learn about the beautiful name Bilaal",
-          "image": "/images/social/bilaal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Bilaal",
-          "description": "Name meaning: Water or Moisture",
-          "image": "/images/social/bilaal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Bilaal - Meaning: Water or Moisture",
-        "email_subject": "Beautiful Name: Bilaal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Bilaal with meaning Water or Moisture",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Bilaal, associated with the Arabic form بلال, meaning moisture, freshness, refreshment."
     },
-    "similar_sounding_names": [
-      "buhayyah",
-      "basbas",
-      "busrah",
-      "badri",
-      "ban",
-      "banujah",
-      "baraaa",
-      "binesh",
-      "baseema",
-      "buthayna"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

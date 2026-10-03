@@ -3,297 +3,471 @@
   "data": {
     "name": "Akhlaq",
     "slug": "akhlaq",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Good Morals",
-    "long_meaning": "Akhlaq refers to good manners, ethics, and moral values. It signifies a person with virtuous character.",
-    "spiritual_meaning": "In Islamic tradition, Akhlaq is associated with the hadith 'The best among you are those who have the best manners.'",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "A nurturer, a healer, a teacher, a protector",
-    "in_arabic": {
-      "name": "أخلاق",
-      "meaning": "أخلاق تعني الأفعال الحميدة والخصال الحميدة",
-      "long_meaning": "اسم أخلاق مشتق من أخلاق و تعني الأفعال الحميدة والخصال الحميدة، وهو من الأسماء التي تحث على التحلي بالخصال الحميدة والتصرفات الإيجابية. ورد في القرآن الكريم عدة مواضع تتعلق بالأخلاق، منها قول الله تعالى: 'وَأَحسَنَ أُخُلُقاً' (الإسراء: 79). يعد اسم أخلاق من الأسماء ذات الأهمية الكبيرة في الثقافة الإسلامية، حيث يرمز إلى السلوك الحسن والتعامل الطيب مع الآخرين."
+    "identity": {
+      "display_name": "Akhlaq",
+      "normalized_name": "akhlaq",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Akhlaq",
+        "akhlaq"
+      ],
+      "search_variants": [
+        "Akhlaq",
+        "akhlaq"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اخلاق",
-      "meaning": "اخلاق کا مطلب اچھے کردار اور اچھی صفات",
-      "long_meaning": "اخلاق نام عربی زبان سے ماخوذ ہے جس کا مطلب اچھے کردار اور اچھی صفات ہیں۔ اسلامی تقویم میں اخلاق ایک انتہائی اہم پہلو ہے، جیسا کہ قرآن مجید میں اخلاق کے حوالے سے کئی آیات موجود ہیں، جن میں اللہ تعالیٰ کا ارشاد ہے: 'وَأَحسَنَ أُخُلُقاً' (الإسراء: 79). جنوبی ایشیاء کی مسلم ثقافت میں اخلاق نام کی اہمیت اس کی اخلاقی خوبی اور حسن سلوک کی علامت کے طور پر ہے۔"
+    "core_meaning": {
+      "short_meaning": "Good morals",
+      "primary_meaning": "Good morals",
+      "secondary_meanings": [],
+      "literal_meaning": "Good morals",
+      "extended_meaning": "Good morals",
+      "meaning_explanation": "Akhlaq corresponds to the Arabic form أخلاق (خ ل ق). Its core sense is good morals. Variant romanization of أخلاق.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अखलाक",
-      "meaning": "अखलाक का अर्थ अच्छे चरित्र और अच्छे गुण",
-      "long_meaning": "अखलाक नाम अरबी भाषा से लिया गया है जिसका अर्थ है अच्छे चरित्र और अच्छे गुण। इस्लामी परंपरा में अखलाक का बहुत महत्व है, जैसा कि कुरआन में कई जगहों पर इसका उल्लेख है, जिसमें अल्लाह का वचन है: 'وَأَحسَنَ أُخُلُقاً' (الإسراء: 79). भारतीय मुस्लिम समुदाय में अखलाक नाम का महत्व इसकी नैतिक उत्कृष्टता और अच्छे बर्ताव के प्रतीक के रूप में है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أخلاق",
+      "transliteration": "akhlaq",
+      "romanization": "akhlaq",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Good morals"
+      ],
+      "etymology_explanation": "The form أخلاق is an established Arabic lexical item. Variant romanization of أخلاق.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اخلاق",
-      "meaning": "اخلاق د ښو سلوک او ښو ځانګړتیاوو معنی",
-      "long_meaning": "اخلاق نوم د عربي ژبې څخه اخیستل شوی دی چې د ښو سلوک او ښو ځانګړتیاوو معنی لري. په اسلامي کلتور کې اخلاق ډېر مهم دي، لکه څنګه چې په قرآن کریم کې د اخلاقو په اړه ډیری آیات شتون لري، په کوم کې چې الله تعالی فرمايي: 'وَأَحسَنَ أُخُلُقاً' (الإسراء: 79). د افغان او پښتون دودیزو ټولنو کې اخلاق نوم د سلوک د ښه والي او د نورو سره د ښو اړیکو د ټینګولو معنی لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أخلاق is an established Arabic form.",
+        "Urdu": "اخلاق is used in Urdu.",
+        "Hindi": "अख़लाक़ is used in Hindi.",
+        "Pashto": "اخلاق is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Akhlaq",
-      "meaning": "Good character, moral values, and noble attributes",
-      "long_meaning": "The name Akhlaq is derived from Arabic roots, signifying good character, moral values, and noble attributes. In Islamic tradition, Akhlaq holds significant importance as it relates to one's behavior and interactions with others. The Quran mentions the term in several verses, emphasizing the pursuit of virtuous conduct, as in Surah Al-Isra: 'وَأَحسَنَ أُخُلُقاً' (17:79). Across Muslim cultures, the name Akhlaq symbolizes the aspiration for moral excellence and positive relationships."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أخلاق. Variant romanization of أخلاق.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Akhlaq may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense good morals.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Good morals",
+      "related_concepts": [
+        "good morals"
+      ],
+      "semantic_relationship": "The central semantic idea is good morals; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of good morals.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Good morals"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Akhlaq",
+        "meaning": "Good morals",
+        "long_meaning": "Akhlaq is a Arabic-origin name. Its core meaning is good morals. Variant romanization of أخلاق."
+      },
+      "urdu": {
+        "name": "اخلاق",
+        "meaning": "اخلاق، اچھے اخلاق",
+        "long_meaning": "Akhlaq (اخلاق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اخلاق، اچھے اخلاق ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अख़लाक़",
+        "meaning": "सदाचार, अच्छे नैतिक",
+        "long_meaning": "Akhlaq (अख़लाक़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सदाचार, अच्छे नैतिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اخلاق",
+        "meaning": "ښه اخلاق",
+        "long_meaning": "Akhlaq (اخلاق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ښه اخلاق ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أخلاق",
+        "meaning": "أخلاق، مكارم",
+        "long_meaning": "Akhlaq (أخلاق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أخلاق، مكارم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-KHLAHK",
-      "urdu": "اخلاق کا تلفظ ایکے ایچ ایل اے کیو ہے",
-      "hindi": "अखलाक का उच्चारण अह-खलाक़ है",
-      "pashto": "د اخلاق تلفظ دی اې خ ل ا ق",
-      "ipa": "/ɑːxˈlɑːk/"
+      "romanized": "ak-hlaq",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اخلاق",
+      "persian": null,
+      "hindi": "अख़लाक़",
+      "pashto": "اخلاق"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AkhlaqMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Akhlaq"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Akhlaq",
+        "akhlaq"
+      ],
+      "script_variants": [
+        "أخلاق",
+        "اخلاق",
+        "अख़लाक़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أخلاق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Akhlaq can be understood through the Arabic form أخلاق, whose central sense is good morals. Variant romanization of أخلاق.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Akhlaq mean?",
+        "answer": "Akhlaq is associated with the Arabic form أخلاق, whose core sense is good morals."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Akhlaq?",
+        "answer": "Akhlaq is associated with Arabic. Variant romanization of أخلاق."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Akhlaq an Arabic name?",
+        "answer": "Yes — the underlying form أخلاق is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Akhlaq an Islamic name?",
+        "answer": "Akhlaq can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 76,
-        "year": 2024
+        "question": "Is Akhlaq a Quranic name?",
+        "answer": "Akhlaq should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Akhlaq mean in Urdu?",
+        "answer": "In Urdu, Akhlaq is rendered اخلاق and carries the sense اخلاق، اچھے اخلاق."
+      },
+      {
+        "question": "What does Akhlaq mean in Persian?",
+        "answer": "No verified Persian form was established for Akhlaq."
+      },
+      {
+        "question": "How is Akhlaq pronounced?",
+        "answer": "A romanized syllable approximation is ak-hlaq. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Akhlaq?",
+        "answer": "Romanization variants include Akhlaq, akhlaq. Script forms are أخلاق, اخلاق, अख़लाक़."
+      },
+      {
+        "question": "Is Akhlaq a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Akhlaq Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Akhlaq, a beautiful Islam name meaning \"Good Morals\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Akhlaq, Islam name, baby names, Good Morals, Islam baby names, name meaning",
-      "description_paragraph": "Akhlaq is a meaningful Islam name of Arabic origin that means \"Good Morals\". Akhlaq refers to good manners, ethics, and moral values. It signifies a person with virtuous character.",
-      "keywords": [
-        "Akhlaq",
-        "Islam name",
-        "baby names",
-        "Good Morals",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Akhlaq in Islam tradition?",
-          "a": "Akhlaq is a beautiful Islam name meaning \"Good Morals\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Akhlaq a good Islam name for a baby?",
-          "a": "Yes, Akhlaq is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Akhlaq?",
-          "a": "The name Akhlaq has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Akhlaq correctly?",
-          "a": "Akhlaq is pronounced ah-KHLAHK in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Akhlaq?",
-          "a": "Naming a child Akhlaq brings blessings. The meaning \"Good Morals\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Akhlaq?",
-          "a": "Akhlaq is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Akhlaq Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Akhlaq (أخلاق).",
+      "h1": "Akhlaq Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Akhlaq meaning",
       "secondary_keywords": [
-        "Islam name Akhlaq",
-        "Akhlaq meaning",
-        "Akhlaq origin"
+        "Akhlaq name meaning",
+        "Akhlaq meaning in Urdu",
+        "Akhlaq origin",
+        "Akhlaq Islamic name",
+        "Akhlaq pronunciation",
+        "Akhlaq name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Akhlaq (أخلاق) is associated with the Arabic form أخلاق, whose core sense is good morals. Variant romanization of أخلاق.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Akhlaq is associated with the Arabic form أخلاق, whose core sense is good morals.",
+      "meaning_section": "The central meaning of Akhlaq is good morals.",
+      "origin_section": "Akhlaq is associated with Arabic rather than with a different language.",
+      "islam_section": "Akhlaq can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Akhlaq is with the sense good morals.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Akhlaq",
+      "#AkhlaqMeaning",
+      "#AkhlaqName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic culture, Akhlaq refers to a code of conduct for individuals, emphasizing the importance of good manners, moral values, and virtuous behavior. This term is central to Islamic social norms and has been a significant influence on the development of Islamic society.",
-    "spiritual_significance": "Akhlaq carries immense spiritual significance in Islam, as it represents the outward manifestation of one's inward beliefs and values. A virtuous person is considered to be closer to God, as their actions reflect His guidance and teachings. The pursuit of Akhlaq is considered an important aspect of faith, as it aids an individual in their spiritual growth and serves as a testament to their commitment to living in accordance with God's will.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Akhlaq carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Akhlaq corresponds to the Arabic form أخلاق",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Akhlaq has the core sense good morals",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Akhlaq remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed Akhlaq",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Ahmed Akhlaq in Istanbul, Turkey attributes much of their success to the blessing of their name Akhlaq, which means \"Good Morals\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Good Morals\" symbolizes Akhlaq refers to good manners, ethics, and moral values. It signifies a person with virtuous character.. In Islamic spirituality, bearing the name Akhlaq serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of good morals.",
-    "created_at": "2025-12-22T19:19:49.818Z",
-    "updated_at": "2025-12-22T04:53:14.557Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1695,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Akhlaq",
-      "description": "Good Morals",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Akhlaq",
+        "akhlaq"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Akhlaq",
-          "description": "Discover the meaning of Akhlaq - \"Good Morals\"",
-          "image": "/images/social/akhlaq-facebook.jpg"
+      "description": "A name associated with the Arabic form أخلاق, meaning good morals.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "akhlaq",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Akhlaq - Name Meaning",
-          "description": "Learn about the beautiful name Akhlaq",
-          "image": "/images/social/akhlaq-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Akhlaq",
-          "description": "Name meaning: Good Morals",
-          "image": "/images/social/akhlaq-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Akhlaq - Meaning: Good Morals",
-        "email_subject": "Beautiful Name: Akhlaq"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Akhlaq with meaning Good Morals",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Akhlaq, associated with the Arabic form أخلاق, meaning good morals."
     },
-    "similar_sounding_names": [
-      "alishaba",
-      "aidan",
-      "anaan",
-      "anika",
-      "amaya",
-      "ambar",
-      "azzahra",
-      "ayra",
-      "alma",
-      "aaidah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

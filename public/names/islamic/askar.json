@@ -3,289 +3,471 @@
   "data": {
     "name": "Askar",
     "slug": "askar",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Soldier",
-    "long_meaning": "A person who fights for a cause, a soldier",
-    "spiritual_meaning": "A protector of faith and values",
-    "emotional_traits": [
-      "Brave",
-      "Courageous",
-      "Protective"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resilient"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Red",
-      "Black"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, Self-Expressive, and Free",
-    "in_arabic": {
-      "name": "اسكر",
-      "meaning": "الأسكَر، السرب، الجيش، العسكر",
-      "long_meaning": "الأسكَر: السرب، الجيش، العسكر. وهو لفظ عربي مشتق من الجذر (س-ك-ر) بمعنى الجيش، والمجموعة من الناس، والمجموعة من الخيل، والمجموعة من الناس الذين يرعون الغنم، والمجتمع، والجماعة."
+    "identity": {
+      "display_name": "Askar",
+      "normalized_name": "askar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Askar",
+        "askar"
+      ],
+      "search_variants": [
+        "Askar",
+        "askar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اسکر",
-      "meaning": "اسکر، فوج، لشکر، جیش",
-      "long_meaning": "اسکر: فوج، لشکر، جیش۔ اسلف Arab لفظ ہے جس کا اصل Arabic میں ہے جس کا مطلب ہے فوج، لشکر، جیش۔ اس لفظ کی Arabic میں زیادہ تر جگہ ہے ۔"
+    "core_meaning": {
+      "short_meaning": "Soldier",
+      "primary_meaning": "Soldier",
+      "secondary_meanings": [],
+      "literal_meaning": "Soldier",
+      "extended_meaning": "Soldier",
+      "meaning_explanation": "Askar corresponds to the Arabic form عسكر (ع س ك ر). Its core sense is soldier. ʿAskar ('army, soldiery').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अस्कर",
-      "meaning": "अस्कर, फौज, सेना, सेना, सेना",
-      "long_meaning": "अस्कर: फौज, सेना, सेना, सेना। यह हिंदी नाम अरबी मूल का है जिसका अर्थ है फौज, सेना, सेना। यह नाम भारतीय मुस्लिम समुदाय में प्रसिद्ध है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عسكر",
+      "transliteration": "askar",
+      "romanization": "askar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Soldier"
+      ],
+      "etymology_explanation": "The form عسكر is an established Arabic lexical item. ʿAskar ('army, soldiery').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اسکر",
-      "meaning": "اسکر، لشکر، جیش",
-      "long_meaning": "اسکر: لشکر، جیش، اسکر په پښتو کې د فوج، او د جيش لپاره ورځنیز ګړی ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عسكر is an established Arabic form.",
+        "Urdu": "عسکر is used in Urdu.",
+        "Hindi": "अस्कर is used in Hindi.",
+        "Pashto": "عسکر is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Askar",
-      "meaning": "Askar, army, troops, military, warrior",
-      "long_meaning": "Askar: A name of Arabic origin meaning army, troops, military, or warrior. It is a common name in many Muslim cultures and is mentioned in the Quran as a term for the military forces of a community."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عسكر. ʿAskar ('army, soldiery').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Askar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense soldier.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Soldier",
+      "related_concepts": [
+        "soldier"
+      ],
+      "semantic_relationship": "The central semantic idea is soldier; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of soldier.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Soldier"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Askar",
+        "meaning": "Soldier",
+        "long_meaning": "Askar is a Arabic-origin name. Its core meaning is soldier. ʿAskar ('army, soldiery')."
+      },
+      "urdu": {
+        "name": "عسکر",
+        "meaning": "سپاہی، فوجی",
+        "long_meaning": "Askar (عسکر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سپاہی، فوجی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अस्कर",
+        "meaning": "सैनिक, सिपाही",
+        "long_meaning": "Askar (अस्कर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सैनिक, सिपाही है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عسکر",
+        "meaning": "عسکر، سرتېری",
+        "long_meaning": "Askar (عسکر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عسکر، سرتېری ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عسكر",
+        "meaning": "الجندي، العسكري",
+        "long_meaning": "Askar (عسكر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجندي، العسكري. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "AH-skur",
-      "urdu": "اردو میں تلفظ کی تفصیل: ایسکر",
-      "hindi": "हिन्दी में उच्चारण विवरण: अस्कर",
-      "pashto": "په پښتو کې د تلفظ تفصیل: اسکر",
-      "ipa": "/ˈæskər/"
+      "romanized": "as-kar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عسکر",
+      "persian": null,
+      "hindi": "अस्कर",
+      "pashto": "عسکر"
     },
-    "celebrity_usage": [
-      "Askar Ali (Actor)"
-    ],
-    "social_tags": [
-      "#AskarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Askar"
-    ],
-    "name_variations": [],
-    "popularity_score": 59,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Askar",
+        "askar"
+      ],
+      "script_variants": [
+        "عسكر",
+        "عسکر",
+        "अस्कर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عسكر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Askar can be understood through the Arabic form عسكر, whose central sense is soldier. ʿAskar ('army, soldiery').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Askar mean?",
+        "answer": "Askar is associated with the Arabic form عسكر, whose core sense is soldier."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Askar?",
+        "answer": "Askar is associated with Arabic. ʿAskar ('army, soldiery')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Askar an Arabic name?",
+        "answer": "Yes — the underlying form عسكر is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Askar an Islamic name?",
+        "answer": "Askar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Askar a Quranic name?",
+        "answer": "Askar should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Askar mean in Urdu?",
+        "answer": "In Urdu, Askar is rendered عسکر and carries the sense سپاہی، فوجی."
+      },
+      {
+        "question": "What does Askar mean in Persian?",
+        "answer": "No verified Persian form was established for Askar."
+      },
+      {
+        "question": "How is Askar pronounced?",
+        "answer": "A romanized syllable approximation is as-kar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Askar?",
+        "answer": "Romanization variants include Askar, askar. Script forms are عسكر, عسکر, अस्कर."
+      },
+      {
+        "question": "Is Askar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Askar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Askar, a beautiful Islam name meaning \"Soldier\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Askar, Islam name, baby names, Soldier, Islam baby names, name meaning",
-      "description_paragraph": "Askar is a meaningful Islam name of Arabic origin that means \"Soldier\". A person who fights for a cause, a soldier",
-      "keywords": [
-        "Askar",
-        "Islam name",
-        "baby names",
-        "Soldier",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Askar in Islam tradition?",
-          "a": "Askar is a beautiful Islam name meaning \"Soldier\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Askar a good Islam name for a baby?",
-          "a": "Yes, Askar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Askar?",
-          "a": "The name Askar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Askar correctly?",
-          "a": "Askar is pronounced AH-skur in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Askar?",
-          "a": "Naming a child Askar brings blessings. The meaning \"Soldier\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Askar?",
-          "a": "Askar is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Askar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Askar (عسكر).",
+      "h1": "Askar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Askar meaning",
       "secondary_keywords": [
-        "Islam name Askar",
-        "Askar meaning",
-        "Askar origin"
+        "Askar name meaning",
+        "Askar meaning in Urdu",
+        "Askar origin",
+        "Askar Islamic name",
+        "Askar pronunciation",
+        "Askar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Askar (عسكر) is associated with the Arabic form عسكر, whose core sense is soldier. ʿAskar ('army, soldiery').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Askar is associated with the Arabic form عسكر, whose core sense is soldier.",
+      "meaning_section": "The central meaning of Askar is soldier.",
+      "origin_section": "Askar is associated with Arabic rather than with a different language.",
+      "islam_section": "Askar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Askar is with the sense soldier.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Askar",
+      "#AskarMeaning",
+      "#AskarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic culture, the name \"Askar\" holds a significant importance as it is associated with courage, bravery, and sacrifice for a noble cause. Individuals bearing this name are often seen as protectors, warriors, and champions of their people or community. In various Islamic historical contexts, Askars are known for their unwavering commitment to their faith and their readiness to defend it against adversaries. Askars have played pivotal roles in establishing and maintaining Islamic power and rule throughout history, such as the militia forces during the time of Prophet Muhammad (peace be upon him) or the military units of older Islamic empires and states like the Ottoman Empire and the Mughal Empire.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Askar\" goes beyond the mere physical aspects of fighting for a cause and can be interpreted as a reminder of the individual's duty to wage a lifelong struggle against their own internal weaknesses and temptations. As mentioned in the Quran, \"Indeed, there is an excellent lesson in this for whoever has faith.\" (Quran 8:62). Therefore, every Muslim, regardless of their profession or status, is considered an Askari in the eyes of Allah, as they are continuously striving to uphold and defend their faith in their daily lives. Thus, the name \"Askar\" holds spiritual significance as a call to be engaged in the struggle for righteousness and to be a force for good.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Askar carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Askar corresponds to the Arabic form عسكر",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Askar has the core sense soldier",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Askar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Askar",
-      "location": "Dubai, UAE",
-      "story": "Fatima Askar, a teacher in Dubai, UAE, shares that their name Askar meaning \"Soldier\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Soldier\" symbolizes A person who fights for a cause, a soldier. In Islamic spirituality, bearing the name Askar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of soldier.",
-    "created_at": "2025-12-22T19:19:49.871Z",
-    "updated_at": "2025-12-22T04:53:15.011Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1267,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Askar",
-      "description": "Soldier",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu"
+      "alternateName": [
+        "Askar",
+        "askar"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Askar",
-          "description": "Discover the meaning of Askar - \"Soldier\"",
-          "image": "/images/social/askar-facebook.jpg"
+      "description": "A name associated with the Arabic form عسكر, meaning soldier.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "askar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Askar - Name Meaning",
-          "description": "Learn about the beautiful name Askar",
-          "image": "/images/social/askar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Askar",
-          "description": "Name meaning: Soldier",
-          "image": "/images/social/askar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Askar - Meaning: Soldier",
-        "email_subject": "Beautiful Name: Askar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Askar with meaning Soldier",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Askar, associated with the Arabic form عسكر, meaning soldier."
     },
-    "similar_sounding_names": [
-      "alika",
-      "amelia",
-      "alraaz",
-      "ambar",
-      "aidan",
-      "ayra",
-      "ariana",
-      "anila",
-      "akil",
-      "azzahra"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

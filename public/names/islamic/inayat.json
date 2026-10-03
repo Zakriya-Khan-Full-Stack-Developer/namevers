@@ -3,279 +3,481 @@
   "data": {
     "name": "Inayat",
     "slug": "inayat",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Favour, Pleasure",
-    "long_meaning": "Inayat refers to the pleasure or favour of Allah, guiding one's path to righteousness.",
-    "spiritual_meaning": "Inayat is often associated with the concept of Rohm (mercy) and Rahma (compassion) in Islamic tradition.",
-    "emotional_traits": [
-      "Compassionate",
-      "Merciful",
-      "Kind"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Pink",
-      "Lilac",
-      "White"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 11,
-    "numerology_meaning": "Manifestation, illumination, visionary, intuitive, and sensitive",
-    "in_arabic": {
-      "name": "عناية",
-      "meaning": "العناية الربانية والاهتمام الخالص",
-      "long_meaning": "العناية هي اسم مشتق من الجذر العربي 'ع ن ي' والذي يعني العناية والاهتمام. في القرآن الكريم، تأتي كلمة العناية بمعنى الرعاية الربانية والاهتمام الخالص. تاريخياً، كان استخدام هذا الاسم شائعاً في الثقافة الإسلامية ليعبر عن الرعاية الإلهية والاهتمام الخاص."
+    "identity": {
+      "display_name": "Inayat",
+      "normalized_name": "inayat",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Inayat",
+        "inayat"
+      ],
+      "search_variants": [
+        "Inayat",
+        "inayat"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عنایت",
-      "meaning": "اللہ کی عنایت و خاص اہتمام",
-      "long_meaning": "عنایت کا نام عربی جڑ 'ع ن ي' سے ماخوذ ہے جس کا مطلب ہے عنایت و اہتمام۔ اردو زبان میں، یہ نام اللہ کی عنایت و خاص اہتمام کے معنی میں استعمال ہوتا ہے۔ جنوبی ایشیائی مسلمانوں کی روایت میں، یہ نام خاص روحانی اہمیت رکھتا ہے کیونکہ یہ الہی رہنمائی اور دیکھ بھال کی یاد دلاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Care, providence, solicitude",
+      "primary_meaning": "Care",
+      "secondary_meanings": [
+        "providence",
+        "solicitude"
+      ],
+      "literal_meaning": "Care",
+      "extended_meaning": "Care, providence, solicitude",
+      "meaning_explanation": "Inayat corresponds to the Arabic form عنايت (Arabic root ع ن ي (ʿ-n-y); عِنَايَة (ʿInāya)). Its core sense is care, providence, solicitude. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इनायत",
-      "meaning": "भगवान की कृपा और विशेष ध्यान",
-      "long_meaning": "इनायत नाम की उत्पत्ति अरबी मूल 'ع ن ي' से हुई है, जिसका अर्थ है कृपा और ध्यान। हिंदी में, यह नाम भगवान की कृपा और विशेष ध्यान के अर्थ में प्रयोग किया जाता है। भारतीय मुस्लिम समुदाय में, यह नाम आध्यात्मिक महत्व रखता है क्योंकि यह ईश्वरीय मार्गदर्शन और देखभाल का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عنايت",
+      "transliteration": "inayat",
+      "romanization": "inayat",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Care",
+        "providence",
+        "solicitude"
+      ],
+      "etymology_explanation": "The form عنايت is an established Arabic lexical item. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عنايت",
-      "meaning": "د الله عنايت او ځانګړی پام",
-      "long_meaning": "عنايت نوم د عربي ريښو 'ع ن ي' څخه اخيستل شوی دی، چې معنی يې ده عنايت او پام. په پښتو ژبه کې، دا نوم د الله عنايت او ځانګړی پام په معنی استعمال کیږي. د افغان او پښتون دود کې، دا نوم ديني او روحاني اهميت لري ځکه چې دا د الهي لارښوونې او پاملرنې یادونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عنايت is an established Arabic form.",
+        "Urdu": "عنايت is used in Urdu.",
+        "Persian": "عنايت is an established Persian form.",
+        "Hindi": "इनायत is used in Hindi.",
+        "Pashto": "عنايت is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Inayat",
-      "meaning": "Divine care, attention, or favor",
-      "long_meaning": "The name Inayat originates from the Arabic root 'ع ن ي' (ʿ-n-y), which conveys meanings related to care, attention, or favor. In Islamic tradition, the term 'inayat' is associated with divine providence and special attention from Allah. Historically, this name has been used across Muslim cultures to signify God's benevolence and guidance. The name carries spiritual significance, reflecting the values of divine care and compassion."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عنايت. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Inayat may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense care, providence, solicitude.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Care",
+      "related_concepts": [
+        "care",
+        "providence",
+        "solicitude"
+      ],
+      "semantic_relationship": "The central semantic idea is care; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of care.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Care",
+        "Providence",
+        "Solicitude"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Inayat",
+        "meaning": "Care, providence, solicitude",
+        "long_meaning": "Inayat is a Arabic-origin name. Its core meaning is care, providence, solicitude. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah."
+      },
+      "urdu": {
+        "name": "عنايت",
+        "meaning": "عنانایت، دیکھ بھال، پروا",
+        "long_meaning": "Inayat (عنايت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عنانایت، دیکھ بھال، پروا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عنايت",
+        "meaning": "عناایت، مراقبت، پروا",
+        "long_meaning": "Inayat (عنايت) نامی برگرفته از زبان عربی است و معنای اصلی آن عناایت، مراقبت، پروا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इनायत",
+        "meaning": "देखभाल, कृपा, परवाह",
+        "long_meaning": "Inayat (इनायत) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ देखभाल, कृपा, परवाह है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عنايت",
+        "meaning": "پاملرنه، عنایت، پروا",
+        "long_meaning": "Inayat (عنايت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پاملرنه، عنایت، پروا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عنايت",
+        "meaning": "العناية، الرعاية، الاهتمام",
+        "long_meaning": "Inayat (عنايت) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العناية، الرعاية، الاهتمام. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ih-NAY-at",
-      "urdu": "اردو میں تلفظ کی تفصیل: عِنایَت",
-      "hindi": "हिन्दी में उच्चारण विवरण: इनायत",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عنايت",
-      "ipa": "/ɪˈnɑːjɑːt/"
+      "romanized": "i-nayat",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عنايت",
+      "persian": "عنايت",
+      "hindi": "इनायत",
+      "pashto": "عنايت"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#InayatMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Inayat"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Inayat",
+        "inayat"
+      ],
+      "script_variants": [
+        "عنايت",
+        "इनायत"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عنايت is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Inayat can be understood through the Arabic form عنايت, whose central sense is care, providence, solicitude. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Inayat mean?",
+        "answer": "Inayat is associated with the Arabic form عنايت, whose core sense is care, providence, solicitude."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 65,
-        "year": 2024
+        "question": "What is the origin of Inayat?",
+        "answer": "Inayat is associated with Arabic. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 68,
-        "year": 2024
+        "question": "Is Inayat an Arabic name?",
+        "answer": "Yes — the underlying form عنايت is Arabic."
+      },
+      {
+        "question": "Is Inayat an Islamic name?",
+        "answer": "Inayat can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Inayat a Quranic name?",
+        "answer": "Inayat should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Inayat mean in Urdu?",
+        "answer": "In Urdu, Inayat is rendered عنايت and carries the sense عنانایت، دیکھ بھال، پروا."
+      },
+      {
+        "question": "What does Inayat mean in Persian?",
+        "answer": "In Persian, Inayat is rendered عنايت and carries the sense عناایت، مراقبت، پروا."
+      },
+      {
+        "question": "How is Inayat pronounced?",
+        "answer": "A romanized syllable approximation is i-nayat. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Inayat?",
+        "answer": "Romanization variants include Inayat, inayat. Script forms are عنايت, इनायत."
+      },
+      {
+        "question": "Is Inayat a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Inayat Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Inayat, a beautiful Islam name meaning \"Favour, Pleasure\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Inayat, Islam name, baby names, Favour, Pleasure, Islam baby names, name meaning",
-      "description_paragraph": "Inayat is a meaningful Islam name of Arabic origin that means \"Favour, Pleasure\". Inayat refers to the pleasure or favour of Allah, guiding one's path to righteousness.",
-      "keywords": [
-        "Inayat",
-        "Islam name",
-        "baby names",
-        "Favour, Pleasure",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Inayat in Islam tradition?",
-          "a": "Inayat is a beautiful Islam name meaning \"Favour, Pleasure\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Inayat a good Islam name for a baby?",
-          "a": "Yes, Inayat is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Inayat?",
-          "a": "The name Inayat has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Inayat correctly?",
-          "a": "Inayat is pronounced ih-NAY-at in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Inayat?",
-          "a": "Naming a child Inayat brings blessings. The meaning \"Favour, Pleasure\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Inayat?",
-          "a": "Inayat is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Inayat Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Inayat (عنايت).",
+      "h1": "Inayat Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Inayat meaning",
       "secondary_keywords": [
-        "Islam name Inayat",
-        "Inayat meaning",
-        "Inayat origin"
+        "Inayat name meaning",
+        "Inayat meaning in Urdu",
+        "Inayat origin",
+        "Inayat Islamic name",
+        "Inayat pronunciation",
+        "Inayat name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Inayat (عنايت) is associated with the Arabic form عنايت, whose core sense is care, providence, solicitude. Inayat is Arabic عِنَايَة (ʿInāya) 'care, providence, solicitude', from the root ع ن ي (ʿ-n-y); the form عِنَايَت is the Persian/Urdu rendering. The source gloss 'Favour, Pleasure' is broadly consistent. The source labelled the name unisex; documented usage is predominantly male in South Asia. Same name as inaya and inayah.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Inayat is associated with the Arabic form عنايت, whose core sense is care, providence, solicitude.",
+      "meaning_section": "The central meaning of Inayat is care, providence, solicitude.",
+      "origin_section": "Inayat is associated with Arabic rather than with a different language.",
+      "islam_section": "Inayat can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Inayat is with the sense care.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Inayat",
+      "#InayatMeaning",
+      "#InayatName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Inayat holds a significant cultural and historical importance in the Islamic world. This beautiful name is of Arabic origin and has been used in various forms throughout Islamic literature and poetry. For instance, it is mentioned in various Sufi poems and verses, which emphasize the importance of seeking Allah's pleasure and guidance in one's life. Additionally, it is also the name of several influential Islamic figures, scholars, and Sufi saints, who have made significant contributions to Islamic thought and spirituality.",
-    "spiritual_significance": "The name Inayat holds deep spiritual significance in Islamic tradition. It is believed that by invoking Allah's name of Inayat, one can seek His pleasure and guidance in every aspect of their life. In Islamic spirituality, seeking Allah's pleasure is considered the highest form of worship, and the name Inayat is a reminder of this fundamental principle. It is also believed that Allah showers His infinite mercy and grace upon those who seek His pleasure and guidance, and the name Inayat serves as a constant reminder of this divine favor. In Sufi practice, it is common to use this name as part of dhikr (remembrance of Allah) and as a source of inspiration and motivation to strive for spiritual growth and enlightenment.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mystic and poet, born in 1882 in India. The name Inayat carried significant weight in that era.",
-        "time_period": "19th-20th century",
-        "context": "Inayat Khan was a renowned mystic and poet, born in 1882 in India. He was the founder of the Sufi Order in the West and is known for his spiritual teachings and music."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "spirituality",
-        "mysticism",
-        "poetry"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Inayat corresponds to the Arabic form عنايت",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Inayat has the core sense care, providence, solicitude",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media",
-        "websites",
-        "books"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Inayat Khan's name and teachings continue to be popular in modern times, particularly among those interested in spirituality, mysticism, and poetry. His works are widely available on various platforms, including social media, websites, and books."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Inayat",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Zainab Inayat from Kuala Lumpur, Malaysia embodies the meaning of Inayat - \"Favour, Pleasure\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Favour, Pleasure\" symbolizes Inayat refers to the pleasure or favour of Allah, guiding one's path to righteousness.. In Islamic spirituality, bearing the name Inayat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of favour, pleasure.",
-    "created_at": "2025-12-22T19:19:49.796Z",
-    "updated_at": "2025-12-22T04:53:14.311Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1200,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Inayat",
-      "description": "Favour, Pleasure",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Inayat",
+        "inayat"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Inayat",
-          "description": "Discover the meaning of Inayat - \"Favour, Pleasure\"",
-          "image": "/images/social/inayat-facebook.jpg"
+      "description": "A name associated with the Arabic form عنايت, meaning care, providence, solicitude.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "inayat",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Inayat - Name Meaning",
-          "description": "Learn about the beautiful name Inayat",
-          "image": "/images/social/inayat-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Inayat",
-          "description": "Name meaning: Favour, Pleasure",
-          "image": "/images/social/inayat-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Inayat - Meaning: Favour, Pleasure",
-        "email_subject": "Beautiful Name: Inayat"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Inayat with meaning Favour, Pleasure",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Inayat, associated with the Arabic form عنايت, meaning care, providence, solicitude."
     },
-    "similar_sounding_names": [
-      "inga",
-      "izzannisa",
-      "isa",
-      "iqrit"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

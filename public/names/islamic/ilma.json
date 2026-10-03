@@ -3,287 +3,477 @@
   "data": {
     "name": "Ilma",
     "slug": "ilma",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Knowledge, Information",
-    "long_meaning": "The Arabic name Ilma means knowledge, information, and can be derived from the word ilm, which translates to knowledge in English. The name is often given to children born into scholarly families, as a sign of hope for a bright and intelligent future.",
-    "spiritual_meaning": "Ilma represents the pursuit of knowledge and the desire to learn and grow spiritually. It is a name for those who value wisdom and understanding, and who strive to be the best versions of themselves.",
-    "emotional_traits": [
-      "Intelligent",
-      "Curious",
-      "Insightful",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "Perceptive",
-      "Intuitive",
-      "Analytical"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "The name Ilma is a 5 life path number, which indicates a person who is versatile and adaptable. They are known for their ability to thrive in any situation, and they have a natural curiosity and love for learning new things. They are also known for their strong communication skills and their ability to inspire others.",
-    "in_arabic": {
-      "name": "إلما",
-      "meaning": "إلما تعني العلم والمعرفة في اللغة العربية",
-      "long_meaning": "اسم إلما مشتق من الجذر العربي 'علم' الذي يعني العلم والمعرفة. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يسعى للعلم والمعرفة. وفي القرآن الكريم، يتم التأكيد على أهمية العلم والمعرفة في العديد من الآيات، مثل 'اقرأ باسم ربك الذي خلق' (العلق: 1). اسم إلما يعكس قيمة السعي للعلم والمعرفة في الثقافة الإسلامية."
+    "identity": {
+      "display_name": "Ilma",
+      "normalized_name": "ilma",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ilma",
+        "ilma"
+      ],
+      "search_variants": [
+        "Ilma",
+        "ilma"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "الما",
-      "meaning": "الما کا مطلب علم اور معرفت ہے اردو میں",
-      "long_meaning": "الما نام عربی جڑ 'علم' سے ماخوذ ہے، جس کا مطلب ہے علم اور معرفت۔ اردو میں، یہ نام علم اور دانائی کے حصول کی کوشش کرنے والے شخص کے لیے استعمال ہوتا ہے۔ اسلامی روایت میں، علم اور معرفت کی اہمیت قرآن کریم میں مختلف آیات میں بیان کی گئی ہے، جیسے 'اقرأ باسم ربك الذي خلق' (العلق: 1). الما نام علم اور معرفت کی قدر کو ظاہر کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Of knowledge; scholarly, scientific",
+      "primary_meaning": "Of knowledge; scholarly",
+      "secondary_meanings": [
+        "scientific"
+      ],
+      "literal_meaning": "Of knowledge; scholarly",
+      "extended_meaning": "Of knowledge; scholarly, scientific",
+      "meaning_explanation": "Ilma corresponds to the Arabic form علم (Arabic root ع ل م (ʿ-l-m); عِلْم (ʿIlm)). Its core sense is of knowledge; scholarly, scientific. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "इल्मा",
-      "meaning": "इल्मा का अर्थ है ज्ञान और समझदारी",
-      "long_meaning": "इल्मा नाम अरबी जड़ 'इल्म' से लिया गया है, जिसका अर्थ है ज्ञान और समझदारी। भारतीय मुस्लिम समुदाय में, यह नाम ज्ञान और बुद्धिमत्ता प्राप्त करने के प्रयास करने वाले व्यक्ति के लिए प्रयोग किया जाता है। इस्लामी परंपरा में, ज्ञान और समझदारी का महत्व कुरआन में कई जगहों पर बताया गया है, जैसे 'اقرأ باسم ربك الذي خلق' (العلق: 1). इल्मा नाम ज्ञान और समझदारी की महत्ता को दर्शाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "علم",
+      "transliteration": "ilma",
+      "romanization": "ilma",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Of knowledge; scholarly",
+        "scientific"
+      ],
+      "etymology_explanation": "The form علم is an established Arabic lexical item. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "الما",
-      "meaning": "الما معنی یی علم او پوهه ده",
-      "long_meaning": "د الما نوم عربي ريښه 'علم' څخه اخيستل شوې ده، چې معنی يې علم او پوهه ده. په پښتنو کلتور کې، دا نوم د هغې سړي لپاره کارول کېږي چې د علم او پوهې د ترلاسه کولو هڅه کوي. په اسلامي دود کې، د علم او پوهې اهميت په قرآن کريم کې په بيلا بيلو آيتونو کې بيان شوی دی، لکه 'اقرأ باسم ربك الذي خلق' (العلق: 1). الما نوم د علم او پوهې قدر ښيي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "علم is an established Arabic form.",
+        "Urdu": "علم is used in Urdu.",
+        "Persian": "علم is an established Persian form.",
+        "Hindi": "इल्मा is used in Hindi.",
+        "Pashto": "علم is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Ilma",
-      "meaning": "Ilma means knowledge and wisdom in Arabic",
-      "long_meaning": "The name Ilma is derived from the Arabic root 'علم' (ilm), meaning knowledge and wisdom. In Islamic tradition, the pursuit of knowledge and wisdom is highly valued, as emphasized in the Quran, such as 'اقرأ باسم ربك الذي خلق' (العلق: 1). Ilma reflects the importance of seeking knowledge and understanding in Islamic culture. The name is associated with positive personality traits like being knowledgeable, insightful, and wise."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form علم. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ilma may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense of knowledge; scholarly, scientific.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Of knowledge; scholarly",
+      "related_concepts": [
+        "of knowledge; scholarly",
+        "scientific"
+      ],
+      "semantic_relationship": "The central semantic idea is of knowledge; scholarly; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of of knowledge; scholarly.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Of knowledge; scholarly",
+        "Scientific"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ilma",
+        "meaning": "Of knowledge; scholarly, scientific",
+        "long_meaning": "Ilma is a Arabic-origin name. Its core meaning is of knowledge; scholarly, scientific. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "علم",
+        "meaning": "علمی، علمیاتی، دانشورانہ",
+        "long_meaning": "Ilma (علم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم علمی، علمیاتی، دانشورانہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "علم",
+        "meaning": "علمی، دانشی، علمیاتی",
+        "long_meaning": "Ilma (علم) نامی برگرفته از زبان عربی است و معنای اصلی آن علمی، دانشی، علمیاتی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इल्मा",
+        "meaning": "ज्ञान संबंधी, वैज्ञानिक",
+        "long_meaning": "Ilma (इल्मा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज्ञान संबंधी, वैज्ञानिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "علم",
+        "meaning": "علمي، پوهنیز",
+        "long_meaning": "Ilma (علم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې علمي، پوهنیز ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "علم",
+        "meaning": "العلمي، المنسوب إلى العلم",
+        "long_meaning": "Ilma (علم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العلمي، المنسوب إلى العلم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "Il-ma",
-      "urdu": "الما کا تلفظ 'الما' ہے",
-      "hindi": "इल्मा का उच्चारण 'इल्मा' है",
-      "pashto": "الما د تلفظ په توګه لوستل کيږي",
-      "ipa": "/ˈɪlmɑː/"
+      "romanized": "il-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "علم",
+      "persian": "علم",
+      "hindi": "इल्मा",
+      "pashto": "علم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IlmaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ilma"
-    ],
-    "name_variations": [],
-    "popularity_score": 51,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ilma",
+        "ilma"
+      ],
+      "script_variants": [
+        "علم",
+        "इल्मा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form علم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ilma can be understood through the Arabic form علم, whose central sense is of knowledge; scholarly, scientific. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Ilma mean?",
+        "answer": "Ilma is associated with the Arabic form علم, whose core sense is of knowledge; scholarly, scientific."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Ilma?",
+        "answer": "Ilma is associated with Arabic. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Ilma an Arabic name?",
+        "answer": "Yes — the underlying form علم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Ilma an Islamic name?",
+        "answer": "Ilma can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 71,
-        "year": 2024
+        "question": "Is Ilma a Quranic name?",
+        "answer": "Ilma should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ilma mean in Urdu?",
+        "answer": "In Urdu, Ilma is rendered علم and carries the sense علمی، علمیاتی، دانشورانہ."
+      },
+      {
+        "question": "What does Ilma mean in Persian?",
+        "answer": "In Persian, Ilma is rendered علم and carries the sense علمی، دانشی، علمیاتی."
+      },
+      {
+        "question": "How is Ilma pronounced?",
+        "answer": "A romanized syllable approximation is il-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ilma?",
+        "answer": "Romanization variants include Ilma, ilma. Script forms are علم, इल्मा."
+      },
+      {
+        "question": "Is Ilma a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ilma Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ilma, a beautiful Islam name meaning \"Knowledge, Information\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ilma, Islam name, baby names, Knowledge, Information, Islam baby names, name meaning",
-      "description_paragraph": "Ilma is a meaningful Islam name of Arabic origin that means \"Knowledge, Information\". The Arabic name Ilma means knowledge, information, and can be derived from the word ilm, which translates to knowledge in English. The name is often given to children born into scholarly families, as a sign of hope for a bright and intelligent future.",
-      "keywords": [
-        "Ilma",
-        "Islam name",
-        "baby names",
-        "Knowledge, Information",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ilma in Islam tradition?",
-          "a": "Ilma is a beautiful Islam name meaning \"Knowledge, Information\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ilma a good Islam name for a baby?",
-          "a": "Yes, Ilma is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ilma?",
-          "a": "The name Ilma has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ilma correctly?",
-          "a": "Ilma is pronounced Il-ma in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ilma?",
-          "a": "Naming a child Ilma brings blessings. The meaning \"Knowledge, Information\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ilma?",
-          "a": "Ilma is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Ilma Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ilma (علم).",
+      "h1": "Ilma Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ilma meaning",
       "secondary_keywords": [
-        "Islam name Ilma",
-        "Ilma meaning",
-        "Ilma origin"
+        "Ilma name meaning",
+        "Ilma meaning in Urdu",
+        "Ilma origin",
+        "Ilma Islamic name",
+        "Ilma pronunciation",
+        "Ilma name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ilma (علم) is associated with the Arabic form علم, whose core sense is of knowledge; scholarly, scientific. Ilma is recorded at low confidence. The source gave إلما and glossed the name 'Knowledge, Information'; the form is related to عِلْم (ʿIlm) 'knowledge', but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ilma is associated with the Arabic form علم, whose core sense is of knowledge; scholarly, scientific.",
+      "meaning_section": "The central meaning of Ilma is of knowledge; scholarly, scientific.",
+      "origin_section": "Ilma is associated with Arabic rather than with a different language.",
+      "islam_section": "Ilma can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ilma is with the sense of knowledge; scholarly.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ilma",
+      "#IlmaMeaning",
+      "#IlmaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ilma holds a significant cultural impact, as education and knowledge are highly valued in Islamic tradition. The Prophet Muhammad (peace be upon him) said, “The knowledge which is acquired through reading the books is a treasure which no man can afford to be without.” (Bukhari and Muslim). The name reflects a deep respect for knowledge and its role in personal growth and development within the Islamic community.",
-    "spiritual_significance": "From a spiritual perspective, the name Ilma signifies the pursuit of knowledge and wisdom, which are considered essential tools for seeking closeness to Allah. The Prophet Muhammad emphasized the importance of acquiring knowledge, stating, \"Seeking knowledge is an obligation on every Muslim\" (Tirmidhi). The name Ilma reminds the bearer of their responsibility to seek and share knowledge, and also serves as a constant reminder of the divine blessings and wisdom found in the Quran and Hadith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "",
-        "time_period": "",
-        "context": ""
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ilma corresponds to the Arabic form علم",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Ilma has the core sense of knowledge; scholarly, scientific",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ilma remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Ilma",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Layla Ilma in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Ilma, which means \"Knowledge, Information\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Knowledge, Information\" symbolizes The Arabic name Ilma means knowledge, information, and can be derived from the word ilm, which translates to knowledge in English. The name is often given to children born into scholarly families, as a sign of hope for a bright and intelligent future.. In Islamic spirituality, bearing the name Ilma serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of knowledge, information.",
-    "created_at": "2025-12-22T19:19:49.876Z",
-    "updated_at": "2025-12-22T04:53:15.058Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1188,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ilma",
-      "description": "Knowledge, Information",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Ilma",
+        "ilma"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ilma",
-          "description": "Discover the meaning of Ilma - \"Knowledge, Information\"",
-          "image": "/images/social/ilma-facebook.jpg"
+      "description": "A name associated with the Arabic form علم, meaning of knowledge; scholarly, scientific.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ilma",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ilma - Name Meaning",
-          "description": "Learn about the beautiful name Ilma",
-          "image": "/images/social/ilma-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Ilma",
-          "description": "Name meaning: Knowledge, Information",
-          "image": "/images/social/ilma-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ilma - Meaning: Knowledge, Information",
-        "email_subject": "Beautiful Name: Ilma"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ilma with meaning Knowledge, Information",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ilma, associated with the Arabic form علم, meaning of knowledge; scholarly, scientific."
     },
-    "similar_sounding_names": [
-      "inga",
-      "isa",
-      "iqrit",
-      "id"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

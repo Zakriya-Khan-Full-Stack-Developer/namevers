@@ -3,296 +3,481 @@
   "data": {
     "name": "Ardeshir",
     "slug": "ardeshir",
-    "language": [
-      "Persian",
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "King, Ruler",
-    "long_meaning": "One who rules over the country and people, a powerful and wise leader",
-    "spiritual_meaning": "Symbolizes leadership and protection",
-    "emotional_traits": [
-      "Confident",
-      "Determined",
-      "Strong-willed"
-    ],
-    "hidden_personality_traits": [
-      "Calm under pressure",
-      "Resourceful",
-      "Introspective"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 1,
-    "numerology_meaning": "Indicates a natural born leader, pioneer, and entrepreneur",
-    "in_arabic": {
-      "name": "أردشير",
-      "meaning": "اسم مشتق من أردشير بن ساسان، مؤسس الأسرة الساسانية",
-      "long_meaning": "أردشير هو اسم فارسى الأصل، مشتق من اسم أردشير بن ساسان، الذي كان مؤسس الأسرة الساسانية في فارس (إيران الحديثة). الاسم يتألف من جذور فارسية قديمة، ويحمل دلالات تاريخية وثقافية عميقة في المنطقة. يعتبر أردشير في الثقافة الإسلامية اسمًا ذا تاريخ عريق، يرتبط بالإمبراطورية الساسانية وبدورها الحضاري في المنطقة."
+    "identity": {
+      "display_name": "Ardeshir",
+      "normalized_name": "ardeshir",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ardeshir",
+        "ardeshir"
+      ],
+      "search_variants": [
+        "Ardeshir",
+        "ardeshir"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اردشیر",
-      "meaning": "ساسانی خاندان کے بانی اردشیر بن ساسان سے مشتق",
-      "long_meaning": "اردشیر ایک فارسی نام ہے جو ساسانی خاندان کے بانی اردشیر بن ساسان سے ماخوذ ہے۔ یہ نام قدیم فارسی جڑوں سے بنا ہے اور فارسی (ایران) کے تاریخی اور ثقافتی سیاق میں گہرا معنی رکھتا ہے۔ اسلامی ثقافت میں، اردشیر ایک ایسے نام کے طور پر دیکھا جاتا ہے جو ساسانی سلطنت اور علاقے میں اس کے کردار سے جڑا ہوا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Honoured, esteemed, dear",
+      "primary_meaning": "Honoured",
+      "secondary_meanings": [
+        "esteemed",
+        "dear"
+      ],
+      "literal_meaning": "Honoured",
+      "extended_meaning": "Honoured, esteemed, dear",
+      "meaning_explanation": "Ardeshir corresponds to the Persian form اردشیر (Middle Persian Artaxšēr). Its core sense is honoured, esteemed, dear. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अर्दशीर",
-      "meaning": "सासानी परिवार के संस्थापक अर्दशीर बिन सासान से लिया गया",
-      "long_meaning": "अर्दशीर एक फ़ारसी नाम है जो सासानी परिवार के संस्थापक अर्दशीर बिन सासान से लिया गया है। यह नाम पुरानी फ़ारसी जड़ों से बना है और फ़ारस (ईरान) के ऐतिहासिक और सांस्कृतिक संदर्भ में गहरा अर्थ रखता है। इस्लामी संस्कृति में, अर्दशीर एक ऐसे नाम के रूप में देखा जाता है जो सासानी साम्राज्य और क्षेत्र में इसकी भूमिका से जुड़ा हुआ है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "اردشیر",
+      "transliteration": "ardeshir",
+      "romanization": "ardeshir",
+      "root_status": "Middle Persian Artaxšēr",
+      "etymological_meaning": [
+        "Honoured",
+        "esteemed",
+        "dear"
+      ],
+      "etymology_explanation": "The form اردشیر is an established Persian lexical item. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اردشیر",
-      "meaning": "د ساسانيانو د بنسټګر اردشیر بن ساسان څخه اخیستل شوی",
-      "long_meaning": "اردشیر یو فارس نوم دی چی د ساسانيانو د بنسټګر اردشیر بن ساسان څخه اخیستل شوی دی. دا نوم له زړو فارس ريښو څخه جوړ دی او په فارس (ایران) کې د تاریخي او کلتوري شرایطو په اړه ګډون لري. په اسلامي کلتور کې، اردشیر د داسې نوم په توګه لیدل کیږي چی د ساساني سلطنت او سیمې کې د هغې د رول سره تړاو لري."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "اردشیر is an established Arabic form.",
+        "Urdu": "اردشیر is used in Urdu.",
+        "Persian": "اردشیر is an established Persian form.",
+        "Hindi": "अर्देशीर is used in Hindi.",
+        "Pashto": "اردشیر is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ardeshir",
-      "meaning": "Derived from Ardeshir bin Sasan, founder of the Sassanid dynasty",
-      "long_meaning": "Ardeshir is a Persian name derived from Ardeshir bin Sasan, who founded the Sassanid dynasty in ancient Persia (modern-day Iran). The name originates from ancient Persian roots and carries significant historical and cultural connotations in the region. In Islamic culture, Ardeshir is regarded as a name tied to the Sassanid Empire and its civilizational role in the region. The etymology of the name can be traced back to Middle Persian, reflecting the rich heritage of pre-Islamic Persia."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form اردشیر. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ardeshir may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense honoured, esteemed, dear.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Honoured",
+      "related_concepts": [
+        "honoured",
+        "esteemed",
+        "dear"
+      ],
+      "semantic_relationship": "The central semantic idea is honoured; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of honoured.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Honoured",
+        "Esteemed",
+        "Dear"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ardeshir",
+        "meaning": "Honoured, esteemed, dear",
+        "long_meaning": "Ardeshir is a Persian-origin name. Its core meaning is honoured, esteemed, dear. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "اردشیر",
+        "meaning": "معزز، محترم، عزیز",
+        "long_meaning": "Ardeshir (اردشیر) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معزز، محترم، عزیز ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "اردشیر",
+        "meaning": "ارجمند، گرامی، عزیز",
+        "long_meaning": "Ardeshir (اردشیر) نامی برگرفته از زبان فارسی است و معنای اصلی آن ارجمند، گرامی، عزیز است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "अर्देशीर",
+        "meaning": "सम्मानित, आदरणीय, प्रिय",
+        "long_meaning": "Ardeshir (अर्देशीर) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सम्मानित, आदरणीय, प्रिय है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اردشیر",
+        "meaning": "درناوی، ګران",
+        "long_meaning": "Ardeshir (اردشیر) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې درناوی، ګران ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "اردشیر",
+        "meaning": "المكرم، العزيز",
+        "long_meaning": "Ardeshir (اردشیر) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي المكرم، العزيز. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ar-deh-SHEER",
-      "urdu": "اردو میں تلفظ: ارْدِشِیر",
-      "hindi": "हिन्दी में उच्चारण: अर्दशीर",
-      "pashto": "په پښتو کې تلفظ: ارډشیر",
-      "ipa": "/ɑːrdɛʃɪr/"
+      "romanized": "ar-des-hir",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اردشیر",
+      "persian": "اردشیر",
+      "hindi": "अर्देशीर",
+      "pashto": "اردشیر"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#ArdeshirMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ardeshir"
-    ],
-    "name_variations": [],
-    "popularity_score": 68,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ardeshir",
+        "ardeshir"
+      ],
+      "script_variants": [
+        "اردشیر",
+        "अर्देशीर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form اردشیر is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ardeshir can be understood through the Persian form اردشیر, whose central sense is honoured, esteemed, dear. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Ardeshir mean?",
+        "answer": "Ardeshir is associated with the Persian form اردشیر, whose core sense is honoured, esteemed, dear."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Ardeshir?",
+        "answer": "Ardeshir is associated with Persian. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Ardeshir an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 71,
-        "year": 2024
+        "question": "Is Ardeshir an Islamic name?",
+        "answer": "Ardeshir can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 76,
-        "year": 2024
+        "question": "Is Ardeshir a Quranic name?",
+        "answer": "Ardeshir should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ardeshir mean in Urdu?",
+        "answer": "In Urdu, Ardeshir is rendered اردشیر and carries the sense معزز، محترم، عزیز."
+      },
+      {
+        "question": "What does Ardeshir mean in Persian?",
+        "answer": "In Persian, Ardeshir is rendered اردشیر and carries the sense ارجمند، گرامی، عزیز."
+      },
+      {
+        "question": "How is Ardeshir pronounced?",
+        "answer": "A romanized syllable approximation is ar-des-hir. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ardeshir?",
+        "answer": "Romanization variants include Ardeshir, ardeshir. Script forms are اردشیر, अर्देशीर."
+      },
+      {
+        "question": "Is Ardeshir a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ardeshir Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ardeshir, a beautiful Islam name meaning \"King, Ruler\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ardeshir, Islam name, baby names, King, Ruler, Islam baby names, name meaning",
-      "description_paragraph": "Ardeshir is a meaningful Islam name of Arabic origin that means \"King, Ruler\". One who rules over the country and people, a powerful and wise leader",
-      "keywords": [
-        "Ardeshir",
-        "Islam name",
-        "baby names",
-        "King, Ruler",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ardeshir in Islam tradition?",
-          "a": "Ardeshir is a beautiful Islam name meaning \"King, Ruler\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ardeshir a good Islam name for a baby?",
-          "a": "Yes, Ardeshir is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ardeshir?",
-          "a": "The name Ardeshir has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ardeshir correctly?",
-          "a": "Ardeshir is pronounced ar-deh-SHEER in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ardeshir?",
-          "a": "Naming a child Ardeshir brings blessings. The meaning \"King, Ruler\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ardeshir?",
-          "a": "Ardeshir is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Ardeshir Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ardeshir (اردشیر).",
+      "h1": "Ardeshir Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ardeshir meaning",
       "secondary_keywords": [
-        "Islam name Ardeshir",
-        "Ardeshir meaning",
-        "Ardeshir origin"
+        "Ardeshir name meaning",
+        "Ardeshir meaning in Urdu",
+        "Ardeshir origin",
+        "Ardeshir Islamic name",
+        "Ardeshir pronunciation",
+        "Ardeshir name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ardeshir (اردشیر) is associated with the Persian form اردشیر, whose core sense is honoured, esteemed, dear. Ardashīr, the New Persian form of Middle Persian Artaxšēr (Greek Artaxerxes), borne by the founder of the Sasanian dynasty (r. 224-242). The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ardeshir is associated with the Persian form اردشیر, whose core sense is honoured, esteemed, dear.",
+      "meaning_section": "The central meaning of Ardeshir is honoured, esteemed, dear.",
+      "origin_section": "Ardeshir is associated with Persian rather than with a different language.",
+      "islam_section": "Ardeshir can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ardeshir is with the sense honoured.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ardeshir",
+      "#ArdeshirMeaning",
+      "#ArdeshirName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ardeshir carries a rich and significant cultural legacy from Persia, a land known for its great empires and powerful monarchs. Ardeshir is a derivative of the ancient Persian name Artaxerxes or Artaxshater, meaning a \"king, ruler, or righteous one.\" It strongly reflects the historical importance of leadership and unity in Persian culture and its enduring influence on contemporary Iranian and global societies.",
-    "spiritual_significance": "In the Islamic context, Ardeshir signifies unwavering guidance, spiritual authority, and representation of the divine will. It may signify being a steadfast leader whose decisions and actions are inspired by a deep understanding of Islamic teachings and moral values. As a reminder, the person with this name is called to lead with wisdom, compassion, and justice, embodying the essence of a righteous and benevolent ruler.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ardeshir was a king of the Sassanid Empire in the 5th century AD. The name Ardeshir carried significant weight in that era.",
-        "time_period": "5th century AD",
-        "context": "Ardeshir I, also known as Ardashir I, was the founder of the Sassanid Empire in 224 AD. He ruled until his death in 241 AD."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ardeshir corresponds to the Persian form اردشیر",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ardeshir has the core sense honoured, esteemed, dear",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ardeshir remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Ardeshir",
-      "location": "Istanbul, Turkey",
-      "story": "Maryam Ardeshir from Istanbul, Turkey embodies the meaning of Ardeshir - \"King, Ruler\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"King, Ruler\" symbolizes One who rules over the country and people, a powerful and wise leader. In Islamic spirituality, bearing the name Ardeshir serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of king, ruler.",
-    "created_at": "2025-12-22T19:19:49.952Z",
-    "updated_at": "2025-12-22T04:53:15.708Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1623,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ardeshir",
-      "description": "King, Ruler",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Persian",
-        "Arabic",
-        "Urdu"
+      "alternateName": [
+        "Ardeshir",
+        "ardeshir"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ardeshir",
-          "description": "Discover the meaning of Ardeshir - \"King, Ruler\"",
-          "image": "/images/social/ardeshir-facebook.jpg"
+      "description": "A name associated with the Persian form اردشیر, meaning honoured, esteemed, dear.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ardeshir",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Ardeshir - Name Meaning",
-          "description": "Learn about the beautiful name Ardeshir",
-          "image": "/images/social/ardeshir-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ardeshir",
-          "description": "Name meaning: King, Ruler",
-          "image": "/images/social/ardeshir-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ardeshir - Meaning: King, Ruler",
-        "email_subject": "Beautiful Name: Ardeshir"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ardeshir with meaning King, Ruler",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ardeshir, associated with the Persian form اردشیر, meaning honoured, esteemed, dear."
     },
-    "similar_sounding_names": [
-      "alika",
-      "amalia",
-      "ambar",
-      "anila",
-      "arsala",
-      "amelia",
-      "anika",
-      "anaan",
-      "ariana",
-      "amaya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

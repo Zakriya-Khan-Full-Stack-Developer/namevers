@@ -3,302 +3,477 @@
   "data": {
     "name": "Anaya",
     "slug": "anaya",
-    "language": [
-      "English",
-      "Urdu",
-      "Hindi",
-      "Arabic",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Caring, Protected by God",
-    "long_meaning": "Anaya is a graceful and spiritual Arabic name meaning 'Caring' or 'Protected by God'. It symbolizes a soul covered by divine love and safety. Often given to girls believed to be special blessings in the family.",
-    "spiritual_meaning": "Anaya reflects divine guardianship and emotional warmth. It's a name for someone deeply loved and protected.",
-    "emotional_traits": [
-      "Loving",
-      "Safe",
-      "Compassionate",
-      "Inspiring"
-    ],
-    "hidden_personality_traits": [
-      "A = Angelic heart",
-      "N = Nurtures love",
-      "A = Admirable presence",
-      "Y = Yearning to heal",
-      "A = Always empathetic"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Pink",
-      "Gold"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 6,
-    "numerology_meaning": "Number 1 reflects leadership and divine spark. Anaya holds strength wrapped in kindness.",
-    "in_arabic": {
-      "name": "أنايا",
-      "meaning": "اسم مؤنث يعني العناية أو الحفظ",
-      "long_meaning": "اسم أنايا هو اسم مؤنث مشتق من الجذر العربي 'ن-ي-ي' والذي يعني العناية أو الحفظ. يستخدم هذا الاسم في بعض الثقافات الإسلامية للإشارة إلى الحفاظ على النفس أو العناية بها. وقد ورد في بعض التفاسير القرآنية أن هذا الاسم يوحي بالحماية أو العناية الإلهية."
+    "identity": {
+      "display_name": "Anaya",
+      "normalized_name": "anaya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Anaya",
+        "anaya"
+      ],
+      "search_variants": [
+        "Anaya",
+        "anaya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انیا",
-      "meaning": "عربی جڑوں سے بنا ایک نسائی نام، معنی حفاظت یا دیکھ بھال",
-      "long_meaning": "انیا ایک نسائی نام ہے جو عربی جڑوں 'ن-ي-ي' سے ماخوذ ہے، جس کا مطلب ہے حفاظت یا دیکھ بھال۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں استعمال ہوتا ہے اور اکثر اس کا تعلق محفوظ رہنے یا الہی دیکھ بھال سے جوڑا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Caring, protected by God",
+      "primary_meaning": "Caring",
+      "secondary_meanings": [
+        "protected by God"
+      ],
+      "literal_meaning": "Caring",
+      "extended_meaning": "Caring, protected by God",
+      "meaning_explanation": "Anaya corresponds to the Arabic form عناية (ع ن ي). Its core sense is caring, protected by god. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अनाया",
-      "meaning": "एक स्त्रीलिंग नाम, जिसका अर्थ है सुरक्षा या देखभाल",
-      "long_meaning": "अनाया एक स्त्रीलिंग नाम है जो अरबी मूल 'न-य-य' से लिया गया है, जिसका अर्थ है सुरक्षा या देखभाल। यह नाम भारतीय मुस्लिम समुदाय में उपयोग किया जाता है और अक्सर इसे सुरक्षित रहने या ईश्वरीय देखभाल से जोड़ा जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عناية",
+      "transliteration": "anaya",
+      "romanization": "anaya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Caring",
+        "protected by God"
+      ],
+      "etymology_explanation": "The form عناية is an established Arabic lexical item. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "انايه",
-      "meaning": "د ښځینه ګانو یو نوم، معنی یې ساتنه یا پاملرنه",
-      "long_meaning": "انايه د ښځینه ګانو یو نوم دی چی د عربي ريښو 'ن-ي-ي' څخه اخیستل شوی دی، معنی یې ساتنه یا پاملرنه ده. دا نوم د افغان او پښتون دودیزو ټولنو کې کارول کیږي او ډیری وختونه ورته د الهي پاملرنې یا ساتنې اړوند مفهوم ورکول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عناية is an established Arabic form.",
+        "Urdu": "عنایہ is used in Urdu.",
+        "Hindi": "अनाया is used in Hindi.",
+        "Pashto": "عنايه is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Anaya",
-      "meaning": "A feminine name meaning care, protection, or safeguard",
-      "long_meaning": "Anaya is a feminine given name derived from the Arabic root 'ن-ي-ي' (n-y-y), which conveys the meanings of care, protection, or safeguard. This name is used in various Muslim cultures and is associated with divine care or protection. It reflects a sense of safety and well-being."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عناية. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Anaya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense caring, protected by god.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Caring",
+      "related_concepts": [
+        "caring",
+        "protected by god"
+      ],
+      "semantic_relationship": "The central semantic idea is caring; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of caring.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Caring",
+        "Protected by god"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Anaya",
+        "meaning": "Caring, protected by God",
+        "long_meaning": "Anaya is a Arabic-origin name. Its core meaning is caring, protected by god. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "عنایہ",
+        "meaning": "خیرخواہ، اللہ کی حفاظت میں",
+        "long_meaning": "Anaya (عنایہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خیرخواہ، اللہ کی حفاظت میں ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अनाया",
+        "meaning": "देखभाल करने वाली, ईश्वर-रक्षित",
+        "long_meaning": "Anaya (अनाया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ देखभाल करने वाली, ईश्वर-रक्षित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عنايه",
+        "meaning": "پاملرنه کوونکې، د خدای په ساتنه",
+        "long_meaning": "Anaya (عنايه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پاملرنه کوونکې، د خدای په ساتنه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عناية",
+        "meaning": "حانية، في حفظ الله",
+        "long_meaning": "Anaya (عناية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي حانية، في حفظ الله. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-NAH-yah",
-      "urdu": "انیا کا تلفظ انا-یا ہے",
-      "hindi": "अनाया का उच्चारण अना-या है",
-      "pashto": "انايه د (ah-NAH-yah) په شان تلفظ کيږي",
-      "ipa": "/ɑːˈnɑːjɑː/"
+      "romanized": "a-naya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عنایہ",
+      "persian": null,
+      "hindi": "अनाया",
+      "pashto": "عنايه"
     },
-    "celebrity_usage": [
-      "Anaya Lee",
-      "Anaya Ibrahim",
-      "Anaya Talwar"
-    ],
-    "social_tags": [
-      "#AnayaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Anaya"
-    ],
-    "name_variations": [
-      "Anayah"
-    ],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Anaya",
+        "anaya"
+      ],
+      "script_variants": [
+        "عناية",
+        "عنايه",
+        "عنایہ",
+        "अनाया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عناية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Anaya can be understood through the Arabic form عناية, whose central sense is caring, protected by god. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Anaya mean?",
+        "answer": "Anaya is associated with the Arabic form عناية, whose core sense is caring, protected by god."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Anaya?",
+        "answer": "Anaya is associated with Arabic. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Anaya an Arabic name?",
+        "answer": "Yes — the underlying form عناية is Arabic."
+      },
+      {
+        "question": "Is Anaya an Islamic name?",
+        "answer": "Anaya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Anaya a Quranic name?",
+        "answer": "Anaya should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Anaya mean in Urdu?",
+        "answer": "In Urdu, Anaya is rendered عنایہ and carries the sense خیرخواہ، اللہ کی حفاظت میں."
+      },
+      {
+        "question": "What does Anaya mean in Persian?",
+        "answer": "No verified Persian form was established for Anaya."
+      },
+      {
+        "question": "How is Anaya pronounced?",
+        "answer": "A romanized syllable approximation is a-naya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Anaya?",
+        "answer": "Romanization variants include Anaya, anaya. Script forms are عناية, عنايه, عنایہ, अनाया."
+      },
+      {
+        "question": "Is Anaya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Anaya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Anaya, a beautiful Islam name meaning \"Caring, Protected by God\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Anaya, Islam name, baby names, Caring, Protected by God, Islam baby names, name meaning",
-      "description_paragraph": "Anaya is a meaningful Islam name of Arabic origin that means \"Caring, Protected by God\". Anaya is a graceful and spiritual Arabic name meaning 'Caring' or 'Protected by God'. It symbolizes a soul covered by divine love and safety. Often given to girls believed to be special blessings in the family.",
-      "keywords": [
-        "Anaya",
-        "Islam name",
-        "baby names",
-        "Caring, Protected by God",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Anaya in Islam tradition?",
-          "a": "Anaya is a beautiful Islam name meaning \"Caring, Protected by God\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Anaya a good Islam name for a baby?",
-          "a": "Yes, Anaya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Anaya?",
-          "a": "The name Anaya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Anaya correctly?",
-          "a": "Anaya is pronounced ah-NAH-yah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Anaya?",
-          "a": "Naming a child Anaya brings blessings. The meaning \"Caring, Protected by God\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Anaya?",
-          "a": "Anaya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Anaya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Anaya (عناية).",
+      "h1": "Anaya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Anaya meaning",
       "secondary_keywords": [
-        "Islam name Anaya",
-        "Anaya meaning",
-        "Anaya origin"
+        "Anaya name meaning",
+        "Anaya meaning in Urdu",
+        "Anaya origin",
+        "Anaya Islamic name",
+        "Anaya pronunciation",
+        "Anaya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Anaya (عناية) is associated with the Arabic form عناية, whose core sense is caring, protected by god. ʿInāya ('care, providence'). The source record's gloss 'Caring, Protected by God' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Anaya is associated with the Arabic form عناية, whose core sense is caring, protected by god.",
+      "meaning_section": "The central meaning of Anaya is caring, protected by god.",
+      "origin_section": "Anaya is associated with Arabic rather than with a different language.",
+      "islam_section": "Anaya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Anaya is with the sense caring.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Anaya",
+      "#AnayaMeaning",
+      "#AnayaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Anaya holds a special place in various Muslim families and communities, symbolizing the caring and nurturing nature of mothers and female caregivers. Moreover, Anaya is also seen as a name associated with strength and resilience. One of the most popular Ethiopian birth narratives describes a queen named Ananya, who was devoted to spending her entire day attending to the basic needs of her subjects to the point of exhaustion. Her name, meaning \"maternal care,\" encapsulates the nurturing, loving, and compassionate qualities that make a mother or caregiver special. Anaya's cultural significance is extended as it is popularly given to girls believed to be special blessings in the family.",
-    "spiritual_significance": "Spiritually, Anaya is a name filled with hope and protection. The deep spiritual significance of Anaya lies in its meaning - 'Caring' or 'Protected by God.' This name captures the belief of being blessed by Allah through the love and care of those around you. It emphasizes the idea of being cherished, tended to, and supported, not only in earthly matters but in our spiritual journey as well. The name Anaya acts as a reminder of the constant presence of Allah, the omnipotent believer being cared for, the one being protected.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Anaya bint Al-Harith, daughter of Al-Harith ibn Abd al-Muttalib, was the wife of the second caliph, Umar ibn Al-Khattab. She is known for her role in the Ridda Wars, during which she displayed remarkable courage and leadership. Anaya and her children were taken as prisoners by the Banu Hanifah tribe during the Battle of Dhu al-Marrah. Despite being pregnant and having a young child, she managed to escape with her family, and later led her tribe to join the Muslim army. Her actions inspired many to join the Muslim cause and contributed to the eventual victory over the Banu Hanifah.",
-        "time_period": "632-633 AD",
-        "context": "Ridda Wars"
-      },
-      {
-        "reference": "Anaya bint al-Rabiah was an influential female poet during the Umayyad period. She was known for her eloquent verses and her role in the cultural and intellectual life of Damascus. Anaya was a close friend and correspondent of the poet Imru' al-Qais, and her poetry reflects the love and companionship shared between the two poets. Her works also touch upon themes of love, nature, and the passage of time, making her an important figure in the development of classical Arabic poetry.",
-        "time_period": "661-750 AD",
-        "context": "Umayyad Period"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Arabic names for girls are gaining popularity worldwide",
-        "Islamic names with meanings rooted in nature are trending"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Anaya corresponds to the Arabic form عناية",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Anaya has the core sense caring, protected by god",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram (@anaya_flora for botanical-themed photos, @anaya_art for artistic depictions, @anaya_travel for travel inspiration"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Anaya, which means 'graceful' or 'delightful' in Arabic, is a beautiful and meaningful choice for a modern girl. It's a name that evokes a sense of elegance and beauty, making it a popular choice for those seeking a unique and beautiful name for their daughter. Anaya is also a name with roots in nature, which is a trend that is particularly popular in modern naming practices. As a result, the name Anaya is often seen on various social media platforms, such as Instagram, where it is associated with botanical-themed photos, artistic depictions, and travel inspiration."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Anaya",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Aisha Anaya, a teacher in Kuala Lumpur, Malaysia, shares that their name Anaya meaning \"Caring, Protected by God\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "Anaya: Radiant one, shining light, illuminating the path.",
-    "created_at": "2025-06-29T11:12:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.026Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1189,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Anaya",
-      "description": "Caring, Protected by God",
-      "additionalName": [
-        "Anayah"
+      "alternateName": [
+        "Anaya",
+        "anaya"
       ],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Hindi",
-        "Arabic",
-        "Pashto"
+      "description": "A name associated with the Arabic form عناية, meaning caring, protected by god.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Anaya",
-          "description": "Discover the meaning of Anaya - \"Caring, Protected by God\"",
-          "image": "/images/social/anaya-facebook.jpg"
+      "termCode": "anaya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Anaya - Name Meaning",
-          "description": "Learn about the beautiful name Anaya",
-          "image": "/images/social/anaya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Anaya",
-          "description": "Name meaning: Caring, Protected by God",
-          "image": "/images/social/anaya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Anaya - Meaning: Caring, Protected by God",
-        "email_subject": "Beautiful Name: Anaya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Anaya with meaning Caring, Protected by God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Anaya, associated with the Arabic form عناية, meaning caring, protected by god."
     },
-    "similar_sounding_names": [
-      "akil",
-      "anya",
-      "aaidah",
-      "anja",
-      "ashika",
-      "ayan",
-      "arya",
-      "aryan",
-      "amaya",
-      "azzahra"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

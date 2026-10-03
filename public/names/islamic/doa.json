@@ -3,283 +3,476 @@
   "data": {
     "name": "Doa",
     "slug": "doa",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Prayer",
-    "long_meaning": "To ask Allah for something, to make a request or a supplication",
-    "spiritual_meaning": "A name that embodies the spirit of faith and devotion, a name that signifies a deep connection to the divine",
-    "emotional_traits": [
-      "Calm",
-      "Peaceful",
-      "Hopeful"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resilient",
-      "Persevering"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Turquoise",
-    "life_path_number": 6,
-    "numerology_meaning": "A name that represents harmony and balance, a name that signifies creativity and love of beauty",
-    "in_arabic": {
-      "name": "دعا",
-      "meaning": "Prayer",
-      "long_meaning": "A supplication or application to Allah, or to seek His help, mercy, forgiveness, guidance, or protection."
+    "identity": {
+      "display_name": "Doa",
+      "normalized_name": "doa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Doa",
+        "doa"
+      ],
+      "search_variants": [
+        "Doa",
+        "doa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دعا",
-      "meaning": "دعا",
-      "long_meaning": "دُعَاءٌ حَقِيقَةٌ أَوْ تَدْعُونَهُ بِهِ تَسْتَعْمِلُونَهُ لِلْعَفْوَ أَوْ تَرْحَمَهُ أَوْ تَرْشِحَهُ أَوْ تَهْدِيهِ أَوْ تَحْفِظْهُ"
+    "core_meaning": {
+      "short_meaning": "Prayer, supplication",
+      "primary_meaning": "Prayer",
+      "secondary_meanings": [
+        "supplication"
+      ],
+      "literal_meaning": "Prayer",
+      "extended_meaning": "Prayer, supplication",
+      "meaning_explanation": "Doa corresponds to the Arabic form دعاء (د ع و). Its core sense is prayer, supplication. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दूआ",
-      "meaning": "दूआ",
-      "long_meaning": "प्रार्थना, प्रार्थना के साथ हर शक्ति को सेवा करने के लिए वाहिनी है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "دعاء",
+      "transliteration": "doa",
+      "romanization": "doa",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Prayer",
+        "supplication"
+      ],
+      "etymology_explanation": "The form دعاء is an established Arabic lexical item. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "دوا",
-      "meaning": "دوا",
-      "long_meaning": "خدا سے دعا کرنا"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دعاء is an established Arabic form.",
+        "Urdu": "دعا is used in Urdu.",
+        "Hindi": "दुआ is used in Hindi.",
+        "Pashto": "دعا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Doa",
-      "meaning": "Prayer",
-      "long_meaning": "The act of requesting Allah for something using words. It is a form of communication between the believer and Allah."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form دعاء. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Doa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "الدعاء occurs in the Qur'an (e.g. 2:186)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense prayer, supplication.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Prayer",
+      "related_concepts": [
+        "prayer",
+        "supplication"
+      ],
+      "semantic_relationship": "The central semantic idea is prayer; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of prayer.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Prayer",
+        "Supplication"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Doa",
+        "meaning": "Prayer, supplication",
+        "long_meaning": "Doa is a Arabic-origin name. Its core meaning is prayer, supplication. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "دعا",
+        "meaning": "دعا، نماز، مناجات",
+        "long_meaning": "Doa (دعا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم دعا، نماز، مناجات ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दुआ",
+        "meaning": "दुआ, नमाज़, प्रार्थना",
+        "long_meaning": "Doa (दुआ) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दुआ, नमाज़, प्रार्थना है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دعا",
+        "meaning": "دعا، لمانځه، مناجات",
+        "long_meaning": "Doa (دعا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې دعا، لمانځه، مناجات ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دعاء",
+        "meaning": "الدعاء، الصلاة، الابتهال",
+        "long_meaning": "Doa (دعاء) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الدعاء، الصلاة، الابتهال. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/doʊ.ə/",
-      "urdu": "/d̪oː.ə/",
-      "hindi": "/d̪uː.ɑ/",
-      "pashto": "/du.ɑ/"
+      "romanized": "doa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دعا",
+      "persian": null,
+      "hindi": "दुआ",
+      "pashto": "دعا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#DoaMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Doa",
+        "doa"
+      ],
+      "script_variants": [
+        "دعا",
+        "دعاء",
+        "दुआ"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دعاء is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Doa can be understood through the Arabic form دعاء, whose central sense is prayer, supplication. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Doa mean?",
+        "answer": "Doa is associated with the Arabic form دعاء, whose core sense is prayer, supplication."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Doa?",
+        "answer": "Doa is associated with Arabic. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Doa an Arabic name?",
+        "answer": "Yes — the underlying form دعاء is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Doa an Islamic name?",
+        "answer": "Doa can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 76,
-        "year": 2024
+        "question": "Is Doa a Quranic name?",
+        "answer": "Doa should not be classified as a Quranic personal name without a direct Quranic basis. الدعاء occurs in the Qur'an (e.g. 2:186)"
+      },
+      {
+        "question": "What does Doa mean in Urdu?",
+        "answer": "In Urdu, Doa is rendered دعا and carries the sense دعا، نماز، مناجات."
+      },
+      {
+        "question": "What does Doa mean in Persian?",
+        "answer": "No verified Persian form was established for Doa."
+      },
+      {
+        "question": "How is Doa pronounced?",
+        "answer": "A romanized syllable approximation is doa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Doa?",
+        "answer": "Romanization variants include Doa, doa. Script forms are دعا, دعاء, दुआ."
+      },
+      {
+        "question": "Is Doa a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Doa Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Doa, a beautiful Islam name meaning \"Prayer\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Doa, Islam name, baby names, Prayer, Islam baby names, name meaning",
-      "description_paragraph": "Doa is a meaningful Islam name of Arabic origin that means \"Prayer\". To ask Allah for something, to make a request or a supplication",
-      "keywords": [
-        "Doa",
-        "Islam name",
-        "baby names",
-        "Prayer",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Doa in Islam tradition?",
-          "a": "Doa is a beautiful Islam name meaning \"Prayer\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Doa a good Islam name for a baby?",
-          "a": "Yes, Doa is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Doa?",
-          "a": "The name Doa has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Doa correctly?",
-          "a": "Doa is pronounced /doʊ.ə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Doa?",
-          "a": "Naming a child Doa brings blessings. The meaning \"Prayer\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Doa?",
-          "a": "Doa is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Doa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Doa (دعاء).",
+      "h1": "Doa Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Doa meaning",
       "secondary_keywords": [
-        "Islam name Doa",
-        "Doa meaning",
-        "Doa origin"
+        "Doa name meaning",
+        "Doa meaning in Urdu",
+        "Doa origin",
+        "Doa Islamic name",
+        "Doa pronunciation",
+        "Doa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Doa (دعاء) is associated with the Arabic form دعاء, whose core sense is prayer, supplication. Duʿāʾ ('supplication, invocation, prayer'). The source record's gloss 'Prayer' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Doa is associated with the Arabic form دعاء, whose core sense is prayer, supplication.",
+      "meaning_section": "The central meaning of Doa is prayer, supplication.",
+      "origin_section": "Doa is associated with Arabic rather than with a different language.",
+      "islam_section": "Doa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Doa is with the sense prayer.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Doa",
+      "#DoaMeaning",
+      "#DoaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic culture, making duas or prayers to Allah is an essential part of daily life. The word \"Doa\" is a concept deeply ingrained in Islamic traditions, emphasizing the act of asking Allah for guidance, protection, or favor. Masjids (mosques) often have designated areas for individuals to make duas, and Muslims are encouraged to make duas throughout the day, especially at specific times.",
-    "spiritual_significance": "A Doa represents a direct connection between the believer and Allah. It is an expression of faith and confirmation of submission to Allah's will. The spiritual significance of making Doa is multifaceted, as it fosters a deep sense of reliance and trust in Allah, focusing the mind on Allah's mercy and compassion. By engaging in this communicative act, Muslims strengthen their bond with their deity and strive for spiritual growth.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Doa carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Doa corresponds to the Arabic form دعاء",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Doa has the core sense prayer, supplication",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Doa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Doa",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Aisha Doa from Riyadh, Saudi Arabia embodies the meaning of Doa - \"Prayer\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Prayer\" symbolizes To ask Allah for something, to make a request or a supplication. In Islamic spirituality, bearing the name Doa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of prayer.",
-    "created_at": "2025-12-22T19:19:50.931Z",
-    "updated_at": "2025-12-22T04:53:16.494Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1313,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Doa",
-      "description": "Prayer",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Doa",
+        "doa"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Doa",
-          "description": "Discover the meaning of Doa - \"Prayer\"",
-          "image": "/images/social/doa-facebook.jpg"
+      "description": "A name associated with the Arabic form دعاء, meaning prayer, supplication.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "doa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Doa - Name Meaning",
-          "description": "Learn about the beautiful name Doa",
-          "image": "/images/social/doa-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Doa",
-          "description": "Name meaning: Prayer",
-          "image": "/images/social/doa-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Doa - Meaning: Prayer",
-        "email_subject": "Beautiful Name: Doa"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Doa with meaning Prayer",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Doa, associated with the Arabic form دعاء, meaning prayer, supplication."
     },
-    "similar_sounding_names": [
-      "dean",
-      "diya",
-      "dina",
-      "dhuka",
-      "dimah",
-      "daniel"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

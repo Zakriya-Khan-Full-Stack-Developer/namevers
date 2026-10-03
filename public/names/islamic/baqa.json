@@ -3,298 +3,479 @@
   "data": {
     "name": "Baqa",
     "slug": "baqa",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Everlasting, Perpetual",
-    "long_meaning": "Derived from the Arabic root 'b-q-a', meaning 'to remain' or 'to last'. In Islamic tradition, Baqa refers to the state of eternal bliss in paradise.",
-    "spiritual_meaning": "A symbol of eternal life and divine grace.",
-    "emotional_traits": [
-      "Peaceful",
-      "Calm"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest",
-      "S = Strong"
-    ],
-    "lucky_number": 17,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "(Lapis Lazuli)",
-    "life_path_number": 2,
-    "numerology_meaning": "Those with a life path number 2 are natural peacemakers, empathetic, and nurturing. They have a deep sense of compassion and a strong desire to help others.",
-    "in_arabic": {
-      "name": "بَقَاء",
-      "meaning": "النفيس والرغد والبهجة والسلامة",
-      "long_meaning": "بَقَاء هي كلمة عربية تعني النفيس والرغد والبهجة والسلامة. تعود أصولها للغة العربية القديمة والتراث الإسلامي. في القرآن الكريم، يُستخدم مصطلح البقاء للإشارة إلى استمرار الحياة بعد الموت. في التراث الإسلامي، يُعتبر البقاء مصطلحًا يشير إلى الحالة الحسنة التي يبلغها المؤمن في الحياة الآخرة. في بعض الثقافات الإسلامية، يُستخدم اسم باقة كاسم للولادة لتبرك الوليد بالحياة الطويلة"
+    "identity": {
+      "display_name": "Baqa",
+      "normalized_name": "baqa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Baqa",
+        "baqa"
+      ],
+      "search_variants": [
+        "Baqa",
+        "baqa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بَقَاء",
-      "meaning": "نفیس، رغد، بهجت، امانت",
-      "long_meaning": "بَقَاء کا معنی ہے نفیس، رغد، بهجت اور امانت ۔ یہ نام عربی کا ہے جو اپنی خوبصورت اور لطیف حوالے سے ممتاز ہے۔ یہ نام اسلامی روایات اور تہواروں میں استعمال ہوتا ہے۔ اس کا تعلق قرآن کے باب الحج اور سورہ الفتح سے ہے جس میں بَقَاء کا مفہوم استمرار زندگی بے حد اہم ہے۔"
+    "core_meaning": {
+      "short_meaning": "Permanence, immortality, survival",
+      "primary_meaning": "Permanence",
+      "secondary_meanings": [
+        "immortality",
+        "survival"
+      ],
+      "literal_meaning": "Permanence",
+      "extended_meaning": "Permanence, immortality, survival",
+      "meaning_explanation": "Baqa corresponds to the Arabic form بقاء (ب ق ي). Its core sense is permanence, immortality, survival. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बक़़ा",
-      "meaning": "निर्णय, विशेषता, सुंदरता, शांति",
-      "long_meaning": "बक़़ा नाम का अर्थ है निर्णय, विशेषता, सुंदरता और शांति। यह नाम अरबी भाषा का है, जो अपनी सुंदरता और लतीफ़ हालातों के लिए जाना जाता है। इस नाम का महत्व इस्लामी परंपराओं और त्योहारों में है। यह नाम कुरआन के अध्याय 22 में आता है, जिसमें बक़़ा का अर्थ है जीवन का स्थायित्व या दीर्घायु।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "بقاء",
+      "transliteration": "baqa",
+      "romanization": "baqa",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Permanence",
+        "immortality",
+        "survival"
+      ],
+      "etymology_explanation": "The form بقاء is an established Arabic lexical item. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بقا",
-      "meaning": "ځان، ګټه، خوشی، امنیت",
-      "long_meaning": "بقا د یوه افغانی ټولنیز نوم دی چی د افغانستان او د اسلامي ټولنې په تاریخ کې ډېره ښه او لومړۍ کلمې ده. د بقراء د تورې په معنا کې دا کلمه په دې معنا ده چې د هغه کس چې د الله د لاس له لوري د ځان په ښه ډول ساتل شوی وي، د نوموړي په دې دنیا کې د هغه د ژوند د پرمخ تېرولو لپاره د الله له لوري د پوهې او ځواک ورکول کېږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بقاء is an established Arabic form.",
+        "Urdu": "بقاء is used in Urdu.",
+        "Hindi": "बक़ा is used in Hindi.",
+        "Pashto": "بقاء is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Baqa",
-      "meaning": "perfection, beauty, happiness, safety, and longevity",
-      "long_meaning": "Baqa is an Arabic name meaning perfection, beauty, happiness, safety, and longevity. It has its roots in the Arabic language and Islamic heritage. In the Quran, the term Baqa refers to the continuation of life after death. In Islamic tradition, Baqa is a term that refers to the state of being in a good state, achieved by the believer in the afterlife. In some Muslim cultures, Baqa is used as a name for newborns to bless them with a long life."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form بقاء. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Baqa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense permanence, immortality, survival.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Permanence",
+      "related_concepts": [
+        "permanence",
+        "immortality",
+        "survival"
+      ],
+      "semantic_relationship": "The central semantic idea is permanence; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of permanence.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Permanence",
+        "Immortality",
+        "Survival"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Baqa",
+        "meaning": "Permanence, immortality, survival",
+        "long_meaning": "Baqa is a Arabic-origin name. Its core meaning is permanence, immortality, survival. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "بقاء",
+        "meaning": "بقا، دائمی زندگی",
+        "long_meaning": "Baqa (بقاء) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بقا، دائمی زندگی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "बक़ा",
+        "meaning": "स्थायित्व, अमरता",
+        "long_meaning": "Baqa (बक़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्थायित्व, अमरता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بقاء",
+        "meaning": "بقا، تلپاتې والی",
+        "long_meaning": "Baqa (بقاء) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بقا، تلپاتې والی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بقاء",
+        "meaning": "البقاء، الخلود",
+        "long_meaning": "Baqa (بقاء) اسم مأخوذ من اللغة العربية، ومعناه الأساسي البقاء، الخلود. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈbækəː/",
-      "urdu": "بَقَاء",
-      "hindi": "बक़़ा",
-      "pashto": "بقا",
-      "ipa": "/ˈbækəː/"
+      "romanized": "ba-qa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بقاء",
+      "persian": null,
+      "hindi": "बक़ा",
+      "pashto": "بقاء"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#BaqaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Baqa"
-    ],
-    "name_variations": [],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Baqa",
+        "baqa"
+      ],
+      "script_variants": [
+        "بقاء",
+        "बक़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بقاء is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Baqa can be understood through the Arabic form بقاء, whose central sense is permanence, immortality, survival. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Baqa mean?",
+        "answer": "Baqa is associated with the Arabic form بقاء, whose core sense is permanence, immortality, survival."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Baqa?",
+        "answer": "Baqa is associated with Arabic. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Baqa an Arabic name?",
+        "answer": "Yes — the underlying form بقاء is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Baqa an Islamic name?",
+        "answer": "Baqa can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 75,
-        "year": 2024
+        "question": "Is Baqa a Quranic name?",
+        "answer": "Baqa should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Baqa mean in Urdu?",
+        "answer": "In Urdu, Baqa is rendered بقاء and carries the sense بقا، دائمی زندگی."
+      },
+      {
+        "question": "What does Baqa mean in Persian?",
+        "answer": "No verified Persian form was established for Baqa."
+      },
+      {
+        "question": "How is Baqa pronounced?",
+        "answer": "A romanized syllable approximation is ba-qa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Baqa?",
+        "answer": "Romanization variants include Baqa, baqa. Script forms are بقاء, बक़ा."
+      },
+      {
+        "question": "Is Baqa a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Baqa Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Baqa, a beautiful Islam name meaning \"Everlasting, Perpetual\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Baqa, Islam name, baby names, Everlasting, Perpetual, Islam baby names, name meaning",
-      "description_paragraph": "Baqa is a meaningful Islam name of Arabic origin that means \"Everlasting, Perpetual\". Derived from the Arabic root 'b-q-a', meaning 'to remain' or 'to last'. In Islamic tradition, Baqa refers to the state of eternal bliss in paradise.",
-      "keywords": [
-        "Baqa",
-        "Islam name",
-        "baby names",
-        "Everlasting, Perpetual",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Baqa in Islam tradition?",
-          "a": "Baqa is a beautiful Islam name meaning \"Everlasting, Perpetual\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Baqa a good Islam name for a baby?",
-          "a": "Yes, Baqa is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Baqa?",
-          "a": "The name Baqa has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Baqa correctly?",
-          "a": "Baqa is pronounced /ˈbækəː/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Baqa?",
-          "a": "Naming a child Baqa brings blessings. The meaning \"Everlasting, Perpetual\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Baqa?",
-          "a": "Baqa is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Baqa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Baqa (بقاء).",
+      "h1": "Baqa Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Baqa meaning",
       "secondary_keywords": [
-        "Islam name Baqa",
-        "Baqa meaning",
-        "Baqa origin"
+        "Baqa name meaning",
+        "Baqa meaning in Urdu",
+        "Baqa origin",
+        "Baqa Islamic name",
+        "Baqa pronunciation",
+        "Baqa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Baqa (بقاء) is associated with the Arabic form بقاء, whose core sense is permanence, immortality, survival. Baqāʾ ('permanence, immortality'). The source record's gloss 'Everlasting, Perpetual' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Baqa is associated with the Arabic form بقاء, whose core sense is permanence, immortality, survival.",
+      "meaning_section": "The central meaning of Baqa is permanence, immortality, survival.",
+      "origin_section": "Baqa is associated with Arabic rather than with a different language.",
+      "islam_section": "Baqa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Baqa is with the sense permanence.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Baqa",
+      "#BaqaMeaning",
+      "#BaqaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In various Islamic contexts, the name Baqa is associated with the concept of sacredness and inviolability. Historic sites and towns claimed to have special spiritual significance in Islam are often referred to as Baqas. For instance, the village of Baqaa' al-Gharbiyya in modern-day Israel, believed to be the site where the great companion of Prophet Muhammad, Ali ibn Abi Talib, resided before his move to Medina.",
-    "spiritual_significance": "The spiritual significance of the name Baqa in Islamic tradition is deeply connected to the paradisal gardens, or \"Ghawa\" described in the Qur’an. Muslims believe that upon entering paradise, one is granted eternal bliss in the heavenly Baqas – these lush gardens abundant with fruits, rivers, and shaded trees, where spiritual and physical needs are met in abundance. Just as seeds take root and grow in Earth's fertile soil, believers, too, are rooted in their faith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The Battle of Hunayn (630 AD) marked the end of the Ridda Wars and the consolidation of Muhammad's rule in Arabia. The place where Muhammad encamped was called Baqul-Hamam, or simply Baqa, which is believed to be the modern-day Al-Minaa in Saudi Arabia. The name Baqa is derived from the Arabic word 'baqi', meaning 'sacred place' or 'sanctuary'. The area was considered sacred because it was the site of an ancient Jewish cemetery.",
-        "time_period": "630 AD",
-        "context": "End of Ridda Wars and consolidation of Muhammad's rule in Arabia"
-      },
-      {
-        "reference": "Baqa'a al-Gharbiyah is a historic town in modern-day Lebanon, and was the site of a major battle during the First Arab-Israili War in May 1948. The name Baqa'a is derived from the Arabic word 'baqa', which means 'dry place' or 'arid territory'. The town was known for its agricultural productivity and was a strategic location due to its proximity to the Litani River.",
-        "time_period": "1948",
-        "context": "First Arab-Israeli War"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Baqa corresponds to the Arabic form بقاء",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Baqa has the core sense permanence, immortality, survival",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Baqa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Baqa",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Khadija Baqa in Cairo, Egypt attributes much of their success to the blessing of their name Baqa, which means \"Everlasting, Perpetual\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Everlasting, Perpetual\" symbolizes Derived from the Arabic root 'b-q-a', meaning 'to remain' or 'to last'. In Islamic tradition, Baqa refers to the state of eternal bliss in paradise.. In Islamic spirituality, bearing the name Baqa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of everlasting, perpetual.",
-    "created_at": "2025-12-22T19:19:49.933Z",
-    "updated_at": "2025-12-22T04:53:15.545Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1666,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Baqa",
-      "description": "Everlasting, Perpetual",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Baqa",
+        "baqa"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Baqa",
-          "description": "Discover the meaning of Baqa - \"Everlasting, Perpetual\"",
-          "image": "/images/social/baqa-facebook.jpg"
+      "description": "A name associated with the Arabic form بقاء, meaning permanence, immortality, survival.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "baqa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Baqa - Name Meaning",
-          "description": "Learn about the beautiful name Baqa",
-          "image": "/images/social/baqa-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Baqa",
-          "description": "Name meaning: Everlasting, Perpetual",
-          "image": "/images/social/baqa-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Baqa - Meaning: Everlasting, Perpetual",
-        "email_subject": "Beautiful Name: Baqa"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Baqa with meaning Everlasting, Perpetual",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Baqa, associated with the Arabic form بقاء, meaning permanence, immortality, survival."
     },
-    "similar_sounding_names": [
-      "baraaa",
-      "ban",
-      "busrah",
-      "baseema",
-      "basbas",
-      "binesh",
-      "banujah",
-      "badri"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

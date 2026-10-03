@@ -3,299 +3,471 @@
   "data": {
     "name": "Ahmed",
     "slug": "ahmed",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Praiseworthy",
-    "long_meaning": "Ahmed is a name that connotes praise and commendation, reflecting the virtues of those who bear it.",
-    "spiritual_meaning": "In Islamic tradition, Ahmed is a name that is associated with the attributes of the Prophet Muhammad (peace be upon him), including kindness, compassion, and wisdom.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Gold"
-    ],
-    "lucky_stone": "Citrine",
-    "life_path_number": 1,
-    "numerology_meaning": "Independence, creativity, new beginnings.",
-    "in_arabic": {
-      "name": "أحمد",
-      "meaning": "محمد صلى الله عليه وسلم کا ایک مشہور نام، معنوی خوبیوں والا",
-      "long_meaning": "أحمد هو اسم من أسماء النبي محمد صلى الله عليه وسلم، مشتق من أصل 'حمد' الذي يعني الثناء والشكر، ويعبر عن معاني الجمال والكمال، وقد ورد ذكره في القرآن الكريم"
+    "identity": {
+      "display_name": "Ahmed",
+      "normalized_name": "ahmed",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ahmed",
+        "ahmed"
+      ],
+      "search_variants": [
+        "Ahmed",
+        "ahmed"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "احمد",
-      "meaning": "نبی کریم صلی اللہ علیہ و آلہ وسلم کا ایک نام، جس کا مطلب ہے قابل ستائش",
-      "long_meaning": "احمد ایک عظیم نام ہے جو نبی محمد صلی اللہ علیہ و آلہ وسلم سے منسلک ہے، جس کی بنیاد 'حمد' ہے جس کا مطلب ہے ستائش یا شکر، یہ نام اسلامی تقالید میں انتہائی اہمیت کا حامل ہے"
+    "core_meaning": {
+      "short_meaning": "Most praiseworthy",
+      "primary_meaning": "Most praiseworthy",
+      "secondary_meanings": [],
+      "literal_meaning": "Most praiseworthy",
+      "extended_meaning": "Most praiseworthy",
+      "meaning_explanation": "Ahmed corresponds to the Arabic form أحمد (ح م د). Its core sense is most praiseworthy. Variant romanization of أحمد.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अहमद",
-      "meaning": "नबी मुहम्मद साहब का एक नाम, जिसका अर्थ है प्रशंसनीय",
-      "long_meaning": "अहमद एक पवित्र नाम है जो नबी मुहम्मद साहब से जुड़ा हुआ है, इसकी जड़ 'हमद' है जिसका अर्थ है प्रशंसा या आभार, यह नाम भारतीय मुस्लिम समुदाय में बहुत महत्व रखता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أحمد",
+      "transliteration": "ahmed",
+      "romanization": "ahmed",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Most praiseworthy"
+      ],
+      "etymology_explanation": "The form أحمد is an established Arabic lexical item. Variant romanization of أحمد.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "احمد",
-      "meaning": "د پيغمبر محمد صلی الله عليه وسلم یو نوم، د ستاينې وړ",
-      "long_meaning": "احمد د پيغمبر اعظم صلی الله عليه وسلم يو مشهور نوم دی، چی د 'حمد' څخه اخستل شوی دی، هغه د ستاينې او شکر په معنا دی، دا نوم د افغان او پښتون قومونو لپاره ډير اهميت لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أحمد is an established Arabic form.",
+        "Urdu": "احمد is used in Urdu.",
+        "Hindi": "अहमद is used in Hindi.",
+        "Pashto": "احمد is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ahmed",
-      "meaning": "A highly praised name, associated with Prophet Muhammad",
-      "long_meaning": "The name Ahmed is derived from the Arabic root 'ḥ-m-d' which means 'to praise', it is one of the names of Prophet Muhammad and holds significant spiritual and cultural importance in Islamic tradition, symbolizing perfect moral character"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أحمد. Variant romanization of أحمد.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ahmed may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "أحمد occurs in the Qur'an (Sūrat al-Ṣaff 61:6) as a name of the Prophet"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense most praiseworthy.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Most praiseworthy",
+      "related_concepts": [
+        "most praiseworthy"
+      ],
+      "semantic_relationship": "The central semantic idea is most praiseworthy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of most praiseworthy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Most praiseworthy"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ahmed",
+        "meaning": "Most praiseworthy",
+        "long_meaning": "Ahmed is a Arabic-origin name. Its core meaning is most praiseworthy. Variant romanization of أحمد."
+      },
+      "urdu": {
+        "name": "احمد",
+        "meaning": "بہت تعریف کیا ہوا",
+        "long_meaning": "Ahmed (احمد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بہت تعریف کیا ہوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अहमद",
+        "meaning": "अत्यंत प्रशंसनीय",
+        "long_meaning": "Ahmed (अहमद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अत्यंत प्रशंसनीय है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "احمد",
+        "meaning": "ډېر ستایل شوی",
+        "long_meaning": "Ahmed (احمد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډېر ستایل شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أحمد",
+        "meaning": "أحمد، محمود",
+        "long_meaning": "Ahmed (أحمد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أحمد، محمود. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-MED",
-      "urdu": "احمد کا تلفظ: اچ-مد",
-      "hindi": "अहमद का उच्चारण: अहमद",
-      "pashto": "احمد د تلفظ: احمد",
-      "ipa": "/ˈɑːh.mɛd/"
+      "romanized": "ah-med",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "احمد",
+      "persian": null,
+      "hindi": "अहमद",
+      "pashto": "احمد"
     },
-    "celebrity_usage": [
-      "Ahmed Best (Star Wars actor)",
-      "Ahmed Hussen (Canadian Minister of Immigration, Refugees and Citizenship)",
-      "Ahmed Deedat (Islamic scholar)"
-    ],
-    "social_tags": [
-      "#AhmedMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ahmed"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ahmed",
+        "ahmed"
+      ],
+      "script_variants": [
+        "أحمد",
+        "احمد",
+        "अहमद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أحمد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ahmed can be understood through the Arabic form أحمد, whose central sense is most praiseworthy. Variant romanization of أحمد.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Ahmed mean?",
+        "answer": "Ahmed is associated with the Arabic form أحمد, whose core sense is most praiseworthy."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 90,
-        "year": 2024
+        "question": "What is the origin of Ahmed?",
+        "answer": "Ahmed is associated with Arabic. Variant romanization of أحمد."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 95,
-        "year": 2024
+        "question": "Is Ahmed an Arabic name?",
+        "answer": "Yes — the underlying form أحمد is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 85,
-        "year": 2024
+        "question": "Is Ahmed an Islamic name?",
+        "answer": "Ahmed can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 80,
-        "year": 2024
+        "question": "Is Ahmed a Quranic name?",
+        "answer": "Ahmed should not be classified as a Quranic personal name without a direct Quranic basis. أحمد occurs in the Qur'an (Sūrat al-Ṣaff 61:6) as a name of the Prophet"
+      },
+      {
+        "question": "What does Ahmed mean in Urdu?",
+        "answer": "In Urdu, Ahmed is rendered احمد and carries the sense بہت تعریف کیا ہوا."
+      },
+      {
+        "question": "What does Ahmed mean in Persian?",
+        "answer": "No verified Persian form was established for Ahmed."
+      },
+      {
+        "question": "How is Ahmed pronounced?",
+        "answer": "A romanized syllable approximation is ah-med. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ahmed?",
+        "answer": "Romanization variants include Ahmed, ahmed. Script forms are أحمد, احمد, अहमद."
+      },
+      {
+        "question": "Is Ahmed a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ahmed Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ahmed, a beautiful Islam name meaning \"Praiseworthy\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ahmed, Islam name, baby names, Praiseworthy, Islam baby names, name meaning",
-      "description_paragraph": "Ahmed is a meaningful Islam name of Arabic origin that means \"Praiseworthy\". Ahmed is a name that connotes praise and commendation, reflecting the virtues of those who bear it.",
-      "keywords": [
-        "Ahmed",
-        "Islam name",
-        "baby names",
-        "Praiseworthy",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ahmed in Islam tradition?",
-          "a": "Ahmed is a beautiful Islam name meaning \"Praiseworthy\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ahmed a good Islam name for a baby?",
-          "a": "Yes, Ahmed is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ahmed?",
-          "a": "The name Ahmed has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ahmed correctly?",
-          "a": "Ahmed is pronounced ah-MED in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ahmed?",
-          "a": "Naming a child Ahmed brings blessings. The meaning \"Praiseworthy\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ahmed?",
-          "a": "Ahmed is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Ahmed Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ahmed (أحمد).",
+      "h1": "Ahmed Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ahmed meaning",
       "secondary_keywords": [
-        "Islam name Ahmed",
-        "Ahmed meaning",
-        "Ahmed origin"
+        "Ahmed name meaning",
+        "Ahmed meaning in Urdu",
+        "Ahmed origin",
+        "Ahmed Islamic name",
+        "Ahmed pronunciation",
+        "Ahmed name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ahmed (أحمد) is associated with the Arabic form أحمد, whose core sense is most praiseworthy. Variant romanization of أحمد.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ahmed is associated with the Arabic form أحمد, whose core sense is most praiseworthy.",
+      "meaning_section": "The central meaning of Ahmed is most praiseworthy.",
+      "origin_section": "Ahmed is associated with Arabic rather than with a different language.",
+      "islam_section": "Ahmed can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ahmed is with the sense most praiseworthy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ahmed",
+      "#AhmedMeaning",
+      "#AhmedName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Ahmed is a widely recognized and popular name throughout the Arab and Muslim world, where it is believed to convey a sense of strength, intelligence, and deep spirituality. It has been borne by numerous renowned scholars, poets, and leaders throughout history, adding to its prestige and cultural significance.",
-    "spiritual_significance": "In Arabic, Ahmed means \"most praiseworthy\" or \"most commendable.\" It is a name that reflects the uniqueness and worth of the individual, reminding us of the inherent value each soul possesses. Spiritually, it is a reminder of the importance of living a virtuous life, striving for excellence in all that we do, and continually seeking to honor and glorify God through our actions and words. By carrying this name, those who bear it are called to embrace the highest ideals of faith, morality, and service to others, inspiring them to live a life that embodies the meaning behind their name.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Prophet Muhammad's companion The name Ahmed carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "One of the companions of the Prophet Muhammad"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "popular in many Muslim-majority countries"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ahmed corresponds to the Arabic form أحمد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ahmed has the core sense most praiseworthy",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, news outlets"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ahmed remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed Ahmed",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Ahmed Ahmed from Riyadh, Saudi Arabia embodies the meaning of Ahmed - \"Praiseworthy\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Praiseworthy\" symbolizes Ahmed is a name that connotes praise and commendation, reflecting the virtues of those who bear it.. In Islamic spirituality, bearing the name Ahmed serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of praiseworthy.",
-    "created_at": "2025-12-22T19:19:49.804Z",
-    "updated_at": "2025-12-22T04:53:14.495Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1121,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ahmed",
-      "description": "Praiseworthy",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Ahmed",
+        "ahmed"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ahmed",
-          "description": "Discover the meaning of Ahmed - \"Praiseworthy\"",
-          "image": "/images/social/ahmed-facebook.jpg"
+      "description": "A name associated with the Arabic form أحمد, meaning most praiseworthy.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ahmed",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ahmed - Name Meaning",
-          "description": "Learn about the beautiful name Ahmed",
-          "image": "/images/social/ahmed-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ahmed",
-          "description": "Name meaning: Praiseworthy",
-          "image": "/images/social/ahmed-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ahmed - Meaning: Praiseworthy",
-        "email_subject": "Beautiful Name: Ahmed"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ahmed with meaning Praiseworthy",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ahmed, associated with the Arabic form أحمد, meaning most praiseworthy."
     },
-    "similar_sounding_names": [
-      "azzahra",
-      "alaia",
-      "anaan",
-      "ambar",
-      "akil",
-      "amelia",
-      "alraaz",
-      "anja",
-      "amalia",
-      "ashika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

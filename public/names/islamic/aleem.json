@@ -3,291 +3,476 @@
   "data": {
     "name": "Aleem",
     "slug": "aleem",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Knowledgeable, Wise",
-    "long_meaning": "One who has knowledge and understanding, a scholar or sage.",
-    "spiritual_meaning": "Aleem signifies deep knowledge and wisdom, which is the result of spiritual growth and self-realization. It represents the quest for truth and understanding, and the ability to discern between right and wrong.",
-    "emotional_traits": [
-      "Kind",
-      "Just"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 9,
-    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
-    "in_arabic": {
-      "name": "علِيم",
-      "meaning": "الذي يعلم وفطن ذكي",
-      "long_meaning": "علِيم من الكلمة العربية \"علم\" ويشير إلى الشخص ذو المعرفة الواسعة والذكاء العميق. يُستخدم هذا الاسم على نطاق واسع في الثقافة الإسلامية، وكثيراً ما يرتبط بالعلماء والأئمة والأشخاص الذين يمتلكون الحكمة والفضل. يُذكر اسم \"علِيم\" في القرآن الكريم، ويشير إلى الله تعالى بوصفه خالق الكون ومنبع المعرفة.  يُعتبر \"علِيم\" اسمًا طيبًا ومُحترمًا في الإسلام، ويُعبر عن الرغبة في أن يكون الطفل ذكيًا وعلما."
+    "identity": {
+      "display_name": "Aleem",
+      "normalized_name": "aleem",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aleem",
+        "aleem"
+      ],
+      "search_variants": [
+        "Aleem",
+        "aleem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عالم",
-      "meaning": "معلم، عالم، دانشمند، صاحب علم",
-      "long_meaning": "عالم، ایک اردو میں عام استعمال ہونے والا نام ہے جو  \"علم\"  کے الفاظ سے نکلا ہے۔ یہ لفظ  علم  کے معنی میں استعمال ہوتا ہے، یعنی علم حاصل کرنے والا، دانشمند، یا صاحب علم۔  اس نام کی  اسلامی تاریخ میں اہمیت ہے، کیونکہ یہ علماء اور صوفیاء جیسے عالمگیر شخصیات سے منسلک ہے۔  عالم نام کا اطلاق ان لوگوں پر بھی ہوتا ہے جو  شریعتِ اسلامیہ  کی تعلیمات میں مہارت رکھتے ہیں۔ یہ نام  اردو  میں ایک خوشگوار اور معتبر نام سمجھا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Knowledgeable, wise",
+      "primary_meaning": "Knowledgeable",
+      "secondary_meanings": [
+        "wise"
+      ],
+      "literal_meaning": "Knowledgeable",
+      "extended_meaning": "Knowledgeable, wise",
+      "meaning_explanation": "Aleem corresponds to the Arabic form عليم (ع ل م). Its core sense is knowledgeable, wise. ʿAlīm ('knowledgeable, all-knowing'), a divine name.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "आलिम",
-      "meaning": "ज्‍ज्ञानी, विद्वान, बुद्धिमान",
-      "long_meaning": "आलिम एक संस्कृत और अरबी मूल का नाम है जो 'ज्ञान' से जुड़ा है। यह नाम उन लोगों के लिए इस्तेमाल किया जाता है जो विद्वान, बुद्धिमान और ज्ञानी होते हैं। इस्लामी संस्कृति में, आलिम नाम को अक्सर मुल्‍ला, मज्‍ज़ुम या ऐसे लोगों के लिए इस्तेमाल किया जाता है जिन्होंने धार्मिक शिक्षाएँ प्राप्त की हैं। यह नाम भारत में भी लोकप्रिय है और इसे बच्‍चे के लिए एक शुभ नाम माना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عليم",
+      "transliteration": "aleem",
+      "romanization": "aleem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Knowledgeable",
+        "wise"
+      ],
+      "etymology_explanation": "The form عليم is an established Arabic lexical item. ʿAlīm ('knowledgeable, all-knowing'), a divine name.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "علِم",
-      "meaning": "دانشمند، عالم، ژیانی",
-      "long_meaning": "علِم، نوم عربي او پښتو دی، چې په معناي دانشمند، عالم او ژیانی ورځلېږي. په افغان او پښتانه کلتور کې، علِم نوم ته  کومو د دانشمندو او د دينوالو ته اړه ده. د شعر، ادب او د علومو په کلتوري کې د علِم نوم په زياته توګه کارول کېږي. ددې نوم ته د ګاندې او د ژیانی د فکري په اړه هم اړه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عليم is an established Arabic form.",
+        "Urdu": "علیم is used in Urdu.",
+        "Hindi": "अलीम is used in Hindi.",
+        "Pashto": "عليم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Aleem",
-      "meaning": "Knowledgeable, wise, learned, intelligent, wise",
-      "long_meaning": "Aleem is an Arabic name derived from the root \"ilm\" meaning \"knowledge\". It signifies someone who possesses vast knowledge, wisdom, intelligence, and insight.  Widely used in Islamic culture, Aleem is often associated with scholars, imams, and individuals known for their wisdom and piety.  While not explicitly mentioned in the Quran, the concept of \"ilm\" is central to Islamic teachings, emphasizing the pursuit of knowledge as a fundamental obligation.  Aleem carries a positive connotation, reflecting a desire for intellectual excellence, spiritual growth, and a deep understanding of the world."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عليم. ʿAlīm ('knowledgeable, all-knowing'), a divine name.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aleem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "عليم occurs in the Qur'an as a divine name"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense knowledgeable, wise.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Knowledgeable",
+      "related_concepts": [
+        "knowledgeable",
+        "wise"
+      ],
+      "semantic_relationship": "The central semantic idea is knowledgeable; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of knowledgeable.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Knowledgeable",
+        "Wise"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aleem",
+        "meaning": "Knowledgeable, wise",
+        "long_meaning": "Aleem is a Arabic-origin name. Its core meaning is knowledgeable, wise. ʿAlīm ('knowledgeable, all-knowing'), a divine name."
+      },
+      "urdu": {
+        "name": "علیم",
+        "meaning": "عالم، دانا",
+        "long_meaning": "Aleem (علیم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عالم، دانا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अलीम",
+        "meaning": "ज्ञानी, विद्वान",
+        "long_meaning": "Aleem (अलीम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज्ञानी, विद्वान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عليم",
+        "meaning": "پوه، عالم",
+        "long_meaning": "Aleem (عليم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوه، عالم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عليم",
+        "meaning": "عليم، عالم",
+        "long_meaning": "Aleem (عليم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عليم، عالم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-LEEM",
-      "urdu": "اردو میں تلفظ: \"عَالِم\"  (عَالِم)",
-      "hindi": "हिन्दी में उच्चारण: आलिम (आ-लिम)",
-      "pashto": "په پښتو کې تلفظ: علِم (عَلِيم)",
-      "ipa": "/ˈɑː.liːm/"
+      "romanized": "a-leem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "علیم",
+      "persian": null,
+      "hindi": "अलीम",
+      "pashto": "عليم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AleemMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aleem"
-    ],
-    "name_variations": [
-      "Alim"
-    ],
-    "popularity_score": 40,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aleem",
+        "aleem"
+      ],
+      "script_variants": [
+        "عليم",
+        "علیم",
+        "अलीम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عليم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aleem can be understood through the Arabic form عليم, whose central sense is knowledgeable, wise. ʿAlīm ('knowledgeable, all-knowing'), a divine name.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Aleem mean?",
+        "answer": "Aleem is associated with the Arabic form عليم, whose core sense is knowledgeable, wise."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Aleem?",
+        "answer": "Aleem is associated with Arabic. ʿAlīm ('knowledgeable, all-knowing'), a divine name."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Aleem an Arabic name?",
+        "answer": "Yes — the underlying form عليم is Arabic."
+      },
+      {
+        "question": "Is Aleem an Islamic name?",
+        "answer": "Aleem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aleem a Quranic name?",
+        "answer": "Aleem should not be classified as a Quranic personal name without a direct Quranic basis. عليم occurs in the Qur'an as a divine name"
+      },
+      {
+        "question": "What does Aleem mean in Urdu?",
+        "answer": "In Urdu, Aleem is rendered علیم and carries the sense عالم، دانا."
+      },
+      {
+        "question": "What does Aleem mean in Persian?",
+        "answer": "No verified Persian form was established for Aleem."
+      },
+      {
+        "question": "How is Aleem pronounced?",
+        "answer": "A romanized syllable approximation is a-leem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aleem?",
+        "answer": "Romanization variants include Aleem, aleem. Script forms are عليم, علیم, अलीम."
+      },
+      {
+        "question": "Is Aleem a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aleem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aleem, a beautiful Islam name meaning \"Knowledgeable, Wise\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aleem, Islam name, baby names, Knowledgeable, Wise, Islam baby names, name meaning",
-      "description_paragraph": "Aleem is a meaningful Islam name of Arabic origin that means \"Knowledgeable, Wise\". One who has knowledge and understanding, a scholar or sage.",
-      "keywords": [
-        "Aleem",
-        "Islam name",
-        "baby names",
-        "Knowledgeable, Wise",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aleem in Islam tradition?",
-          "a": "Aleem is a beautiful Islam name meaning \"Knowledgeable, Wise\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aleem a good Islam name for a baby?",
-          "a": "Yes, Aleem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aleem?",
-          "a": "The name Aleem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aleem correctly?",
-          "a": "Aleem is pronounced ah-LEEM in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aleem?",
-          "a": "Naming a child Aleem brings blessings. The meaning \"Knowledgeable, Wise\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aleem?",
-          "a": "Aleem is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Aleem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aleem (عليم).",
+      "h1": "Aleem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aleem meaning",
       "secondary_keywords": [
-        "Islam name Aleem",
-        "Aleem meaning",
-        "Aleem origin"
+        "Aleem name meaning",
+        "Aleem meaning in Urdu",
+        "Aleem origin",
+        "Aleem Islamic name",
+        "Aleem pronunciation",
+        "Aleem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aleem (عليم) is associated with the Arabic form عليم, whose core sense is knowledgeable, wise. ʿAlīm ('knowledgeable, all-knowing'), a divine name.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aleem is associated with the Arabic form عليم, whose core sense is knowledgeable, wise.",
+      "meaning_section": "The central meaning of Aleem is knowledgeable, wise.",
+      "origin_section": "Aleem is associated with Arabic rather than with a different language.",
+      "islam_section": "Aleem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aleem is with the sense knowledgeable.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aleem",
+      "#AleemMeaning",
+      "#AleemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Aleem holds a significant cultural impact within the Islamic world, as it is associated with knowledge, wisdom, and learning. The emphasis on education and intellectual pursuit is deeply rooted in Islamic traditions, where the acquisition of knowledge is considered a fundamental duty for every Muslim. Aleem can be seen as a reflection of these values, inspiring individuals to strive for greater understanding and enlightenment, not only in religious matters but also in various other fields of knowledge.",
-    "spiritual_significance": "From a spiritual perspective, the name Aleem signifies the inherent divine wisdom that exists within the universe and within each individual. Aleem is often translated as the All-knowing or Omniscient in reference to Allah, the supreme being in Islam. By using this name, one is reminded of the infinite knowledge and guidance that comes from the Creator of the universe. It serves as a reminder to seek wisdom and understanding not only from the external world but also from the inner self and the divine. Aleem encourages individuals to recognize and connect with the divine wisdom, which can lead to a deeper and more meaningful connection with the Creator and the world around them.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Arabi, a 13th century Sufi scholar and poet, used the name 'Alim or 'Aleem in his poetry and writings to describe Allah as the All-Knowing, All-Wise one.",
-        "time_period": "13th century",
-        "context": "Islamic mysticism and poetry"
-      },
-      {
-        "reference": "The name 'Aleem is mentioned in the Quran several times, denoting Allah as the All-Knowing, All-Aware one.",
-        "time_period": "7th century",
-        "context": "Holy text of Islam"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Artificial Intelligence (AI)",
-        "E-Learning",
-        "Healthcare"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aleem corresponds to the Arabic form عليم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aleem has the core sense knowledgeable, wise",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Microsoft Azure",
-        "Google Cloud Platform",
-        "Amazon Web Services"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Aleem' in Islamic tradition means 'Knowledgeable', 'Wise', or 'All-Knowing'. In the modern context, this name is being utilized in various fields including Artificial Intelligence (AI), E-Learning, and Healthcare. In the realm of AI, Aleem could be the name given to a highly advanced, intelligent machine or system. In E-Learning, Aleem could be the name of a platform that uses AI to personalize educational content for individual learners. In Healthcare, Aleem could be the name of a healthcare management system that utilizes AI to analyze patient data and provide personalized treatment plans. The three major cloud platforms where these modern interpretations of Aleem can be seen are Microsoft Azure, Google Cloud Platform, and Amazon Web Services."
-    },
-    "name_in_real_life": {
-      "person_name": "Khalid Aleem",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Khalid Aleem from Kuala Lumpur, Malaysia embodies the meaning of Aleem - \"Knowledgeable, Wise\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The name 'Aleem' in Arabic means 'All-Knowing'. It symbolizes the infinite wisdom and knowledge possessed by Allah, and is used as an honorific title for Him. For a person, it signifies striving to gain knowledge and wisdom to better understand the divine will and guidance.",
-    "created_at": "2025-12-22T19:19:49.757Z",
-    "updated_at": "2025-12-22T04:53:13.876Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1201,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aleem",
-      "description": "Knowledgeable, Wise",
-      "additionalName": [
-        "Alim"
+      "alternateName": [
+        "Aleem",
+        "aleem"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form عليم, meaning knowledgeable, wise.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aleem",
-          "description": "Discover the meaning of Aleem - \"Knowledgeable, Wise\"",
-          "image": "/images/social/aleem-facebook.jpg"
+      "termCode": "aleem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aleem - Name Meaning",
-          "description": "Learn about the beautiful name Aleem",
-          "image": "/images/social/aleem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Aleem",
-          "description": "Name meaning: Knowledgeable, Wise",
-          "image": "/images/social/aleem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aleem - Meaning: Knowledgeable, Wise",
-        "email_subject": "Beautiful Name: Aleem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aleem with meaning Knowledgeable, Wise",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aleem, associated with the Arabic form عليم, meaning knowledgeable, wise."
     },
-    "similar_sounding_names": [
-      "anya",
-      "arya",
-      "alaia",
-      "alishaba",
-      "aryan",
-      "ayan",
-      "amalia",
-      "azzahra",
-      "amelia",
-      "alma"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

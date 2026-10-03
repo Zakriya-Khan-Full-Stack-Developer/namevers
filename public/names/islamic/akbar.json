@@ -3,301 +3,476 @@
   "data": {
     "name": "Akbar",
     "slug": "akbar",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Pashto",
-      "Hindi"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Greatest, Most Powerful",
-    "long_meaning": "Akbar is a powerful Arabic name meaning 'greatest' or 'most powerful'. It is widely known from the phrase 'Allahu Akbar' meaning 'Allah is the Greatest'. The name symbolizes strength, grandeur, and divine glory.",
-    "spiritual_meaning": "Represents greatness in character, leadership, and faith — someone who reflects divine majesty and honor.",
-    "emotional_traits": [
-      "Strong",
-      "Commanding",
-      "Noble",
-      "Respected"
-    ],
-    "hidden_personality_traits": [
-      "A = Ambitious spirit",
-      "K = Kingly character",
-      "B = Bold in action",
-      "A = Admirer of justice",
-      "R = Radiates strength"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Red",
-      "Gold"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 8,
-    "numerology_meaning": "Number 1 represents leadership, strength, and confidence — qualities that align with the name Akbar’s meaning of greatness.",
-    "in_arabic": {
-      "name": "أكبر",
-      "meaning": "الأعظم، الأكثر عظمة، الأكبر من كل شيء",
-      "long_meaning": "اسم مشتق من كلمة 'كبر' التي تعني العظمة. يوحي هذا الاسم بالعظمة والكبر في المعنى، وقد استخدم في القرآن الكريم للإشارة إلى الله عز وجل كونه الأعظم. في التاريخ الإسلامي، كان الإمام الأكبر أحد ألقاب الإمام الجليل أحمد بن حنبل، كما كان الملك الأكبر لقبًا للملك المسلم الشهير جلال الدين محمد أكبر."
+    "identity": {
+      "display_name": "Akbar",
+      "normalized_name": "akbar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Akbar",
+        "akbar"
+      ],
+      "search_variants": [
+        "Akbar",
+        "akbar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اکبر",
-      "meaning": "سب سے بڑا، عظیم، بیشترین بزرگی",
-      "long_meaning": "یہ نام عربی زبان کی 'کبر' سے ماخوذ ہے جس کا مطلب ہے عظمت۔ یہ نام اسلامی تاریخ میں بہت اہمیت رکھتا ہے، خاص طور پر مغل بادشاہ جلال الدین محمد اکبر کے سبب، جو ہندوستان میں اسلامی حکمرانی کے سب سے مشہور فاتحین میں سے ایک تھے۔ اس نام کا انتخاب کرنا والدین کے لئے فخر اور اعزاز کا باعث ہوتا ہے کیونکہ یہ عظمت، حکمت، اور بہترین صفات کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Greatest, most powerful",
+      "primary_meaning": "Greatest",
+      "secondary_meanings": [
+        "most powerful"
+      ],
+      "literal_meaning": "Greatest",
+      "extended_meaning": "Greatest, most powerful",
+      "meaning_explanation": "Akbar corresponds to the Arabic form أكبر (ك ب ر). Its core sense is greatest, most powerful. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605).",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अकबर",
-      "meaning": "सबसे बड़ा, महानतम, अत्यधिक महत्व",
-      "long_meaning": "यह नाम 'कब्र' से लिया गया है जिसका अर्थ है महानता। अकबर नाम का अर्थ है सबसे बड़ा या श्रेष्ठतम। यह नाम भारतीय इतिहास में बहुत प्रसिद्ध है, खासकर मughal बादशाह जलालुद्दीन मुहम्मद अकबर के कारण। इस नाम का चयन करना माता-पिता के लिए गर्व की बात होती है क्योंकि यह महानता, बुद्धिमत्ता और उत्कृष्टता का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أكبر",
+      "transliteration": "akbar",
+      "romanization": "akbar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Greatest",
+        "most powerful"
+      ],
+      "etymology_explanation": "The form أكبر is an established Arabic lexical item. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605).",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اکبر",
-      "meaning": "لوی، ډیر لوی، اعظم",
-      "long_meaning": "دا نوم د 'کبر' څخه اخیستل شوی دی چې معنی یې عظمت دی. دا نوم د افغانستان او پاکستان د تاریخ په اوږدو کې د یو لوی شخصیت په توګه پیژندل شوی دی، خاص طور د مغل امپراتور اکبر په نامه. دا نوم د لویوالي، حکمت او غوره صفاتو د نښانې په توګه کارول کېږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أكبر is an established Arabic form.",
+        "Urdu": "اکبر is used in Urdu.",
+        "Hindi": "अकबर is used in Hindi.",
+        "Pashto": "اکبر is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Akbar",
-      "meaning": "The greatest, largest, most magnificent",
-      "long_meaning": "The name Akbar is derived from the Arabic root 'k-b-r' which means 'to be great'. This name holds significant importance in Islamic history, particularly associated with Mughal Emperor Jalaluddin Muhammad Akbar, who was a renowned ruler and leader. The name symbolizes greatness, wisdom, and superior qualities. It is often chosen for its powerful connotation and historical significance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أكبر. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605).",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Akbar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ك ب ر occurs in the Qur'an; أكبر is the elative of كبير"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense greatest, most powerful.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Greatest",
+      "related_concepts": [
+        "greatest",
+        "most powerful"
+      ],
+      "semantic_relationship": "The central semantic idea is greatest; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of greatest.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Greatest",
+        "Most powerful"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Akbar",
+        "meaning": "Greatest, most powerful",
+        "long_meaning": "Akbar is a Arabic-origin name. Its core meaning is greatest, most powerful. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605)."
+      },
+      "urdu": {
+        "name": "اکبر",
+        "meaning": "سب سے بڑا، سب سے زبردست",
+        "long_meaning": "Akbar (اکبر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سب سے بڑا، سب سے زبردست ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अकबर",
+        "meaning": "सबसे बड़ा, सर्वशक्तिमान",
+        "long_meaning": "Akbar (अकबर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सबसे बड़ा, सर्वशक्तिमान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اکبر",
+        "meaning": "تر ټولو لوی، ځواکمن",
+        "long_meaning": "Akbar (اکبر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې تر ټولو لوی، ځواکمن ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أكبر",
+        "meaning": "أكبر، أعظم",
+        "long_meaning": "Akbar (أكبر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أكبر، أعظم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "AHK-bar",
-      "urdu": "اردو میں تلفظ کی تفصیل: اکبر (UK: /ˈækbər/ AK-bər, US: /ˈɑːkbər/ AHK-bər)",
-      "hindi": "हिन्दी में उच्चारण विवरण: अकबर (अक-बर)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: اکبر (akh-bar)",
-      "ipa": "/ˈæk.bər/"
+      "romanized": "ak-bar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اکبر",
+      "persian": null,
+      "hindi": "अकबर",
+      "pashto": "اکبر"
     },
-    "celebrity_usage": [
-      "Emperor Akbar the Great (Mughal Empire)"
-    ],
-    "social_tags": [
-      "#AkbarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Akbar"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Akbar",
+        "akbar"
+      ],
+      "script_variants": [
+        "أكبر",
+        "اکبر",
+        "अकबर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أكبر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Akbar can be understood through the Arabic form أكبر, whose central sense is greatest, most powerful. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605).",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 71,
-        "year": 2024
+        "question": "What does Akbar mean?",
+        "answer": "Akbar is associated with the Arabic form أكبر, whose core sense is greatest, most powerful."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 71,
-        "year": 2024
+        "question": "What is the origin of Akbar?",
+        "answer": "Akbar is associated with Arabic. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605)."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Akbar an Arabic name?",
+        "answer": "Yes — the underlying form أكبر is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Akbar an Islamic name?",
+        "answer": "Akbar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Akbar a Quranic name?",
+        "answer": "Akbar should not be classified as a Quranic personal name without a direct Quranic basis. root ك ب ر occurs in the Qur'an; أكبر is the elative of كبير"
+      },
+      {
+        "question": "What does Akbar mean in Urdu?",
+        "answer": "In Urdu, Akbar is rendered اکبر and carries the sense سب سے بڑا، سب سے زبردست."
+      },
+      {
+        "question": "What does Akbar mean in Persian?",
+        "answer": "No verified Persian form was established for Akbar."
+      },
+      {
+        "question": "How is Akbar pronounced?",
+        "answer": "A romanized syllable approximation is ak-bar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Akbar?",
+        "answer": "Romanization variants include Akbar, akbar. Script forms are أكبر, اکبر, अकबर."
+      },
+      {
+        "question": "Is Akbar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Akbar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Akbar, a beautiful Islam name meaning \"Greatest, Most Powerful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Akbar, Islam name, baby names, Greatest, Most Powerful, Islam baby names, name meaning",
-      "description_paragraph": "Akbar is a meaningful Islam name of Arabic origin that means \"Greatest, Most Powerful\". Akbar is a powerful Arabic name meaning 'greatest' or 'most powerful'. It is widely known from the phrase 'Allahu Akbar' meaning 'Allah is the Greatest'. The name symbolizes strength, grandeur, and divine glory.",
-      "keywords": [
-        "Akbar",
-        "Islam name",
-        "baby names",
-        "Greatest, Most Powerful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Akbar in Islam tradition?",
-          "a": "Akbar is a beautiful Islam name meaning \"Greatest, Most Powerful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Akbar a good Islam name for a baby?",
-          "a": "Yes, Akbar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Akbar?",
-          "a": "The name Akbar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Akbar correctly?",
-          "a": "Akbar is pronounced AHK-bar in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Akbar?",
-          "a": "Naming a child Akbar brings blessings. The meaning \"Greatest, Most Powerful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Akbar?",
-          "a": "Akbar is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Akbar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Akbar (أكبر).",
+      "h1": "Akbar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Akbar meaning",
       "secondary_keywords": [
-        "Islam name Akbar",
-        "Akbar meaning",
-        "Akbar origin"
+        "Akbar name meaning",
+        "Akbar meaning in Urdu",
+        "Akbar origin",
+        "Akbar Islamic name",
+        "Akbar pronunciation",
+        "Akbar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Akbar (أكبر) is associated with the Arabic form أكبر, whose core sense is greatest, most powerful. Akbar ('greatest'), elative of كبير; also the name of the Mughal emperor Akbar (r. 1556-1605).",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Akbar is associated with the Arabic form أكبر, whose core sense is greatest, most powerful.",
+      "meaning_section": "The central meaning of Akbar is greatest, most powerful.",
+      "origin_section": "Akbar is associated with Arabic rather than with a different language.",
+      "islam_section": "Akbar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Akbar is with the sense greatest.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Akbar",
+      "#AkbarMeaning",
+      "#AkbarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Akbar is a name that holds immense cultural significance in Islamic history due to the famous Mughal Emperor, Akbar (1542-1605 AD), who ruled the Indian subcontinent for over four decades. The empire flourished under Emperor Akbar's reign, and it became a center of arts, science, and culture. His legacy left an indelible mark on Indian history and is remembered for spreading religious harmony among various religious communities. Hence, the name Akbar is associated with great leadership, cultural advancement, and religious tolerance.",
-    "spiritual_significance": "The name Akbar carries profound spiritual significance in the Islamic tradition. It is a constant reminder of the greatness and power of Allah. Allahu Akbar ('Allah is the Greatest') is a phrase repeated countless times in prayer and praises of Allah's infinite power and glory. Muslims believe that every single atom in existence belongs to Allah, making His greatness boundless and eternal. The name Akbar is an inspiration to strive for greater faith, knowledge, and God-consciousness, reminding us to see the world through the lens of Allah's greatness.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Akbar was the Mughal Emperor from 1556 to 1605. The name Akbar carried significant weight in that era.",
-        "time_period": "16th century",
-        "context": "Akbar ruled the Mughal Empire during the Renaissance period in India."
-      },
-      {
-        "reference": "Historical records show that He is known for his religious tolerance and patronage of arts and sciences. The name Akbar carried significant weight in that era.",
-        "time_period": "16th century",
-        "context": "Akbar was a significant figure in Indian history and is remembered for his contributions to the arts, sciences, and culture."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Akbar is a popular name for boys in India and Pakistan"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Akbar corresponds to the Arabic form أكبر",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Akbar has the core sense greatest, most powerful",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, baby name websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Akbar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Akbar",
-      "location": "Dubai, UAE",
-      "story": "Yusuf Akbar from Dubai, UAE embodies the meaning of Akbar - \"Greatest, Most Powerful\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "Akbar: \"Great\" or \"The Greatest\". This name signifies one who is extraordinary, exceptional, and above the ordinary. It is a reminder to strive for greatness in faith, wisdom, and good deeds, embodying the spirit of excellence, expansion, and growth.",
-    "created_at": "2025-06-29T21:00:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.029Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1797,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Akbar",
-      "description": "Greatest, Most Powerful",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Pashto",
-        "Hindi"
+      "alternateName": [
+        "Akbar",
+        "akbar"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Akbar",
-          "description": "Discover the meaning of Akbar - \"Greatest, Most Powerful\"",
-          "image": "/images/social/akbar-facebook.jpg"
+      "description": "A name associated with the Arabic form أكبر, meaning greatest, most powerful.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "akbar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Akbar - Name Meaning",
-          "description": "Learn about the beautiful name Akbar",
-          "image": "/images/social/akbar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Akbar",
-          "description": "Name meaning: Greatest, Most Powerful",
-          "image": "/images/social/akbar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Akbar - Meaning: Greatest, Most Powerful",
-        "email_subject": "Beautiful Name: Akbar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Akbar with meaning Greatest, Most Powerful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Akbar, associated with the Arabic form أكبر, meaning greatest, most powerful."
     },
-    "similar_sounding_names": [
-      "arya",
-      "alma",
-      "aryan",
-      "ashika",
-      "alishaba",
-      "akil",
-      "aidan",
-      "ariana",
-      "amala",
-      "aaidah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

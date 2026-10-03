@@ -3,279 +3,477 @@
   "data": {
     "name": "Kaseem",
     "slug": "kaseem",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Bringer of good news",
-    "long_meaning": "Someone who brings good news, has a beautiful face and is a warrior. Derived from the Arabic word 'qasama' meaning 'to bring news'.",
-    "spiritual_meaning": "Symbolizes the spirit of spreading good news and positivity in the community.",
-    "emotional_traits": [
-      "Optimistic",
-      "Hopeful",
-      "Confident"
-    ],
-    "hidden_personality_traits": [
-      "Compassionate",
-      "Gentle",
-      "Sensitive"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Brown"
-    ],
-    "lucky_stone": "Tiger Eye",
-    "life_path_number": 6,
-    "numerology_meaning": "A nurturing and loving person, with a deep inner sense of responsibility. They are caring, compassionate and a good listener. They have a strong need to be of service to others.",
-    "in_arabic": {
-      "name": "كاسم",
-      "meaning": "مكنس",
-      "long_meaning": "من كان سمعه من السماء على الأرض"
+    "identity": {
+      "display_name": "Kaseem",
+      "normalized_name": "kaseem",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kaseem",
+        "kaseem"
+      ],
+      "search_variants": [
+        "Kaseem",
+        "kaseem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کاسم",
-      "meaning": "کنس",
-      "long_meaning": "سمع میں سے اور سامنا سے وہ ہوا"
+    "core_meaning": {
+      "short_meaning": "Qasim; divider, distributor",
+      "primary_meaning": "Qasim; divider",
+      "secondary_meanings": [
+        "distributor"
+      ],
+      "literal_meaning": "Qasim; divider",
+      "extended_meaning": "Qasim; divider, distributor",
+      "meaning_explanation": "Kaseem corresponds to the Arabic form قاسم (Arabic root ق س م (q-s-m); قَاسِم (Qāsim)). Its core sense is qasim; divider, distributor. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "कासम",
-      "meaning": "कनस",
-      "long_meaning": "समझ नहीं पाने वाले समस्याओ से वह पवित्र हवा"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قاسم",
+      "transliteration": "kaseem",
+      "romanization": "kaseem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Qasim; divider",
+        "distributor"
+      ],
+      "etymology_explanation": "The form قاسم is an established Arabic lexical item. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "كاسم",
-      "meaning": "کنس",
-      "long_meaning": "سمع میں سے اور سامنا سے وہ پویا براہکار"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "قاسم is an established Arabic form.",
+        "Urdu": "قاسم is used in Urdu.",
+        "Persian": "قاسم is an established Persian form.",
+        "Hindi": "क़ासिम is used in Hindi.",
+        "Pashto": "قاسم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Kaseem",
-      "meaning": "He who is heard from the sky on earth",
-      "long_meaning": "One who is a divine messenger, heard from the heavens and spoken on earth."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form قاسم. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kaseem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense qasim; divider, distributor.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qasim; divider",
+      "related_concepts": [
+        "qasim; divider",
+        "distributor"
+      ],
+      "semantic_relationship": "The central semantic idea is qasim; divider; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of qasim; divider.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Qasim; divider",
+        "Distributor"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kaseem",
+        "meaning": "Qasim; divider, distributor",
+        "long_meaning": "Kaseem is a Arabic-origin name. Its core meaning is qasim; divider, distributor. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim."
+      },
+      "urdu": {
+        "name": "قاسم",
+        "meaning": "قاسم، تقسیم کرنے والا",
+        "long_meaning": "Kaseem (قاسم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قاسم، تقسیم کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "قاسم",
+        "meaning": "قاسم، تقسیمکننده",
+        "long_meaning": "Kaseem (قاسم) نامی برگرفته از زبان عربی است و معنای اصلی آن قاسم، تقسیمکننده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "क़ासिम",
+        "meaning": "क़ासिम, बाँटने वाला",
+        "long_meaning": "Kaseem (क़ासिम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ क़ासिम, बाँटने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "قاسم",
+        "meaning": "قاسم، وېشونکی",
+        "long_meaning": "Kaseem (قاسم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې قاسم، وېشونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "قاسم",
+        "meaning": "القاسم، المقسّم، الموزّع",
+        "long_meaning": "Kaseem (قاسم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي القاسم، المقسّم، الموزّع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈkæsɪm/, /kəˈsiːm/",
-      "urdu": "/ˈkɑːsɪm/, /kɑːˈsiːm/",
-      "hindi": "/ˈkɑːsɪm/, /kɑːˈsiːm/",
-      "pashto": "/ˈkɑːsɪm/, /kɑːˈsiːm/"
+      "romanized": "ka-seem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "قاسم",
+      "persian": "قاسم",
+      "hindi": "क़ासिम",
+      "pashto": "قاسم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KaseemMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [
-      "Kasim"
-    ],
-    "popularity_score": 51,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kaseem",
+        "kaseem"
+      ],
+      "script_variants": [
+        "قاسم",
+        "क़ासिम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form قاسم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kaseem can be understood through the Arabic form قاسم, whose central sense is qasim; divider, distributor. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Kaseem mean?",
+        "answer": "Kaseem is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Kaseem?",
+        "answer": "Kaseem is associated with Arabic. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Kaseem an Arabic name?",
+        "answer": "Yes — the underlying form قاسم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Kaseem an Islamic name?",
+        "answer": "Kaseem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Kaseem a Quranic name?",
+        "answer": "Kaseem should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kaseem mean in Urdu?",
+        "answer": "In Urdu, Kaseem is rendered قاسم and carries the sense قاسم، تقسیم کرنے والا."
+      },
+      {
+        "question": "What does Kaseem mean in Persian?",
+        "answer": "In Persian, Kaseem is rendered قاسم and carries the sense قاسم، تقسیمکننده."
+      },
+      {
+        "question": "How is Kaseem pronounced?",
+        "answer": "A romanized syllable approximation is ka-seem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kaseem?",
+        "answer": "Romanization variants include Kaseem, kaseem. Script forms are قاسم, क़ासिम."
+      },
+      {
+        "question": "Is Kaseem a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kaseem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kaseem, a beautiful Islam name meaning \"Bringer of good news\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kaseem, Islam name, baby names, Bringer of good news, Islam baby names, name meaning",
-      "description_paragraph": "Kaseem is a meaningful Islam name of Arabic origin that means \"Bringer of good news\". Someone who brings good news, has a beautiful face and is a warrior. Derived from the Arabic word 'qasama' meaning 'to bring news'.",
-      "keywords": [
-        "Kaseem",
-        "Islam name",
-        "baby names",
-        "Bringer of good news",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kaseem in Islam tradition?",
-          "a": "Kaseem is a beautiful Islam name meaning \"Bringer of good news\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kaseem a good Islam name for a baby?",
-          "a": "Yes, Kaseem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kaseem?",
-          "a": "The name Kaseem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kaseem correctly?",
-          "a": "Kaseem is pronounced /ˈkæsɪm/, /kəˈsiːm/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kaseem?",
-          "a": "Naming a child Kaseem brings blessings. The meaning \"Bringer of good news\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kaseem?",
-          "a": "Kaseem is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Kaseem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kaseem (قاسم).",
+      "h1": "Kaseem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kaseem meaning",
       "secondary_keywords": [
-        "Islam name Kaseem",
-        "Kaseem meaning",
-        "Kaseem origin"
+        "Kaseem name meaning",
+        "Kaseem meaning in Urdu",
+        "Kaseem origin",
+        "Kaseem Islamic name",
+        "Kaseem pronunciation",
+        "Kaseem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kaseem (قاسم) is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor. Kaseem is Arabic قَاسِم (Qāsim) 'divider, distributor', from the root ق س م (q-s-m); it is a well-documented male given name. CRITICAL SOURCE ERROR: the source gave كاسم (a different form) and glossed the name 'Bringer of good news'; the correct form is قَاسِم. Same name as kasim.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kaseem is associated with the Arabic form قاسم, whose core sense is qasim; divider, distributor.",
+      "meaning_section": "The central meaning of Kaseem is qasim; divider, distributor.",
+      "origin_section": "Kaseem is associated with Arabic rather than with a different language.",
+      "islam_section": "Kaseem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kaseem is with the sense qasim; divider.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kaseem",
+      "#KaseemMeaning",
+      "#KaseemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name 'Kaseem' has a rich cultural heritage, originating from the Arabic language. It is a unique name that has historical roots, and carries a noble meaning, synonymous with bringing good news and being a warrior. This name has greatly influenced Islamic culture by instilling a sense of hope and resilience through the imagery of bearing good tidings.",
-    "spiritual_significance": "From a spiritual perspective, the name 'Kaseem' holds deep symbolism for those who bear this name or interact with individuals named Kaseem. It serves as a reminder of the importance of delivering good news and being a source of positivity and strength in the face of adversity. It can also be seen as a reflection of the divine attribute of 'Mercy' and 'Forgiveness', as the act of delivering good news can often bring relief and comfort in challenging times. Additionally, thename evokes images of bravery and steadfastness, encouraging those with this name to strive for excellence and carry their faith with dignity and courage.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Kaseem carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kaseem corresponds to the Arabic form قاسم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Kaseem has the core sense qasim; divider, distributor",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kaseem remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Kaseem",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Maryam Kaseem from Riyadh, Saudi Arabia embodies the meaning of Kaseem - \"Bringer of good news\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Bringer of good news\" symbolizes Someone who brings good news, has a beautiful face and is a warrior. Derived from the Arabic word 'qasama' meaning 'to bring news'.. In Islamic spirituality, bearing the name Kaseem serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of bringer of good news.",
-    "created_at": "2025-12-22T19:19:50.34Z",
-    "updated_at": "2025-12-22T04:53:16.058Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1616,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kaseem",
-      "description": "Bringer of good news",
-      "additionalName": [
-        "Kasim"
+      "alternateName": [
+        "Kaseem",
+        "kaseem"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form قاسم, meaning qasim; divider, distributor.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kaseem",
-          "description": "Discover the meaning of Kaseem - \"Bringer of good news\"",
-          "image": "/images/social/kaseem-facebook.jpg"
+      "termCode": "kaseem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kaseem - Name Meaning",
-          "description": "Learn about the beautiful name Kaseem",
-          "image": "/images/social/kaseem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kaseem",
-          "description": "Name meaning: Bringer of good news",
-          "image": "/images/social/kaseem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kaseem - Meaning: Bringer of good news",
-        "email_subject": "Beautiful Name: Kaseem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kaseem with meaning Bringer of good news",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kaseem, associated with the Arabic form قاسم, meaning qasim; divider, distributor."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

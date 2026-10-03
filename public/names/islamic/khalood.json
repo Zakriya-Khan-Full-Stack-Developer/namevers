@@ -3,283 +3,477 @@
   "data": {
     "name": "Khalood",
     "slug": "khalood",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Immortal, Everlasting",
-    "long_meaning": "Derived from the Arabic word 'khuld', Khalood signifies one who is eternal, immortal, or everlasting.",
-    "spiritual_meaning": "In Islamic tradition, Khalood is reminiscent of Jannat-ul-Khuld (Garden of Eternity), a paradise promised to the righteous in the afterlife.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Pink",
-      "Red"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 7,
-    "numerology_meaning": "A spiritual and intuitive person, Khalood is known for her sensitivity and creativity",
-    "in_arabic": {
-      "name": "خلود",
-      "meaning": "خلود يعني البقاء و الدوام في الجنة",
-      "long_meaning": "اسم خلود مشتق من الفعل خلد، يعني البقاء و الدوام. في القرآن الكريم، يأتي ذكر الخلد في سياق النعيم الإلهي، حيث وعد الله عباده الصالحين بالخلد في الجنة. اسم خلود يحمل دلالة روحية عميقة، حيث يعبر عن الرغبة في الحياة الأبدية في رضا الله. تاريخيا، كان اسم خلود شائعًا بين المسلمين لما له من معنى جميل و محبب."
+    "identity": {
+      "display_name": "Khalood",
+      "normalized_name": "khalood",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Khalood",
+        "khalood"
+      ],
+      "search_variants": [
+        "Khalood",
+        "khalood"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "خلود",
-      "meaning": "خلود کا مطلب ہے ہمیشہ کے لئے جنت میں رہنا",
-      "long_meaning": "خلود ایک عربی نام ہے جس کا مطلب ہے ہمیشہ کے لئے جنت میں رہنا۔ یہ نام خلد سے ماخوذ ہے، جس کا مطلب ہے ہمیشہ رہنا یا دائمی۔ اسلامی تقالید میں، خلود جنت میں الخلد و بقاء کا ایک خوبصورت تصور ہے۔ جنوبی ایشیائی مسلمانوں کے لئے، یہ نام دائمی نعمتوں اور سکون کی خواہش کا اظہار کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Immortality, eternity",
+      "primary_meaning": "Immortality",
+      "secondary_meanings": [
+        "eternity"
+      ],
+      "literal_meaning": "Immortality",
+      "extended_meaning": "Immortality, eternity",
+      "meaning_explanation": "Khalood corresponds to the Arabic form خلود (Arabic root خ ل د (kh-l-d); خُلُود (Khulūd)). Its core sense is immortality, eternity. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "खलूद",
-      "meaning": "खलूद का अर्थ है स्वर्ग में शाश्वत निवास",
-      "long_meaning": "खलूद एक अरबी नाम है जिसका अर्थ है स्वर्ग में शाश्वत निवास। यह नाम 'खलद' से लिया गया है, जिसका अर्थ है हमेशा के लिए रहना। भारतीय मुस्लिम समुदाय में, खलूद नाम ईश्वर की अनंत कृपा और स्वर्ग में सुखद जीवन की आकांक्षा का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خلود",
+      "transliteration": "khalood",
+      "romanization": "khalood",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Immortality",
+        "eternity"
+      ],
+      "etymology_explanation": "The form خلود is an established Arabic lexical item. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "خلود",
-      "meaning": "خلود د جنت د پاتې معنی لري",
-      "long_meaning": "خلود د عربي نوم دی چې د جنت د پاتې او دايمي استوګنې معنی لري. دا نوم د خلد څخه اخستل شوی دی، چې د تل پاتې او يا دايمي معنی لري. د افغان او پښتن مسلمانو په دود کې، خلود د جنت د نعمتونو او د الهي رضا د ترلاسه کولو څرګندونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "خلود is an established Arabic form.",
+        "Urdu": "خلود is used in Urdu.",
+        "Persian": "خلود is an established Persian form.",
+        "Hindi": "ख़ुलूद is used in Hindi.",
+        "Pashto": "خلود is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Khalood",
-      "meaning": "Khalood means eternal life or perpetual bliss in Paradise",
-      "long_meaning": "The name Khalood originates from the Arabic root 'khalada', meaning to remain or to last. In the Quranic context, Khalood signifies eternal life and perpetual bliss in Paradise. Historically, the name has been cherished among Muslims for its beautiful connotation of permanent abode in divine pleasure. Spiritually, Khalood embodies the hope for endless happiness and peace."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form خلود. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Khalood may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense immortality, eternity.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Immortality",
+      "related_concepts": [
+        "immortality",
+        "eternity"
+      ],
+      "semantic_relationship": "The central semantic idea is immortality; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of immortality.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Immortality",
+        "Eternity"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Khalood",
+        "meaning": "Immortality, eternity",
+        "long_meaning": "Khalood is a Arabic-origin name. Its core meaning is immortality, eternity. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud."
+      },
+      "urdu": {
+        "name": "خلود",
+        "meaning": "خلود، ہمیشگی، بقا",
+        "long_meaning": "Khalood (خلود) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خلود، ہمیشگی، بقا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "خلود",
+        "meaning": "خلود، جاودانگی، بقا",
+        "long_meaning": "Khalood (خلود) نامی برگرفته از زبان عربی است و معنای اصلی آن خلود، جاودانگی، بقا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ख़ुलूद",
+        "meaning": "ख़ुलूद, अमरता, शाश्वतता",
+        "long_meaning": "Khalood (ख़ुलूद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ुलूद, अमरता, शाश्वतता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "خلود",
+        "meaning": "خلود، تلپاتې والی",
+        "long_meaning": "Khalood (خلود) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خلود، تلپاتې والی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "خلود",
+        "meaning": "الخلود، البقاء، الدوام",
+        "long_meaning": "Khalood (خلود) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الخلود، البقاء، الدوام. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "kha-loo-d",
-      "urdu": "اردو میں تلفظ کی تفصیل: خَلُود",
-      "hindi": "हिन्दी में उच्चारण विवरण: खलूद",
-      "pashto": "په پښتو کې د تلفظ تفصیل: خلود",
-      "ipa": "/xɑˈluːd/"
+      "romanized": "kha-lood",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "خلود",
+      "persian": "خلود",
+      "hindi": "ख़ुलूद",
+      "pashto": "خلود"
     },
-    "celebrity_usage": [
-      "Khalood Al Fahad",
-      "Khalood Abdulrahman"
-    ],
-    "social_tags": [
-      "#KhaloodMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Khalood"
-    ],
-    "name_variations": [
-      "Khalud"
-    ],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Khalood",
+        "khalood"
+      ],
+      "script_variants": [
+        "خلود",
+        "ख़ुलूद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form خلود is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Khalood can be understood through the Arabic form خلود, whose central sense is immortality, eternity. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Khalood mean?",
+        "answer": "Khalood is associated with the Arabic form خلود, whose core sense is immortality, eternity."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 69,
-        "year": 2024
+        "question": "What is the origin of Khalood?",
+        "answer": "Khalood is associated with Arabic. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Khalood an Arabic name?",
+        "answer": "Yes — the underlying form خلود is Arabic."
+      },
+      {
+        "question": "Is Khalood an Islamic name?",
+        "answer": "Khalood can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Khalood a Quranic name?",
+        "answer": "Khalood should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Khalood mean in Urdu?",
+        "answer": "In Urdu, Khalood is rendered خلود and carries the sense خلود، ہمیشگی، بقا."
+      },
+      {
+        "question": "What does Khalood mean in Persian?",
+        "answer": "In Persian, Khalood is rendered خلود and carries the sense خلود، جاودانگی، بقا."
+      },
+      {
+        "question": "How is Khalood pronounced?",
+        "answer": "A romanized syllable approximation is kha-lood. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Khalood?",
+        "answer": "Romanization variants include Khalood, khalood. Script forms are خلود, ख़ुलूद."
+      },
+      {
+        "question": "Is Khalood a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Khalood Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Khalood, a beautiful Islam name meaning \"Immortal, Everlasting\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Khalood, Islam name, baby names, Immortal, Everlasting, Islam baby names, name meaning",
-      "description_paragraph": "Khalood is a meaningful Islam name of Arabic origin that means \"Immortal, Everlasting\". Derived from the Arabic word 'khuld', Khalood signifies one who is eternal, immortal, or everlasting.",
-      "keywords": [
-        "Khalood",
-        "Islam name",
-        "baby names",
-        "Immortal, Everlasting",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Khalood in Islam tradition?",
-          "a": "Khalood is a beautiful Islam name meaning \"Immortal, Everlasting\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Khalood a good Islam name for a baby?",
-          "a": "Yes, Khalood is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Khalood?",
-          "a": "The name Khalood has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Khalood correctly?",
-          "a": "Khalood is pronounced kha-loo-d in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Khalood?",
-          "a": "Naming a child Khalood brings blessings. The meaning \"Immortal, Everlasting\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Khalood?",
-          "a": "Khalood is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Khalood Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Khalood (خلود).",
+      "h1": "Khalood Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Khalood meaning",
       "secondary_keywords": [
-        "Islam name Khalood",
-        "Khalood meaning",
-        "Khalood origin"
+        "Khalood name meaning",
+        "Khalood meaning in Urdu",
+        "Khalood origin",
+        "Khalood Islamic name",
+        "Khalood pronunciation",
+        "Khalood name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Khalood (خلود) is associated with the Arabic form خلود, whose core sense is immortality, eternity. Khalood is Arabic خُلُود (Khulūd) 'immortality, eternity', from the root خ ل د (kh-l-d). The source gloss 'Immortal, Everlasting' is broadly consistent. Same name as kholud, khulood, khuloud and khulud.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Khalood is associated with the Arabic form خلود, whose core sense is immortality, eternity.",
+      "meaning_section": "The central meaning of Khalood is immortality, eternity.",
+      "origin_section": "Khalood is associated with Arabic rather than with a different language.",
+      "islam_section": "Khalood can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Khalood is with the sense immortality.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Khalood",
+      "#KhaloodMeaning",
+      "#KhaloodName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Khalood could be perceived as a statement of the bearer's aspiration or belief in achieving eternal success or fame. In some cultures, giving this name to a child may reflect a parent's hopes and dreams for a long and prosperous life for their offspring.",
-    "spiritual_significance": "In Islamic spirituality, the name Khalood holds deeper religious meaning. It can be seen as a reminder of Allah's promise of eternal paradise for the faithful. Instilling this name in a child could serve as a continuous source of inspiration for the child to strive towards living a virtuous and pious life in order to secure everlasting happiness in the hereafter.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Kathir in Al-Bidayah wa Al-Nihayah The name Khalood carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "Ibn Kathir mentions a woman named Khalood bint Al-Harith who was a wife of Umar ibn Al-Khattab."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "rare name"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Khalood corresponds to the Arabic form خلود",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Khalood has the core sense immortality, eternity",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Arabic social media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Khalood remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Khalood",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Aisha Khalood from Kuala Lumpur, Malaysia embodies the meaning of Khalood - \"Immortal, Everlasting\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Immortal, Everlasting\" symbolizes Derived from the Arabic word 'khuld', Khalood signifies one who is eternal, immortal, or everlasting.. In Islamic spirituality, bearing the name Khalood serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of immortal, everlasting.",
-    "created_at": "2025-12-22T19:19:49.8Z",
-    "updated_at": "2025-12-22T04:53:14.411Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1231,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Khalood",
-      "description": "Immortal, Everlasting",
-      "additionalName": [
-        "Khalud"
+      "alternateName": [
+        "Khalood",
+        "khalood"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form خلود, meaning immortality, eternity.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Khalood",
-          "description": "Discover the meaning of Khalood - \"Immortal, Everlasting\"",
-          "image": "/images/social/khalood-facebook.jpg"
+      "termCode": "khalood",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Khalood - Name Meaning",
-          "description": "Learn about the beautiful name Khalood",
-          "image": "/images/social/khalood-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Khalood",
-          "description": "Name meaning: Immortal, Everlasting",
-          "image": "/images/social/khalood-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Khalood - Meaning: Immortal, Everlasting",
-        "email_subject": "Beautiful Name: Khalood"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Khalood with meaning Immortal, Everlasting",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Khalood, associated with the Arabic form خلود, meaning immortality, eternity."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

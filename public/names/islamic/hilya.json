@@ -3,282 +3,483 @@
   "data": {
     "name": "Hilya",
     "slug": "hilya",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Grace",
-    "long_meaning": "The one who adorns or decorates",
-    "spiritual_meaning": "Symbolizes the inner beauty and elegance of a person",
-    "emotional_traits": [
-      "Gentle",
-      "Graceful",
-      "Sweet"
-    ],
-    "hidden_personality_traits": [
-      "Creative",
-      "Intuitive"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Pink",
-      "Gold"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 2,
-    "numerology_meaning": "Indicates a strong desire for harmony, balance and peace in all areas of life",
-    "in_arabic": {
-      "name": "حلية",
-      "meaning": "حلية تعني الزينة أو الحسن في اللغة العربية",
-      "long_meaning": "حلية هي اسم عربي يعود إلى الجذر اللغوي 'ح ل ي' والذي يعني الزينة أو الحسن. في اللغة العربية، الحلية هي كل ما يزين ويدلل على جمال وروعة، سواء كان ذلك في الشخص أو الشيء. وفي السياق الإسلامي، يمكن أن يشير إلى الزينة النفسانية التي تعكس جمال الأخلاق والصفات الحميدة."
+    "identity": {
+      "display_name": "Hilya",
+      "normalized_name": "hilya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hilya",
+        "hilya"
+      ],
+      "search_variants": [
+        "Hilya",
+        "hilya"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حلیہ",
-      "meaning": "حلیہ کا مطلب ہے خوبصورتی یا زینت",
-      "long_meaning": "حلیہ ایک عربی نام ہے جس کی اصل 'ح ل ي' ہے، جو خوبصورتی یا زینت کو ظاہر کرتا ہے۔ اردو میں، یہ نام حسن اور جمال کی علامت کے طور پر استعمال ہوتا ہے، اور اسلامی ثقافت میں اس کا مثبت اور خوبصورت معنی ہے جو کسی فرد کی اندرونی خوبصورتی اور روحانی جمال کو ظاہر کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Adornment, ornament, jewelry",
+      "primary_meaning": "Adornment",
+      "secondary_meanings": [
+        "ornament",
+        "jewelry"
+      ],
+      "literal_meaning": "Adornment",
+      "extended_meaning": "Adornment, ornament, jewelry",
+      "meaning_explanation": "Hilya corresponds to the Arabic form حلية (Arabic root ح ل ي (ḥ-l-y); حِلْيَة (Ḥilya)). Its core sense is adornment, ornament, jewelry. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "हिल्या",
-      "meaning": "हिल्या का अर्थ है सुंदरता या आभूषण",
-      "long_meaning": "हिल्या एक अरबी नाम है जिसका मूल 'ح ل ي' है, जिसका अर्थ है सुंदरता या आभूषण। हिंदी में, यह नाम सौंदर्य और सजावट की प्रतीक के रूप में प्रयोग किया जाता है। इस्लामी परंपरा में, हिल्या नाम का व्यक्ति की आंतरिक सुंदरता और आत्मिक उत्कृष्टता से संबंध है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حلية",
+      "transliteration": "hilya",
+      "romanization": "hilya",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Adornment",
+        "ornament",
+        "jewelry"
+      ],
+      "etymology_explanation": "The form حلية is an established Arabic lexical item. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حلیه",
-      "meaning": "حلیه د ښکلا یا زینت معنی لري",
-      "long_meaning": "حلیه یو عربي نوم دی چی د 'ح ل ي' ريښی څخه اخیستل شوی دی، کوم چی ښکلا یا زینت ته اشاره کوي. په پښتو کې، دا نوم د سجاوटी او ښکلا د نښانې په توګه کارول کیږي، او په اسلامي دود کې دا د يو فرد د باطنی ښکلا او روحاني عظمت سره تړاو لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حلية is an established Arabic form.",
+        "Urdu": "حلیہ is used in Urdu.",
+        "Persian": "حلیه is an established Persian form.",
+        "Hindi": "हिल्या is used in Hindi.",
+        "Pashto": "حلیه is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Hilya",
-      "meaning": "Hilya means beauty, ornament, or adornment",
-      "long_meaning": "Hilya is an Arabic name derived from the root 'ح ل ي' (halā), which signifies beauty, ornament, or adornment. In Islamic tradition, the name Hilya connotes inner beauty and spiritual refinement. Etymologically, it relates to concepts of adornment and elegance, reflecting positive attributes such as kindness, grace, and charm. Historically, names like Hilya have been used to express aspirations for a child's character and demeanor."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form حلية. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hilya may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense adornment, ornament, jewelry.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Adornment",
+      "related_concepts": [
+        "adornment",
+        "ornament",
+        "jewelry"
+      ],
+      "semantic_relationship": "The central semantic idea is adornment; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of adornment.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Adornment",
+        "Ornament",
+        "Jewelry"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hilya",
+        "meaning": "Adornment, ornament, jewelry",
+        "long_meaning": "Hilya is a Arabic-origin name. Its core meaning is adornment, ornament, jewelry. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "حلیہ",
+        "meaning": "زیور، آرائش، سنگھار",
+        "long_meaning": "Hilya (حلیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زیور، آرائش، سنگھار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حلیه",
+        "meaning": "زیور، آرایش، پیرایه",
+        "long_meaning": "Hilya (حلیه) نامی برگرفته از زبان عربی است و معنای اصلی آن زیور، آرایش، پیرایه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हिल्या",
+        "meaning": "आभूषण, श्रृंगार",
+        "long_meaning": "Hilya (हिल्या) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ आभूषण, श्रृंगार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حلیه",
+        "meaning": "ګاڼه، سینګار",
+        "long_meaning": "Hilya (حلیه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ګاڼه، سینګار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حلية",
+        "meaning": "الحلية، الزينة، الجواهر",
+        "long_meaning": "Hilya (حلية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحلية، الزينة، الجواهر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "hee-lyah",
-      "urdu": "ہیلیا",
-      "hindi": "हील्या",
-      "pashto": "حلیه",
-      "ipa": "/ˈhiːljɑː/"
+      "romanized": "hi-lya",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حلیہ",
+      "persian": "حلیه",
+      "hindi": "हिल्या",
+      "pashto": "حلیه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HilyaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hilya"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hilya",
+        "hilya"
+      ],
+      "script_variants": [
+        "حلية",
+        "حلیه",
+        "حلیہ",
+        "हिल्या"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حلية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hilya can be understood through the Arabic form حلية, whose central sense is adornment, ornament, jewelry. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Hilya mean?",
+        "answer": "Hilya is associated with the Arabic form حلية, whose core sense is adornment, ornament, jewelry."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Hilya?",
+        "answer": "Hilya is associated with Arabic. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 73,
-        "year": 2024
+        "question": "Is Hilya an Arabic name?",
+        "answer": "Yes — the underlying form حلية is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Hilya an Islamic name?",
+        "answer": "Hilya can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Hilya a Quranic name?",
+        "answer": "Hilya should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hilya mean in Urdu?",
+        "answer": "In Urdu, Hilya is rendered حلیہ and carries the sense زیور، آرائش، سنگھار."
+      },
+      {
+        "question": "What does Hilya mean in Persian?",
+        "answer": "In Persian, Hilya is rendered حلیه and carries the sense زیور، آرایش، پیرایه."
+      },
+      {
+        "question": "How is Hilya pronounced?",
+        "answer": "A romanized syllable approximation is hi-lya. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hilya?",
+        "answer": "Romanization variants include Hilya, hilya. Script forms are حلية, حلیه, حلیہ, हिल्या."
+      },
+      {
+        "question": "Is Hilya a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hilya Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hilya, a beautiful Islam name meaning \"Grace\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hilya, Islam name, baby names, Grace, Islam baby names, name meaning",
-      "description_paragraph": "Hilya is a meaningful Islam name of Arabic origin that means \"Grace\". The one who adorns or decorates",
-      "keywords": [
-        "Hilya",
-        "Islam name",
-        "baby names",
-        "Grace",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hilya in Islam tradition?",
-          "a": "Hilya is a beautiful Islam name meaning \"Grace\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hilya a good Islam name for a baby?",
-          "a": "Yes, Hilya is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hilya?",
-          "a": "The name Hilya has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hilya correctly?",
-          "a": "Hilya is pronounced hee-lyah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hilya?",
-          "a": "Naming a child Hilya brings blessings. The meaning \"Grace\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hilya?",
-          "a": "Hilya is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Hilya Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hilya (حلية).",
+      "h1": "Hilya Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hilya meaning",
       "secondary_keywords": [
-        "Islam name Hilya",
-        "Hilya meaning",
-        "Hilya origin"
+        "Hilya name meaning",
+        "Hilya meaning in Urdu",
+        "Hilya origin",
+        "Hilya Islamic name",
+        "Hilya pronunciation",
+        "Hilya name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hilya (حلية) is associated with the Arabic form حلية, whose core sense is adornment, ornament, jewelry. Hilya is Arabic حِلْيَة (Ḥilya) 'adornment, ornament, jewelry', from the root ح ل ي (ḥ-l-y). The source gloss 'Grace' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hilya is associated with the Arabic form حلية, whose core sense is adornment, ornament, jewelry.",
+      "meaning_section": "The central meaning of Hilya is adornment, ornament, jewelry.",
+      "origin_section": "Hilya is associated with Arabic rather than with a different language.",
+      "islam_section": "Hilya can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hilya is with the sense adornment.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hilya",
+      "#HilyaMeaning",
+      "#HilyaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Hilya\" can be seen as a reflection of the rich culture and artistry that exists within the Islamic world. The term \"hilya\" is often used to describe decorative items such as calligraphy, textiles, and pottery. These works not only serve practical purposes but also represent the beauty and elegance of Islamic art. Furthermore, the concept of adornment and decoration is deeply rooted in Islamic culture, with references in the Quran and Hadiths encouraging the pursuit of loveliness and giving gifts to loved ones.",
-    "spiritual_significance": "The significance of the name \"Hilya\" can also be seen through a spiritual lens. In Islamic theology, the human soul is described as a precious gem, and its adornment refers to the pursuit of virtues, knowledge, and good deeds that refine and elevate the soul. The Prophet Muhammad (peace be upon him) is reported to have said, \"Allah is beautiful and loves beauty.\" This hadith emphasizes the importance of maintaining excellence in our physical appearance, speech, and actions as a manifestation of our inner spiritual beauty. Therefore, the name \"Hilya\" can be seen as a reminder of our duty to adorn and beautify ourselves spiritually, as well as in the eyes of Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Hilya carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hilya corresponds to the Arabic form حلية",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Hilya has the core sense adornment, ornament, jewelry",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hilya remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Hilya",
-      "location": "Cairo, Egypt",
-      "story": "Khadija Hilya, a teacher in Cairo, Egypt, shares that their name Hilya meaning \"Grace\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Grace\" symbolizes The one who adorns or decorates. In Islamic spirituality, bearing the name Hilya serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of grace.",
-    "created_at": "2025-12-22T19:19:49.851Z",
-    "updated_at": "2025-12-22T04:53:14.814Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1398,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hilya",
-      "description": "Grace",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Hilya",
+        "hilya"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hilya",
-          "description": "Discover the meaning of Hilya - \"Grace\"",
-          "image": "/images/social/hilya-facebook.jpg"
+      "description": "A name associated with the Arabic form حلية, meaning adornment, ornament, jewelry.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "hilya",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hilya - Name Meaning",
-          "description": "Learn about the beautiful name Hilya",
-          "image": "/images/social/hilya-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hilya",
-          "description": "Name meaning: Grace",
-          "image": "/images/social/hilya-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hilya - Meaning: Grace",
-        "email_subject": "Beautiful Name: Hilya"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hilya with meaning Grace",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hilya, associated with the Arabic form حلية, meaning adornment, ornament, jewelry."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

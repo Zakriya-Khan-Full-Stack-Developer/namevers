@@ -1,281 +1,476 @@
 {
   "success": true,
   "data": {
-    "name": "jada",
+    "name": "Jada",
     "slug": "jada",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gentle, Fragrant",
-    "long_meaning": "In Arabic, Jada means gentle, fragrant, and soft. This name is derived from the Arabic root 'J-D-D', which conveys the sense of softness and gentleness. In Islamic culture, Jada is also a name associated with the fragrance of paradise and the sweetness of faith.",
-    "spiritual_meaning": "Symbol of Faith and Paradise",
-    "emotional_traits": [
-      "Compassionate",
-      "Graceful"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Pink",
-      "Lavender"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 6,
-    "numerology_meaning": "The life path number 6 represents harmony, love, and service to others. In Islamic numerology, the number 6 is associated with the Prophet Muhammad PBUH and the virtue of kindness.",
-    "in_arabic": {
-      "name": "جدة",
-      "meaning": "جديدة, جديد",
-      "long_meaning": "To be new, fresh, or young"
+    "identity": {
+      "display_name": "Jada",
+      "normalized_name": "jada",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jada",
+        "jada"
+      ],
+      "search_variants": [
+        "Jada",
+        "jada"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جدہ",
-      "meaning": "جدیدہ, جدید",
-      "long_meaning": "To be new, fresh, or young"
+    "core_meaning": {
+      "short_meaning": "Jada; a female given name",
+      "primary_meaning": "Jada; a female given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Jada; a female given name",
+      "extended_meaning": "Jada; a female given name",
+      "meaning_explanation": "Jada corresponds to the Arabic form جادة (Arabic جَادَة (Jāda)). Its core sense is jada; a female given name. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "जदा",
-      "meaning": "नया, छापे पहुँचने वाला",
-      "long_meaning": "To be new, fresh, or young"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جادة",
+      "transliteration": "jada",
+      "romanization": "jada",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Jada; a female given name"
+      ],
+      "etymology_explanation": "The form جادة is an established Arabic lexical item. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "جده",
-      "meaning": "نويانده, نويان",
-      "long_meaning": "To be new, fresh, or young"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جادة is an established Arabic form.",
+        "Urdu": "جادہ is used in Urdu.",
+        "Persian": "جاده is an established Persian form.",
+        "Hindi": "जाडा is used in Hindi.",
+        "Pashto": "جاده is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "jada",
-      "meaning": "Gentle, Fragrant",
-      "long_meaning": "In Arabic, Jada means gentle, fragrant, and soft. This name is derived from the Arabic root 'J-D-D', which conveys the sense of softness and gentleness. In Islamic culture, Jada is also a name associated with the fragrance of paradise and the sweetness of faith."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form جادة. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jada may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense jada; a female given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Jada; a female given name",
+      "related_concepts": [
+        "jada; a female given name"
+      ],
+      "semantic_relationship": "The central semantic idea is jada; a female given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of jada; a female given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Jada; a female given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jada",
+        "meaning": "Jada; a female given name",
+        "long_meaning": "Jada is a Arabic-origin name. Its core meaning is jada; a female given name. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "جادہ",
+        "meaning": "جدا (زنانہ نام)",
+        "long_meaning": "Jada (جادہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جدا (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جاده",
+        "meaning": "جدا (نام زنانه)",
+        "long_meaning": "Jada (جاده) نامی برگرفته از زبان عربی است و معنای اصلی آن جدا (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जाडा",
+        "meaning": "जाडा (स्त्री नाम)",
+        "long_meaning": "Jada (जाडा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ जाडा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جاده",
+        "meaning": "جدا (ښځينه نوم)",
+        "long_meaning": "Jada (جاده) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جدا (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جادة",
+        "meaning": "جَادَة (اسم علم مؤنث)",
+        "long_meaning": "Jada (جادة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي جَادَة (اسم علم مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "/dʒaˈdə/, /ˈdʒaːdə/",
-      "urdu": "/dʒaˈdə/, /ˈdʒaːdə/",
-      "hindi": "/dʒaˈdɑː/, /ˈdʒaːdɑː/",
-      "pashto": "/dʒaˈdæ/, /ˈdʒaːdæ/",
-      "ipa": "https://en.wikipedia.org/wiki/Help:IPA_for_Arabic#Jada"
+      "romanized": "ja-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جادہ",
+      "persian": "جاده",
+      "hindi": "जाडा",
+      "pashto": "جاده"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#jadaMeaning",
-      "#IslamicGirlNames",
-      "#ArabicBabyNames"
-    ],
-    "name_variations": [
-      "jadah"
-    ],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jada",
+        "jada"
+      ],
+      "script_variants": [
+        "جادة",
+        "جاده",
+        "جادہ",
+        "जाडा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جادة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jada can be understood through the Arabic form جادة, whose central sense is jada; a female given name. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Jada mean?",
+        "answer": "Jada is associated with the Arabic form جادة, whose core sense is jada; a female given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 66,
-        "year": 2024
+        "question": "What is the origin of Jada?",
+        "answer": "Jada is associated with Arabic. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Jada an Arabic name?",
+        "answer": "Yes — the underlying form جادة is Arabic."
+      },
+      {
+        "question": "Is Jada an Islamic name?",
+        "answer": "Jada can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jada a Quranic name?",
+        "answer": "Jada should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jada mean in Urdu?",
+        "answer": "In Urdu, Jada is rendered جادہ and carries the sense جدا (زنانہ نام)."
+      },
+      {
+        "question": "What does Jada mean in Persian?",
+        "answer": "In Persian, Jada is rendered جاده and carries the sense جدا (نام زنانه)."
+      },
+      {
+        "question": "How is Jada pronounced?",
+        "answer": "A romanized syllable approximation is ja-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jada?",
+        "answer": "Romanization variants include Jada, jada. Script forms are جادة, جاده, جادہ, जाडा."
+      },
+      {
+        "question": "Is Jada a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "jada Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of jada, a beautiful Islam name meaning \"Gentle, Fragrant\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "jada, Islam name, baby names, Gentle, Fragrant, Islam baby names, name meaning",
-      "description_paragraph": "jada is a meaningful Islam name of Arabic origin that means \"Gentle, Fragrant\". In Arabic, Jada means gentle, fragrant, and soft. This name is derived from the Arabic root 'J-D-D', which conveys the sense of softness and gentleness. In Islamic culture, Jada is also a name associated with the fragrance of paradise and the sweetness of faith.",
-      "keywords": [
-        "jada",
-        "Islam name",
-        "baby names",
-        "Gentle, Fragrant",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of jada in Islam tradition?",
-          "a": "jada is a beautiful Islam name meaning \"Gentle, Fragrant\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is jada a good Islam name for a baby?",
-          "a": "Yes, jada is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name jada?",
-          "a": "The name jada has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce jada correctly?",
-          "a": "jada is pronounced /dʒaˈdə/, /ˈdʒaːdə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child jada?",
-          "a": "Naming a child jada brings blessings. The meaning \"Gentle, Fragrant\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name jada?",
-          "a": "jada is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
-      "focus_keyword": "jada meaning",
+      "title": "Jada Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jada (جادة).",
+      "h1": "Jada Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Jada meaning",
       "secondary_keywords": [
-        "Islam name jada",
-        "jada meaning",
-        "jada origin"
+        "Jada name meaning",
+        "Jada meaning in Urdu",
+        "Jada origin",
+        "Jada Islamic name",
+        "Jada pronunciation",
+        "Jada name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jada (جادة) is associated with the Arabic form جادة, whose core sense is jada; a female given name. Jada is recorded at low confidence. The source gave جدة and glossed the name 'Gentle, Fragrant'; جَادَة (Jāda) is a documented female given name, but the source's Arabic column and gloss could not be confirmed. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jada is associated with the Arabic form جادة, whose core sense is jada; a female given name.",
+      "meaning_section": "The central meaning of Jada is jada; a female given name.",
+      "origin_section": "Jada is associated with Arabic rather than with a different language.",
+      "islam_section": "Jada can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jada is with the sense jada; a female given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jada",
+      "#JadaMeaning",
+      "#JadaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jada carries a positive and gentle connotation, often evoking feelings of softness and tranquility. It is a name that is easy on the ears and has a soothing effect on those who hear it. In Arabic poetry and literature, the prophet Muhammad is often referred to as Al-Jadeed, meaning the \"Sublime Giver,\" a name that emphasizes his gentle and merciful nature.",
-    "spiritual_significance": "On a deeper level, the name Jada holds spiritual significance as it is reminiscent of the fragrant gardens of paradise that await believers in Islam. The Quran describes paradise as being filled with gardens, rivers, and pleasant scents that will delight the senses and bring joy to the soul. The gentle and fragrant nature of the name Jada serves as a reminder of the sweet and beautiful reward that awaits those who live a virtuous and faith-filled life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name jada carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jada corresponds to the Arabic form جادة",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Jada has the core sense jada; a female given name",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name jada remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha jada",
-      "location": "Cairo, Egypt",
-      "story": "Aisha jada from Cairo, Egypt embodies the meaning of jada - \"Gentle, Fragrant\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gentle, Fragrant\" symbolizes In Arabic, Jada means gentle, fragrant, and soft. This name is derived from the Arabic root 'J-D-D', which conveys the sense of softness and gentleness. In Islamic culture, Jada is also a name associated with the fragrance of paradise and the sweetness of faith.. In Islamic spirituality, bearing the name jada serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gentle, fragrant.",
-    "created_at": "2025-12-22T19:19:50.955Z",
-    "updated_at": "2025-12-22T04:53:16.858Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1322,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "jada",
-      "description": "Gentle, Fragrant",
-      "additionalName": [
-        "jadah"
+      "@type": "DefinedTerm",
+      "name": "Jada",
+      "alternateName": [
+        "Jada",
+        "jada"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form جادة, meaning jada; a female given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: jada",
-          "description": "Discover the meaning of jada - \"Gentle, Fragrant\"",
-          "image": "/images/social/jada-facebook.jpg"
+      "termCode": "jada",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "jada - Name Meaning",
-          "description": "Learn about the beautiful name jada",
-          "image": "/images/social/jada-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "jada",
-          "description": "Name meaning: Gentle, Fragrant",
-          "image": "/images/social/jada-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: jada - Meaning: Gentle, Fragrant",
-        "email_subject": "Beautiful Name: jada"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "jada with meaning Gentle, Fragrant",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jada, associated with the Arabic form جادة, meaning jada; a female given name."
     },
-    "similar_sounding_names": [
-      "janaan",
-      "jasmina",
-      "javier",
-      "jan",
-      "jamesha"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

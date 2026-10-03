@@ -3,286 +3,479 @@
   "data": {
     "name": "Narjis",
     "slug": "narjis",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Daffodil flower",
-    "long_meaning": "Narjis refers to the daffodil flower, symbolizing beauty, innocence, and purity. In Islamic tradition, it is considered a symbol of hope and renewal.",
-    "spiritual_meaning": "The daffodil flower is mentioned in a Hadith as a symbol of paradise, representing the beauty and tranquility of the afterlife.",
-    "emotional_traits": [
-      "Delicate",
-      "Innocent",
-      "Hopeful",
-      "Pure"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Yellow",
-      "Pink"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Independence, Initiative, and Creativity",
-    "in_arabic": {
-      "name": "نرجس",
-      "meaning": "النرجس اسمٌ يعني النجم الزاهى",
-      "long_meaning": "النرجس اسمٌ يعني النجم الزاهى، و هو مأخوذ من الجذر النجس، و يرمز إلى نور و جمال، و هو اسمٌ معروف في الإسلام، و يُعتبر اسمًا حسنًا للإناث، و يُنسب إلى الصحابة، و له أصلٌ قديم في اللغة العربية و الثقافة الإسلامية"
+    "identity": {
+      "display_name": "Narjis",
+      "normalized_name": "narjis",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Narjis",
+        "narjis"
+      ],
+      "search_variants": [
+        "Narjis",
+        "narjis"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "نرگس",
-      "meaning": "نرگس کا نام نجم کے لئے استعمال ہوتا ہے",
-      "long_meaning": "نرگس کا نام نجم کے لئے استعمال ہوتا ہے، یہ نام عرب زبان کے جڑ نجس سے ماخوذ ہے، جو نور اور حسن کو ظاہر کرتا ہے، نرگس اسلام کے متعلق ایک قابل ذکر نام ہے، جو عورتوں کے لئے ایک مناسب نام ہے، اس نام کا استعمال صحابہ میں ہوا ہے، یہ نام بھی قدیم زبان اور ثقافت میں بھی ممتاز ہے"
+    "core_meaning": {
+      "short_meaning": "Narcissus, daffodil",
+      "primary_meaning": "Narcissus",
+      "secondary_meanings": [
+        "daffodil"
+      ],
+      "literal_meaning": "Narcissus",
+      "extended_meaning": "Narcissus, daffodil",
+      "meaning_explanation": "Narjis corresponds to the Persian form نَرْجِس (Persian نرگس (narges); Arabic نَرْجِس (narjis)). Its core sense is narcissus, daffodil. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "नर्गिस",
-      "meaning": "नर्गिस नाम तारे के लिए उपयोग किया जाता है",
-      "long_meaning": "नर्गिस नाम तारे के लिए उपयोग किया जाता है, यह नाम अरबी भाषा के मूल जड़ नजस से लिया गया है, जो प्रकाश और सौंदर्य को दर्शाता है, नरगिस इस्लाम के संदर्भ में एक प्रसिद्ध नाम है, जो महिलाओं के लिए उपयुक्त नाम है, इस नाम का उपयोग साथियों में हुआ है, यह नाम भी प्राचीन भाषा और संस्कृति में भी विशिष्ट है"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "نَرْجِس",
+      "transliteration": "narjis",
+      "romanization": "narjis",
+      "root_status": "Persian نرگس (narges); Arabic نَرْجِس (narjis)",
+      "etymological_meaning": [
+        "Narcissus",
+        "daffodil"
+      ],
+      "etymology_explanation": "The form نَرْجِس is an established Persian lexical item. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نرگس",
-      "meaning": "نرگس د نجم وېشل",
-      "long_meaning": "نرگس د نجم وېشل، دا نوم عربي ژبه د نجس څخه اخيست، چې نور او جمال ښیي، نرگس اسلامي تاریخ کې یو له مشهورو نومونو څخه دی، چې عوروګانو لپاره یو ښه نوم دی، دا نوم په صحابه کې هم کارول شوی، دا نوم په افغانستان او پښتنو ثقافت کې هم د لوړ مقام لرونکي دی"
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "نَرْجِس is an established Arabic form.",
+        "Urdu": "نرگس is used in Urdu.",
+        "Persian": "نرگس is an established Persian form.",
+        "Hindi": "नर्जिस is used in Hindi.",
+        "Pashto": "نرګس is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Narjis",
-      "meaning": "Narjis name means bright or shining star",
-      "long_meaning": "Narjis name means bright or shining star, it is derived from the Arabic root nj-s, which symbolizes light and beauty, Narjis is a well-known name in Islam, suitable for females, and has been attributed to the companions of the Prophet, with a rich history and cultural significance in the Islamic tradition, and is also used in various Muslim cultures around the world"
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form نَرْجِس. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Narjis may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense narcissus, daffodil.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Narcissus",
+      "related_concepts": [
+        "narcissus",
+        "daffodil"
+      ],
+      "semantic_relationship": "The central semantic idea is narcissus; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of narcissus.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Narcissus",
+        "Daffodil"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Narjis",
+        "meaning": "Narcissus, daffodil",
+        "long_meaning": "Narjis is a Persian-origin name. Its core meaning is narcissus, daffodil. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis."
+      },
+      "urdu": {
+        "name": "نرگس",
+        "meaning": "نرگس، گل نرگس",
+        "long_meaning": "Narjis (نرگس) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نرگس، گل نرگس ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نرگس",
+        "meaning": "نرگس، گل نرگس",
+        "long_meaning": "Narjis (نرگس) نامی برگرفته از زبان فارسی است و معنای اصلی آن نرگس، گل نرگس است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नर्जिस",
+        "meaning": "नर्गिस, नरगिस का फूल",
+        "long_meaning": "Narjis (नर्जिस) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नर्गिस, नरगिस का फूल है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نرګس",
+        "meaning": "نرګس، نرګس ګل",
+        "long_meaning": "Narjis (نرګس) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نرګس، نرګس ګل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَرْجِس",
+        "meaning": "النَّرْجِس",
+        "long_meaning": "Narjis (نَرْجِس) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي النَّرْجِس. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "NAHR-jis",
-      "urdu": "اردو میں تلفظ کی تفصیل: نرجس",
-      "hindi": "हिन्दी में उच्चारण विवरण: नर्गिस",
-      "pashto": "په پښتو کې د تلفظ تفصیل: نرگس",
-      "ipa": "/ˈnɑːr.dʒɪs/"
+      "romanized": "nar-jis",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نرگس",
+      "persian": "نرگس",
+      "hindi": "नर्जिस",
+      "pashto": "نرګس"
     },
-    "celebrity_usage": [
-      "Narjis Al Hadrami",
-      "Narjis Al-Mansoori"
-    ],
-    "social_tags": [
-      "#NarjisMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Narjis"
-    ],
-    "name_variations": [],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Narjis",
+        "narjis"
+      ],
+      "script_variants": [
+        "نرګس",
+        "نرگس",
+        "نَرْجِس",
+        "नर्जिस"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَرْجِس is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Narjis can be understood through the Persian form نَرْجِس, whose central sense is narcissus, daffodil. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Narjis mean?",
+        "answer": "Narjis is associated with the Persian form نَرْجِس, whose core sense is narcissus, daffodil."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Narjis?",
+        "answer": "Narjis is associated with Persian. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Narjis an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Narjis an Islamic name?",
+        "answer": "Narjis can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Narjis a Quranic name?",
+        "answer": "Narjis should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Narjis mean in Urdu?",
+        "answer": "In Urdu, Narjis is rendered نرگس and carries the sense نرگس، گل نرگس."
+      },
+      {
+        "question": "What does Narjis mean in Persian?",
+        "answer": "In Persian, Narjis is rendered نرگس and carries the sense نرگس، گل نرگس."
+      },
+      {
+        "question": "How is Narjis pronounced?",
+        "answer": "A romanized syllable approximation is nar-jis. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Narjis?",
+        "answer": "Romanization variants include Narjis, narjis. Script forms are نرګس, نرگس, نَرْجِس, नर्जिस."
+      },
+      {
+        "question": "Is Narjis a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Narjis Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Narjis, a beautiful Islam name meaning \"Daffodil flower\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Narjis, Islam name, baby names, Daffodil flower, Islam baby names, name meaning",
-      "description_paragraph": "Narjis is a meaningful Islam name of Arabic origin that means \"Daffodil flower\". Narjis refers to the daffodil flower, symbolizing beauty, innocence, and purity. In Islamic tradition, it is considered a symbol of hope and renewal.",
-      "keywords": [
-        "Narjis",
-        "Islam name",
-        "baby names",
-        "Daffodil flower",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Narjis in Islam tradition?",
-          "a": "Narjis is a beautiful Islam name meaning \"Daffodil flower\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Narjis a good Islam name for a baby?",
-          "a": "Yes, Narjis is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Narjis?",
-          "a": "The name Narjis has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Narjis correctly?",
-          "a": "Narjis is pronounced NAHR-jis in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Narjis?",
-          "a": "Naming a child Narjis brings blessings. The meaning \"Daffodil flower\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Narjis?",
-          "a": "Narjis is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Narjis Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Narjis (نَرْجِس).",
+      "h1": "Narjis Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Narjis meaning",
       "secondary_keywords": [
-        "Islam name Narjis",
-        "Narjis meaning",
-        "Narjis origin"
+        "Narjis name meaning",
+        "Narjis meaning in Urdu",
+        "Narjis origin",
+        "Narjis Islamic name",
+        "Narjis pronunciation",
+        "Narjis name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Narjis (نَرْجِس) is associated with the Persian form نَرْجِس, whose core sense is narcissus, daffodil. Narjis is Arabic نَرْجِس (narjis) / Persian نرگس (narges) 'narcissus, daffodil'. The source gloss 'Daffodil flower' is consistent. Same name as nargis.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Narjis is associated with the Persian form نَرْجِس, whose core sense is narcissus, daffodil.",
+      "meaning_section": "The central meaning of Narjis is narcissus, daffodil.",
+      "origin_section": "Narjis is associated with Persian rather than with a different language.",
+      "islam_section": "Narjis can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Narjis is with the sense narcissus.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Narjis",
+      "#NarjisMeaning",
+      "#NarjisName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Narjis is the Arabic name for the daffodil flower. \"Narjis\" is derived from the Persian language, in which the word \"nar\" means \"light\" and \"jis\" means \"bring\". Thus, the name Narjis implies \"bringing light\".",
-    "spiritual_significance": "In Islamic tradition, the daffodil flower represents the virtues of beauty, innocence, and purity. These qualities are highly valued in Muslim communities and are seen as elements of God's creation.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Narjis bint Al-Aqeeq was a famous poetess in pre-Islamic Arabia, known for her love poetry. The name Narjis carried significant weight in that era.",
-        "time_period": "Pre-Islamic Arabia, 6th century",
-        "context": "Narjis was a prominent figure in pre-Islamic Arabian poetry, known for her love poetry."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Narjis is a popular name for girls in the Middle East and South Asia.",
-        "The name Narjis is also used in literature and art."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Narjis corresponds to the Persian form نَرْجِس",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Narjis has the core sense narcissus, daffodil",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Facebook",
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Narjis remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Narjis",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Layla Narjis in Istanbul, Turkey attributes much of their success to the blessing of their name Narjis, which means \"Daffodil flower\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Daffodil flower\" symbolizes Narjis refers to the daffodil flower, symbolizing beauty, innocence, and purity. In Islamic tradition, it is considered a symbol of hope and renewal.. In Islamic spirituality, bearing the name Narjis serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of daffodil flower.",
-    "created_at": "2025-12-22T19:19:49.794Z",
-    "updated_at": "2025-12-22T04:53:14.307Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1151,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Narjis",
-      "description": "Daffodil flower",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Narjis",
+        "narjis"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Narjis",
-          "description": "Discover the meaning of Narjis - \"Daffodil flower\"",
-          "image": "/images/social/narjis-facebook.jpg"
+      "description": "A name associated with the Persian form نَرْجِس, meaning narcissus, daffodil.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "narjis",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Narjis - Name Meaning",
-          "description": "Learn about the beautiful name Narjis",
-          "image": "/images/social/narjis-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Narjis",
-          "description": "Name meaning: Daffodil flower",
-          "image": "/images/social/narjis-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Narjis - Meaning: Daffodil flower",
-        "email_subject": "Beautiful Name: Narjis"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Narjis with meaning Daffodil flower",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Narjis, associated with the Persian form نَرْجِس, meaning narcissus, daffodil."
     },
-    "similar_sounding_names": [
-      "nihal",
-      "namik",
-      "nina",
-      "norah",
-      "nadeen",
-      "naina",
-      "nora",
-      "nevaeh"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

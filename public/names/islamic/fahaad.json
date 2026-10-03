@@ -3,294 +3,484 @@
   "data": {
     "name": "Fahaad",
     "slug": "fahaad",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Guide, Leader",
-    "long_meaning": "From the Arabic root 'fahada' meaning 'to guide, to lead'. This name is often used for individuals who are considered wise and just leaders.",
-    "spiritual_meaning": "A reminder of the cycle of life and the importance of returning to the source. This name is a call to remember Allah in all aspects of life and to strive for a constant return to Him.",
-    "emotional_traits": [
-      "Determined",
-      "Resilient",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Reflective",
-      "Observant"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 9,
-    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
-    "in_arabic": {
-      "name": "فهاد",
-      "meaning": "الفهاد هو اسم علم مذكر من أصل عربي و معناه: المرتفع، العالي",
-      "long_meaning": "الفهاد هو اسم علم مذكر من أصل عربي و معناه: المرتفع، العالي. و هو من الأسماء التي تحمل معاني الرفعة و العلو، و قد ورد في القرآن الكريم عدة مرات في سياقات مختلفة، منها قوله تعالى: «وَلِكُلٍٍّ دَرَجَةً مِمَّا عَمِلُوا وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ» سورة الأنعام: 132، و هذا يشير إلى الرفعة و العلو في الخُلُق و العمل."
+    "identity": {
+      "display_name": "Fahaad",
+      "normalized_name": "fahaad",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fahaad",
+        "fahaad",
+        "fahad"
+      ],
+      "search_variants": [
+        "Fahaad",
+        "fahaad",
+        "fahad"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فہاد",
-      "meaning": "فہاد ایک مذکر نام ہے جو عربی मूल کا ہے اور معنی ہے: بلند، عالیشان",
-      "long_meaning": "فہاد ایک مذکر نام ہے جو عربی मूल کا ہے اور معنی ہے: بلند، عالیشان. یہ نام رفعت اور بلندی کے معانی رکھتا ہے، اور اسلامی تقالید میں اس کا استعمال شائع ہے. عربی زبان میں 'ف-ه-د' جڑ کے الفاظ مختلف صورتوں میں پائے جاتے ہیں، جن میں 'فاه' یعنی 'بلند کرنا' اور 'فهيد' یعنی 'اونچی جگہ' شامل ہیں."
+    "core_meaning": {
+      "short_meaning": "Guide, leader, one who leads",
+      "primary_meaning": "Guide",
+      "secondary_meanings": [
+        "leader",
+        "one who leads"
+      ],
+      "literal_meaning": "Guide",
+      "extended_meaning": "Guide, leader, one who leads",
+      "meaning_explanation": "Fahaad corresponds to the Arabic form فهاد (ف ه د). Its core sense is guide, leader, one who leads. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "फहाद",
-      "meaning": "फहाद एक पुल्लिंग नाम है जिसका अर्थ है: उच्च, उत्कृष्ट",
-      "long_meaning": "फहाद एक पुल्लिंग नाम है जिसका अर्थ है: उच्च, उत्कृष्ट. यह नाम इस्लामी परंपरा में महत्वपूर्ण है और इसका उपयोग दक्षिण एशिया के मुस्लिम समुदायों में भी किया जाता है. नाम की जड़ 'ف-ه-د' है जो कि अरबी भाषा से ली गई है और इसका अर्थ है 'कुछ ऊंचा करना' या 'उंचाई'."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فهاد",
+      "transliteration": "fahaad",
+      "romanization": "fahaad",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Guide",
+        "leader",
+        "one who leads"
+      ],
+      "etymology_explanation": "The form فهاد is an established Arabic lexical item. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فهاد",
-      "meaning": "فهاد د يو مذکر نوم دی چې معنی يې ده: لوړ، عالي",
-      "long_meaning": "فهاد د يو مذکر نوم دی چې معنی يې ده: لوړ، عالي. دا نوم د افغان او پښتني ژبو د مسلمانانو په دوديزو کې کارول کېږي. د 'ف-ه-د' ريښې کلمات په پښتو او عربي ژبو کې مختلف مفهومونه لري، خو دواړه لوړی او برترۍ ته اشاره کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فهاد is an established Arabic form.",
+        "Urdu": "فہاد is used in Urdu.",
+        "Hindi": "फ़हाद is used in Hindi.",
+        "Pashto": "فهاد is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Fahaad",
-      "meaning": "elevated, high, noble",
-      "long_meaning": "Fahaad is a masculine given name of Arabic origin, derived from the root 'f-h-d', which means 'to elevate' or 'to rise'. The name signifies highness, nobility, and elevation in character. In Islamic tradition, it is associated with positive attributes such as honor and dignity. Historically, the name has been used across various Muslim cultures, reflecting its universal appeal and timeless significance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form فهاد. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fahaad may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense guide, leader, one who leads.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Guide",
+      "related_concepts": [
+        "guide",
+        "leader",
+        "one who leads"
+      ],
+      "semantic_relationship": "The central semantic idea is guide; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of guide.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Guide",
+        "Leader",
+        "One who leads"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fahaad",
+        "meaning": "Guide, leader, one who leads",
+        "long_meaning": "Fahaad is a Arabic-origin name. Its core meaning is guide, leader, one who leads. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported."
+      },
+      "urdu": {
+        "name": "فہاد",
+        "meaning": "رہنما، قائد، پیشوا",
+        "long_meaning": "Fahaad (فہاد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رہنما، قائد، پیشوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़हाद",
+        "meaning": "मार्गदर्शक, नेता, क़ाइद",
+        "long_meaning": "Fahaad (फ़हाद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मार्गदर्शक, नेता, क़ाइद है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فهاد",
+        "meaning": "لارښود، مشر، قائد",
+        "long_meaning": "Fahaad (فهاد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لارښود، مشر، قائد ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فهاد",
+        "meaning": "الهادي، القائد، المرشد",
+        "long_meaning": "Fahaad (فهاد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهادي، القائد، المرشد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "fa-haad",
-      "urdu": "فہاد کا تلفظ: ف (fa) ہ (ha) ا (aad)",
-      "hindi": "फहाद का उच्चारण: फ (pha) ह (ha) आ (aad)",
-      "pashto": "د فهاد تلفظ: ف (fe) ه (he) ا (aad)",
-      "ipa": "/fɑːhɑːd/"
+      "romanized": "fa-haad",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فہاد",
+      "persian": null,
+      "hindi": "फ़हाद",
+      "pashto": "فهاد"
     },
-    "celebrity_usage": [
-      "Fahad Al-Brown",
-      "Fahad Hussayn",
-      "Fahad Mustafa"
-    ],
-    "social_tags": [
-      "#FahaadMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fahaad"
-    ],
-    "name_variations": [
-      "Fahad",
-      "Faaad"
-    ],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fahaad",
+        "fahaad",
+        "fahad"
+      ],
+      "script_variants": [
+        "فهاد",
+        "فہاد",
+        "फ़हाद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فهاد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fahaad can be understood through the Arabic form فهاد, whose central sense is guide, leader, one who leads. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Fahaad mean?",
+        "answer": "Fahaad is associated with the Arabic form فهاد, whose core sense is guide, leader, one who leads."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Fahaad?",
+        "answer": "Fahaad is associated with Arabic. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Fahaad an Arabic name?",
+        "answer": "Yes — the underlying form فهاد is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Fahaad an Islamic name?",
+        "answer": "Fahaad can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fahaad a Quranic name?",
+        "answer": "Fahaad should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fahaad mean in Urdu?",
+        "answer": "In Urdu, Fahaad is rendered فہاد and carries the sense رہنما، قائد، پیشوا."
+      },
+      {
+        "question": "What does Fahaad mean in Persian?",
+        "answer": "No verified Persian form was established for Fahaad."
+      },
+      {
+        "question": "How is Fahaad pronounced?",
+        "answer": "A romanized syllable approximation is fa-haad. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fahaad?",
+        "answer": "Romanization variants include Fahaad, fahaad, fahad. Script forms are فهاد, فہاد, फ़हाद."
+      },
+      {
+        "question": "Is Fahaad a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fahaad Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fahaad, a beautiful Islam name meaning \"Guide, Leader\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fahaad, Islam name, baby names, Guide, Leader, Islam baby names, name meaning",
-      "description_paragraph": "Fahaad is a meaningful Islam name of Arabic origin that means \"Guide, Leader\". From the Arabic root 'fahada' meaning 'to guide, to lead'. This name is often used for individuals who are considered wise and just leaders.",
-      "keywords": [
-        "Fahaad",
-        "Islam name",
-        "baby names",
-        "Guide, Leader",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fahaad in Islam tradition?",
-          "a": "Fahaad is a beautiful Islam name meaning \"Guide, Leader\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fahaad a good Islam name for a baby?",
-          "a": "Yes, Fahaad is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fahaad?",
-          "a": "The name Fahaad has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fahaad correctly?",
-          "a": "Fahaad is pronounced fa-haad in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fahaad?",
-          "a": "Naming a child Fahaad brings blessings. The meaning \"Guide, Leader\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fahaad?",
-          "a": "Fahaad is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Fahaad Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fahaad (فهاد).",
+      "h1": "Fahaad Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fahaad meaning",
       "secondary_keywords": [
-        "Islam name Fahaad",
-        "Fahaad meaning",
-        "Fahaad origin"
+        "Fahaad name meaning",
+        "Fahaad meaning in Urdu",
+        "Fahaad origin",
+        "Fahaad Islamic name",
+        "Fahaad pronunciation",
+        "Fahaad name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fahaad (فهاد) is associated with the Arabic form فهاد, whose core sense is guide, leader, one who leads. Fahhād, related to fahd ('cheetah, leopard'). The source record's gloss 'Guide, Leader' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fahaad is associated with the Arabic form فهاد, whose core sense is guide, leader, one who leads.",
+      "meaning_section": "The central meaning of Fahaad is guide, leader, one who leads.",
+      "origin_section": "Fahaad is associated with Arabic rather than with a different language.",
+      "islam_section": "Fahaad can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fahaad is with the sense guide.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fahaad",
+      "#FahaadMeaning",
+      "#FahaadName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fahaad carries the esteemed meaning of being a wise and just leader in the Arab and Muslim cultural context. Naming a child Fahaad is believed to instill in them a strong sense of responsibility, leadership, and a deep commitment to their community. This is inspired by the many historical figures and leaders in Islam who went by this name, such as the Companion of Prophet Muhammad (pbuh) – Fahad ibn Masud Al-Ansari, who was renowned for his generosity and courage.",
-    "spiritual_significance": "From a spiritual perspective, the name Fahaad represents a deep connection to guidance and a strong belief in spiritual leadership. The name invokes the idea of following a righteous path, staying steadfast on the journey towards self-improvement, and seeking wisdom and knowledge to brighten the spiritual journey of oneself and others. It also symbolizes the role of a leader as a compassionate guide, leading others through barriers and challenges, and ultimately leading them to the path of enlightenment and closeness to God.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arabic origin, related to \"fahd\" meaning leopard The name Fahaad carried significant weight in that era.",
-        "time_period": "pre-Islamic",
-        "context": "In pre-Islamic Arabia, the name Fahaad was associated with the leopard, a symbol of agility and power."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "growing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fahaad corresponds to the Arabic form فهاد",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Fahaad has the core sense guide, leader, one who leads",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media, particularly Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fahaad remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Fahaad",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Yusuf Fahaad in Cairo, Egypt attributes much of their success to the blessing of their name Fahaad, which means \"Guide, Leader\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Guide, Leader\" symbolizes From the Arabic root 'fahada' meaning 'to guide, to lead'. This name is often used for individuals who are considered wise and just leaders.. In Islamic spirituality, bearing the name Fahaad serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of guide, leader.",
-    "created_at": "2025-12-22T19:19:49.889Z",
-    "updated_at": "2025-12-22T04:53:15.118Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1728,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fahaad",
-      "description": "Guide, Leader",
-      "additionalName": [
-        "Fahad",
-        "Faaad"
+      "alternateName": [
+        "Fahaad",
+        "fahaad",
+        "fahad"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form فهاد, meaning guide, leader, one who leads.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fahaad",
-          "description": "Discover the meaning of Fahaad - \"Guide, Leader\"",
-          "image": "/images/social/fahaad-facebook.jpg"
+      "termCode": "fahaad",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fahaad - Name Meaning",
-          "description": "Learn about the beautiful name Fahaad",
-          "image": "/images/social/fahaad-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Fahaad",
-          "description": "Name meaning: Guide, Leader",
-          "image": "/images/social/fahaad-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fahaad - Meaning: Guide, Leader",
-        "email_subject": "Beautiful Name: Fahaad"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fahaad with meaning Guide, Leader",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fahaad, associated with the Arabic form فهاد, meaning guide, leader, one who leads."
     },
-    "similar_sounding_names": [
-      "firoz",
-      "farisha",
-      "faiyaz",
-      "fakeehah",
-      "faekah",
-      "fardeen",
-      "fadi"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

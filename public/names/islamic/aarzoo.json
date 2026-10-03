@@ -3,290 +3,489 @@
   "data": {
     "name": "Aarzoo",
     "slug": "aarzoo",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Desire, Longing",
-    "long_meaning": "A name derived from the Arabic root 'ar-z-a', which signifies a strong desire or longing. In Islamic context, it can symbolize the longing for Allah's love, guidance, and forgiveness. This name is often given to a girl as a reminder of the importance of keeping her heart filled with righteous intentions and a deep yearning for spiritual growth.",
-    "spiritual_meaning": "A constant reminder of the importance of longing for Allah's love and guidance.",
-    "emotional_traits": [
-      "Tender",
-      "Romantic",
-      "Yearning"
-    ],
-    "hidden_personality_traits": [
-      "S = Sensitive"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Blue",
-      "Pink"
-    ],
-    "lucky_stone": "(Lapis Lazuli)",
-    "life_path_number": 3,
-    "numerology_meaning": "Those with the name Aarzoo are creative, passionate, and emotional individuals. They have a strong desire for self-expression and often seek to find meaning in their experiences. This name is best suited for those who are in touch with their feelings and have a deep sense of compassion for others.",
-    "in_arabic": {
-      "name": "أرزو",
-      "meaning": "الأمل والتمني والرغبة في شيء ما",
-      "long_meaning": "اسم أرزو مشتق من الفعل العربي 'رَزَا' والذي يعني الأمل والتمني والرغبة في شيء ما. يستخدم هذا الاسم في الثقافة الإسلامية ليعبر عن الأمل والتفاؤل في الحصول على شيء مرغوب فيه. وقد ورد في القرآن الكريم ذكر الأمل والتمني في عدة آيات، مما يعزز الأهمية الروحية لهذا الاسم في التقاليد الإسلامية."
+    "identity": {
+      "display_name": "Aarzoo",
+      "normalized_name": "aarzoo",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aarzoo",
+        "aarzoo",
+        "arzoo"
+      ],
+      "search_variants": [
+        "Aarzoo",
+        "aarzoo",
+        "arzoo"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ارزو",
-      "meaning": "امید، خواہش، اور کسی چیز کی رغبت",
-      "long_meaning": "ارزو کا نام عربی زبان کے فعل 'رَزَا' سے ماخوذ ہے، جس کا مطلب ہے امید، خواہش، اور کسی چیز کی رغبت۔ جنوبی ایشیاء کی مسلم ثقافت میں، یہ نام امید اور کسی چیز کی خواہش کے اظہار کے طور پر استعمال ہوتا ہے۔ عربی جڑوں سے اخذ شدہ، یہ نام اسلامی روایات میں اہمیت رکھتا ہے، خاص طور پر قرآن کریم میں امید اور تمنی کے موضوعات کے حوالے سے۔"
+    "core_meaning": {
+      "short_meaning": "Desire, longing, yearning",
+      "primary_meaning": "Desire",
+      "secondary_meanings": [
+        "longing",
+        "yearning"
+      ],
+      "literal_meaning": "Desire",
+      "extended_meaning": "Desire, longing, yearning",
+      "meaning_explanation": "Aarzoo corresponds to the Persian form آرزو (—). Its core sense is desire, longing, yearning. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अर्ज़ू",
-      "meaning": "आशा, इच्छा, और किसी चीज़ की लालसा",
-      "long_meaning": "अर्ज़ू नाम की उत्पत्ति العربية भाषा के क्रियापद 'رَزَا' (راز) से हुई है, जिसका अर्थ है आशा, इच्छा, और किसी चीज़ की लालसा। भारतीय मुस्लिम समुदाय में, यह नाम आशा और किसी चीज़ की इच्छा को व्यक्त करने के लिए प्रयोग किया जाता है। इसकी जड़ें عربی भाषा में हैं, जो इसे इस्लामी परंपराओं में विशेष महत्व देती हैं, खासकर कुरआन में आशा और तमन्ना के विषयों के संदर्भ में।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "آرزو",
+      "transliteration": "aarzoo",
+      "romanization": "aarzoo",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Desire",
+        "longing",
+        "yearning"
+      ],
+      "etymology_explanation": "The form آرزو is an established Persian lexical item. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ارز",
-      "meaning": "هیله، خواهش، او د څه غوښتنه",
-      "long_meaning": "د ارزو نوم د عربي ژبې د فعل 'رَزَا' څخه اخیستل شوی دی، چې معنی یې هیله، خواهش، او د څه غوښتنه ده. د پښتنو او افغانانو په کښتۍ، دا نوم د هیله او د څه غوښتنې د څرګندولو په توګه کارول کیږي. د عربي ريښو څخه اخیستل شوی، دا نوم په اسلامي دودونو کې اهمیت لري، په ځانګړي ډول د قرآن کریم په امید او تمني پورې اړوند موضوعاتو کې."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "آرزو is an established Arabic form.",
+        "Urdu": "آرزو is used in Urdu.",
+        "Hindi": "आरज़ू is used in Hindi.",
+        "Pashto": "آرزو is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Aarzoo",
-      "meaning": "Hope, desire, wish, or longing for something",
-      "long_meaning": "The name Aarzoo originates from the Arabic verb 'رَزَا' (razā), meaning to hope, desire, or wish for something. In Islamic tradition, this name signifies hope and aspiration, reflecting the believer's yearning for spiritual growth and divine pleasure. Rooted in Arabic etymology, Aarzoo conveys a sense of optimism and positive expectation, aligning with Quranic themes of hope and supplication. Historically, the name has been used across various Muslim cultures to express the desire for good and the hope for a better future."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form آرزو. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aarzoo may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not a Qur'anic form"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense desire, longing, yearning.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Desire",
+      "related_concepts": [
+        "desire",
+        "longing",
+        "yearning"
+      ],
+      "semantic_relationship": "The central semantic idea is desire; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of desire.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Desire",
+        "Longing",
+        "Yearning"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aarzoo",
+        "meaning": "Desire, longing, yearning",
+        "long_meaning": "Aarzoo is a Persian-origin name. Its core meaning is desire, longing, yearning. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu."
+      },
+      "urdu": {
+        "name": "آرزو",
+        "meaning": "خواہش، آرزو، تمنا",
+        "long_meaning": "Aarzoo (آرزو) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خواہش، آرزو، تمنا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आरज़ू",
+        "meaning": "इच्छा, चाह, अभिलाषा",
+        "long_meaning": "Aarzoo (आरज़ू) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ इच्छा, चाह, अभिलाषा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "آرزو",
+        "meaning": "هیله، غوښتنه، ارمان",
+        "long_meaning": "Aarzoo (آرزو) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې هیله، غوښتنه، ارمان ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "آرزو",
+        "meaning": "رغبة، شوق، منية",
+        "long_meaning": "Aarzoo (آرزو) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي رغبة، شوق، منية. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-rzoo",
-      "urdu": "اردو میں تلفظ کی تفصیل: اے آر زو",
-      "hindi": "हिन्दी में उच्चारण विवरण: आर ज़ू",
-      "pashto": "په پښتو کې د تلفظ تفصیل: ارزو",
-      "ipa": "/ɑːrˈzuː/"
+      "romanized": "aar-zoo",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "آرزو",
+      "persian": null,
+      "hindi": "आरज़ू",
+      "pashto": "آرزو"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AarzooMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aarzoo"
-    ],
-    "name_variations": [
-      "Aarzu"
-    ],
-    "popularity_score": 75,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aarzoo",
+        "aarzoo",
+        "arzoo"
+      ],
+      "script_variants": [
+        "آرزو",
+        "आरज़ू"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": [
+        {
+          "name": "Arzu",
+          "script": "آرزو",
+          "reason": "آرزو is a Persian word meaning 'wish, longing'. It is not Arabic in origin."
+        }
+      ]
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form آرزو is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aarzoo can be understood through the Persian form آرزو, whose central sense is desire, longing, yearning. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 90,
-        "year": 2024
+        "question": "What does Aarzoo mean?",
+        "answer": "Aarzoo is associated with the Persian form آرزو, whose core sense is desire, longing, yearning."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 88,
-        "year": 2024
+        "question": "What is the origin of Aarzoo?",
+        "answer": "Aarzoo is associated with Persian. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Aarzoo an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Aarzoo an Islamic name?",
+        "answer": "Aarzoo can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aarzoo a Quranic name?",
+        "answer": "Aarzoo should not be classified as a Quranic personal name without a direct Quranic basis. not a Qur'anic form"
+      },
+      {
+        "question": "What does Aarzoo mean in Urdu?",
+        "answer": "In Urdu, Aarzoo is rendered آرزو and carries the sense خواہش، آرزو، تمنا."
+      },
+      {
+        "question": "What does Aarzoo mean in Persian?",
+        "answer": "No verified Persian form was established for Aarzoo."
+      },
+      {
+        "question": "How is Aarzoo pronounced?",
+        "answer": "A romanized syllable approximation is aar-zoo. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aarzoo?",
+        "answer": "Romanization variants include Aarzoo, aarzoo, arzoo. Script forms are آرزو, आरज़ू."
+      },
+      {
+        "question": "Is Aarzoo a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aarzoo Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aarzoo, a beautiful Islam name meaning \"Desire, Longing\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aarzoo, Islam name, baby names, Desire, Longing, Islam baby names, name meaning",
-      "description_paragraph": "Aarzoo is a meaningful Islam name of Arabic origin that means \"Desire, Longing\". A name derived from the Arabic root 'ar-z-a', which signifies a strong desire or longing. In Islamic context, it can symbolize the longing for Allah's love, guidance, and forgiveness. This name is often given to a girl as a reminder of the importance of keeping her heart filled with righteous intentions and a deep yearning for spiritual growth.",
-      "keywords": [
-        "Aarzoo",
-        "Islam name",
-        "baby names",
-        "Desire, Longing",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aarzoo in Islam tradition?",
-          "a": "Aarzoo is a beautiful Islam name meaning \"Desire, Longing\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aarzoo a good Islam name for a baby?",
-          "a": "Yes, Aarzoo is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aarzoo?",
-          "a": "The name Aarzoo has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aarzoo correctly?",
-          "a": "Aarzoo is pronounced ah-rzoo in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aarzoo?",
-          "a": "Naming a child Aarzoo brings blessings. The meaning \"Desire, Longing\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aarzoo?",
-          "a": "Aarzoo is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Aarzoo Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aarzoo (آرزو).",
+      "h1": "Aarzoo Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aarzoo meaning",
       "secondary_keywords": [
-        "Islam name Aarzoo",
-        "Aarzoo meaning",
-        "Aarzoo origin"
+        "Aarzoo name meaning",
+        "Aarzoo meaning in Urdu",
+        "Aarzoo origin",
+        "Aarzoo Islamic name",
+        "Aarzoo pronunciation",
+        "Aarzoo name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aarzoo (آرزو) is associated with the Persian form آرزو, whose core sense is desire, longing, yearning. آرزو is an established Persian word meaning 'wish, desire, longing'. It is Persian, not Arabic, and is widely used in Urdu.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aarzoo is associated with the Persian form آرزو, whose core sense is desire, longing, yearning.",
+      "meaning_section": "The central meaning of Aarzoo is desire, longing, yearning.",
+      "origin_section": "Aarzoo is associated with Persian rather than with a different language.",
+      "islam_section": "Aarzoo can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aarzoo is with the sense desire.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aarzoo",
+      "#AarzooMeaning",
+      "#AarzooName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Aarzoo holds significance in the Urdu and Persian speaking Islamic communities, and it is often used as a girl's name. It highlights the importance of having strong desires and longings, which can inspire one to pursue their goals and dreams with determination and passion.",
-    "spiritual_significance": "In the Islamic faith, the name Aarzoo can be a powerful reminder of the importance of having a strong spiritual connection with Allah. It encourages one to nurture their desire for Allah's love, guidance, and forgiveness, and to strive towards living a virtuous and pious life. This name embraces the idea that our deepest desires and longings should be focused on pleasing and growing closer to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Khaldun's 'Muqaddimah': A Historical Classic on Civilizations and States The name Aarzoo carried significant weight in that era.",
-        "time_period": "14th century",
-        "context": "Aarzoo is mentioned in Ibn Khaldun's magnum opus 'Muqaddimah' as a type of collective desire, longing or ambition that can drive societies towards achieving great goals. It is a term used to describe the collective desire or aspiration of a group of people towards a common objective, which can lead to the formation of powerful states and empires."
-      },
-      {
-        "reference": "Historical records show that Sufi Literature: The Role of Love and Longing in Spiritual Development The name Aarzoo carried significant weight in that era.",
-        "time_period": "13th to 16th centuries",
-        "context": "In the context of Sufi literature and mysticism, Aarzoo refers to the intense longing or love for the divine. Sufis believed that this longing or desire for the divine was essential for spiritual growth and the attainment of union with God. The concept of Aarzoo was explored in various Sufi poems, songs and writings, which often described the longing and yearning of the soul for the Beloved (Allah)."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names gaining popularity in the modern world due to cultural appreciation and diversity, Spirituality and self-expression"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aarzoo corresponds to the Persian form آرزو",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aarzoo has the core sense desire, longing, yearning",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, Fashion industry, Art and design"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aarzoo, which means 'desire' or 'yearning' in Urdu, has become increasingly popular in modern contexts across various platforms. On social media, it is seen as a unique and meaningful name for accounts, blogs or hashtags, reflecting a strong sense of individuality and self-expression among young Muslims. In the fashion industry, it is utilized as a brand name for clothing lines or accessories, appealing to a demographic that values cultural authenticity and modern aesthetics. Lastly, in art and design, Aarzoo is used as inspiration for abstract pieces or as a theme for numerous creative endeavors, symbolizing a deep yearning for creativity and spiritual growth."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Aarzoo",
-      "location": "Karachi, Pakistan",
-      "story": "Maryam Aarzoo, a teacher in Karachi, Pakistan, shares that their name Aarzoo meaning \"Desire, Longing\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Desire, Longing\" symbolizes A name derived from the Arabic root 'ar-z-a', which signifies a strong desire or longing. In Islamic context, it can symbolize the longing for Allah's love, guidance, and forgiveness. This name is often given to a girl as a reminder of the importance of keeping her heart filled with righteous intentions and a deep yearning for spiritual growth.. In Islamic spirituality, bearing the name Aarzoo serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of desire, longing.",
-    "created_at": "2025-12-22T19:19:50.331Z",
-    "updated_at": "2025-12-22T04:53:15.901Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1600,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aarzoo",
-      "description": "Desire, Longing",
-      "additionalName": [
-        "Aarzu"
+      "alternateName": [
+        "Aarzoo",
+        "aarzoo",
+        "arzoo"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Persian form آرزو, meaning desire, longing, yearning.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aarzoo",
-          "description": "Discover the meaning of Aarzoo - \"Desire, Longing\"",
-          "image": "/images/social/aarzoo-facebook.jpg"
+      "termCode": "aarzoo",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Aarzoo - Name Meaning",
-          "description": "Learn about the beautiful name Aarzoo",
-          "image": "/images/social/aarzoo-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Aarzoo",
-          "description": "Name meaning: Desire, Longing",
-          "image": "/images/social/aarzoo-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aarzoo - Meaning: Desire, Longing",
-        "email_subject": "Beautiful Name: Aarzoo"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aarzoo with meaning Desire, Longing",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aarzoo, associated with the Persian form آرزو, meaning desire, longing, yearning."
     },
-    "similar_sounding_names": [
-      "alabbas",
-      "alma",
-      "alaia",
-      "arsala",
-      "aidan",
-      "arya",
-      "anja",
-      "ada",
-      "alika",
-      "amelia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

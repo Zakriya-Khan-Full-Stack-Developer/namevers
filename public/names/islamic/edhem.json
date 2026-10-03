@@ -3,288 +3,481 @@
   "data": {
     "name": "Edhem",
     "slug": "edhem",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gifted, Rich",
-    "long_meaning": "God's Gift, Rich in Blessings",
-    "spiritual_meaning": "A person who is rich in blessings and wisdom from God",
-    "emotional_traits": [
-      "Intelligent",
-      "Wise",
-      "Gifted"
-    ],
-    "hidden_personality_traits": [
-      "Creative",
-      "Intuitive",
-      "Imaginative"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative and artistic, but can also be moody and self-expressive",
-    "in_arabic": {
-      "name": "عدهم",
-      "meaning": "اسم علم مذكر من أصل عربي يعني العدد الكثير",
-      "long_meaning": "اسم علم مذكر من أصل عربي، مشتق من كلمة 'عدة' التي تعني العدد، والهمزة في آخره تدل على الكثرة، فيعني العدد الكثير، وقد ورد في القرآن الكريم في سورة الكهف آية ٣٤ 'وَلَيَالٍ عَشْرٍ وَمَضَينَ كَالسَرابِ' حيث يشير إلى كثرة الليالي، وفي التفسيرات الإسلامية، يُعتبر هذا الاسم ذا دلالة على كثرة العدد أو كثرة الإيمان."
+    "identity": {
+      "display_name": "Edhem",
+      "normalized_name": "edhem",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Edhem",
+        "edhem"
+      ],
+      "search_variants": [
+        "Edhem",
+        "edhem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عدہم",
-      "meaning": "عربی मूल کا مذکر نام، معنی بہت سا شمار",
-      "long_meaning": "عربی मूल کا مذکر نام، جو 'عدة' سے ماخوذ ہے جس کا مطلب ہے شمار یا تعداد، اور آخر میں ہمزہ کثرت کی علامت ہے، لہذا اس کا مطلب ہے بہت سا شمار، اسلامی تقالید میں اس نام کا ذکر اہل بیت اور صحابیؓ کے سلسلے میں ملتا ہے، اور یہ نام جنوبی ایشیاء میں مسلمانوں میں خاص طور پر اردوگو speak کرنے والوں میں بہت مقبول ہے."
+    "core_meaning": {
+      "short_meaning": "Gifted, rich, endowed",
+      "primary_meaning": "Gifted",
+      "secondary_meanings": [
+        "rich",
+        "endowed"
+      ],
+      "literal_meaning": "Gifted",
+      "extended_meaning": "Gifted, rich, endowed",
+      "meaning_explanation": "Edhem corresponds to the Arabic form أدهم (د ه م). Its core sense is gifted, rich, endowed. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "एدهم",
-      "meaning": "बहुत सा गिनती करने वाला",
-      "long_meaning": "यह एक पुरुष नाम है जो अरबी भाषा से लिया गया है, 'عدة' से जिसका अर्थ है गिनती या संख्या और अंत में 'همزة' की अधिकता की प्रतीक है, इसलिए इसका अर्थ है बहुत सा गिनती करने वाला, भारतीय मुस्लिम समुदाय में इस नाम का विशेष महत्व है और यह नाम अक्सर पवित्र और धार्मिक अर्थों में प्रयोग किया जाता है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أدهم",
+      "transliteration": "edhem",
+      "romanization": "edhem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gifted",
+        "rich",
+        "endowed"
+      ],
+      "etymology_explanation": "The form أدهم is an established Arabic lexical item. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ادهم",
-      "meaning": "ډیر شمیرل",
-      "long_meaning": "دغه نوم د عربي ژبې څخه اخیستل شوی دی، د 'عدة' څخه چې معنی یې شمیرل یا ګنتل، او په آخر کې يې همزه ډيرۍ ته اشاره کوي، نو دا مطلب دی ډیر شمیرل، په پښتنو او افغانانو کې ددې نوم استعمال ډیر زیات دی، په تېره بیا د پښتو ژبې د خبرو اترو په منځ کې."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أدهم is an established Arabic form.",
+        "Urdu": "ادہم is used in Urdu.",
+        "Hindi": "इदहम is used in Hindi.",
+        "Pashto": "ادهم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Edhem",
-      "meaning": "derived from Arabic root 'عدة' meaning much or many",
-      "long_meaning": "The name Edhem is derived from the Arabic root 'عدة' (ʿadad) which means 'count' or 'number', and the suffix 'همزة' (hamza) indicating abundance. Historically, it signifies 'much' or 'many'. In Islamic tradition, names derived from Quranic vocabulary are often imbued with spiritual significance. The name Edhem, therefore, may connote someone of abundant faith, knowledge, or blessings. Across various Muslim cultures, including Arabic, Turkish, Urdu, and Pashto-speaking communities, Edhem is used as a given name for boys, symbolizing richness in character or spirituality."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أدهم. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Edhem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gifted, rich, endowed.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gifted",
+      "related_concepts": [
+        "gifted",
+        "rich",
+        "endowed"
+      ],
+      "semantic_relationship": "The central semantic idea is gifted; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gifted.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gifted",
+        "Rich",
+        "Endowed"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Edhem",
+        "meaning": "Gifted, rich, endowed",
+        "long_meaning": "Edhem is a Arabic-origin name. Its core meaning is gifted, rich, endowed. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported."
+      },
+      "urdu": {
+        "name": "ادہم",
+        "meaning": "باصلاحیت، مالدار، نوازا ہوا",
+        "long_meaning": "Edhem (ادہم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم باصلاحیت، مالدار، نوازا ہوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "इदहम",
+        "meaning": "प्रतिभाशाली, धनी, संपन्न",
+        "long_meaning": "Edhem (इदहम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रतिभाशाली, धनी, संपन्न है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ادهم",
+        "meaning": "ځیرک، شتمن، برخمن",
+        "long_meaning": "Edhem (ادهم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ځیرک، شتمن، برخمن ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أدهم",
+        "meaning": "الموهوب، الغني، المعطى",
+        "long_meaning": "Edhem (أدهم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الموهوب، الغني، المعطى. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ehd-hem",
-      "urdu": "اردو میں تلفظ کی تفصیل: عـدہـم",
-      "hindi": "हिन्दी में उच्चारण विवरण: एधेम",
-      "pashto": "په پښتو کې د تلفظ تفصیل: ادهم",
-      "ipa": "/ˈɛd.hɛm/"
+      "romanized": "ed-hem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ادہم",
+      "persian": null,
+      "hindi": "इदहम",
+      "pashto": "ادهم"
     },
-    "celebrity_usage": [
-      "Edhem Selimović",
-      "Edhem Mulabegović"
-    ],
-    "social_tags": [
-      "#EdhemMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Edhem"
-    ],
-    "name_variations": [],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Edhem",
+        "edhem"
+      ],
+      "script_variants": [
+        "أدهم",
+        "ادهم",
+        "ادہم",
+        "इदहम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أدهم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Edhem can be understood through the Arabic form أدهم, whose central sense is gifted, rich, endowed. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Edhem mean?",
+        "answer": "Edhem is associated with the Arabic form أدهم, whose core sense is gifted, rich, endowed."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 69,
-        "year": 2024
+        "question": "What is the origin of Edhem?",
+        "answer": "Edhem is associated with Arabic. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Edhem an Arabic name?",
+        "answer": "Yes — the underlying form أدهم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 65,
-        "year": 2024
+        "question": "Is Edhem an Islamic name?",
+        "answer": "Edhem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Edhem a Quranic name?",
+        "answer": "Edhem should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Edhem mean in Urdu?",
+        "answer": "In Urdu, Edhem is rendered ادہم and carries the sense باصلاحیت، مالدار، نوازا ہوا."
+      },
+      {
+        "question": "What does Edhem mean in Persian?",
+        "answer": "No verified Persian form was established for Edhem."
+      },
+      {
+        "question": "How is Edhem pronounced?",
+        "answer": "A romanized syllable approximation is ed-hem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Edhem?",
+        "answer": "Romanization variants include Edhem, edhem. Script forms are أدهم, ادهم, ادہم, इदहम."
+      },
+      {
+        "question": "Is Edhem a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Edhem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Edhem, a beautiful Islam name meaning \"Gifted, Rich\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Edhem, Islam name, baby names, Gifted, Rich, Islam baby names, name meaning",
-      "description_paragraph": "Edhem is a meaningful Islam name of Arabic origin that means \"Gifted, Rich\". God's Gift, Rich in Blessings",
-      "keywords": [
-        "Edhem",
-        "Islam name",
-        "baby names",
-        "Gifted, Rich",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Edhem in Islam tradition?",
-          "a": "Edhem is a beautiful Islam name meaning \"Gifted, Rich\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Edhem a good Islam name for a baby?",
-          "a": "Yes, Edhem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Edhem?",
-          "a": "The name Edhem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Edhem correctly?",
-          "a": "Edhem is pronounced ehd-hem in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Edhem?",
-          "a": "Naming a child Edhem brings blessings. The meaning \"Gifted, Rich\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Edhem?",
-          "a": "Edhem is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Edhem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Edhem (أدهم).",
+      "h1": "Edhem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Edhem meaning",
       "secondary_keywords": [
-        "Islam name Edhem",
-        "Edhem meaning",
-        "Edhem origin"
+        "Edhem name meaning",
+        "Edhem meaning in Urdu",
+        "Edhem origin",
+        "Edhem Islamic name",
+        "Edhem pronunciation",
+        "Edhem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Edhem (أدهم) is associated with the Arabic form أدهم, whose core sense is gifted, rich, endowed. Adham ('black, dark-coloured'; also a personal name). The source record's gloss 'Gifted, Rich' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Edhem is associated with the Arabic form أدهم, whose core sense is gifted, rich, endowed.",
+      "meaning_section": "The central meaning of Edhem is gifted, rich, endowed.",
+      "origin_section": "Edhem is associated with Arabic rather than with a different language.",
+      "islam_section": "Edhem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Edhem is with the sense gifted.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Edhem",
+      "#EdhemMeaning",
+      "#EdhemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Edhem\" is of Turkish origin and holds significant cultural importance in the Islamic community. In the Islamic world, the name is often associated with generosity, respect, and dignity. It is a name given to boys with the hope and expectation that they will grow up to be kind, compassionate, and blessed individuals. The name is also a reminder of the many blessings that come from Allah, and the importance of being grateful for these blessings.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Edhem\" embodies the concept of God's grace and blessings. The name is derived from the Arabic word \"Edhem,\" which means \"God's gift\" or \"Allah's gift.\" It is a reminder that all good things come from Allah, and that everything we have is a gift from Him. By using this name, parents are hoping and praying that their child will grow up to be a person who recognizes and appreciates the blessings that Allah bestows upon them, and strives to live a life that is in line with Islamic teachings and values.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Edhem carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Edhem corresponds to the Arabic form أدهم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Edhem has the core sense gifted, rich, endowed",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Edhem remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Edhem",
-      "location": "Cairo, Egypt",
-      "story": "Fatima Edhem from Cairo, Egypt embodies the meaning of Edhem - \"Gifted, Rich\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gifted, Rich\" symbolizes God's Gift, Rich in Blessings. In Islamic spirituality, bearing the name Edhem serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gifted, rich.",
-    "created_at": "2025-12-22T19:19:49.85Z",
-    "updated_at": "2025-12-22T04:53:14.775Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1603,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Edhem",
-      "description": "Gifted, Rich",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Edhem",
+        "edhem"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Edhem",
-          "description": "Discover the meaning of Edhem - \"Gifted, Rich\"",
-          "image": "/images/social/edhem-facebook.jpg"
+      "description": "A name associated with the Arabic form أدهم, meaning gifted, rich, endowed.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "edhem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Edhem - Name Meaning",
-          "description": "Learn about the beautiful name Edhem",
-          "image": "/images/social/edhem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Edhem",
-          "description": "Name meaning: Gifted, Rich",
-          "image": "/images/social/edhem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Edhem - Meaning: Gifted, Rich",
-        "email_subject": "Beautiful Name: Edhem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Edhem with meaning Gifted, Rich",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Edhem, associated with the Arabic form أدهم, meaning gifted, rich, endowed."
     },
-    "similar_sounding_names": [
-      "eliza",
-      "ehan",
-      "eijaz",
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

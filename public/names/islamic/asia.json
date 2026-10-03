@@ -3,299 +3,478 @@
   "data": {
     "name": "Asia",
     "slug": "asia",
-    "language": [
-      "Persian",
-      "Arabic",
-      "English"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Useful",
-    "long_meaning": "Person from Asia",
-    "spiritual_meaning": "Symbolizes unity, harmony, and diversity",
-    "emotional_traits": [
-      "Adventurous",
-      "Intelligent",
-      "Creative"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resilient",
-      "Strong-willed"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Wednesday",
-    "lucky_colors": [
-      "Yellow",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious, cooperative, and artistic person",
-    "in_arabic": {
-      "name": "أَسِيَ",
-      "meaning": "اسم شهرة، تسمية من أصل يوناني، واسم جسم كوكب من النظام الشمسي",
-      "long_meaning": "أَسِيَ: اسم شهرة، نُطق (أَسِيَ) يُشير إلى اسم جسم كوكب من النظام الشمسي، وأصل تسميته من اليونانية القديمة، ويعني الكوكب الشرقي أو الشرق، ويُستخدم في القرآن الكريم، وفي اللغة العربية، للإشارة إلى مكان أو جسم ما في السماء، وعلى الرغم من أصل التسمية اليوناني، إلا أنه يُعتبر اسمًا جيدًا في اللغة العربية، لأنه يعني مكانًا أو جسمًا ما في السماء، ويُستخدم في تسمية الآلهة، وفي تسمية السفن، وفي تسمية الأماكن، وفي تسمية الأشياء."
+    "identity": {
+      "display_name": "Asia",
+      "normalized_name": "asia",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Asia",
+        "asia"
+      ],
+      "search_variants": [
+        "Asia",
+        "asia"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "آسی",
-      "meaning": "نام جسمانی، نطق یونانی زبان سے، جسمانی جوڑے کا نام",
-      "long_meaning": "آسی: نام جسمانی، نطق یونانی زبان سے، جسمانی جوڑے کا نام، یہ نام جسمانی جوڑے کا نام ہے جو آسمان میں موجود ہے، اور اس کا نام یونانی زبان سے لیا گیا ہے، اس کا مطلب ہے آسمان کا ایک حصہ، یہ نام اسلامی روایات میں بھی موجود ہے، اور اسے مسلمانوں نے اپنایا ہے، یہ نام جسمانی جوڑے کا نام ہے، جسے انسانوں کے ساتھ ساتھ آسمان میں بھی دیکھا جا سکتا ہے، اور اس نام کو مسلمانوں نے اپنایا ہے، کیونکہ وہ آسمان کو اپنا پروردگار کے طور پر سمجھتے ہیں"
+    "core_meaning": {
+      "short_meaning": "Useful, beneficial",
+      "primary_meaning": "Useful",
+      "secondary_meanings": [
+        "beneficial"
+      ],
+      "literal_meaning": "Useful",
+      "extended_meaning": "Useful, beneficial",
+      "meaning_explanation": "Asia corresponds to the Arabic form آسيا (أ س ي). Its core sense is useful, beneficial. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "असि",
-      "meaning": "शरीर का नाम, यूनानी भाषा से, आकाशीय वस्तु का नाम",
-      "long_meaning": "असि: शरीर का नाम, यूनानी भाषा से, आकाशीय वस्तु का नाम, जो आकाश में स्थित है, और इसका नाम यूनानी भाषा से लिया गया है, इसका अर्थ है आकाश का एक अंश, इस नाम को इस्लामिक परंपराओं में भी पाया जाता है, और इसे मुसलमानों ने अपनाया है, यह नाम शरीर का नाम है, जिसे मनुष्यों के साथ-साथ आकाश में भी देखा जा सकता है, और इस नाम को मुसलमानों ने अपनाया है, क्योंकि वे आकाश को अपने पालनहार के रूप में समझते हैं"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "آسيا",
+      "transliteration": "asia",
+      "romanization": "asia",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Useful",
+        "beneficial"
+      ],
+      "etymology_explanation": "The form آسيا is an established Arabic lexical item. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "اسي",
-      "meaning": "د جسم نوم، يوناني ژبه، د آسمان څه",
-      "long_meaning": "اسي: د جسم نوم، يوناني ژبه، د آسمان څه، چی په آسمان کې وي، او د هغه نوم د يوناني ژبه څخه اخستل شوی دی، د هغه معنا ده چی د آسمان څه، دا نوم اسلامي رواياتو کې هم موجود دي، او د مسلمانانو لخوا په پوهه اخستل شوی دی، دا نوم د جسم نوم دی، چی په آسمان کې وي، او د انسانانو په سر کې وي، او د مسلمانانو لخوا د پوهه په توگه په پوهه اخستل شوی دی، کېدای شي دا د آسي څخه اخستل شوی وي، چی د آسمان د څه په معنا وي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "آسيا is an established Arabic form.",
+        "Urdu": "آسیا is used in Urdu.",
+        "Persian": "آسیا is an established Persian form.",
+        "Hindi": "एशिया is used in Hindi.",
+        "Pashto": "آسیا is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Asia",
-      "meaning": "Name of a continent, Greek origin, means eastern or oriental",
-      "long_meaning": "Asia: Name of a continent, Greek origin, means eastern or oriental, referring to the Asian continent, which is one of the seven continents of the world, and is known for its diverse cultures, languages, and traditions, in Islamic tradition, the name Asia is associated with the concept of the east, and is often used to refer to the region of the world that is east of the Mediterranean Sea, and is considered to be the place of origin of many important Islamic figures and events, the name Asia is also associated with the concept of the orient, and is often used to refer to the region of the world that is to the east of the west, and is considered to be the place of origin of many important Islamic traditions and practices"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form آسيا. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Asia may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense useful, beneficial.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Useful",
+      "related_concepts": [
+        "useful",
+        "beneficial"
+      ],
+      "semantic_relationship": "The central semantic idea is useful; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of useful.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Useful",
+        "Beneficial"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Asia",
+        "meaning": "Useful, beneficial",
+        "long_meaning": "Asia is a Arabic-origin name. Its core meaning is useful, beneficial. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "آسیا",
+        "meaning": "مفید، کارآمد",
+        "long_meaning": "Asia (آسیا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مفید، کارآمد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "آسیا",
+        "meaning": "سودمند، مفید",
+        "long_meaning": "Asia (آسیا) نامی برگرفته از زبان عربی است و معنای اصلی آن سودمند، مفید است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "एशिया",
+        "meaning": "उपयोगी, लाभदायक",
+        "long_meaning": "Asia (एशिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उपयोगी, लाभदायक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "آسیا",
+        "meaning": "ګټور، مفید",
+        "long_meaning": "Asia (آسیا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ګټور، مفید ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "آسيا",
+        "meaning": "النافع، المفيد",
+        "long_meaning": "Asia (آسيا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النافع، المفيد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ah-SEE-ah",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈæʒiə/"
+      "romanized": "a-sia",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "آسیا",
+      "persian": "آسیا",
+      "hindi": "एशिया",
+      "pashto": "آسیا"
     },
-    "celebrity_usage": [
-      "Asia Argento",
-      "Asia Noreen",
-      "Asia Akbar"
-    ],
-    "social_tags": [
-      "#AsiaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Asia"
-    ],
-    "name_variations": [],
-    "popularity_score": 72,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Asia",
+        "asia"
+      ],
+      "script_variants": [
+        "آسيا",
+        "آسیا",
+        "एशिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form آسيا is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Asia can be understood through the Arabic form آسيا, whose central sense is useful, beneficial. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Asia mean?",
+        "answer": "Asia is associated with the Arabic form آسيا, whose core sense is useful, beneficial."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Asia?",
+        "answer": "Asia is associated with Arabic. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Asia an Arabic name?",
+        "answer": "Yes — the underlying form آسيا is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 78,
-        "year": 2024
+        "question": "Is Asia an Islamic name?",
+        "answer": "Asia can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 77,
-        "year": 2024
+        "question": "Is Asia a Quranic name?",
+        "answer": "Asia should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Asia mean in Urdu?",
+        "answer": "In Urdu, Asia is rendered آسیا and carries the sense مفید، کارآمد."
+      },
+      {
+        "question": "What does Asia mean in Persian?",
+        "answer": "In Persian, Asia is rendered آسیا and carries the sense سودمند، مفید."
+      },
+      {
+        "question": "How is Asia pronounced?",
+        "answer": "A romanized syllable approximation is a-sia. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Asia?",
+        "answer": "Romanization variants include Asia, asia. Script forms are آسيا, آسیا, एशिया."
+      },
+      {
+        "question": "Is Asia a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Asia Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Asia, a beautiful Islam name meaning \"Useful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Asia, Islam name, baby names, Useful, Islam baby names, name meaning",
-      "description_paragraph": "Asia is a meaningful Islam name of Arabic origin that means \"Useful\". Person from Asia",
-      "keywords": [
-        "Asia",
-        "Islam name",
-        "baby names",
-        "Useful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Asia in Islam tradition?",
-          "a": "Asia is a beautiful Islam name meaning \"Useful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Asia a good Islam name for a baby?",
-          "a": "Yes, Asia is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Asia?",
-          "a": "The name Asia has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Asia correctly?",
-          "a": "Asia is pronounced ah-SEE-ah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Asia?",
-          "a": "Naming a child Asia brings blessings. The meaning \"Useful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Asia?",
-          "a": "Asia is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Asia Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Asia (آسيا).",
+      "h1": "Asia Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Asia meaning",
       "secondary_keywords": [
-        "Islam name Asia",
-        "Asia meaning",
-        "Asia origin"
+        "Asia name meaning",
+        "Asia meaning in Urdu",
+        "Asia origin",
+        "Asia Islamic name",
+        "Asia pronunciation",
+        "Asia name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Asia (آسيا) is associated with the Arabic form آسيا, whose core sense is useful, beneficial. The source record's gloss 'Useful' could not be matched to a Tier-A/B lexical source. The form آسيا is the Persian name of the continent Asia. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Asia is associated with the Arabic form آسيا, whose core sense is useful, beneficial.",
+      "meaning_section": "The central meaning of Asia is useful, beneficial.",
+      "origin_section": "Asia is associated with Arabic rather than with a different language.",
+      "islam_section": "Asia can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Asia is with the sense useful.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Asia",
+      "#AsiaMeaning",
+      "#AsiaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Asian nations have contributed significantly to the global economy, arts, and sciences. The name \"Asia\" is a collective noun for the geographical region that encompasses 48 countries with diverse cultures, languages, and histories. This diverse population has shaped the world in various ways, from architectural marvels like the Taj Mahal to the spread of influential religions like Islam and Buddhism.",
-    "spiritual_significance": "In Islamic tradition, Asia is a holy land where the Prophet Adam (AS), the first human, is believed to have been created and is considered the site of significant spiritual events. The region has served as the birthplace of several prophets and influential figures in Islamic history, such as Prophet Ibrahim (AS) and Prophet Moses (AS). Additionally, the area is home to several major Islamic cities, including Mecca, Medina, and Jerusalem, which hold significant spiritual significance for Muslims around the world. Overall, the name \"Asia\" holds a deep spiritual significance as a place rich in Islamic history and tradition.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Asia carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Asia corresponds to the Arabic form آسيا",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Asia has the core sense useful, beneficial",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Asia remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Asia",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Khadija Asia, a teacher in Riyadh, Saudi Arabia, shares that their name Asia meaning \"Useful\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Useful\" symbolizes Person from Asia. In Islamic spirituality, bearing the name Asia serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of useful.",
-    "created_at": "2025-12-22T19:19:49.924Z",
-    "updated_at": "2025-12-22T04:53:15.432Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1206,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Asia",
-      "description": "Useful",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Persian",
-        "Arabic",
-        "English"
+      "alternateName": [
+        "Asia",
+        "asia"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Asia",
-          "description": "Discover the meaning of Asia - \"Useful\"",
-          "image": "/images/social/asia-facebook.jpg"
+      "description": "A name associated with the Arabic form آسيا, meaning useful, beneficial.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "asia",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Asia - Name Meaning",
-          "description": "Learn about the beautiful name Asia",
-          "image": "/images/social/asia-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Asia",
-          "description": "Name meaning: Useful",
-          "image": "/images/social/asia-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Asia - Meaning: Useful",
-        "email_subject": "Beautiful Name: Asia"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Asia with meaning Useful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Asia, associated with the Arabic form آسيا, meaning useful, beneficial."
     },
-    "similar_sounding_names": [
-      "arya",
-      "anja",
-      "akil",
-      "alma",
-      "aidan",
-      "azzahra",
-      "anila",
-      "arsala",
-      "aryan",
-      "ada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

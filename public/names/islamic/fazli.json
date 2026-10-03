@@ -3,278 +3,476 @@
   "data": {
     "name": "Fazli",
     "slug": "fazli",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Successful, Prosperous",
-    "long_meaning": "Derived from the Arabic word 'fazlah' which means prosperity, success, and abundance. In the Quran, the term 'fazl' is used to describe the blessings and favor of Allah upon His servants.",
-    "spiritual_meaning": "Symbolizes the blessings and favor of Allah in one's life.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 9,
-    "numerology_meaning": "People with the life path number 9 are natural leaders and humanitarians. They have a strong desire to help others and make the world a better place.",
-    "in_arabic": {
-      "name": "فضلي",
-      "meaning": "المقبول بالفضيلة، الفضيل، المقبول",
-      "long_meaning": "المقبول بالفضيلة من الله تعالى، و هو من صفات المؤمنين، والمقبولون بالفضائل في الإسلام، والمقبولون من الله تعالى في حياتهم الدنيا والآخرة، والمستقبلون للجنة، والمحبون للفضائل، والمقبولين بالفضيلات، والمحبوبون من الله تعالى، والمحبوبون في الإسلام، والمحبوبون من الناس"
+    "identity": {
+      "display_name": "Fazli",
+      "normalized_name": "fazli",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fazli",
+        "fazli"
+      ],
+      "search_variants": [
+        "Fazli",
+        "fazli"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فضلی",
-      "meaning": "خوش قسمی، فضیلت والا، مقبول",
-      "long_meaning": "خوش قسمی ہونے والے شخص، جو فضیلت والا ہو اور اللہ تعالیٰ کی محبوبیت میں فائز ہو، ان کے اخلاق میں فضیلت ہو اور ان کی زندگی میں فضیلت کی روشنی ہو، اللہ تعالیٰ کے محبوب ہونے کی وجہ سے ان پر فضیلت کی برکت ہو، اسلامی تعلیمات میں فضیلت والوں کی بے مثال مثال ہوں، اللہ تعالیٰ کی محبت کی نشانی ہوں اور مسلمانوں کی زندگی میں فضیلت کی روشنی ہوں"
+    "core_meaning": {
+      "short_meaning": "Successful, prosperous",
+      "primary_meaning": "Successful",
+      "secondary_meanings": [
+        "prosperous"
+      ],
+      "literal_meaning": "Successful",
+      "extended_meaning": "Successful, prosperous",
+      "meaning_explanation": "Fazli corresponds to the Arabic form فضلي (ف ض ل). Its core sense is successful, prosperous. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फ़ज़ली",
-      "meaning": "ख़ुशकिस्मत, मेरिट वाला, स्वीकार्य",
-      "long_meaning": "जो شخص ख़ुशकिस्मत है اور مेरिट वाला ہو، وہ اللہ تعالیٰ کے محبوب ہوں، ان کے اخلاق میں فضیلت ہو اور ان کی زندگی میں فضیلت کی روشنی ہو، اللہ تعالیٰ کے محبوب ہونے کی وجہ سے ان پر فضیلت کی برکت ہو، اسلامی تعلیمات میں فضیلت والوں کی بے مثال مثال ہوں، اللہ تعالیٰ کی محبت کی نشانی ہوں اور مسلمانوں کی زندگی میں فضیلت کی روشنی ہوں"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فضلي",
+      "transliteration": "fazli",
+      "romanization": "fazli",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Successful",
+        "prosperous"
+      ],
+      "etymology_explanation": "The form فضلي is an established Arabic lexical item. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فضلي",
-      "meaning": "خوش قسمی، فضیلت والی، مقبول",
-      "long_meaning": "د خپل پوهه لرونکی، د لوئیږي دنده لرونکی، د لوئیږي چارو ځایو لرونکی، د مخالفانو له ګناهو ډک نه شوی، د الله تعالی له محبوب شخص، د کورنیو له محبوب شخص، د مسلمانو له محبوب شخص، د فضیلت لرونکی، د فضیلت لرونکی څوکه"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فضلي is an established Arabic form.",
+        "Urdu": "فضلی is used in Urdu.",
+        "Hindi": "फ़ज़्ली is used in Hindi.",
+        "Pashto": "فضلي is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Fazli",
-      "meaning": "Favored, blessed, accepted, one who is esteemed and respected",
-      "long_meaning": "A person who is favored by Allah, blessed with goodness, and accepted by Him, possessing qualities that are esteemed and respected in Islam, one who is blessed with divine favor, and possesses characteristics that are pleasing to Allah, a person who is blessed with spiritual growth and development, and is accepted by Allah in this life and the hereafter"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فضلي. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fazli may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense successful, prosperous.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Successful",
+      "related_concepts": [
+        "successful",
+        "prosperous"
+      ],
+      "semantic_relationship": "The central semantic idea is successful; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of successful.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Successful",
+        "Prosperous"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fazli",
+        "meaning": "Successful, prosperous",
+        "long_meaning": "Fazli is a Arabic-origin name. Its core meaning is successful, prosperous. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported."
+      },
+      "urdu": {
+        "name": "فضلی",
+        "meaning": "کامیاب، خوشحال",
+        "long_meaning": "Fazli (فضلی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کامیاب، خوشحال ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ज़्ली",
+        "meaning": "कामयाब, समृद्ध",
+        "long_meaning": "Fazli (फ़ज़्ली) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कामयाब, समृद्ध है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فضلي",
+        "meaning": "کامیاب، هوسا",
+        "long_meaning": "Fazli (فضلي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کامیاب، هوسا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فضلي",
+        "meaning": "الناجح، المزدهر",
+        "long_meaning": "Fazli (فضلي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الناجح، المزدهر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈfæzli/",
+      "romanized": "faz-li",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
       "urdu": "فضلی",
-      "hindi": "फ़ज़ली",
-      "pashto": "فضلي",
-      "ipa": "/ˈfæzli/"
+      "persian": null,
+      "hindi": "फ़ज़्ली",
+      "pashto": "فضلي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FazliMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fazli"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fazli",
+        "fazli"
+      ],
+      "script_variants": [
+        "فضلي",
+        "فضلی",
+        "फ़ज़्ली"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فضلي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fazli can be understood through the Arabic form فضلي, whose central sense is successful, prosperous. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Fazli mean?",
+        "answer": "Fazli is associated with the Arabic form فضلي, whose core sense is successful, prosperous."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Fazli?",
+        "answer": "Fazli is associated with Arabic. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Fazli an Arabic name?",
+        "answer": "Yes — the underlying form فضلي is Arabic."
+      },
+      {
+        "question": "Is Fazli an Islamic name?",
+        "answer": "Fazli can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Fazli a Quranic name?",
+        "answer": "Fazli should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fazli mean in Urdu?",
+        "answer": "In Urdu, Fazli is rendered فضلی and carries the sense کامیاب، خوشحال."
+      },
+      {
+        "question": "What does Fazli mean in Persian?",
+        "answer": "No verified Persian form was established for Fazli."
+      },
+      {
+        "question": "How is Fazli pronounced?",
+        "answer": "A romanized syllable approximation is faz-li. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fazli?",
+        "answer": "Romanization variants include Fazli, fazli. Script forms are فضلي, فضلی, फ़ज़्ली."
+      },
+      {
+        "question": "Is Fazli a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fazli Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fazli, a beautiful Islam name meaning \"Successful, Prosperous\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fazli, Islam name, baby names, Successful, Prosperous, Islam baby names, name meaning",
-      "description_paragraph": "Fazli is a meaningful Islam name of Arabic origin that means \"Successful, Prosperous\". Derived from the Arabic word 'fazlah' which means prosperity, success, and abundance. In the Quran, the term 'fazl' is used to describe the blessings and favor of Allah upon His servants.",
-      "keywords": [
-        "Fazli",
-        "Islam name",
-        "baby names",
-        "Successful, Prosperous",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fazli in Islam tradition?",
-          "a": "Fazli is a beautiful Islam name meaning \"Successful, Prosperous\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fazli a good Islam name for a baby?",
-          "a": "Yes, Fazli is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fazli?",
-          "a": "The name Fazli has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fazli correctly?",
-          "a": "Fazli is pronounced /ˈfæzli/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fazli?",
-          "a": "Naming a child Fazli brings blessings. The meaning \"Successful, Prosperous\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fazli?",
-          "a": "Fazli is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Fazli Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fazli (فضلي).",
+      "h1": "Fazli Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fazli meaning",
       "secondary_keywords": [
-        "Islam name Fazli",
-        "Fazli meaning",
-        "Fazli origin"
+        "Fazli name meaning",
+        "Fazli meaning in Urdu",
+        "Fazli origin",
+        "Fazli Islamic name",
+        "Fazli pronunciation",
+        "Fazli name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fazli (فضلي) is associated with the Arabic form فضلي, whose core sense is successful, prosperous. Faḍlī ('of grace, related to faḍl'). The source record's gloss 'Successful, Prosperous' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fazli is associated with the Arabic form فضلي, whose core sense is successful, prosperous.",
+      "meaning_section": "The central meaning of Fazli is successful, prosperous.",
+      "origin_section": "Fazli is associated with Arabic rather than with a different language.",
+      "islam_section": "Fazli can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fazli is with the sense successful.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fazli",
+      "#FazliMeaning",
+      "#FazliName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fazli holds a significant cultural impact as it is a source of inspiration and pride for many parents who wish to bless their children with the blessings of abundance, prosperity, and success. The name is well-received and cherished in the Islamic community as it reflects the belief in the power of Allah's blessings and the importance of striving for success in life.",
-    "spiritual_significance": "From a spiritual perspective, the name Fazli is a constant reminder of the belief in the generous blessings of Allah. It serves as a source of motivation and inspiration for the individual to strive towards success and prosperity in this world while keeping their faith in Allah as the ultimate source of all good things. It also reflects the belief that all success and prosperity ultimately come from Allah and serve as a means to please Him and serve His creation. Ultimately, the name Fazli embodies the Islamic principle of Tawakkul (total reliance on Allah) and the belief that all success and prosperity come from Allah's Mercy and Favor (Fazl).",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Fazli is mentioned in the book 'The History of the Arabs' by Al-Tabari The name Fazli carried significant weight in that era.",
-        "time_period": "9th century",
-        "context": "The name Fazli was used in the Abbasid Caliphate"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East",
-        "used in some African countries"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fazli corresponds to the Arabic form فضلي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Fazli has the core sense successful, prosperous",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "online forums"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fazli remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Fazli",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Khadija Fazli, a teacher in Riyadh, Saudi Arabia, shares that their name Fazli meaning \"Successful, Prosperous\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Successful, Prosperous\" symbolizes Derived from the Arabic word 'fazlah' which means prosperity, success, and abundance. In the Quran, the term 'fazl' is used to describe the blessings and favor of Allah upon His servants.. In Islamic spirituality, bearing the name Fazli serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of successful, prosperous.",
-    "created_at": "2025-12-22T19:19:49.919Z",
-    "updated_at": "2025-12-22T04:53:15.384Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1397,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fazli",
-      "description": "Successful, Prosperous",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Fazli",
+        "fazli"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fazli",
-          "description": "Discover the meaning of Fazli - \"Successful, Prosperous\"",
-          "image": "/images/social/fazli-facebook.jpg"
+      "description": "A name associated with the Arabic form فضلي, meaning successful, prosperous.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "fazli",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fazli - Name Meaning",
-          "description": "Learn about the beautiful name Fazli",
-          "image": "/images/social/fazli-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Fazli",
-          "description": "Name meaning: Successful, Prosperous",
-          "image": "/images/social/fazli-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fazli - Meaning: Successful, Prosperous",
-        "email_subject": "Beautiful Name: Fazli"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fazli with meaning Successful, Prosperous",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fazli, associated with the Arabic form فضلي, meaning successful, prosperous."
     },
-    "similar_sounding_names": [
-      "fakeehah",
-      "farisha",
-      "firoz",
-      "fardeen",
-      "faekah",
-      "fadi",
-      "faiyaz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

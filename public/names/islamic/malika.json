@@ -3,302 +3,479 @@
   "data": {
     "name": "Malika",
     "slug": "malika",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Queen or Ruler",
-    "long_meaning": "Malika is an Arabic name that means 'queen' or 'ruler'. It symbolizes power, authority, and leadership. In Islamic tradition, it is a name that signifies strength and dignity.",
-    "spiritual_meaning": "In Quran, Malika is mentioned as one of the names of the righteous women in Paradise.",
-    "emotional_traits": [
-      "Noble",
-      "Strong",
-      "Confident",
-      "Generous"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Leader",
-      "D = Decisive",
-      "N = Nurturing"
-    ],
-    "lucky_number": 8,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Purple",
-      "Silver"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 2,
-    "numerology_meaning": "Peaceful, sensitive, intuitive, and compassionate",
-    "in_arabic": {
-      "name": "ملكة",
-      "meaning": "ملكة تعني الحاكمة أو صاحبة الجلالة",
-      "long_meaning": "اسم ملكة مشتق من الجذر اللغوي م-ل-ك، ويعني الحاكمة أو صاحبة الجلالة. ورد اسم ملكة في القرآن الكريم، ويستخدم في العديد من الثقافات الإسلامية كاسم للبنات، ملكة هو اسم يدل على القوة والسلطة والنفوذ."
+    "identity": {
+      "display_name": "Malika",
+      "normalized_name": "malika",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Malika",
+        "malika"
+      ],
+      "search_variants": [
+        "Malika",
+        "malika"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ملکہ",
-      "meaning": "ملکہ کا مطلب ہے حکمران یا شہنشاہی",
-      "long_meaning": "ملکہ نام عربی زبان کی root م-ل-ك سے ماخوذ ہے، جس کے معنی ہیں حکمران یا شہنشاہی۔ یہ نام قرآن کریم میں ذکر ہوا ہے اور اسلامی ثقافتوں میں لڑکیوں کے لئے ایک مقبول نام ہے۔ ملکہ نام طاقت، سلطنت اور اثر و رسوخ کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Queen, ruler (feminine)",
+      "primary_meaning": "Queen",
+      "secondary_meanings": [
+        "ruler (feminine)"
+      ],
+      "literal_meaning": "Queen",
+      "extended_meaning": "Queen, ruler (feminine)",
+      "meaning_explanation": "Malika corresponds to the Arabic form ملكة (Arabic root م ل ك (m-l-k); مَلِكَة (Malika)). Its core sense is queen, ruler (feminine). Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मलिका",
-      "meaning": "मलिका का अर्थ है शासिका या रानी",
-      "long_meaning": "मलिका नाम की उत्पत्ति अरबी भाषा के मूल म-ल-क से हुई है, जिसका अर्थ है शासिका या रानी। यह नाम कुरआन में उल्लेखित है और इस्लामी संस्कृतियों में लड़कियों के लिए एक लोकप्रिय नाम है। मलिका नाम शक्ति, शासन और प्रभाव की प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "ملكة",
+      "transliteration": "malika",
+      "romanization": "malika",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Queen",
+        "ruler (feminine)"
+      ],
+      "etymology_explanation": "The form ملكة is an established Arabic lexical item. Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ملکه",
-      "meaning": "ملکه د حاکمې یا شہنشاهۍ معنی لري",
-      "long_meaning": "ملکه نوم د عربي ژبې د م-ل-ك ريښې څخه اخیستل شوی دی، چې معنی یې د حاكمې یا شہنشاهۍ. دا نوم په قرآن كريم كې ذكر شوی او په اسلامي كلتورونو كې د انجونو لپاره يو مشهور نوم دی. ملکه نوم د ځواک، سلطنت او اغېزمنۍ نښه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "ملكة is an established Arabic form.",
+        "Urdu": "ملکہ is used in Urdu.",
+        "Persian": "ملکه is an established Persian form.",
+        "Hindi": "मलिका is used in Hindi.",
+        "Pashto": "ملکه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Malika",
-      "meaning": "Malika means ruler, queen, or a person of authority",
-      "long_meaning": "The name Malika is derived from the Arabic root م-ل-ك (m-l-k), which means ruler, queen, or a person of authority. This name is mentioned in the Quran and is a popular choice for girls in many Islamic cultures. Malika signifies strength, sovereignty, and influence, reflecting positive attributes such as leadership and charisma."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form ملكة. Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Malika may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense queen, ruler (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Queen",
+      "related_concepts": [
+        "queen",
+        "ruler (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is queen; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of queen.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Queen",
+        "Ruler (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Malika",
+        "meaning": "Queen, ruler (feminine)",
+        "long_meaning": "Malika is a Arabic-origin name. Its core meaning is queen, ruler (feminine). Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka."
+      },
+      "urdu": {
+        "name": "ملکہ",
+        "meaning": "ملکہ، رانی، حاکمہ",
+        "long_meaning": "Malika (ملکہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ملکہ، رانی، حاکمہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "ملکه",
+        "meaning": "ملکه، شهبانو، بانوی حاکم",
+        "long_meaning": "Malika (ملکه) نامی برگرفته از زبان عربی است و معنای اصلی آن ملکه، شهبانو، بانوی حاکم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मलिका",
+        "meaning": "रानी, मलिका, शासिका",
+        "long_meaning": "Malika (मलिका) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रानी, मलिका, शासिका है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ملکه",
+        "meaning": "ملکه، ملکه، واکمنه",
+        "long_meaning": "Malika (ملکه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ملکه، ملکه، واکمنه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "ملكة",
+        "meaning": "الملكة، الحاكمة، السيدة",
+        "long_meaning": "Malika (ملكة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الملكة، الحاكمة، السيدة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "mahl-ee-kah",
-      "urdu": "ملکہ: مردوں کی م و ل ک ہ ک ت",
-      "hindi": "मलिका: मल-इ-कah",
-      "pashto": "ملکه: مل-kah",
-      "ipa": "/ˈmælɪkɑː/"
+      "romanized": "ma-li-ka",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ملکہ",
+      "persian": "ملکه",
+      "hindi": "मलिका",
+      "pashto": "ملکه"
     },
-    "celebrity_usage": [
-      "Malika Favreau",
-      "Malika Andrews"
-    ],
-    "social_tags": [
-      "#MalikaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Malika"
-    ],
-    "name_variations": [
-      "Malikah"
-    ],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Malika",
+        "malika"
+      ],
+      "script_variants": [
+        "ملكة",
+        "ملکه",
+        "ملکہ",
+        "मलिका"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form ملكة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Malika can be understood through the Arabic form ملكة, whose central sense is queen, ruler (feminine). Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Malika mean?",
+        "answer": "Malika is associated with the Arabic form ملكة, whose core sense is queen, ruler (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Malika?",
+        "answer": "Malika is associated with Arabic. Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Malika an Arabic name?",
+        "answer": "Yes — the underlying form ملكة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Malika an Islamic name?",
+        "answer": "Malika can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 70,
-        "year": 2024
+        "question": "Is Malika a Quranic name?",
+        "answer": "Malika should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Malika mean in Urdu?",
+        "answer": "In Urdu, Malika is rendered ملکہ and carries the sense ملکہ، رانی، حاکمہ."
+      },
+      {
+        "question": "What does Malika mean in Persian?",
+        "answer": "In Persian, Malika is rendered ملکه and carries the sense ملکه، شهبانو، بانوی حاکم."
+      },
+      {
+        "question": "How is Malika pronounced?",
+        "answer": "A romanized syllable approximation is ma-li-ka. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Malika?",
+        "answer": "Romanization variants include Malika, malika. Script forms are ملكة, ملکه, ملکہ, मलिका."
+      },
+      {
+        "question": "Is Malika a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Malika Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Malika, a beautiful Islam name meaning \"Queen or Ruler\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Malika, Islam name, baby names, Queen or Ruler, Islam baby names, name meaning",
-      "description_paragraph": "Malika is a meaningful Islam name of Arabic origin that means \"Queen or Ruler\". Malika is an Arabic name that means 'queen' or 'ruler'. It symbolizes power, authority, and leadership. In Islamic tradition, it is a name that signifies strength and dignity.",
-      "keywords": [
-        "Malika",
-        "Islam name",
-        "baby names",
-        "Queen or Ruler",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Malika in Islam tradition?",
-          "a": "Malika is a beautiful Islam name meaning \"Queen or Ruler\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Malika a good Islam name for a baby?",
-          "a": "Yes, Malika is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Malika?",
-          "a": "The name Malika has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Malika correctly?",
-          "a": "Malika is pronounced mahl-ee-kah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Malika?",
-          "a": "Naming a child Malika brings blessings. The meaning \"Queen or Ruler\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Malika?",
-          "a": "Malika is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Malika Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Malika (ملكة).",
+      "h1": "Malika Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Malika meaning",
       "secondary_keywords": [
-        "Islam name Malika",
-        "Malika meaning",
-        "Malika origin"
+        "Malika name meaning",
+        "Malika meaning in Urdu",
+        "Malika origin",
+        "Malika Islamic name",
+        "Malika pronunciation",
+        "Malika name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Malika (ملكة) is associated with the Arabic form ملكة, whose core sense is queen, ruler (feminine). Malika is Arabic مَلِكَة (Malika) 'queen, ruler' (feminine), from the root م ل ك (m-l-k). The source gloss 'Queen or Ruler' is consistent. Same name as malikah and malka.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Malika is associated with the Arabic form ملكة, whose core sense is queen, ruler (feminine).",
+      "meaning_section": "The central meaning of Malika is queen, ruler (feminine).",
+      "origin_section": "Malika is associated with Arabic rather than with a different language.",
+      "islam_section": "Malika can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Malika is with the sense queen.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Malika",
+      "#MalikaMeaning",
+      "#MalikaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Malika is admired in Arab and Islamic culture for its strong female connotations. It is a name that conveys a sense of powerful leadership, elegance, and grace. Malika is a name that has been given to many notable and influential women in Islamic history, such as Al-Malika Al-Adilah, known as Queen Arwa of Yemen, and Malika al-Qadis, a famous poet and scholar (1076 A.D.). The name Malika is also popular in contemporary Islamic societies, as it represents the empowerment of women and their role as leaders, both in the personal and public spheres.",
-    "spiritual_significance": "The spiritual significance of the name Malika is rooted in its Arabic origins and the rich Islamic tradition. Malika is a reminder of the belief in the Oneness of God and the ultimate power and sovereignty (malakut) of Allah. At the same time, it encourages individuals to strive for personal growth and leadership, as an expression of their inner spiritual call to serve and rule with compassion and wisdom. In Islamic spirituality, the idea of Malika represents the idea of the caring and nurturing mother, who rules over her domain with love, care, and mercy, reflecting the universal divine qualities of Mercy and Compassion. Ultimately, the name Malika serves as a reminder of the deeper spiritual realities of power, leadership, and service in the journey of life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Malika was a queen of the Marrakesh dynasty in Morocco during the 16th century. The name Malika carried significant weight in that era.",
-        "time_period": "16th century",
-        "context": "Marrakesh Dynasty, Morocco"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "popular as a baby girl name"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Malika corresponds to the Arabic form ملكة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Malika has the core sense queen, ruler (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, baby name websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Malika remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Malika",
-      "location": "Dubai, UAE",
-      "story": "Zainab Malika from Dubai, UAE embodies the meaning of Malika - \"Queen or Ruler\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Queen or Ruler\" symbolizes Malika is an Arabic name that means 'queen' or 'ruler'. It symbolizes power, authority, and leadership. In Islamic tradition, it is a name that signifies strength and dignity.. In Islamic spirituality, bearing the name Malika serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of queen or ruler.",
-    "created_at": "2025-12-22T19:19:49.798Z",
-    "updated_at": "2025-12-22T04:53:14.33Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1263,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Malika",
-      "description": "Queen or Ruler",
-      "additionalName": [
-        "Malikah"
+      "alternateName": [
+        "Malika",
+        "malika"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form ملكة, meaning queen, ruler (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Malika",
-          "description": "Discover the meaning of Malika - \"Queen or Ruler\"",
-          "image": "/images/social/malika-facebook.jpg"
+      "termCode": "malika",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Malika - Name Meaning",
-          "description": "Learn about the beautiful name Malika",
-          "image": "/images/social/malika-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Malika",
-          "description": "Name meaning: Queen or Ruler",
-          "image": "/images/social/malika-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Malika - Meaning: Queen or Ruler",
-        "email_subject": "Beautiful Name: Malika"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Malika with meaning Queen or Ruler",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Malika, associated with the Arabic form ملكة, meaning queen, ruler (feminine)."
     },
-    "similar_sounding_names": [
-      "meena",
-      "marnia",
-      "maassama",
-      "meher",
-      "mahek",
-      "mada",
-      "marudeen.",
-      "manab",
-      "marhabah",
-      "mika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

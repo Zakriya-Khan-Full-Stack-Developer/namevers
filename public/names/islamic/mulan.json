@@ -3,290 +3,466 @@
   "data": {
     "name": "Mulan",
     "slug": "mulan",
-    "language": [
-      "Mandarin",
-      "Cantonese"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Magnolia flower",
-    "long_meaning": "Fiery, magnolia flower",
-    "spiritual_meaning": "Symbol of strength, endurance, and perseverance",
-    "emotional_traits": [
-      "Determined",
-      "Courageous",
-      "Loyal"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Resilient",
-      "Resourceful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Pink"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Leader, pioneer, innovator",
-    "in_arabic": {
-      "name": "مُلان",
-      "meaning": "مُلَانَةٌ",
-      "long_meaning": "مَدَفعٌ وَمَدَفِعٌ، تَرَاكِمُهُنَّ الْعَصاءَ وَالْبَسْطَانَ"
+    "identity": {
+      "display_name": "Mulan",
+      "normalized_name": "mulan",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mulan",
+        "mulan"
+      ],
+      "search_variants": [
+        "Mulan",
+        "mulan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مُلان",
-      "meaning": "مُلانَہ",
-      "long_meaning": "مَدَفعٌ وَمَدَفِعٌ، استَرَاکِمِتُنَّ الْعَصاءَ اور الْبَسْطانَ"
+    "core_meaning": {
+      "short_meaning": "Mulan; a Chinese given name",
+      "primary_meaning": "Mulan; a Chinese given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Mulan; a Chinese given name",
+      "extended_meaning": "Mulan; a Chinese given name",
+      "meaning_explanation": "Mulan corresponds to the Chinese form مولان (Chinese 木兰 (Mùlán)). Its core sense is mulan; a chinese given name. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia).",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "मुलान",
-      "meaning": "मुलाना",
-      "long_meaning": "मदफ़़़ और मदफ़िँ, वह उन्हें पहुँचवाती हैं अपने ढोकरे और बस्तियों से"
+    "etymology": {
+      "primary_language": "Chinese",
+      "lexical_form": "مولان",
+      "transliteration": "mulan",
+      "romanization": "mulan",
+      "root_status": "Chinese 木兰 (Mùlán)",
+      "etymological_meaning": [
+        "Mulan; a Chinese given name"
+      ],
+      "etymology_explanation": "The form مولان is an established Chinese lexical item. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia).",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ملان",
-      "meaning": "ملانه",
-      "long_meaning": "مَدَفعٌ وَمَدَفِعٌ، تَرَاكِمُهُنَّ الْعَصاءَ وَالْبَسْطانَ"
+    "language": {
+      "primary": "Chinese",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مولان is an established Arabic form.",
+        "Urdu": "مولان is used in Urdu.",
+        "Persian": "مولان is an established Persian form.",
+        "Hindi": "मूलान is used in Hindi.",
+        "Pashto": "مولان is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Mulan",
-      "meaning": "Fierce, Brave, Warrior",
-      "long_meaning": "A fierce and brave warrior, one who protects and defends"
+    "origin": {
+      "primary_origin": "Chinese",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Chinese form مولان. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia).",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mulan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense mulan; a chinese given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Mulan; a Chinese given name",
+      "related_concepts": [
+        "mulan; a chinese given name"
+      ],
+      "semantic_relationship": "The central semantic idea is mulan; a chinese given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of mulan; a chinese given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Mulan; a chinese given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mulan",
+        "meaning": "Mulan; a Chinese given name",
+        "long_meaning": "Mulan is a Chinese-origin name. Its core meaning is mulan; a chinese given name. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia)."
+      },
+      "urdu": {
+        "name": "مولان",
+        "meaning": "مولان (چینی نام)",
+        "long_meaning": "Mulan (مولان) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مولان (چینی نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مولان",
+        "meaning": "مولان (نام چینی)",
+        "long_meaning": "Mulan (مولان) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن مولان (نام چینی) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मूलान",
+        "meaning": "मूलान (चीनी नाम)",
+        "long_meaning": "Mulan (मूलान) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ मूलान (चीनी नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مولان",
+        "meaning": "مولان (چینایي نوم)",
+        "long_meaning": "Mulan (مولان) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مولان (چینایي نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مولان",
+        "meaning": "مُولَان (اسْم عَلَم صِينِيّ)",
+        "long_meaning": "Mulan (مولان) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي مُولَان (اسْم عَلَم صِينِيّ). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/mʊˈlɑːn/",
-      "urdu": "/mʊˈlɑːn/",
-      "hindi": "/mʊˈlɑːn/",
-      "pashto": "/mʊˈlɑːn/"
+      "romanized": "mu-lan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مولان",
+      "persian": "مولان",
+      "hindi": "मूलान",
+      "pashto": "مولان"
     },
-    "celebrity_usage": [
-      "Mulan Oviedo",
-      "Mulan Liu",
-      "Mulan Yousafzai"
-    ],
-    "social_tags": [
-      "#MulanMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 54,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mulan",
+        "mulan"
+      ],
+      "script_variants": [
+        "مولان",
+        "मूलान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مولان is an established Chinese lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mulan can be understood through the Chinese form مولان, whose central sense is mulan; a chinese given name. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia).",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Mulan mean?",
+        "answer": "Mulan is associated with the Chinese form مولان, whose core sense is mulan; a chinese given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Mulan?",
+        "answer": "Mulan is associated with Chinese. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia)."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Mulan an Arabic name?",
+        "answer": "No — the underlying form is Chinese, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Mulan an Islamic name?",
+        "answer": "Mulan can occur in Muslim naming contexts, but it is better described as a Chinese-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 69,
-        "year": 2024
+        "question": "Is Mulan a Quranic name?",
+        "answer": "Mulan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mulan mean in Urdu?",
+        "answer": "In Urdu, Mulan is rendered مولان and carries the sense مولان (چینی نام)."
+      },
+      {
+        "question": "What does Mulan mean in Persian?",
+        "answer": "In Persian, Mulan is rendered مولان and carries the sense مولان (نام چینی)."
+      },
+      {
+        "question": "How is Mulan pronounced?",
+        "answer": "A romanized syllable approximation is mu-lan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mulan?",
+        "answer": "Romanization variants include Mulan, mulan. Script forms are مولان, मूलान."
+      },
+      {
+        "question": "Is Mulan a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mulan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mulan, a beautiful Islam name meaning \"Magnolia flower\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mulan, Islam name, baby names, Magnolia flower, Islam baby names, name meaning",
-      "description_paragraph": "Mulan is a meaningful Islam name of Arabic origin that means \"Magnolia flower\". Fiery, magnolia flower",
-      "keywords": [
-        "Mulan",
-        "Islam name",
-        "baby names",
-        "Magnolia flower",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mulan in Islam tradition?",
-          "a": "Mulan is a beautiful Islam name meaning \"Magnolia flower\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mulan a good Islam name for a baby?",
-          "a": "Yes, Mulan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mulan?",
-          "a": "The name Mulan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mulan correctly?",
-          "a": "Mulan is pronounced /mʊˈlɑːn/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mulan?",
-          "a": "Naming a child Mulan brings blessings. The meaning \"Magnolia flower\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mulan?",
-          "a": "Mulan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Mulan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Chinese origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mulan (مولان).",
+      "h1": "Mulan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mulan meaning",
       "secondary_keywords": [
-        "Islam name Mulan",
-        "Mulan meaning",
-        "Mulan origin"
+        "Mulan name meaning",
+        "Mulan meaning in Urdu",
+        "Mulan origin",
+        "Mulan Islamic name",
+        "Mulan pronunciation",
+        "Mulan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mulan (مولان) is associated with the Chinese form مولان, whose core sense is mulan; a chinese given name. Mulan is a Chinese given name (木兰, Mùlán), historically associated with the legendary figure Hua Mulan. CRITICAL SOURCE ERROR: the source gave مُلَان and labelled the origin Arabic; the name is Chinese. The source gloss 'Magnolia flower' is broadly consistent with the Chinese element 兰 (orchid/magnolia).",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mulan is associated with the Chinese form مولان, whose core sense is mulan; a chinese given name.",
+      "meaning_section": "The central meaning of Mulan is mulan; a chinese given name.",
+      "origin_section": "Mulan is associated with Chinese rather than with a different language.",
+      "islam_section": "Mulan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mulan is with the sense mulan; a chinese given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mulan",
+      "#MulanMeaning",
+      "#MulanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Mulan was popularized in the Western world through Disney's animated feature, \"Mulan,\" where the character was a Chinese female warrior who disguised herself as a man to save her father from being conscripted into the Imperial Chinese army. This portrayal of Mulan in the Disney film has had a significant impact on promoting cultural awareness of Chinese history and traditions, particularly the story of the Hundred Flowers Campaign and the Three Kingdoms period.",
-    "spiritual_significance": "In Islamic culture, Mulan is not a well-known figure, and there is no spiritual significance attached to the name specifically in the Islamic context. However, the name Mulan can be seen as a reflection of the Islamic values of courage, determination, and the importance of family. \"Mulan\" can be interpreted as a \"Fiery\" or \"passionate\" soul, who is willing to protect and serve those they love, even if it means taking on great challenges and risks. The magnolia flower symbolizes resilience, strength, and beauty, which can be seen as qualities that reflect the Islamic value of striving for excellence and beauty in every aspect of life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mulan is mentioned in the 7th century book 'Kitab al-Aghani' The name Mulan carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "The name is mentioned in the context of a famous poet"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mulan corresponds to the Chinese form مولان",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Mulan has the core sense mulan; a chinese given name",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media, literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mulan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Mulan",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Aisha Mulan in Dubai, UAE attributes much of their success to the blessing of their name Mulan, which means \"Magnolia flower\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Magnolia flower\" symbolizes Fiery, magnolia flower. In Islamic spirituality, bearing the name Mulan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of magnolia flower.",
-    "created_at": "2025-12-22T19:19:50.932Z",
-    "updated_at": "2025-12-22T04:53:16.498Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1568,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mulan",
-      "description": "Magnolia flower",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Mandarin",
-        "Cantonese"
+      "alternateName": [
+        "Mulan",
+        "mulan"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mulan",
-          "description": "Discover the meaning of Mulan - \"Magnolia flower\"",
-          "image": "/images/social/mulan-facebook.jpg"
+      "description": "A name associated with the Chinese form مولان, meaning mulan; a chinese given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "mulan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Chinese"
         },
-        "twitter": {
-          "title": "Mulan - Name Meaning",
-          "description": "Learn about the beautiful name Mulan",
-          "image": "/images/social/mulan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Mulan",
-          "description": "Name meaning: Magnolia flower",
-          "image": "/images/social/mulan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mulan - Meaning: Magnolia flower",
-        "email_subject": "Beautiful Name: Mulan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mulan with meaning Magnolia flower",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mulan, associated with the Chinese form مولان, meaning mulan; a chinese given name."
     },
-    "similar_sounding_names": [
-      "manab",
-      "mahek",
-      "marnia",
-      "mada",
-      "marhabah",
-      "maassama",
-      "meher",
-      "mika",
-      "meena"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

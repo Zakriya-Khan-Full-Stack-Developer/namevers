@@ -3,291 +3,481 @@
   "data": {
     "name": "Madar",
     "slug": "madar",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Support, Foundation",
-    "long_meaning": "In Arabic, the name Madar means 'Support' or 'Foundation'. It is derived from the verb 'darara', which means 'to support', 'to uphold', or 'to establish'. In Islamic tradition, this name can symbolize a strong and reliable foundation, as well as a source of emotional and spiritual support.",
-    "spiritual_meaning": "Symbol of strength and support",
-    "emotional_traits": [
-      "Compassionate",
-      "Loving"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Silver",
-      "Pink"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 6,
-    "numerology_meaning": "The name Madar is associated with creativity, harmony, and balance. People with this name are often imaginative and artistic, with a strong sense of responsibility and a desire to help others.",
-    "in_arabic": {
-      "name": "مضر",
-      "meaning": "مساعدة, مهمة",
-      "long_meaning": "Someone who is helpful or provides assistance, a task or duty."
+    "identity": {
+      "display_name": "Madar",
+      "normalized_name": "madar",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Madar",
+        "madar"
+      ],
+      "search_variants": [
+        "Madar",
+        "madar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مضرہ",
-      "meaning": "مساعدہ, مهمتار",
-      "long_meaning": "A helper, someone who provides assistance, or someone who is responsible for an important task."
+    "core_meaning": {
+      "short_meaning": "Orbit, path, circuit",
+      "primary_meaning": "Orbit",
+      "secondary_meanings": [
+        "path",
+        "circuit"
+      ],
+      "literal_meaning": "Orbit",
+      "extended_meaning": "Orbit, path, circuit",
+      "meaning_explanation": "Madar corresponds to the Arabic form مدار (Arabic root د و ر (d-w-r); مَدَار (Madār)). Its core sense is orbit, path, circuit. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "मदर",
-      "meaning": "मदद करनेवाला, कार्य",
-      "long_meaning": "Someone who provides help or assistance, a task or duty."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مدار",
+      "transliteration": "madar",
+      "romanization": "madar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Orbit",
+        "path",
+        "circuit"
+      ],
+      "etymology_explanation": "The form مدار is an established Arabic lexical item. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مدر",
-      "meaning": "مساعده, مهمتار",
-      "long_meaning": "A helper, someone who provides assistance, or someone who is responsible for an important task."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مدار is an established Arabic form.",
+        "Urdu": "مدار is used in Urdu.",
+        "Persian": "مدار is an established Persian form.",
+        "Hindi": "मदार is used in Hindi.",
+        "Pashto": "مدار is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Madar",
-      "meaning": "Support, Foundation",
-      "long_meaning": "In Arabic, the name Madar means 'Support' or 'Foundation'. It is derived from the verb 'darara', which means 'to support', 'to uphold', or 'to establish'. In Islamic tradition, this name can symbolize a strong and reliable foundation, as well as a source of emotional and spiritual support."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form مدار. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Madar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense orbit, path, circuit.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Orbit",
+      "related_concepts": [
+        "orbit",
+        "path",
+        "circuit"
+      ],
+      "semantic_relationship": "The central semantic idea is orbit; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of orbit.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Orbit",
+        "Path",
+        "Circuit"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Madar",
+        "meaning": "Orbit, path, circuit",
+        "long_meaning": "Madar is a Arabic-origin name. Its core meaning is orbit, path, circuit. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "مدار",
+        "meaning": "مدار، راستہ، چکر",
+        "long_meaning": "Madar (مدار) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مدار، راستہ، چکر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مدار",
+        "meaning": "مدار، مسیر، گردش",
+        "long_meaning": "Madar (مدار) نامی برگرفته از زبان عربی است و معنای اصلی آن مدار، مسیر، گردش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मदार",
+        "meaning": "कक्षा, मदार, पथ",
+        "long_meaning": "Madar (मदार) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कक्षा, मदार, पथ है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مدار",
+        "meaning": "مدار، لار، ګردش",
+        "long_meaning": "Madar (مدار) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مدار، لار، ګردش ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مدار",
+        "meaning": "المدار، المسار، الفلك",
+        "long_meaning": "Madar (مدار) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المدار، المسار، الفلك. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/ˈmædɑːr/",
-      "urdu": "/məˈd̪aːr/",
-      "hindi": "/məˈdɑːr/",
-      "pashto": "/məˈdɑːr/"
+      "romanized": "ma-dar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مدار",
+      "persian": "مدار",
+      "hindi": "मदार",
+      "pashto": "مدار"
     },
-    "celebrity_usage": [
-      "Madar Al-Sayed"
-    ],
-    "social_tags": [
-      "#MadarMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Madar",
+        "madar"
+      ],
+      "script_variants": [
+        "مدار",
+        "मदार"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مدار is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Madar can be understood through the Arabic form مدار, whose central sense is orbit, path, circuit. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Madar mean?",
+        "answer": "Madar is associated with the Arabic form مدار, whose core sense is orbit, path, circuit."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Madar?",
+        "answer": "Madar is associated with Arabic. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Madar an Arabic name?",
+        "answer": "Yes — the underlying form مدار is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Madar an Islamic name?",
+        "answer": "Madar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 67,
-        "year": 2024
+        "question": "Is Madar a Quranic name?",
+        "answer": "Madar should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Madar mean in Urdu?",
+        "answer": "In Urdu, Madar is rendered مدار and carries the sense مدار، راستہ، چکر."
+      },
+      {
+        "question": "What does Madar mean in Persian?",
+        "answer": "In Persian, Madar is rendered مدار and carries the sense مدار، مسیر، گردش."
+      },
+      {
+        "question": "How is Madar pronounced?",
+        "answer": "A romanized syllable approximation is ma-dar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Madar?",
+        "answer": "Romanization variants include Madar, madar. Script forms are مدار, मदार."
+      },
+      {
+        "question": "Is Madar a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Madar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Madar, a beautiful Islam name meaning \"Support, Foundation\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Madar, Islam name, baby names, Support, Foundation, Islam baby names, name meaning",
-      "description_paragraph": "Madar is a meaningful Islam name of Arabic origin that means \"Support, Foundation\". In Arabic, the name Madar means 'Support' or 'Foundation'. It is derived from the verb 'darara', which means 'to support', 'to uphold', or 'to establish'. In Islamic tradition, this name can symbolize a strong and reliable foundation, as well as a source of emotional and spiritual support.",
-      "keywords": [
-        "Madar",
-        "Islam name",
-        "baby names",
-        "Support, Foundation",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Madar in Islam tradition?",
-          "a": "Madar is a beautiful Islam name meaning \"Support, Foundation\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Madar a good Islam name for a baby?",
-          "a": "Yes, Madar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Madar?",
-          "a": "The name Madar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Madar correctly?",
-          "a": "Madar is pronounced /ˈmædɑːr/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Madar?",
-          "a": "Naming a child Madar brings blessings. The meaning \"Support, Foundation\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Madar?",
-          "a": "Madar is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Madar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Madar (مدار).",
+      "h1": "Madar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Madar meaning",
       "secondary_keywords": [
-        "Islam name Madar",
-        "Madar meaning",
-        "Madar origin"
+        "Madar name meaning",
+        "Madar meaning in Urdu",
+        "Madar origin",
+        "Madar Islamic name",
+        "Madar pronunciation",
+        "Madar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Madar (مدار) is associated with the Arabic form مدار, whose core sense is orbit, path, circuit. Madar is Arabic مَدَار (Madār) 'orbit, path, circuit', from the root د و ر (d-w-r). CRITICAL SOURCE ERROR: the source gave مضر (a different word) and glossed the name 'Support, Foundation'; the correct form is مَدَار. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Madar is associated with the Arabic form مدار, whose core sense is orbit, path, circuit.",
+      "meaning_section": "The central meaning of Madar is orbit, path, circuit.",
+      "origin_section": "Madar is associated with Arabic rather than with a different language.",
+      "islam_section": "Madar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Madar is with the sense orbit.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Madar",
+      "#MadarMeaning",
+      "#MadarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Madar may be used as a given name for baby girls in the Islamic world, and it holds a rich cultural significance. It can represent a strong and unwavering foundation or support, much like the major role of family and community in Islamic cultures. With this meaning, Madar can be seen as a reflection of the values upheld in many Muslim societies, such as the importance of building strong families, communities, and societies.",
-    "spiritual_significance": "From a spiritual perspective, the name Madar can represent the idea of a foundation or support in the form of faith and beliefs. A believer in Islam may seek to build a strong and unwavering spiritual foundation through their practices, such as prayer, remembrance of Allah, and striving towards righteousness. In this way, the name Madar can serve as a reminder to uphold and strengthen one's connection to Allah and to seek His support and guidance in all aspects of life. Additionally, the name can symbolize emotional support from the Islamic community and the value of community and unity in maintaining a strong spiritual practice.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Madar carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Madar corresponds to the Arabic form مدار",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Madar has the core sense orbit, path, circuit",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Madar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Madar",
-      "location": "Karachi, Pakistan",
-      "story": "Fatima Madar from Karachi, Pakistan embodies the meaning of Madar - \"Support, Foundation\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Support, Foundation\" symbolizes In Arabic, the name Madar means 'Support' or 'Foundation'. It is derived from the verb 'darara', which means 'to support', 'to uphold', or 'to establish'. In Islamic tradition, this name can symbolize a strong and reliable foundation, as well as a source of emotional and spiritual support.. In Islamic spirituality, bearing the name Madar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of support, foundation.",
-    "created_at": "2025-12-22T19:19:49.948Z",
-    "updated_at": "2025-12-22T04:53:15.639Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1121,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Madar",
-      "description": "Support, Foundation",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Madar",
+        "madar"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Madar",
-          "description": "Discover the meaning of Madar - \"Support, Foundation\"",
-          "image": "/images/social/madar-facebook.jpg"
+      "description": "A name associated with the Arabic form مدار, meaning orbit, path, circuit.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "madar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Madar - Name Meaning",
-          "description": "Learn about the beautiful name Madar",
-          "image": "/images/social/madar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Madar",
-          "description": "Name meaning: Support, Foundation",
-          "image": "/images/social/madar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Madar - Meaning: Support, Foundation",
-        "email_subject": "Beautiful Name: Madar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Madar with meaning Support, Foundation",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Madar, associated with the Arabic form مدار, meaning orbit, path, circuit."
     },
-    "similar_sounding_names": [
-      "mahek",
-      "maassama",
-      "meena",
-      "marnia",
-      "mada",
-      "mika",
-      "meher",
-      "manab",
-      "marhabah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

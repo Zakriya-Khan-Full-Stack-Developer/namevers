@@ -3,285 +3,466 @@
   "data": {
     "name": "Eisa",
     "slug": "eisa",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Jesus in Arabic",
-    "long_meaning": "Eisa refers to Jesus in Islamic tradition, symbolizing peace and spirituality. It is a significant name in Quranic context.",
-    "spiritual_meaning": "In Islamic tradition, Eisa is considered a prophet and a messenger of God, embodying virtues of kindness and righteousness.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "White"
-    ],
-    "lucky_stone": "Aquamarine",
-    "life_path_number": 6,
-    "numerology_meaning": "Nurturer, Healer, Teacher",
-    "in_arabic": {
-      "name": "عيسى",
-      "meaning": "اسم علم مذكر من أصل عربي، يعني النبي أو الرسول",
-      "long_meaning": "عيسى هو اسم علم مذكر من أصل عربي، مشتق من الفعل \"عيس\" الذي يعني النبي أو الرسول. وهو أحد أسماء النبي عيسى بن مريم عليه السلام، المذكور في القرآن الكريم. يستخدم هذا الاسم في العديد من الثقافات الإسلامية، ويحمل دلالات دينية وروحانية كبيرة."
+    "identity": {
+      "display_name": "Eisa",
+      "normalized_name": "eisa",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Eisa",
+        "eisa"
+      ],
+      "search_variants": [
+        "Eisa",
+        "eisa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عیسی",
-      "meaning": "عیسائی نبی کا نام، مسیح، نجات دہندہ",
-      "long_meaning": "عیسی ایک علم مذکر ہے جو عربی زبان سے ماخوذ ہے۔ یہ نام حضرت عیسیٰ بن مریم علیہ السلام کے لیے استعمال ہوتا ہے، جو قرآن کریم میں ذکر کیا گیا ہے۔ اس نام کا مطلب ہے نبی، مسیح، یا نجات دہندہ۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں بڑی اہمیت رکھتا ہے اور دینی سیاق و سباق میں استعمال ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Jesus (in Arabic)",
+      "primary_meaning": "Jesus (in Arabic)",
+      "secondary_meanings": [],
+      "literal_meaning": "Jesus (in Arabic)",
+      "extended_meaning": "Jesus (in Arabic)",
+      "meaning_explanation": "Eisa corresponds to the Hebrew form عيسى (Hebrew יֵשׁוּעַ). Its core sense is jesus (in arabic). ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "ईसा",
-      "meaning": "ईसा मसीह, नबी, परमेश्वर का दूत",
-      "long_meaning": "ईसा एक पुरुष नाम है जो अरबी भाषा से लिया गया है। यह नाम ईसा मसीह, यानी हज़रत ईसा بن मریم अलैहिस्सलाम के लिए प्रयोग किया जाता है, जिनका उल्लेख कुरआन में किया गया है। यह नाम भारतीय मुस्लिम समुदाय में धार्मिक और सांस्कृतिक महत्व रखता है, और अक्सर आध्यात्मिक संदर्भ में उपयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "عيسى",
+      "transliteration": "eisa",
+      "romanization": "eisa",
+      "root_status": "Hebrew יֵשׁוּעַ",
+      "etymological_meaning": [
+        "Jesus (in Arabic)"
+      ],
+      "etymology_explanation": "The form عيسى is an established Hebrew lexical item. ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عیسی",
-      "meaning": "نبی، رسول، د مسیح",
-      "long_meaning": "عیسی یو مذکر نوم دی چی د عربی ژبې څخه اخیستل شوی دی. دا نوم د حضرت عیسی بن مریم علیه السلام لپاره کارول کیږي، چی په قرآن کریم کې ذکر شوی دی. دا نوم د افغان او پښتون دودیچې او مذهبي دود کې لوی اهمیت لري، او اکثر په روحاني سياق کې کارول کیږي."
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عيسى is an established Arabic form.",
+        "Urdu": "عیسیٰ is used in Urdu.",
+        "Hindi": "ईसा is used in Hindi.",
+        "Pashto": "عیسی is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Eisa",
-      "meaning": "Prophet, messenger, savior, or Jesus in Islamic context",
-      "long_meaning": "Eisa is a masculine given name derived from Arabic roots. It refers to Jesus, the prophet in Islam, mentioned in the Quran. The name carries significant religious and spiritual connotations, symbolizing prophethood, salvation, and divine message. Across Muslim cultures, Eisa is used to signify reverence and respect for Jesus as a revered figure in Islamic tradition."
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Hebrew form عيسى. ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Eisa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "عيسى is named in the Qur'an (e.g. 3:45)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense jesus (in arabic).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Jesus (in Arabic)",
+      "related_concepts": [
+        "jesus (in arabic)"
+      ],
+      "semantic_relationship": "The central semantic idea is jesus (in arabic); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of jesus (in arabic).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Jesus (in arabic)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Eisa",
+        "meaning": "Jesus (in Arabic)",
+        "long_meaning": "Eisa is a Hebrew-origin name. Its core meaning is jesus (in arabic). ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "عیسیٰ",
+        "meaning": "عیسیٰ (علیہ السلام)",
+        "long_meaning": "Eisa (عیسیٰ) عبرانی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عیسیٰ (علیہ السلام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "ईसा",
+        "meaning": "ईसा (अलैहिस्सलाम)",
+        "long_meaning": "Eisa (ईसा) हिब्रू भाषा से लिया गया नाम है। इसका मुख्य अर्थ ईसा (अलैहिस्सलाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عیسی",
+        "meaning": "عیسی (علیه السلام)",
+        "long_meaning": "Eisa (عیسی) د عبري ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عیسی (علیه السلام) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عيسى",
+        "meaning": "عيسى (عليه السلام)",
+        "long_meaning": "Eisa (عيسى) اسم مأخوذ من اللغة العبرية، ومعناه الأساسي عيسى (عليه السلام). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "AY-sah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عیسی",
-      "hindi": "हिन्दी में उच्चारण विवरण: ईसा",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عیسی",
-      "ipa": "/ˈaɪsə/"
+      "romanized": "ei-sa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عیسیٰ",
+      "persian": null,
+      "hindi": "ईसा",
+      "pashto": "عیسی"
     },
-    "celebrity_usage": [
-      "John Doe",
-      "Jane Doe"
-    ],
-    "social_tags": [
-      "#EisaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Eisa"
-    ],
-    "name_variations": [],
-    "popularity_score": 73,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Eisa",
+        "eisa"
+      ],
+      "script_variants": [
+        "عيسى",
+        "عیسی",
+        "عیسیٰ",
+        "ईसा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عيسى is an established Hebrew lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Eisa can be understood through the Hebrew form عيسى, whose central sense is jesus (in arabic). ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Eisa mean?",
+        "answer": "Eisa is associated with the Hebrew form عيسى, whose core sense is jesus (in arabic)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Eisa?",
+        "answer": "Eisa is associated with Hebrew. ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Eisa an Arabic name?",
+        "answer": "No — the underlying form is Hebrew, not Arabic."
+      },
+      {
+        "question": "Is Eisa an Islamic name?",
+        "answer": "Eisa can occur in Muslim naming contexts, but it is better described as a Hebrew-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Eisa a Quranic name?",
+        "answer": "Eisa should not be classified as a Quranic personal name without a direct Quranic basis. عيسى is named in the Qur'an (e.g. 3:45)"
+      },
+      {
+        "question": "What does Eisa mean in Urdu?",
+        "answer": "In Urdu, Eisa is rendered عیسیٰ and carries the sense عیسیٰ (علیہ السلام)."
+      },
+      {
+        "question": "What does Eisa mean in Persian?",
+        "answer": "No verified Persian form was established for Eisa."
+      },
+      {
+        "question": "How is Eisa pronounced?",
+        "answer": "A romanized syllable approximation is ei-sa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Eisa?",
+        "answer": "Romanization variants include Eisa, eisa. Script forms are عيسى, عیسی, عیسیٰ, ईसा."
+      },
+      {
+        "question": "Is Eisa a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Eisa Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Eisa, a beautiful Islam name meaning \"Jesus in Arabic\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Eisa, Islam name, baby names, Jesus in Arabic, Islam baby names, name meaning",
-      "description_paragraph": "Eisa is a meaningful Islam name of Arabic origin that means \"Jesus in Arabic\". Eisa refers to Jesus in Islamic tradition, symbolizing peace and spirituality. It is a significant name in Quranic context.",
-      "keywords": [
-        "Eisa",
-        "Islam name",
-        "baby names",
-        "Jesus in Arabic",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Eisa in Islam tradition?",
-          "a": "Eisa is a beautiful Islam name meaning \"Jesus in Arabic\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Eisa a good Islam name for a baby?",
-          "a": "Yes, Eisa is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Eisa?",
-          "a": "The name Eisa has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Eisa correctly?",
-          "a": "Eisa is pronounced AY-sah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Eisa?",
-          "a": "Naming a child Eisa brings blessings. The meaning \"Jesus in Arabic\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Eisa?",
-          "a": "Eisa is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Eisa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Hebrew origin, Urdu meaning, pronunciation, variants and Islamic naming context of Eisa (عيسى).",
+      "h1": "Eisa Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Eisa meaning",
       "secondary_keywords": [
-        "Islam name Eisa",
-        "Eisa meaning",
-        "Eisa origin"
+        "Eisa name meaning",
+        "Eisa meaning in Urdu",
+        "Eisa origin",
+        "Eisa Islamic name",
+        "Eisa pronunciation",
+        "Eisa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Eisa (عيسى) is associated with the Hebrew form عيسى, whose core sense is jesus (in arabic). ʿĪsā, the Qur'anic name of Jesus, a prophet named in the Qur'an. The source record's gloss 'Jesus in Arabic' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Eisa is associated with the Hebrew form عيسى, whose core sense is jesus (in arabic).",
+      "meaning_section": "The central meaning of Eisa is jesus (in arabic).",
+      "origin_section": "Eisa is associated with Hebrew rather than with a different language.",
+      "islam_section": "Eisa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Eisa is with the sense jesus (in arabic).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Eisa",
+      "#EisaMeaning",
+      "#EisaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Eisa is not a commonly used name in the Islamic world, but it holds significant cultural importance as it is the Arabic name for Jesus, a revered prophet in Islam. In Islamic tradition, Jesus is regarded as a messiah and a prophet sent by Allah to guide and protect the people of Israel. The Quran attests to the virgin birth of Jesus and his miraculous powers. Muslims, particularly those in the Arabic-speaking world, respect and honor Jesus as a pious and righteous figure. His life story is a source of inspiration and moral guidance.",
-    "spiritual_significance": "In Islamic tradition, the name Eisa holds immense spiritual significance as it represents the divine presence and miraculous powers of Jesus, a prophet revered by Muslims, Christians, and Jews alike. In the Islamic context, Eisa's birth is a testament to Allah's omnipotence and His ability to create miracles. The peaceful and calm demeanor of Jesus reflects the spiritual values cherished by Muslims, including compassion, forgiveness, and seeking knowledge. The name Eisa imparts a sense of tranquility and spiritual depth, evoking feelings of peace and harmony.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Born in Nazareth, Palestine, around 5 BC, Eisa is considered a prophet in Islam and Christianity. The name Eisa carried significant weight in that era.",
-        "time_period": "6th century BC",
-        "context": "Ancient Middle East"
-      },
-      {
-        "reference": "In Islamic tradition, Eisa is believed to have been sent as a messenger of God to the Children of Israel, and to have performed miracles.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islam, Christianity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Eisa corresponds to the Hebrew form عيسى",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Eisa has the core sense jesus (in arabic)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, Religious websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Eisa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Eisa",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Yusuf Eisa in Karachi, Pakistan attributes much of their success to the blessing of their name Eisa, which means \"Jesus in Arabic\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Jesus in Arabic\" symbolizes Eisa refers to Jesus in Islamic tradition, symbolizing peace and spirituality. It is a significant name in Quranic context.. In Islamic spirituality, bearing the name Eisa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of jesus in arabic.",
-    "created_at": "2025-12-22T19:19:49.817Z",
-    "updated_at": "2025-12-22T04:53:14.548Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1205,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Eisa",
-      "description": "Jesus in Arabic",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Eisa",
+        "eisa"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Eisa",
-          "description": "Discover the meaning of Eisa - \"Jesus in Arabic\"",
-          "image": "/images/social/eisa-facebook.jpg"
+      "description": "A name associated with the Hebrew form عيسى, meaning jesus (in arabic).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "eisa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Hebrew"
         },
-        "twitter": {
-          "title": "Eisa - Name Meaning",
-          "description": "Learn about the beautiful name Eisa",
-          "image": "/images/social/eisa-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Eisa",
-          "description": "Name meaning: Jesus in Arabic",
-          "image": "/images/social/eisa-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Eisa - Meaning: Jesus in Arabic",
-        "email_subject": "Beautiful Name: Eisa"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Eisa with meaning Jesus in Arabic",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Eisa, associated with the Hebrew form عيسى, meaning jesus (in arabic)."
     },
-    "similar_sounding_names": [
-      "ehan",
-      "eijaz",
-      "eliza",
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

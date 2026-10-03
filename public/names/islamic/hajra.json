@@ -3,294 +3,483 @@
   "data": {
     "name": "Hajra",
     "slug": "hajra",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Departure or Emigration",
-    "long_meaning": "Hajra is a name that refers to a journey or migration, often used to describe the act of leaving one's home or city for a sacred purpose. In Islamic history, Hajra was also the name of the wife of Prophet Ibrahim (Abraham).",
-    "spiritual_meaning": "In Islamic tradition, the name Hajra is associated with spiritual migration and seeking a higher purpose.",
-    "emotional_traits": [
-      "Brave",
-      "Resilient",
-      "Determined"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "yellow",
-      "orange"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, self-expression, and communication.",
-    "in_arabic": {
-      "name": "حجرا",
-      "meaning": "المرأة التي هجرت مكة",
-      "long_meaning": "حجرا هي اسم علم مؤنث مشتق من الفعل حجر، الذي يعني الهجرة أو Leaving مكانا، ويرتبط باسم الحجرة النبوية في المدينة المنورة، التي هي مكان هجر النبي محمد صلى الله عليه وسلم، ولهذا الاسم أهمية دينية وثقافية كبيرة في الإسلام"
+    "identity": {
+      "display_name": "Hajra",
+      "normalized_name": "hajra",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hajra",
+        "hajra"
+      ],
+      "search_variants": [
+        "Hajra",
+        "hajra"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حجرہ",
-      "meaning": "مکہ سے ہجرت کرنے والی خاتون",
-      "long_meaning": "حجرہ ایک عربی نام ہے جو حجرت کے معنی رکھتا ہے، جو کہ نبی کریم صلی اللہ علیہ وسلم کی حجرت کا مقام ہے، اور یہ نام مسلمانوں کے لیے بہت اہمیت کا حامل ہے کیونکہ یہ نبی کریم صلی اللہ علیہ وسلم کی ہجرت کے دور سے متعلق ہے"
+    "core_meaning": {
+      "short_meaning": "Emigration, migration, departure",
+      "primary_meaning": "Emigration",
+      "secondary_meanings": [
+        "migration",
+        "departure"
+      ],
+      "literal_meaning": "Emigration",
+      "extended_meaning": "Emigration, migration, departure",
+      "meaning_explanation": "Hajra corresponds to the Arabic form هجرة (Arabic root ه ج ر (h-j-r); هجرة (hijra)). Its core sense is emigration, migration, departure. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हज़रा",
-      "meaning": "मक्का से हिजरत करने वाली महिला",
-      "long_meaning": "हज़रा एक अरबी नाम है जो हिज्रत के अर्थ में आता है, जो कि नबी के हिजरत का स्थान है, और यह नाम मुसलमानों के लिए बहुत महत्वपूर्ण है क्योंकि यह नबी के हिजरत के समय से संबंधित है और भारतीय मुसलमान समुदाय में इसका विशेष महत्व है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هجرة",
+      "transliteration": "hajra",
+      "romanization": "hajra",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Emigration",
+        "migration",
+        "departure"
+      ],
+      "etymology_explanation": "The form هجرة is an established Arabic lexical item. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حجره",
-      "meaning": "د مکې څخه هجرت کونکی ښځه",
-      "long_meaning": "حجره د عربی نوم دی چې د هجرت په معنا کی دی، چې د نبي کریم صلی الله علیه وسلم د هجرت ځای دی، او دا نوم مسلمانانو لپاره ډېر مهم دی ځکه چې دا نوم د نبي کریم صلی الله علیه وسلم د هجرت دور سره اړخ لری او د افغانستان او پښتنو په کلتور کی دا نوم ډېر ارزښت لری"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "هجرة is an established Arabic form.",
+        "Urdu": "ہجرہ is used in Urdu.",
+        "Persian": "هجره is an established Persian form.",
+        "Hindi": "हिजरा is used in Hindi.",
+        "Pashto": "هجره is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Hajra",
-      "meaning": "woman who migrated from Mecca",
-      "long_meaning": "Hajra is an Arabic name derived from the word hijra, meaning migration or leaving a place, and is associated with the Prophet Muhammad's migration to Medina, and this name holds significant cultural and spiritual importance in Islamic tradition, symbolizing courage and devotion"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form هجرة. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hajra may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense emigration, migration, departure.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Emigration",
+      "related_concepts": [
+        "emigration",
+        "migration",
+        "departure"
+      ],
+      "semantic_relationship": "The central semantic idea is emigration; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of emigration.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Emigration",
+        "Migration",
+        "Departure"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hajra",
+        "meaning": "Emigration, migration, departure",
+        "long_meaning": "Hajra is a Arabic-origin name. Its core meaning is emigration, migration, departure. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة."
+      },
+      "urdu": {
+        "name": "ہجرہ",
+        "meaning": "ہجرت، کوچ",
+        "long_meaning": "Hajra (ہجرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ہجرت، کوچ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هجره",
+        "meaning": "هجرت، کوچ",
+        "long_meaning": "Hajra (هجره) نامی برگرفته از زبان عربی است و معنای اصلی آن هجرت، کوچ است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हिजरा",
+        "meaning": "हिजरत, प्रवास",
+        "long_meaning": "Hajra (हिजरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हिजरत, प्रवास है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هجره",
+        "meaning": "هجرت، کډوالي",
+        "long_meaning": "Hajra (هجره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې هجرت، کډوالي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هجرة",
+        "meaning": "الهجرة، الرحيل",
+        "long_meaning": "Hajra (هجرة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهجرة، الرحيل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "HAH-jrah",
-      "urdu": "حجْرہ",
-      "hindi": "हज़रा",
-      "pashto": "حجره",
-      "ipa": "/hədʒrə/"
+      "romanized": "haj-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہجرہ",
+      "persian": "هجره",
+      "hindi": "हिजरा",
+      "pashto": "هجره"
     },
-    "celebrity_usage": [
-      "Hajra Yamin, Pakistani actress",
-      "Hajra, character in the Prophet Muhammad's life"
-    ],
-    "social_tags": [
-      "#HajraMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hajra"
-    ],
-    "name_variations": [
-      "Hajrah"
-    ],
-    "popularity_score": 51,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hajra",
+        "hajra"
+      ],
+      "script_variants": [
+        "هجرة",
+        "هجره",
+        "ہجرہ",
+        "हिजरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هجرة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hajra can be understood through the Arabic form هجرة, whose central sense is emigration, migration, departure. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Hajra mean?",
+        "answer": "Hajra is associated with the Arabic form هجرة, whose core sense is emigration, migration, departure."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Hajra?",
+        "answer": "Hajra is associated with Arabic. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Hajra an Arabic name?",
+        "answer": "Yes — the underlying form هجرة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Hajra an Islamic name?",
+        "answer": "Hajra can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 74,
-        "year": 2024
+        "question": "Is Hajra a Quranic name?",
+        "answer": "Hajra should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hajra mean in Urdu?",
+        "answer": "In Urdu, Hajra is rendered ہجرہ and carries the sense ہجرت، کوچ."
+      },
+      {
+        "question": "What does Hajra mean in Persian?",
+        "answer": "In Persian, Hajra is rendered هجره and carries the sense هجرت، کوچ."
+      },
+      {
+        "question": "How is Hajra pronounced?",
+        "answer": "A romanized syllable approximation is haj-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hajra?",
+        "answer": "Romanization variants include Hajra, hajra. Script forms are هجرة, هجره, ہجرہ, हिजरा."
+      },
+      {
+        "question": "Is Hajra a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hajra Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hajra, a beautiful Islam name meaning \"Departure or Emigration\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hajra, Islam name, baby names, Departure or Emigration, Islam baby names, name meaning",
-      "description_paragraph": "Hajra is a meaningful Islam name of Arabic origin that means \"Departure or Emigration\". Hajra is a name that refers to a journey or migration, often used to describe the act of leaving one's home or city for a sacred purpose. In Islamic history, Hajra was also the name of the wife of Prophet Ibrahim (Abraham).",
-      "keywords": [
-        "Hajra",
-        "Islam name",
-        "baby names",
-        "Departure or Emigration",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hajra in Islam tradition?",
-          "a": "Hajra is a beautiful Islam name meaning \"Departure or Emigration\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hajra a good Islam name for a baby?",
-          "a": "Yes, Hajra is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hajra?",
-          "a": "The name Hajra has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hajra correctly?",
-          "a": "Hajra is pronounced HAH-jrah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hajra?",
-          "a": "Naming a child Hajra brings blessings. The meaning \"Departure or Emigration\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hajra?",
-          "a": "Hajra is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Hajra Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hajra (هجرة).",
+      "h1": "Hajra Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hajra meaning",
       "secondary_keywords": [
-        "Islam name Hajra",
-        "Hajra meaning",
-        "Hajra origin"
+        "Hajra name meaning",
+        "Hajra meaning in Urdu",
+        "Hajra origin",
+        "Hajra Islamic name",
+        "Hajra pronunciation",
+        "Hajra name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hajra (هجرة) is associated with the Arabic form هجرة, whose core sense is emigration, migration, departure. Hajra is Arabic هجرة (hijra) 'emigration, departure' — in Islamic history, the migration of the Prophet from Mecca to Medina. Used as a feminine name. The source gloss 'departure or emigration' is correct; its Arabic column gave حجرا, which was corrected to هجرة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hajra is associated with the Arabic form هجرة, whose core sense is emigration, migration, departure.",
+      "meaning_section": "The central meaning of Hajra is emigration, migration, departure.",
+      "origin_section": "Hajra is associated with Arabic rather than with a different language.",
+      "islam_section": "Hajra can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hajra is with the sense emigration.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hajra",
+      "#HajraMeaning",
+      "#HajraName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Hajra holds significant cultural importance in Islamic tradition, as it is twice mentioned in the Quran and carries the historical significance of being the name of Prophet Hajra, the wife of Prophet Ibrahim (Abraham). She is known for her perseverance and devotion to Allah, as she is the one who carried and raised her son, Prophet Ismail, in an barren valley in Mecca, building the first household of monotheists and the foundation of the Kaaba. This story, and the concept of the Hajj (pilgrimage), demonstrates the courage, faith, and unity among Muslims, as they travel from all corners of the world to reaffirm their faith and perform this act of devotion.",
-    "spiritual_significance": "The name Hajra also carries a profound spiritual significance as it reminds us of the journey of faith and the importance of patience and perseverance. The story of Hajra, the wife of Prophet Ibrahim, is an example of the deep faith and dedication of the early monotheists. Her journey, to build a house of worship for Allah in the desolate desert of Mecca, is a testament to her unwavering belief and her commitment to establishing a community of believers. The name Hajra is a reminder of the spiritual journey that each believer takes, as they strive to deepen their faith, connect with their Creator, and build a community of like-minded individuals. Just as Hajra built the Kaaba, the foundation of Islam, each Muslim embarks on their own spiritual journey to deepen their faith, build their character, and contribute to the collective community of believers.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Hajra is the name of the wife of Ibrahim (Abraham) in Islamic tradition. The name Hajra carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic tradition"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hajra corresponds to the Arabic form هجرة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Hajra has the core sense emigration, migration, departure",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hajra remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Hajra",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Aisha Hajra in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Hajra, which means \"Departure or Emigration\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Departure or Emigration\" symbolizes Hajra is a name that refers to a journey or migration, often used to describe the act of leaving one's home or city for a sacred purpose. In Islamic history, Hajra was also the name of the wife of Prophet Ibrahim (Abraham).. In Islamic spirituality, bearing the name Hajra serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of departure or emigration.",
-    "created_at": "2025-12-22T19:19:49.804Z",
-    "updated_at": "2025-12-22T04:53:14.497Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1034,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hajra",
-      "description": "Departure or Emigration",
-      "additionalName": [
-        "Hajrah"
+      "alternateName": [
+        "Hajra",
+        "hajra"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form هجرة, meaning emigration, migration, departure.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hajra",
-          "description": "Discover the meaning of Hajra - \"Departure or Emigration\"",
-          "image": "/images/social/hajra-facebook.jpg"
+      "termCode": "hajra",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hajra - Name Meaning",
-          "description": "Learn about the beautiful name Hajra",
-          "image": "/images/social/hajra-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hajra",
-          "description": "Name meaning: Departure or Emigration",
-          "image": "/images/social/hajra-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hajra - Meaning: Departure or Emigration",
-        "email_subject": "Beautiful Name: Hajra"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hajra with meaning Departure or Emigration",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hajra, associated with the Arabic form هجرة, meaning emigration, migration, departure."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

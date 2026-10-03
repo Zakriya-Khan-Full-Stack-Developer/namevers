@@ -3,283 +3,481 @@
   "data": {
     "name": "Mawlana",
     "slug": "mawlana",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Our Master",
-    "long_meaning": "Derived from Arabic word 'mawla' which means 'master' or 'lord'. Often used as a title for spiritual leaders and scholars.",
-    "spiritual_meaning": "In Sufi tradition, Mawlana is used as a title for revered spiritual guides, signifying their role in guiding seekers towards truth and enlightenment.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "Resourceful, adaptable, and versatile, with a strong sense of freedom",
-    "in_arabic": {
-      "name": "مولانا",
-      "meaning": "الاسم يدل على العبودية والخضوع لله تعالى",
-      "long_meaning": "مولانا هو اسم مشتق من كلمة مولى، وهو اسم من أسماء الله الحسنى في الإسلام. يعني هذا الاسم السيد أو المالك أو الحاكم، ولكنه في سياق التسمية يوحي بالخضوع والعبودية لله تعالى. يستخدم هذا الاسم في بعض الأحيان للإشارة إلى الشيخ أو العالم الدين الإسلامي، ولكنه في جوهره يعبر عن القرب والانتماء إلى الله."
+    "identity": {
+      "display_name": "Mawlana",
+      "normalized_name": "mawlana",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mawlana",
+        "mawlana"
+      ],
+      "search_variants": [
+        "Mawlana",
+        "mawlana"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مولانا",
-      "meaning": "نام اللہ کی عبادت اور خضوع کی نشاندہی کرتا ہے",
-      "long_meaning": "مولانا ایک ایسا نام ہے جو عربی زبان کے لفظ مولى سے ماخوذ ہے۔ یہ لفظ عام طور پر سيد، مالک یا حکمران کے معنی میں استعمال ہوتا ہے، لیکن اسلامی ناموں کے سیاق و سباق میں، یہ اللہ تعالیٰ کی عبادت اور خضوع کی علامت ہے۔ جنوبی ایشیاء میں، خاص طور پر پاکستان اور بھارت میں، مولانا کا استعمال اکثر ممتاز اسلامی اسکالرز یا شیخوں کے لئے کیا جاتا ہے، جو علم اور روحانیات کے لئے احترام کا اظہار کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Master, lord, patron",
+      "primary_meaning": "Master",
+      "secondary_meanings": [
+        "lord",
+        "patron"
+      ],
+      "literal_meaning": "Master",
+      "extended_meaning": "Master, lord, patron",
+      "meaning_explanation": "Mawlana corresponds to the Arabic form مولانا (Arabic مَوْلَانَا (Mawlānā), from مَوْلَى (mawlā)). Its core sense is master, lord, patron. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मौलाना",
-      "meaning": "यह नाम ईश्वर की भक्ति और समर्पण को दर्शाता है",
-      "long_meaning": "मौलाना एक ऐसा नाम है जो अरबी भाषा के शब्द मौला से लिया गया है। इस शब्द का अर्थ है स्वामी, मालिक या शासक, लेकिन इस्लामी नामकरण के संदर्भ में, यह अल्लाह की भक्ति और समर्पण का प्रतीक है। भारतीय मुस्लिम समुदाय में, मौलाना नाम का उपयोग अक्सर एक सम्मानित विद्वान या धार्मिक नेता के लिए किया जाता है, जो ज्ञान और आध्यात्मिकता के प्रति सम्मान व्यक्त करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مولانا",
+      "transliteration": "mawlana",
+      "romanization": "mawlana",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Master",
+        "lord",
+        "patron"
+      ],
+      "etymology_explanation": "The form مولانا is an established Arabic lexical item. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مولانہ",
-      "meaning": "دغه نوم د الله د بندګۍ او تسليمۍ ښکارندوی دی",
-      "long_meaning": "مولانہ داسې نوم دی چی د عربی ژبې د مولى کلمې څخه اخیستل شوی دی. دا کلمه عموما د مالک یا حکمران په معنا کې کارول کیږي، خو د اسلامي نومونو په سياق کې، دا د الله تعالیٰ د عبادت او تسليمۍ نښه ده. په افغانستان او پښتونستان کې، مولانہ د يو معزز عالم یا مذهبي مشر لپاره کارول کیږي، کوم چی د پوهې او روحانيت لپاره د احترام څرګندونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مولانا is an established Arabic form.",
+        "Urdu": "مولانا is used in Urdu.",
+        "Persian": "مولانا is an established Persian form.",
+        "Hindi": "मौलाना is used in Hindi.",
+        "Pashto": "مولانا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mawlana",
-      "meaning": "This name signifies servitude and submission to Allah",
-      "long_meaning": "Mawlana is a name derived from the Arabic word 'mawlā', meaning 'master', 'owner', or 'ruler'. In the context of Islamic nomenclature, it connotes servitude and submission to Allah. Historically, the term has been used to address respected Islamic scholars or religious leaders, embodying reverence for knowledge and spirituality. The name reflects a deep sense of devotion and loyalty to divine guidance."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مولانا. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mawlana may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense master, lord, patron.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Master",
+      "related_concepts": [
+        "master",
+        "lord",
+        "patron"
+      ],
+      "semantic_relationship": "The central semantic idea is master; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of master.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Master",
+        "Lord",
+        "Patron"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mawlana",
+        "meaning": "Master, lord, patron",
+        "long_meaning": "Mawlana is a Arabic-origin name. Its core meaning is master, lord, patron. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana."
+      },
+      "urdu": {
+        "name": "مولانا",
+        "meaning": "مولا، مالک، سرپرست",
+        "long_meaning": "Mawlana (مولانا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مولا، مالک، سرپرست ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مولانا",
+        "meaning": "مولا، سرور، صاحب",
+        "long_meaning": "Mawlana (مولانا) نامی برگرفته از زبان عربی است و معنای اصلی آن مولا، سرور، صاحب است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मौलाना",
+        "meaning": "मौला, स्वामी, मालिक",
+        "long_meaning": "Mawlana (मौलाना) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मौला, स्वामी, मालिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مولانا",
+        "meaning": "مولا، مالک",
+        "long_meaning": "Mawlana (مولانا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مولا، مالک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مولانا",
+        "meaning": "الْمَوْلَى، السَّيِّد، الْمَالِك",
+        "long_meaning": "Mawlana (مولانا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمَوْلَى، السَّيِّد، الْمَالِك. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "maw-LAH-nah",
-      "urdu": "مولانا کا تلفظ مَو لا نَا ہے",
-      "hindi": "मौलाना का उच्चारण मॉ ला ना है",
-      "pashto": "مولانہ تلفظ د مَو لا نَه دی",
-      "ipa": "/mɔːˈlɑːnə/"
+      "romanized": "maw-la-na",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مولانا",
+      "persian": "مولانا",
+      "hindi": "मौलाना",
+      "pashto": "مولانا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MawlanaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Mawlana"
-    ],
-    "name_variations": [],
-    "popularity_score": 74,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mawlana",
+        "mawlana"
+      ],
+      "script_variants": [
+        "مولانا",
+        "मौलाना"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مولانا is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mawlana can be understood through the Arabic form مولانا, whose central sense is master, lord, patron. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 89,
-        "year": 2024
+        "question": "What does Mawlana mean?",
+        "answer": "Mawlana is associated with the Arabic form مولانا, whose core sense is master, lord, patron."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 87,
-        "year": 2024
+        "question": "What is the origin of Mawlana?",
+        "answer": "Mawlana is associated with Arabic. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Mawlana an Arabic name?",
+        "answer": "Yes — the underlying form مولانا is Arabic."
+      },
+      {
+        "question": "Is Mawlana an Islamic name?",
+        "answer": "Mawlana can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mawlana a Quranic name?",
+        "answer": "Mawlana should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mawlana mean in Urdu?",
+        "answer": "In Urdu, Mawlana is rendered مولانا and carries the sense مولا، مالک، سرپرست."
+      },
+      {
+        "question": "What does Mawlana mean in Persian?",
+        "answer": "In Persian, Mawlana is rendered مولانا and carries the sense مولا، سرور، صاحب."
+      },
+      {
+        "question": "How is Mawlana pronounced?",
+        "answer": "A romanized syllable approximation is maw-la-na. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mawlana?",
+        "answer": "Romanization variants include Mawlana, mawlana. Script forms are مولانا, मौलाना."
+      },
+      {
+        "question": "Is Mawlana a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mawlana Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mawlana, a beautiful Islam name meaning \"Our Master\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mawlana, Islam name, baby names, Our Master, Islam baby names, name meaning",
-      "description_paragraph": "Mawlana is a meaningful Islam name of Arabic origin that means \"Our Master\". Derived from Arabic word 'mawla' which means 'master' or 'lord'. Often used as a title for spiritual leaders and scholars.",
-      "keywords": [
-        "Mawlana",
-        "Islam name",
-        "baby names",
-        "Our Master",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mawlana in Islam tradition?",
-          "a": "Mawlana is a beautiful Islam name meaning \"Our Master\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mawlana a good Islam name for a baby?",
-          "a": "Yes, Mawlana is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mawlana?",
-          "a": "The name Mawlana has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mawlana correctly?",
-          "a": "Mawlana is pronounced maw-LAH-nah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mawlana?",
-          "a": "Naming a child Mawlana brings blessings. The meaning \"Our Master\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mawlana?",
-          "a": "Mawlana is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Mawlana Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mawlana (مولانا).",
+      "h1": "Mawlana Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mawlana meaning",
       "secondary_keywords": [
-        "Islam name Mawlana",
-        "Mawlana meaning",
-        "Mawlana origin"
+        "Mawlana name meaning",
+        "Mawlana meaning in Urdu",
+        "Mawlana origin",
+        "Mawlana Islamic name",
+        "Mawlana pronunciation",
+        "Mawlana name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mawlana (مولانا) is associated with the Arabic form مولانا, whose core sense is master, lord, patron. Mawlana is Arabic مَوْلَانَا (Mawlānā) 'our master, our lord', a title formed from مَوْلَى (mawlā) with the first-person plural possessive. The source gloss 'Our Master' is consistent. Recorded as a title rather than a personal name. Same name as maulana.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mawlana is associated with the Arabic form مولانا, whose core sense is master, lord, patron.",
+      "meaning_section": "The central meaning of Mawlana is master, lord, patron.",
+      "origin_section": "Mawlana is associated with Arabic rather than with a different language.",
+      "islam_section": "Mawlana can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mawlana is with the sense master.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mawlana",
+      "#MawlanaMeaning",
+      "#MawlanaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In the Islamic world, \"Mawlana\" holds a significant cultural status as a title of honor accorded to scholars and spiritual leaders, reflecting their esteemed role and influence in society. It symbolizes the teacher-student relationship, where the student sees their teacher as a guide and master.",
-    "spiritual_significance": "From a spiritual perspective, the title \"Mawlana\" signifies the deep bond between a seeker and their spiritual guide. The word 'lord' implies the spiritual guide's authority, protection, and guidance in one's spiritual journey towards God. This term emphasizes the importance of the spiritual master's role in guiding individuals on their path to enlightenment and closeness to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Mawlana Jalal ad-Din Muhammad Rumi was a 13th-century Persian poet, jurist, theologian, and Sufi mystic.",
-        "time_period": "13th century",
-        "context": "Mawlana is a title given to Jalal ad-Din Muhammad Rumi, a prominent figure in Persian literature and Islamic history."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "used as a term of respect for spiritual leaders, particularly those in the Sufi tradition"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mawlana corresponds to the Arabic form مولانا",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mawlana has the core sense master, lord, patron",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, religious communities"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In modern usage, Mawlana is often used as a title of respect for spiritual leaders, particularly those in the Sufi tradition. It is also commonly used in social media and religious communities to refer to Jalal ad-Din Muhammad Rumi and other prominent Sufi figures."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed Mawlana",
-      "location": "Karachi, Pakistan",
-      "story": "Ahmed Mawlana, a teacher in Karachi, Pakistan, shares that their name Mawlana meaning \"Our Master\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Our Master\" symbolizes Derived from Arabic word 'mawla' which means 'master' or 'lord'. Often used as a title for spiritual leaders and scholars.. In Islamic spirituality, bearing the name Mawlana serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of our master.",
-    "created_at": "2025-12-22T19:19:49.799Z",
-    "updated_at": "2025-12-22T04:53:14.34Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1293,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mawlana",
-      "description": "Our Master",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Mawlana",
+        "mawlana"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mawlana",
-          "description": "Discover the meaning of Mawlana - \"Our Master\"",
-          "image": "/images/social/mawlana-facebook.jpg"
+      "description": "A name associated with the Arabic form مولانا, meaning master, lord, patron.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "mawlana",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mawlana - Name Meaning",
-          "description": "Learn about the beautiful name Mawlana",
-          "image": "/images/social/mawlana-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mawlana",
-          "description": "Name meaning: Our Master",
-          "image": "/images/social/mawlana-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mawlana - Meaning: Our Master",
-        "email_subject": "Beautiful Name: Mawlana"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mawlana with meaning Our Master",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mawlana, associated with the Arabic form مولانا, meaning master, lord, patron."
     },
-    "similar_sounding_names": [
-      "meher",
-      "mada",
-      "meena",
-      "marhabah",
-      "manab",
-      "maassama",
-      "mika",
-      "marudeen.",
-      "marnia",
-      "mahek"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

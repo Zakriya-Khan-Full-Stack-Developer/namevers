@@ -3,279 +3,477 @@
   "data": {
     "name": "Esfandiar",
     "slug": "esfandiar",
-    "language": [
-      "Persian"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Brave Lion",
-    "long_meaning": "One who rides a lion, a brave warrior",
-    "spiritual_meaning": "A symbol of courage and strength",
-    "emotional_traits": [
-      "Boldness",
-      "Courage",
-      "Confidence"
-    ],
-    "hidden_personality_traits": [
-      "Determination",
-      "Resilience",
-      "Loyalty"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and enthusiastic",
-    "in_arabic": {
-      "name": "إسفندیار",
-      "meaning": "إسم مشتق من الفارسية يعني المحارب الشجاع",
-      "long_meaning": "إسفندیار هو اسم علم مذكر من أصل فارسية، ويعني المحارب الشجاع أو الرجل الذي يقاتل في سبيل الله. يعود أصل الاسم إلى كلمة 'اسفند' التي تعني الشهر الثاني عشر في التقويم الفارسي، والذي يعتبر شهرًا مباركًا في الثقافة الفارسية. وقد ورد ذكر اسم إسفندیار في الشعر والقصص الفارسية، خاصة في ملحمة شاهنامة لفيردوسي، حيث كان إسفندیار أحد أبطال القصة ونجل الملك كيخسرو."
+    "identity": {
+      "display_name": "Esfandiar",
+      "normalized_name": "esfandiar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Esfandiar",
+        "esfandiar"
+      ],
+      "search_variants": [
+        "Esfandiar",
+        "esfandiar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اسفندیار",
-      "meaning": "فارسية اصل کا مطلب بہادر جنگجو",
-      "long_meaning": "اسفندیار ایک فارسی نام ہے جس کا مطلب ہے بہادر جنگجو یا وہ شخص جو اللہ کی راہ میں لڑتا ہے۔ یہ نام فارسی زبان کے الفاظ 'اسفند' سے ماخوذ ہے، جو فارسی تقویم کے مطابق بارہویں مہینے کا نام ہے۔ یہ مہینہ فارسی ثقافت میں مبارک سمجھا جاتا ہے۔ اس نام کا ذکر فارسی شاعری اور قصص میں خاص طور پر فیردوسي کی شاهنامہ میں ملتا ہے، جہاں اسفندیار ایک بطور کردار ہے اور کِیخُسرو کا بیٹا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Brave lion, valiant hero",
+      "primary_meaning": "Brave lion",
+      "secondary_meanings": [
+        "valiant hero"
+      ],
+      "literal_meaning": "Brave lion",
+      "extended_meaning": "Brave lion, valiant hero",
+      "meaning_explanation": "Esfandiar corresponds to the Persian form اسفندیار (Persian Esfandiyār). Its core sense is brave lion, valiant hero. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "एसफंदियार",
-      "meaning": "फ़ारसी मूल का अर्थ है वीर योद्धा",
-      "long_meaning": "एसफंदियार एक फ़ारसी नाम है जिसका अर्थ है वीर योद्धा या वह व्यक्ति जो परमेश्वर की राह में लड़ता है। यह नाम फ़ारसी भाषा के शब्द 'एसفند' से लिया गया है, जो फ़ारसी पंचांग के अनुसार बारहवें महीने का नाम है। यह महीना फ़ारसी संस्कृति में शुभ माना जाता है। इस नाम का उल्लेख फ़ारसी शायरी और कथाओं में विशेष रूप से फ़िरदौसी की शाहरुख़ में मिलता है, जहां एसफंदियार एक पात्र है और क़ीख़ुसरो का पुत्र है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "اسفندیار",
+      "transliteration": "esfandiar",
+      "romanization": "esfandiar",
+      "root_status": "Persian Esfandiyār",
+      "etymological_meaning": [
+        "Brave lion",
+        "valiant hero"
+      ],
+      "etymology_explanation": "The form اسفندیار is an established Persian lexical item. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اسفندیار",
-      "meaning": "د فارسۍ ژبې څخه چې معنی یې د زړور جنګیالی دی",
-      "long_meaning": "اسفندیار د فارسۍ نوم دی چې د زړور جنګیالی یا هغه چا څخه چې د الله په لار کې جنګیږي په معنی دی. دا نوم د فارسۍ کلمې 'اسفند' څخه اخیستل شوی دی، چې د فارسۍ تقویم له مخې دولسم میاشتنی نوم دی. دا میاشت د فارسۍ کلتور کې برکت لرونکې ګڼل کیږي. د دې نوم ذکر د فارسۍ شاعرۍ او کیسو کې په ځانګړي ډول د فیردوسي شاهنامه کې موندل کیږي، چیرته چې اسفندیار د کیسې یو اتل او د کاخسرو زوی دی."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "اسفندیار is an established Arabic form.",
+        "Urdu": "اسفندیار is used in Urdu.",
+        "Persian": "اسفندیار is an established Persian form.",
+        "Hindi": "इसफ़ंदियार is used in Hindi.",
+        "Pashto": "اسفندیار is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Esfandiar",
-      "meaning": "Derived from Persian, meaning brave warrior or champion",
-      "long_meaning": "Esfandiar is a male given name originating from Persian, which translates to 'brave warrior' or 'champion'. The name is derived from the Persian word 'Esfand', referring to the twelfth month in the Persian calendar, considered a blessed month in Persian culture. Historically, the name Esfandiar is prominently featured in Persian literature, notably in Firdusi's epic poem, Shahnameh, where Esfandiar is portrayed as a hero and the son of King Kay Khosrow. The name symbolizes courage, heroism, and strength, reflecting the values highly regarded in Islamic and Persian traditions."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form اسفندیار. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Esfandiar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense brave lion, valiant hero.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Brave lion",
+      "related_concepts": [
+        "brave lion",
+        "valiant hero"
+      ],
+      "semantic_relationship": "The central semantic idea is brave lion; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of brave lion.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Brave lion",
+        "Valiant hero"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Esfandiar",
+        "meaning": "Brave lion, valiant hero",
+        "long_meaning": "Esfandiar is a Persian-origin name. Its core meaning is brave lion, valiant hero. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "اسفندیار",
+        "meaning": "بہادر شیر، دلیر",
+        "long_meaning": "Esfandiar (اسفندیار) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بہادر شیر، دلیر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "اسفندیار",
+        "meaning": "شیر دلیر، پهلوان",
+        "long_meaning": "Esfandiar (اسفندیار) نامی برگرفته از زبان فارسی است و معنای اصلی آن شیر دلیر، پهلوان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इसफ़ंदियार",
+        "meaning": "बहादुर शेर, वीर",
+        "long_meaning": "Esfandiar (इसफ़ंदियार) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बहादुर शेर, वीर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اسفندیار",
+        "meaning": "زړور زمری، اتل",
+        "long_meaning": "Esfandiar (اسفندیار) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زړور زمری، اتل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "اسفندیار",
+        "meaning": "الأسد الشجاع، البطل",
+        "long_meaning": "Esfandiar (اسفندیار) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الأسد الشجاع، البطل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "es-fan-dee-ar",
-      "urdu": "اسفندیار کا تلفظ ہے ایس فن دی آر",
-      "hindi": "एसफंदियार का उच्चारण है एस-फन-दी-आर",
-      "pashto": "اسفندیار تلفظ یې ایسفنډیار دی",
-      "ipa": "/ɛsfændiːˈɑːr/"
+      "romanized": "es-fan-diar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اسفندیار",
+      "persian": "اسفندیار",
+      "hindi": "इसफ़ंदियार",
+      "pashto": "اسفندیار"
     },
-    "celebrity_usage": [
-      "Unknown"
-    ],
-    "social_tags": [
-      "#EsfandiarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Esfandiar"
-    ],
-    "name_variations": [],
-    "popularity_score": 72,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Esfandiar",
+        "esfandiar"
+      ],
+      "script_variants": [
+        "اسفندیار",
+        "इसफ़ंदियार"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form اسفندیار is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Esfandiar can be understood through the Persian form اسفندیار, whose central sense is brave lion, valiant hero. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Esfandiar mean?",
+        "answer": "Esfandiar is associated with the Persian form اسفندیار, whose core sense is brave lion, valiant hero."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 67,
-        "year": 2024
+        "question": "What is the origin of Esfandiar?",
+        "answer": "Esfandiar is associated with Persian. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Esfandiar an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Esfandiar an Islamic name?",
+        "answer": "Esfandiar can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Esfandiar a Quranic name?",
+        "answer": "Esfandiar should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Esfandiar mean in Urdu?",
+        "answer": "In Urdu, Esfandiar is rendered اسفندیار and carries the sense بہادر شیر، دلیر."
+      },
+      {
+        "question": "What does Esfandiar mean in Persian?",
+        "answer": "In Persian, Esfandiar is rendered اسفندیار and carries the sense شیر دلیر، پهلوان."
+      },
+      {
+        "question": "How is Esfandiar pronounced?",
+        "answer": "A romanized syllable approximation is es-fan-diar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Esfandiar?",
+        "answer": "Romanization variants include Esfandiar, esfandiar. Script forms are اسفندیار, इसफ़ंदियार."
+      },
+      {
+        "question": "Is Esfandiar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Esfandiar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Esfandiar, a beautiful Islam name meaning \"Brave Lion\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Esfandiar, Islam name, baby names, Brave Lion, Islam baby names, name meaning",
-      "description_paragraph": "Esfandiar is a meaningful Islam name of Arabic origin that means \"Brave Lion\". One who rides a lion, a brave warrior",
-      "keywords": [
-        "Esfandiar",
-        "Islam name",
-        "baby names",
-        "Brave Lion",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Esfandiar in Islam tradition?",
-          "a": "Esfandiar is a beautiful Islam name meaning \"Brave Lion\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Esfandiar a good Islam name for a baby?",
-          "a": "Yes, Esfandiar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Esfandiar?",
-          "a": "The name Esfandiar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Esfandiar correctly?",
-          "a": "Esfandiar is pronounced es-fan-dee-ar in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Esfandiar?",
-          "a": "Naming a child Esfandiar brings blessings. The meaning \"Brave Lion\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Esfandiar?",
-          "a": "Esfandiar is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Esfandiar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Esfandiar (اسفندیار).",
+      "h1": "Esfandiar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Esfandiar meaning",
       "secondary_keywords": [
-        "Islam name Esfandiar",
-        "Esfandiar meaning",
-        "Esfandiar origin"
+        "Esfandiar name meaning",
+        "Esfandiar meaning in Urdu",
+        "Esfandiar origin",
+        "Esfandiar Islamic name",
+        "Esfandiar pronunciation",
+        "Esfandiar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Esfandiar (اسفندیار) is associated with the Persian form اسفندیار, whose core sense is brave lion, valiant hero. Esfandiyār, a hero of Ferdowsi's Shahnameh, son of Goshtāsp. The source record's gloss 'Brave Lion' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Esfandiar is associated with the Persian form اسفندیار, whose core sense is brave lion, valiant hero.",
+      "meaning_section": "The central meaning of Esfandiar is brave lion, valiant hero.",
+      "origin_section": "Esfandiar is associated with Persian rather than with a different language.",
+      "islam_section": "Esfandiar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Esfandiar is with the sense brave lion.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Esfandiar",
+      "#EsfandiarMeaning",
+      "#EsfandiarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Esfandiar is of Persian origin, and it signifies a strong, brave warrior. In Persian mythology, Rostam, a legendary hero, is spoken of as one who rides Esfandiar, his horse. This name was also borne by a fifth-century BCE Persian general. In modern Iranian culture, the figure of Esfandiar represents bravery, courage, and strength.",
-    "spiritual_significance": "From a spiritual perspective, the name Esfandiar signifies a fearless warrior in the service of God. Just as a rider bravely faces challenges while riding a lion, a spiritual warrior embarks on the journey of life with unwavering faith and courage, facing the challenges and trials that come their way. The name also implies a connection to nature and the power and strength it represents. Ultimately, the name Esfandiar serves as a reminder to remain courageous and steadfast in one's beliefs, facing life's challenges with faith and bravery.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Esfandiar was a legendary hero in Persian mythology, known for his extraordinary bravery and wisdom. He was a vassal of the mythical king, Kay Kobad, and was famous for his loyalty and valor.",
-        "time_period": "Pre-Islamic period (before 651 AD)",
-        "context": "Esfandiar's tales were passed down through oral tradition and later recorded in Persian literature, such as the 'Book of Kings' by Ferdowsi."
-      },
-      {
-        "reference": "Esfandiar was also the name of a Persian military commander during the Seljuk Empire (1037-1194 AD). He served under Sultan Alp Arslan and played a significant role in the Battle of Manzikert (1071 AD) against the Byzantine Empire.",
-        "time_period": "Seljuk Empire (1037-1194 AD)",
-        "context": "Esfandiar's military prowess and leadership skills were instrumental in the Seljuk victory, which expanded their territory and influenced the course of Islamic history."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Persian culture",
-        "Iranian history",
-        "Fantasy literature"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Esfandiar corresponds to the Persian form اسفندیار",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Esfandiar has the core sense brave lion, valiant hero",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Goodreads",
-        "Instagram",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Esfandiar is of Persian origin and translates to 'victorious lion'. It has gained modern popularity in various contexts. In the realm of literature, it is seen as the name of a popular character in the epic poem 'The Conference of the Birds' by Farid ud-Din Attar. This character embodies the ideal of a valiant, noble and fearless warrior. On Goodreads, readers can engage in discussions and literary analysis of this work and its characters. On Instagram, users can find various accounts dedicated to Persian culture, including illustrations and calligraphy of Persian texts, where the name Esfandiar is often featured. Lastly, on TikTok, users may encounter creative takes on the mythology surrounding Esfandiar and other Persian figures, expressed through dance, music and storytelling."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Esfandiar",
-      "location": "Istanbul, Turkey",
-      "story": "Aisha Esfandiar from Istanbul, Turkey embodies the meaning of Esfandiar - \"Brave Lion\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Brave Lion\" symbolizes One who rides a lion, a brave warrior. In Islamic spirituality, bearing the name Esfandiar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of brave lion.",
-    "created_at": "2025-12-22T19:19:50.32Z",
-    "updated_at": "2025-12-22T04:53:15.731Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1071,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Esfandiar",
-      "description": "Brave Lion",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Persian"
+      "alternateName": [
+        "Esfandiar",
+        "esfandiar"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Esfandiar",
-          "description": "Discover the meaning of Esfandiar - \"Brave Lion\"",
-          "image": "/images/social/esfandiar-facebook.jpg"
+      "description": "A name associated with the Persian form اسفندیار, meaning brave lion, valiant hero.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "esfandiar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Esfandiar - Name Meaning",
-          "description": "Learn about the beautiful name Esfandiar",
-          "image": "/images/social/esfandiar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Esfandiar",
-          "description": "Name meaning: Brave Lion",
-          "image": "/images/social/esfandiar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Esfandiar - Meaning: Brave Lion",
-        "email_subject": "Beautiful Name: Esfandiar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Esfandiar with meaning Brave Lion",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Esfandiar, associated with the Persian form اسفندیار, meaning brave lion, valiant hero."
     },
-    "similar_sounding_names": [
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

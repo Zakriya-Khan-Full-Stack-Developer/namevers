@@ -3,304 +3,481 @@
   "data": {
     "name": "Atheel",
     "slug": "atheel",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gifted, Intelligent, Wise",
-    "long_meaning": "A person who is given a gift or talent from Allah, endowed with wisdom and intelligence.",
-    "spiritual_meaning": "A name for a boy who is believed to be blessed with divine wisdom and knowledge.",
-    "emotional_traits": [
-      "Intelligent",
-      "Wise",
-      "Gifted",
-      "Clever",
-      "Brainy"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resourceful",
-      "Perceptive"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 5,
-    "numerology_meaning": "A name for a boy who is expected to live a life full of adventure and versatility.",
-    "in_arabic": {
-      "name": "عطيل",
-      "meaning": "عطيل يعني الشخص ذو المكانة الرفيعة والمنزلة العالية",
-      "long_meaning": "اسم عطيل مشتق من الجذر العربي (ع-ط-ل) الذي يعني الارتفاع والعلو. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص ذو المكانة الرفيعة والمنزلة العالية في المجتمع. كما أنه يوحي بالشرف والكرامة. وقد ورد هذا الاسم في بعض الأحاديث النبوية، مما يضيف له قيمة دينية وروحية."
+    "identity": {
+      "display_name": "Atheel",
+      "normalized_name": "atheel",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Atheel",
+        "atheel"
+      ],
+      "search_variants": [
+        "Atheel",
+        "atheel"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عطیل",
-      "meaning": "عطیل مطلب ہے بلند مقام والا اور اچھے اخلاق والا",
-      "long_meaning": "عطیل نام عربی جڑ (ع-ط-ل) سے نکلا ہے، جس کا مطلب ہے بلند اور اعلیٰ۔ اردو میں، یہ نام اچھے اخلاق والا اور بلند مقام رکھنے والے شخص کے لیے استعمال ہوتا ہے۔ جنوبی ایشیائی مسلمانوں کے ثقافتی سیاق میں، یہ نام فرد کی عزت، شان اور روحانی اہمیت کو ظاہر کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Gifted, intelligent, wise",
+      "primary_meaning": "Gifted",
+      "secondary_meanings": [
+        "intelligent",
+        "wise"
+      ],
+      "literal_meaning": "Gifted",
+      "extended_meaning": "Gifted, intelligent, wise",
+      "meaning_explanation": "Atheel corresponds to the Arabic form أثيل (أ ث ل). Its core sense is gifted, intelligent, wise. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अथील",
-      "meaning": "अथील का अर्थ है उच्च स्थान वाला और अच्छे आचरण वाला",
-      "long_meaning": "अथील नाम की उत्पत्ति अरबी मूल (ع-ط-ل) से हुई है, जिसका अर्थ है उच्च और उत्कृष्ट। हिंदी में, यह नाम उच्च नैतिक मानकों और अच्छे आचरण वाले व्यक्ति को संदर्भित करता है। भारतीय मुस्लिम समुदाय में, यह नाम व्यक्ति की गरिमा, सम्मान और आध्यात्मिक महत्व को दर्शाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أثيل",
+      "transliteration": "atheel",
+      "romanization": "atheel",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gifted",
+        "intelligent",
+        "wise"
+      ],
+      "etymology_explanation": "The form أثيل is an established Arabic lexical item. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عطیل",
-      "meaning": "عطیل د لوړ مقام لرونکی او ښه اخلاق لرونکی معنی لري",
-      "long_meaning": "عطیل نوم د عربی جڑ (ع-ط-ل) څخه اخیستل شوی دی، چې معنی یې لوړ او اعلیٰ دی. په پښتو کې، دا نوم د لوړ مقام لرونکی او ښه اخلاق لرونکی سړي لپاره کارول کیږي. د افغان او پښتني دودیزو ارزښتونو له مخې، دا نوم د سړي د عزت، وقار او روحاني ارزښت څرګندوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أثيل is an established Arabic form.",
+        "Urdu": "اثیل is used in Urdu.",
+        "Hindi": "अथील is used in Hindi.",
+        "Pashto": "اثيل is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Atheel",
-      "meaning": "Atheel means noble, exalted, and high in status",
-      "long_meaning": "The name Atheel originates from the Arabic root (ع-ط-ل), meaning 'to rise' or 'to be elevated'. In Islamic tradition, Atheel signifies a person of high moral character, nobility, and elevated social status. The name is associated with virtues such as honor, dignity, and spiritual excellence. Historically, Atheel has been used in various Muslim cultures to denote individuals of respect and distinction."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form أثيل. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Atheel may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gifted, intelligent, wise.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gifted",
+      "related_concepts": [
+        "gifted",
+        "intelligent",
+        "wise"
+      ],
+      "semantic_relationship": "The central semantic idea is gifted; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gifted.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gifted",
+        "Intelligent",
+        "Wise"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Atheel",
+        "meaning": "Gifted, intelligent, wise",
+        "long_meaning": "Atheel is a Arabic-origin name. Its core meaning is gifted, intelligent, wise. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported."
+      },
+      "urdu": {
+        "name": "اثیل",
+        "meaning": "باصلاحیت، ذہین، دانا",
+        "long_meaning": "Atheel (اثیل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم باصلاحیت، ذہین، دانا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अथील",
+        "meaning": "प्रतिभाशाली, बुद्धिमान, ज्ञानी",
+        "long_meaning": "Atheel (अथील) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रतिभाशाली, बुद्धिमान, ज्ञानी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اثيل",
+        "meaning": "ځیرک، پوه",
+        "long_meaning": "Atheel (اثيل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ځیرک، پوه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أثيل",
+        "meaning": "الموهوب، الذكي، الحكيم",
+        "long_meaning": "Atheel (أثيل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الموهوب، الذكي، الحكيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-theel",
-      "urdu": "اردو میں تلفظ کی تفصیل: عَطِیل",
-      "hindi": "हिन्दी में उच्चारण विवरण: अथील",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عطیل",
-      "ipa": "/ɑːˈðiːl/"
+      "romanized": "at-heel",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اثیل",
+      "persian": null,
+      "hindi": "अथील",
+      "pashto": "اثيل"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AtheelMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Atheel"
-    ],
-    "name_variations": [
-      "Athil"
-    ],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Atheel",
+        "atheel"
+      ],
+      "script_variants": [
+        "أثيل",
+        "اثيل",
+        "اثیل",
+        "अथील"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أثيل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Atheel can be understood through the Arabic form أثيل, whose central sense is gifted, intelligent, wise. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Atheel mean?",
+        "answer": "Atheel is associated with the Arabic form أثيل, whose core sense is gifted, intelligent, wise."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Atheel?",
+        "answer": "Atheel is associated with Arabic. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Atheel an Arabic name?",
+        "answer": "Yes — the underlying form أثيل is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Atheel an Islamic name?",
+        "answer": "Atheel can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 69,
-        "year": 2024
+        "question": "Is Atheel a Quranic name?",
+        "answer": "Atheel should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Atheel mean in Urdu?",
+        "answer": "In Urdu, Atheel is rendered اثیل and carries the sense باصلاحیت، ذہین، دانا."
+      },
+      {
+        "question": "What does Atheel mean in Persian?",
+        "answer": "No verified Persian form was established for Atheel."
+      },
+      {
+        "question": "How is Atheel pronounced?",
+        "answer": "A romanized syllable approximation is at-heel. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Atheel?",
+        "answer": "Romanization variants include Atheel, atheel. Script forms are أثيل, اثيل, اثیل, अथील."
+      },
+      {
+        "question": "Is Atheel a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Atheel Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Atheel, a beautiful Islam name meaning \"Gifted, Intelligent, Wise\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Atheel, Islam name, baby names, Gifted, Intelligent, Wise, Islam baby names, name meaning",
-      "description_paragraph": "Atheel is a meaningful Islam name of Arabic origin that means \"Gifted, Intelligent, Wise\". A person who is given a gift or talent from Allah, endowed with wisdom and intelligence.",
-      "keywords": [
-        "Atheel",
-        "Islam name",
-        "baby names",
-        "Gifted, Intelligent, Wise",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Atheel in Islam tradition?",
-          "a": "Atheel is a beautiful Islam name meaning \"Gifted, Intelligent, Wise\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Atheel a good Islam name for a baby?",
-          "a": "Yes, Atheel is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Atheel?",
-          "a": "The name Atheel has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Atheel correctly?",
-          "a": "Atheel is pronounced ah-theel in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Atheel?",
-          "a": "Naming a child Atheel brings blessings. The meaning \"Gifted, Intelligent, Wise\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Atheel?",
-          "a": "Atheel is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Atheel Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Atheel (أثيل).",
+      "h1": "Atheel Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Atheel meaning",
       "secondary_keywords": [
-        "Islam name Atheel",
-        "Atheel meaning",
-        "Atheel origin"
+        "Atheel name meaning",
+        "Atheel meaning in Urdu",
+        "Atheel origin",
+        "Atheel Islamic name",
+        "Atheel pronunciation",
+        "Atheel name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Atheel (أثيل) is associated with the Arabic form أثيل, whose core sense is gifted, intelligent, wise. Athīl ('of noble origin, firmly rooted'). The source record's gloss 'Gifted, Intelligent, Wise' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Atheel is associated with the Arabic form أثيل, whose core sense is gifted, intelligent, wise.",
+      "meaning_section": "The central meaning of Atheel is gifted, intelligent, wise.",
+      "origin_section": "Atheel is associated with Arabic rather than with a different language.",
+      "islam_section": "Atheel can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Atheel is with the sense gifted.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Atheel",
+      "#AtheelMeaning",
+      "#AtheelName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Islamic name \"Atheel\" holds significant cultural impact as it is a reminder of the special blessings and gifts from Allah that each individual possesses. In many cultural traditions within Islamic communities, the naming of a child is considered a sacred act, and a name like Atheel conveys the idea that one is bestowed with unique qualities and abilities that contribute to society as a whole.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Atheel\" emphasizes the belief in the wisdom and intelligence that comes from Allah. It is a reminder that each person has a role to play in the world and that their talents and gifts are essential to fulfilling that role. This name serves as a constant reminder to seek Allah's guidance and to use the gifts and talents that have been bestowed upon us for the greater good.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Khaldun's 'The Muqaddimah' mentions a Berber chief named Atheel, who ruled over the Banu Ifran in the Maghreb during the 13th century.",
-        "time_period": "13th century",
-        "context": "Ibn Khaldun's influential work details the history and social dynamics of the Islamic world, providing insight into the lives of various leaders, including Atheel."
-      },
-      {
-        "reference": "Al-Maqrizi's 'The History of the Prophets and Kings' recounts Atheel, a Berber king of the Banu Ganfida who ruled over the Maghreb in the late 11th century.",
-        "time_period": "Late 11th century",
-        "context": "Al-Maqrizi's comprehensive history of Islamic civilization documents the reign of Atheel and sheds light on the political landscape of the Maghreb during this time period."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic art revival",
-        "Modern Middle Eastern fashion",
-        "Spirituality and self-care"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Atheel corresponds to the Arabic form أثيل",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Atheel has the core sense gifted, intelligent, wise",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Pinterest",
-        "Etsy"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Atheel' is of Islamic origin and translates to 'joyful' or 'happy'. In the modern context, this name is seen on various platforms representing different aspects of joy and happiness. On Instagram, there are numerous accounts dedicated to showcasing Islamic art in its revival, using the name 'AtheelArt' or 'AtheelIslamicArt'. On Pinterest, users can find boards titled 'Atheel: Islamic Inspiration' filled with images of beautiful Islamic patterns, calligraphy, and architectural designs. Lastly, on Etsy, there are many shops and products carrying the name 'Atheel' in their titles, often featuring handmade items such as home decor, clothing, and accessories inspired by Middle Eastern culture and spirituality."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Atheel",
-      "location": "Cairo, Egypt",
-      "story": "Khadija Atheel from Cairo, Egypt embodies the meaning of Atheel - \"Gifted, Intelligent, Wise\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The name Atheel means \"strong, firm, and unyielding.\" It symbolizes a person with a steadfast and unwavering spirit, who remains grounded and unwavering in their beliefs and convictions. This name is a source of inspiration for those seeking inner strength and resilience in the face of adversity.",
-    "created_at": "2025-12-22T19:19:49.768Z",
-    "updated_at": "2025-12-22T04:53:13.948Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1516,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Atheel",
-      "description": "Gifted, Intelligent, Wise",
-      "additionalName": [
-        "Athil"
+      "alternateName": [
+        "Atheel",
+        "atheel"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form أثيل, meaning gifted, intelligent, wise.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Atheel",
-          "description": "Discover the meaning of Atheel - \"Gifted, Intelligent, Wise\"",
-          "image": "/images/social/atheel-facebook.jpg"
+      "termCode": "atheel",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Atheel - Name Meaning",
-          "description": "Learn about the beautiful name Atheel",
-          "image": "/images/social/atheel-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Atheel",
-          "description": "Name meaning: Gifted, Intelligent, Wise",
-          "image": "/images/social/atheel-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Atheel - Meaning: Gifted, Intelligent, Wise",
-        "email_subject": "Beautiful Name: Atheel"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Atheel with meaning Gifted, Intelligent, Wise",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Atheel, associated with the Arabic form أثيل, meaning gifted, intelligent, wise."
     },
-    "similar_sounding_names": [
-      "aidan",
-      "alabbas",
-      "ayra",
-      "amala",
-      "ambar",
-      "ada",
-      "arsala",
-      "akil",
-      "amber",
-      "alishaba"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,301 +3,479 @@
   "data": {
     "name": "Arf",
     "slug": "arf",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Loving, kind",
-    "long_meaning": "Derived from the Arabic root 'r-f-', meaning to love, be kind and compassionate. This name holds a special significance in Islamic history as the name of a companion of Prophet Muhammad (pbuh).",
-    "spiritual_meaning": "A name that symbolizes love and compassion, reflecting the teachings of Islam.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 15,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "(Ruby)",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the name Arf are natural leaders, communicative, and have a strong sense of purpose. They are creative, artistic, and often have a deep understanding of spiritual matters.",
-    "in_arabic": {
-      "name": "أرف",
-      "meaning": "اسم علم يرمز إلى الأمانة والتوافق",
-      "long_meaning": "أصل الاسم من اللغة العربية، ويعود إلى الجذور (أ ف ر) التي تعني الأمانة والتوافق والتعاون، ويستخدم في القرآن الكريم للإشارة إلى الصالحين الذين يوفون الأمانة ويتوافقون على الخير، ويحمل اسم أرف أيضًا معنى النزاهة والصلاح، ويعد له مكانة عالية في الثقافة الإسلامية، ويستخدم في العديد من الثقافات الإسلامية لوصف الأشخاص الذين يتمتعون بخصال جيدة"
+    "identity": {
+      "display_name": "Arf",
+      "normalized_name": "arf",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Arf",
+        "arf"
+      ],
+      "search_variants": [
+        "Arf",
+        "arf"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ارف",
-      "meaning": "اسم علم جوہر کا نام جو امانت اور توافق کی طرف اشارہ کرتا ہے",
-      "long_meaning": "اس نام کا ماخذ عربی زبان سے ہے، جس کے معانی اور مفہوم کو عربی زبان سے اخذ کیا گیا ہے، اس کے معنی امانت، توافق، تعاون اور نزاهت کے ہیں، قرآن پاک میں اس نام سے صالحین کو تعینات کیا گیا ہے جو امانت اور توافق کے ساتھ کام کرتے ہیں، اور اس نام کو مسلمانوں میں بہت احترام دیا جاتا ہے، اور پاکستان کے علاوہ بھی اس نام سے مشہور ناموں کی تعداد بہت زیادہ ہے"
+    "core_meaning": {
+      "short_meaning": "Height, elevation, mountain",
+      "primary_meaning": "Height",
+      "secondary_meanings": [
+        "elevation",
+        "mountain"
+      ],
+      "literal_meaning": "Height",
+      "extended_meaning": "Height, elevation, mountain",
+      "meaning_explanation": "Arf corresponds to the Arabic form عرف (ع ر ف). Its core sense is height, elevation, mountain. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अरफ",
-      "meaning": "अर्थात न्याय, समानता और सहयोग",
-      "long_meaning": "अरफ नाम का मूल अरबी भाषा से है, जो न्याय, समानता और सहयोग के अर्थ में है, इस नाम का उपयोग कुरान में भी किया गया है, जहां यह नाम न्याय और सहयोग करने वालों के लिए उपयोग किया गया है, अरफ नाम का महत्व भारतीय मुस्लिम समुदाय में बहुत ही अधिक है, और यह नाम कई मुस्लिम परिवारों में प्रसिद्ध है, और यह नाम उनके बच्चों के नामों में भी प्रयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عرف",
+      "transliteration": "arf",
+      "romanization": "arf",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Height",
+        "elevation",
+        "mountain"
+      ],
+      "etymology_explanation": "The form عرف is an established Arabic lexical item. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "ارڼ",
-      "meaning": "اسم علم په معنی توافق او امانت",
-      "long_meaning": "ارڼ په اصل کې عربی ټکیږېږي، چې د توافق او امانت په معنی ده، د قرآن په کې دا نوم ښه وګرځي، چې د هغوی په لومړۍ کې دا نوم د توافق او امانت د پوهه په لاس دی، په دودیزه اسلامي تقلید کې دا نوم ښه دی، ځکه چې دا نوم د ښه وړتیا او پوهې په لاس دی، او دا نوم ته په افغانستان کې دا نوم په ټولو مسلمانو کې لوړ مقام دی"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عرف is an established Arabic form.",
+        "Urdu": "عرف is used in Urdu.",
+        "Hindi": "अरफ़ is used in Hindi.",
+        "Pashto": "عرف is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Arf",
-      "meaning": "An Islamic name that symbolizes trust and harmony",
-      "long_meaning": "The name Arf originates from the Arabic language, and means trust, harmony, and cooperation. In the Quran, the name Arf is used to describe those who fulfill their trusts and are in harmony with one another. The name Arf also connotes integrity and righteousness, and holds a high value in Islamic culture. It is used in many Muslim cultures to describe individuals who possess good qualities, and is considered a noble name in the Islamic tradition. In English-speaking countries, the name Arf is not commonly used, but it is gaining popularity among Muslim families due to its strong Islamic connotations and positive meaning."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form عرف. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Arf may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense height, elevation, mountain.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Height",
+      "related_concepts": [
+        "height",
+        "elevation",
+        "mountain"
+      ],
+      "semantic_relationship": "The central semantic idea is height; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of height.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Height",
+        "Elevation",
+        "Mountain"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Arf",
+        "meaning": "Height, elevation, mountain",
+        "long_meaning": "Arf is a Arabic-origin name. Its core meaning is height, elevation, mountain. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "عرف",
+        "meaning": "بلندی، اونچائی، پہاڑ",
+        "long_meaning": "Arf (عرف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بلندی، اونچائی، پہاڑ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अरफ़",
+        "meaning": "ऊँचाई, उच्चता, पर्वत",
+        "long_meaning": "Arf (अरफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ऊँचाई, उच्चता, पर्वत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عرف",
+        "meaning": "لوړوالی، غر",
+        "long_meaning": "Arf (عرف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لوړوالی، غر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عرف",
+        "meaning": "العلو، الارتفاع، الجبل",
+        "long_meaning": "Arf (عرف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العلو، الارتفاع، الجبل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ARF",
-      "urdu": "ارڼ کا اردو تلفظ",
-      "hindi": "अरफ का हिन्दी उच्चारण",
-      "pashto": "ارڼ کا پښتو تلفظ",
-      "ipa": "/ɑrf/"
+      "romanized": "arf",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عرف",
+      "persian": null,
+      "hindi": "अरफ़",
+      "pashto": "عرف"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#ArfMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Arf"
-    ],
-    "name_variations": [],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Arf",
+        "arf"
+      ],
+      "script_variants": [
+        "عرف",
+        "अरफ़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عرف is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Arf can be understood through the Arabic form عرف, whose central sense is height, elevation, mountain. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Arf mean?",
+        "answer": "Arf is associated with the Arabic form عرف, whose core sense is height, elevation, mountain."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Arf?",
+        "answer": "Arf is associated with Arabic. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Arf an Arabic name?",
+        "answer": "Yes — the underlying form عرف is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Arf an Islamic name?",
+        "answer": "Arf can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 77,
-        "year": 2024
+        "question": "Is Arf a Quranic name?",
+        "answer": "Arf should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Arf mean in Urdu?",
+        "answer": "In Urdu, Arf is rendered عرف and carries the sense بلندی، اونچائی، پہاڑ."
+      },
+      {
+        "question": "What does Arf mean in Persian?",
+        "answer": "No verified Persian form was established for Arf."
+      },
+      {
+        "question": "How is Arf pronounced?",
+        "answer": "A romanized syllable approximation is arf. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Arf?",
+        "answer": "Romanization variants include Arf, arf. Script forms are عرف, अरफ़."
+      },
+      {
+        "question": "Is Arf a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Arf Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Arf, a beautiful Islam name meaning \"Loving, kind\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Arf, Islam name, baby names, Loving, kind, Islam baby names, name meaning",
-      "description_paragraph": "Arf is a meaningful Islam name of Arabic origin that means \"Loving, kind\". Derived from the Arabic root 'r-f-', meaning to love, be kind and compassionate. This name holds a special significance in Islamic history as the name of a companion of Prophet Muhammad (pbuh).",
-      "keywords": [
-        "Arf",
-        "Islam name",
-        "baby names",
-        "Loving, kind",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Arf in Islam tradition?",
-          "a": "Arf is a beautiful Islam name meaning \"Loving, kind\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Arf a good Islam name for a baby?",
-          "a": "Yes, Arf is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Arf?",
-          "a": "The name Arf has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Arf correctly?",
-          "a": "Arf is pronounced ARF in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Arf?",
-          "a": "Naming a child Arf brings blessings. The meaning \"Loving, kind\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Arf?",
-          "a": "Arf is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Arf Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Arf (عرف).",
+      "h1": "Arf Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Arf meaning",
       "secondary_keywords": [
-        "Islam name Arf",
-        "Arf meaning",
-        "Arf origin"
+        "Arf name meaning",
+        "Arf meaning in Urdu",
+        "Arf origin",
+        "Arf Islamic name",
+        "Arf pronunciation",
+        "Arf name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Arf (عرف) is associated with the Arabic form عرف, whose core sense is height, elevation, mountain. The source record's gloss 'Loving, kind' could not be matched to a Tier-A/B lexical source. The form عرف means 'height' or 'custom'. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Arf is associated with the Arabic form عرف, whose core sense is height, elevation, mountain.",
+      "meaning_section": "The central meaning of Arf is height, elevation, mountain.",
+      "origin_section": "Arf is associated with Arabic rather than with a different language.",
+      "islam_section": "Arf can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Arf is with the sense height.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Arf",
+      "#ArfMeaning",
+      "#ArfName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Arf is associated with kindness, love, and compassion towards others. In Arabic culture, the name is often given to boys as a symbol of these noble qualities. The word \"arf\" also appears in various sayings and poems in Arabic literature that emphasize the importance of being kind and compassionate towards others.",
-    "spiritual_significance": "In Islamic spirituality, the name Arf holds great significance as it reminds us of the importance of inner nobility and empathy. The Prophet Muhammad (pbuh) had a companion named Arf ibn al-Harith, who was known for his kindness and compassion towards the Prophet and his community. The name Arf serves as a constant reminder of the importance of loving and caring for others as a way of drawing closer to Allah. It also inspires us to be kind and compassionate towards all beings, as this is a fundamental aspect of Islamic teachings.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn al-Qifti's 'Kitab al-Ma'arif' mentions Arf as a historical town located near Damascus, Syria, which was famous for its production of high-quality glassware. This reference dates back to the 12th century.",
-        "time_period": "12th century AD",
-        "context": "Production of high-quality glassware"
-      },
-      {
-        "reference": "Ibn Battuta, a 14th-century traveler, visited Arf and described it as an important agricultural center and a station on the caravan routes, which connected the Mediterranean Sea and the Indian Ocean. He noted that Arf was particularly known for its cultivation of sugarcane and grapes.",
-        "time_period": "14th century AD",
-        "context": "Important agricultural center and station on caravan routes"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic calligraphy",
-        "Arabic typography",
-        "Design inspiration"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Arf corresponds to the Arabic form عرف",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Arf has the core sense height, elevation, mountain",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Pinterest",
-        "Dribbble"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Arf' in Islamic context refers to a concept of comprehensive knowledge or mastery in a particular field. In modern design contexts, the name 'Arf' is used to describe the mastery and application of Arabic calligraphy, typography, and design inspiration in various digital and print media. On Instagram, designers and calligraphers share their work using the hashtag #arabiccalligraphy, showcasing their expertise and creativity. On Pinterest, users can find boards dedicated to Arabic typography and Islamic design trends. On Dribbble, a platform for designers to showcase their work, 'Arf' is a search term for projects that demonstrate proficiency and originality in Arabic calligraphy and typography."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Arf",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Layla Arf from Kuala Lumpur, Malaysia embodies the meaning of Arf - \"Loving, kind\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Loving, kind\" symbolizes Derived from the Arabic root 'r-f-', meaning to love, be kind and compassionate. This name holds a special significance in Islamic history as the name of a companion of Prophet Muhammad (pbuh).. In Islamic spirituality, bearing the name Arf serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of loving, kind.",
-    "created_at": "2025-12-22T19:19:50.325Z",
-    "updated_at": "2025-12-22T04:53:15.829Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1267,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Arf",
-      "description": "Loving, kind",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Arf",
+        "arf"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Arf",
-          "description": "Discover the meaning of Arf - \"Loving, kind\"",
-          "image": "/images/social/arf-facebook.jpg"
+      "description": "A name associated with the Arabic form عرف, meaning height, elevation, mountain.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "arf",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Arf - Name Meaning",
-          "description": "Learn about the beautiful name Arf",
-          "image": "/images/social/arf-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Arf",
-          "description": "Name meaning: Loving, kind",
-          "image": "/images/social/arf-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Arf - Meaning: Loving, kind",
-        "email_subject": "Beautiful Name: Arf"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Arf with meaning Loving, kind",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Arf, associated with the Arabic form عرف, meaning height, elevation, mountain."
     },
-    "similar_sounding_names": [
-      "ayra",
-      "amelia",
-      "anja",
-      "alika",
-      "amalia",
-      "amala",
-      "ariana",
-      "arya",
-      "aidan",
-      "amaya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

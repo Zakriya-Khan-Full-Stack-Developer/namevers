@@ -3,294 +3,482 @@
   "data": {
     "name": "Darweesh",
     "slug": "darweesh",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Wise, Knowledgeable",
-    "long_meaning": "One who is knowledgeable and wise, a scholar or sage",
-    "spiritual_meaning": "Symbolizes wisdom, knowledge, and understanding of the divine",
-    "emotional_traits": [
-      "Intelligent",
-      "Wise",
-      "Knowledgeable",
-      "Understanding"
-    ],
-    "hidden_personality_traits": [
-      "Introspective",
-      "Curious",
-      "Reflective"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, Self-Expressive, and Communicative",
-    "in_arabic": {
-      "name": "درويش",
-      "meaning": "الدرويش هو الشخص الفقير جدا في المال و الروحانيات",
-      "long_meaning": "الدرويش هو الشخص الذي يعيش في فقر و زهد في الدنيا و يتعلق قلبه بالله تعالى فقط. و هو من الأسماء التي تدل على التواضع و الزهد في الحياة الدنيا و الإلتزام بالطريق الروحاني الصحيح. و في اللغة العربية, الدرويش هو من أصل 'د-ر-ش' الذي يعني البحث أو الطلب, و هو الشخص الذي يبحث عن الله و الحقيقة الروحانية."
+    "identity": {
+      "display_name": "Darweesh",
+      "normalized_name": "darweesh",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Darweesh",
+        "darweesh"
+      ],
+      "search_variants": [
+        "Darweesh",
+        "darweesh"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "درویش",
-      "meaning": "درویش وہ شخص ہے جو دنیا سے منسلک نہیں ہے",
-      "long_meaning": "درویش ایک ایسا شخص ہے جو دنیا کی لطف اور غرور سے دور ہے. یہ نام شخص کی فقری اور روحانی حالت کی نشاندہی کرتا ہے. درویش کا مطلب ہے وہ شخص جو خدا کی قربت حاصل کرنے کے لئے دنیا کے پلوں کو عبور کرتا ہے. اس نام کی اصالت عربی زبان کی جڑوں میں ہے, جہاں اس کا مطلب ہے 'د-ر-ش' جس کا مطلب ہے تلاش کرنا یا مانگنا."
+    "core_meaning": {
+      "short_meaning": "Dervish, ascetic, mendicant",
+      "primary_meaning": "Dervish",
+      "secondary_meanings": [
+        "ascetic",
+        "mendicant"
+      ],
+      "literal_meaning": "Dervish",
+      "extended_meaning": "Dervish, ascetic, mendicant",
+      "meaning_explanation": "Darweesh corresponds to the Persian form درويش (Persian darvēsh). Its core sense is dervish, ascetic, mendicant. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दरवीश",
-      "meaning": "दरवीश एक ऐसा व्यक्ति है जो दुनिया से अलग है",
-      "long_meaning": "दरवीश एक ऐसा व्यक्ति है जो दुनिया के सुख और ऐश्वर्य से परे है. यह नाम व्यक्ति की गरीबी और आध्यात्मिक स्थिति की ओर संकेत करता है. दरवीश का अर्थ है वह व्यक्ति जो ईश्वर की निकटता प्राप्त करने के लिए दुनिया के बंधनों को पार करता है. इस नाम की उत्पत्ति अरबी भाषा की जड़ों में है, जहां इसका अर्थ है 'द-र-श' जिसका अर्थ है खोजना या मांगना."
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "درويش",
+      "transliteration": "darweesh",
+      "romanization": "darweesh",
+      "root_status": "Persian darvēsh",
+      "etymological_meaning": [
+        "Dervish",
+        "ascetic",
+        "mendicant"
+      ],
+      "etymology_explanation": "The form درويش is an established Persian lexical item. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "درويش",
-      "meaning": "درويش هغه کسان دي چي په دنیا کې يي هيڅ نه لري",
-      "long_meaning": "درويش هغه کسان دي چي په دنیا کې يي هيڅ نه لري او يوازې د الله تعالی سره يي علاقه لري. دا نوم د هغو کسانو لپاره استعماليږي چي په زهد او تقوی کې ژوند کوي. د درويش کلمه د 'د-ر-ش' څخه اخستل شوې ده چي د لټولو او يا غوښتلو معنی ورکوي."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "درويش is an established Arabic form.",
+        "Urdu": "درویش is used in Urdu.",
+        "Persian": "درویش is an established Persian form.",
+        "Hindi": "दरवेश is used in Hindi.",
+        "Pashto": "درویش is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Darweesh",
-      "meaning": "A person who is poor in worldly possessions and rich in spirituality",
-      "long_meaning": "Darweesh is a name that signifies a person who has renounced worldly life and is spiritually inclined. The term originates from the Arabic root 'd-r-š', meaning 'to search' or 'to seek', implying a seeker of truth and spiritual enlightenment. Historically, a Darweesh refers to a Sufi ascetic who has chosen a life of poverty and devotion to God. The name symbolizes humility, spiritual growth, and a deep connection with the divine."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form درويش. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Darweesh may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense dervish, ascetic, mendicant.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Dervish",
+      "related_concepts": [
+        "dervish",
+        "ascetic",
+        "mendicant"
+      ],
+      "semantic_relationship": "The central semantic idea is dervish; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of dervish.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Dervish",
+        "Ascetic",
+        "Mendicant"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Darweesh",
+        "meaning": "Dervish, ascetic, mendicant",
+        "long_meaning": "Darweesh is a Persian-origin name. Its core meaning is dervish, ascetic, mendicant. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "درویش",
+        "meaning": "درویش، فقیر، زاہد",
+        "long_meaning": "Darweesh (درویش) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم درویش، فقیر، زاہد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "درویش",
+        "meaning": "درویش، زاهد، قلندر",
+        "long_meaning": "Darweesh (درویش) نامی برگرفته از زبان فارسی است و معنای اصلی آن درویش، زاهد، قلندر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "दरवेश",
+        "meaning": "दरवेश, फ़क़ीर",
+        "long_meaning": "Darweesh (दरवेश) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दरवेश, फ़क़ीर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "درویش",
+        "meaning": "درویش، فقیر",
+        "long_meaning": "Darweesh (درویش) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې درویش، فقیر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "درويش",
+        "meaning": "الفقير، الزاهد",
+        "long_meaning": "Darweesh (درويش) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الفقير، الزاهد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "dar-WEESH",
-      "urdu": "درویش کا تلفظ ہے: دَرْوَیش",
-      "hindi": "दरवीश का उच्चारण है: दर-वीश",
-      "pashto": "درويش د تلفظ تفصیل: دَرْوَيْش",
-      "ipa": "/dɑːrˈwiːʃ/"
+      "romanized": "dar-weesh",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "درویش",
+      "persian": "درویش",
+      "hindi": "दरवेश",
+      "pashto": "درویش"
     },
-    "celebrity_usage": [
-      "Darwish"
-    ],
-    "social_tags": [
-      "#DarweeshMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Darweesh"
-    ],
-    "name_variations": [
-      "Darwish"
-    ],
-    "popularity_score": 63,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Darweesh",
+        "darweesh"
+      ],
+      "script_variants": [
+        "درويش",
+        "درویش",
+        "दरवेश"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form درويش is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Darweesh can be understood through the Persian form درويش, whose central sense is dervish, ascetic, mendicant. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Darweesh mean?",
+        "answer": "Darweesh is associated with the Persian form درويش, whose core sense is dervish, ascetic, mendicant."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Darweesh?",
+        "answer": "Darweesh is associated with Persian. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Darweesh an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Darweesh an Islamic name?",
+        "answer": "Darweesh can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 65,
-        "year": 2024
+        "question": "Is Darweesh a Quranic name?",
+        "answer": "Darweesh should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Darweesh mean in Urdu?",
+        "answer": "In Urdu, Darweesh is rendered درویش and carries the sense درویش، فقیر، زاہد."
+      },
+      {
+        "question": "What does Darweesh mean in Persian?",
+        "answer": "In Persian, Darweesh is rendered درویش and carries the sense درویش، زاهد، قلندر."
+      },
+      {
+        "question": "How is Darweesh pronounced?",
+        "answer": "A romanized syllable approximation is dar-weesh. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Darweesh?",
+        "answer": "Romanization variants include Darweesh, darweesh. Script forms are درويش, درویش, दरवेश."
+      },
+      {
+        "question": "Is Darweesh a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Darweesh Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Darweesh, a beautiful Islam name meaning \"Wise, Knowledgeable\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Darweesh, Islam name, baby names, Wise, Knowledgeable, Islam baby names, name meaning",
-      "description_paragraph": "Darweesh is a meaningful Islam name of Arabic origin that means \"Wise, Knowledgeable\". One who is knowledgeable and wise, a scholar or sage",
-      "keywords": [
-        "Darweesh",
-        "Islam name",
-        "baby names",
-        "Wise, Knowledgeable",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Darweesh in Islam tradition?",
-          "a": "Darweesh is a beautiful Islam name meaning \"Wise, Knowledgeable\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Darweesh a good Islam name for a baby?",
-          "a": "Yes, Darweesh is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Darweesh?",
-          "a": "The name Darweesh has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Darweesh correctly?",
-          "a": "Darweesh is pronounced dar-WEESH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Darweesh?",
-          "a": "Naming a child Darweesh brings blessings. The meaning \"Wise, Knowledgeable\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Darweesh?",
-          "a": "Darweesh is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Darweesh Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Darweesh (درويش).",
+      "h1": "Darweesh Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Darweesh meaning",
       "secondary_keywords": [
-        "Islam name Darweesh",
-        "Darweesh meaning",
-        "Darweesh origin"
+        "Darweesh name meaning",
+        "Darweesh meaning in Urdu",
+        "Darweesh origin",
+        "Darweesh Islamic name",
+        "Darweesh pronunciation",
+        "Darweesh name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Darweesh (درويش) is associated with the Persian form درويش, whose core sense is dervish, ascetic, mendicant. Variant romanization of درویش ('dervish'). The source record's gloss 'Wise, Knowledgeable' is unsupported. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Darweesh is associated with the Persian form درويش, whose core sense is dervish, ascetic, mendicant.",
+      "meaning_section": "The central meaning of Darweesh is dervish, ascetic, mendicant.",
+      "origin_section": "Darweesh is associated with Persian rather than with a different language.",
+      "islam_section": "Darweesh can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Darweesh is with the sense dervish.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Darweesh",
+      "#DarweeshMeaning",
+      "#DarweeshName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Darweesh holds a high esteem in Muslim culture, representing a respected and learned individual. It is a title often given to scholars, educators, and spiritual leaders within the Islamic community. Darweesh individuals are known for their vast knowledge, wisdom, and dedication to the pursuit of truth and knowledge. As a result, the name has deep cultural significance and carries a sense of honor and respect within Islamic society.",
-    "spiritual_significance": "From a spiritual perspective, the name Darweesh represents a deep connection to knowledge, wisdom, and the pursuit of truth. The origin of the name implies someone who has dedicated their life to seeking knowledge and understanding, both of the world around them and of their own spiritual growth. As such, the name Darweesh is associated with a deeply spiritual and intellectual pursuance, one that is driven by a desire to deepen their understanding of themselves, their faith, and the world around them. In essence, the name Darweesh serves as a reminder of the importance of lifelong learning and spiritual growth within the Islamic tradition.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Darweesh carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Darweesh corresponds to the Persian form درويش",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Darweesh has the core sense dervish, ascetic, mendicant",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Darweesh remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Darweesh",
-      "location": "Karachi, Pakistan",
-      "story": "Layla Darweesh, a teacher in Karachi, Pakistan, shares that their name Darweesh meaning \"Wise, Knowledgeable\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Wise, Knowledgeable\" symbolizes One who is knowledgeable and wise, a scholar or sage. In Islamic spirituality, bearing the name Darweesh serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of wise, knowledgeable.",
-    "created_at": "2025-12-22T19:19:49.85Z",
-    "updated_at": "2025-12-22T04:53:14.769Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1010,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Darweesh",
-      "description": "Wise, Knowledgeable",
-      "additionalName": [
-        "Darwish"
+      "alternateName": [
+        "Darweesh",
+        "darweesh"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Persian form درويش, meaning dervish, ascetic, mendicant.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Darweesh",
-          "description": "Discover the meaning of Darweesh - \"Wise, Knowledgeable\"",
-          "image": "/images/social/darweesh-facebook.jpg"
+      "termCode": "darweesh",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Darweesh - Name Meaning",
-          "description": "Learn about the beautiful name Darweesh",
-          "image": "/images/social/darweesh-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Darweesh",
-          "description": "Name meaning: Wise, Knowledgeable",
-          "image": "/images/social/darweesh-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Darweesh - Meaning: Wise, Knowledgeable",
-        "email_subject": "Beautiful Name: Darweesh"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Darweesh with meaning Wise, Knowledgeable",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Darweesh, associated with the Persian form درويش, meaning dervish, ascetic, mendicant."
     },
-    "similar_sounding_names": [
-      "dhuka",
-      "dimah",
-      "dafiyah",
-      "darakhshaan",
-      "daniel"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,287 +3,481 @@
   "data": {
     "name": "Intizar",
     "slug": "intizar",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "To Expect, To Wait",
-    "long_meaning": "One who is waiting, anticipating, or expecting",
-    "spiritual_meaning": "A name for those who are patient, hopeful, and trusting in Allah's plan",
-    "emotional_traits": [
-      "Patience",
-      "Hope",
-      "Anticipation"
-    ],
-    "hidden_personality_traits": [
-      "Resilience",
-      "Endurance",
-      "Determination"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Gold",
-      "Grey"
-    ],
-    "lucky_stone": "Onyx",
-    "life_path_number": 6,
-    "numerology_meaning": "A name for those who must learn to balance their emotional and intellectual sides, and find inner harmony",
-    "in_arabic": {
-      "name": "إنطزار",
-      "meaning": "الانتظار للصالحات وتحقيق الأمانة",
-      "long_meaning": "إنطزار يأتي من الجذر النطزَرَ وَهُوَ يُشير إلى الانتظار والمطالبة بالصالح وتحقيق الأمانة. في الأصل، كان هذا الاسم يُستخدم لوصف الشخص الذي ينتظر بكل سرور وقبول الأوامر السماوية ويكون طاعةً لله تعالى. يُعتبر هذا الاسم من الأسماء القديمة التي تمتلك تاريخًا غنيًا في الإسلام، حيث كان يُستخدم لوصف الصالحين والذين ينتظرون بكل صبر وحرص ما يأتي من الله تعالى. في الوقت الحاضر، يُستخدم هذا الاسم لوصف الأطفال الذكور الذين يُعتبرون صغارًا لكنهم يتمتعون بمزايا خاصة تُشير إلى مستقبلهم اللامع."
+    "identity": {
+      "display_name": "Intizar",
+      "normalized_name": "intizar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Intizar",
+        "intizar"
+      ],
+      "search_variants": [
+        "Intizar",
+        "intizar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انٹظر",
-      "meaning": "منتظر کے لیے اننتظار اور ایماندار کیوں",
-      "long_meaning": "انٹظر نام کا تعلق بھی Arabic جذر ہے. اس نام سے مراد ہے کہ وہ شخص جو اللہ کی ہدایت پر عمل کرے اور صبر و شکیبہی سے انتظار کرتا ہے. یہ نام بھی ایماندار کے لیے ہے، جو اللہ کے احکام پر عمل کرے اور آخرت کا انتظار کرتا ہے. اس نام کی تاریخ بھی اسلامی روایات سے جڑی ہوئی ہے اور یہ نام اسی نام سے ملتا ہے جو عرب میں پرانا روایتی نام تھا."
+    "core_meaning": {
+      "short_meaning": "Waiting, anticipation, expectation",
+      "primary_meaning": "Waiting",
+      "secondary_meanings": [
+        "anticipation",
+        "expectation"
+      ],
+      "literal_meaning": "Waiting",
+      "extended_meaning": "Waiting, anticipation, expectation",
+      "meaning_explanation": "Intizar corresponds to the Arabic form انتظار (Arabic root ن ظ ر (n-ẓ-r); اِنْتِظَار (Intiẓār)). Its core sense is waiting, anticipation, expectation. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इन्तिज़ार",
-      "meaning": "अंतिम समय की प्रतीक्षा करने वाला",
-      "long_meaning": "इन्तिज़ार नाम का अर्थ है अंतिम समय की प्रतीक्षा करने वाला। यह नाम अरबी जड़ से लिया गया है, जिसका अर्थ है इंतजार और विश्वास। इस नाम का उपयोग अक्सर उन लोगों के लिए किया जाता है जो ईश्वर के नियमों का पालन करते हैं और अंतिम समय की प्रतीक्षा करते हैं। इन्तिज़ार नाम का इतिहास मुस्लिम परंपराओं से जुड़ा हुआ है और यह नाम मुस्लिम समुदाय में बहुत प्रसिद्ध है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "انتظار",
+      "transliteration": "intizar",
+      "romanization": "intizar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Waiting",
+        "anticipation",
+        "expectation"
+      ],
+      "etymology_explanation": "The form انتظار is an established Arabic lexical item. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "انډزار",
-      "meaning": "د انتظار اړوند کښېنل",
-      "long_meaning": "انډزار د عربي رڼا لرونکي د نطزار په رڼا لرونکي پورې اړه لري چې په اصل کې د انتظار او پوهېدل په معنی رڼا لري. دا نوم د هغه وخت له مخې چې پوهېدل او انتظار ته یې په کله کله پوهېدل او لیدنه کوي، د هغه وخت له مخې چې د هغه ځانګړي شخص د پوهېدل او انتظار د ځای کې کښېنل شوی وای."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "انتظار is an established Arabic form.",
+        "Urdu": "انتظار is used in Urdu.",
+        "Persian": "انتظار is an established Persian form.",
+        "Hindi": "इंतिज़ार is used in Hindi.",
+        "Pashto": "انتظار is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Intizar",
-      "meaning": "Awaiting the righteous and fulfilling one's trust",
-      "long_meaning": "The name Intizar is derived from the Arabic root n-t-z-r, which means awaiting and fulfilling one's trust. In its original context, the name refers to a person who awaits with patience and acceptance the divine orders and is obedient to Allah. The name has a rich history in Islamic tradition and is associated with the righteous and those who await with hope and anticipation the rewards from Allah. In modern times, the name Intizar is used to signify a child who is born with a promise of a bright future and is expected to grow up into a righteous and trustworthy individual."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form انتظار. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Intizar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense waiting, anticipation, expectation.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Waiting",
+      "related_concepts": [
+        "waiting",
+        "anticipation",
+        "expectation"
+      ],
+      "semantic_relationship": "The central semantic idea is waiting; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of waiting.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Waiting",
+        "Anticipation",
+        "Expectation"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Intizar",
+        "meaning": "Waiting, anticipation, expectation",
+        "long_meaning": "Intizar is a Arabic-origin name. Its core meaning is waiting, anticipation, expectation. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar."
+      },
+      "urdu": {
+        "name": "انتظار",
+        "meaning": "انتظار، توقع، راہ دیکھنا",
+        "long_meaning": "Intizar (انتظار) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم انتظار، توقع، راہ دیکھنا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "انتظار",
+        "meaning": "انتظار، چشمبراهی، توقع",
+        "long_meaning": "Intizar (انتظار) نامی برگرفته از زبان عربی است و معنای اصلی آن انتظار، چشمبراهی، توقع است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इंतिज़ार",
+        "meaning": "प्रतीक्षा, इंतज़ार, अपेक्षा",
+        "long_meaning": "Intizar (इंतिज़ार) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रतीक्षा, इंतज़ार, अपेक्षा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "انتظار",
+        "meaning": "انتظار، تمه، هيله",
+        "long_meaning": "Intizar (انتظار) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې انتظار، تمه، هيله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "انتظار",
+        "meaning": "الانتظار، الترقّب، التوقّع",
+        "long_meaning": "Intizar (انتظار) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الانتظار، الترقّب، التوقّع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "in-TIZ-ar",
-      "urdu": "انٹظر کا تلفظ اردو میں",
-      "hindi": "इन्तिज़ार का उच्चारण हिन्दी में",
-      "pashto": "انډزار د تلفظ",
-      "ipa": "/ɪnˈtɪzɑr/"
+      "romanized": "in-ti-zar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "انتظار",
+      "persian": "انتظار",
+      "hindi": "इंतिज़ार",
+      "pashto": "انتظار"
     },
-    "celebrity_usage": [
-      "Mahira Khan (Actress)",
-      "Fahad Mustafa (Actor)"
-    ],
-    "social_tags": [
-      "#IntizarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Intizar"
-    ],
-    "name_variations": [],
-    "popularity_score": 71,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Intizar",
+        "intizar"
+      ],
+      "script_variants": [
+        "انتظار",
+        "इंतिज़ार"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form انتظار is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Intizar can be understood through the Arabic form انتظار, whose central sense is waiting, anticipation, expectation. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Intizar mean?",
+        "answer": "Intizar is associated with the Arabic form انتظار, whose core sense is waiting, anticipation, expectation."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 82,
-        "year": 2024
+        "question": "What is the origin of Intizar?",
+        "answer": "Intizar is associated with Arabic. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Intizar an Arabic name?",
+        "answer": "Yes — the underlying form انتظار is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 78,
-        "year": 2024
+        "question": "Is Intizar an Islamic name?",
+        "answer": "Intizar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 73,
-        "year": 2024
+        "question": "Is Intizar a Quranic name?",
+        "answer": "Intizar should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Intizar mean in Urdu?",
+        "answer": "In Urdu, Intizar is rendered انتظار and carries the sense انتظار، توقع، راہ دیکھنا."
+      },
+      {
+        "question": "What does Intizar mean in Persian?",
+        "answer": "In Persian, Intizar is rendered انتظار and carries the sense انتظار، چشمبراهی، توقع."
+      },
+      {
+        "question": "How is Intizar pronounced?",
+        "answer": "A romanized syllable approximation is in-ti-zar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Intizar?",
+        "answer": "Romanization variants include Intizar, intizar. Script forms are انتظار, इंतिज़ार."
+      },
+      {
+        "question": "Is Intizar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Intizar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Intizar, a beautiful Islam name meaning \"To Expect, To Wait\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Intizar, Islam name, baby names, To Expect, To Wait, Islam baby names, name meaning",
-      "description_paragraph": "Intizar is a meaningful Islam name of Arabic origin that means \"To Expect, To Wait\". One who is waiting, anticipating, or expecting",
-      "keywords": [
-        "Intizar",
-        "Islam name",
-        "baby names",
-        "To Expect, To Wait",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Intizar in Islam tradition?",
-          "a": "Intizar is a beautiful Islam name meaning \"To Expect, To Wait\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Intizar a good Islam name for a baby?",
-          "a": "Yes, Intizar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Intizar?",
-          "a": "The name Intizar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Intizar correctly?",
-          "a": "Intizar is pronounced in-TIZ-ar in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Intizar?",
-          "a": "Naming a child Intizar brings blessings. The meaning \"To Expect, To Wait\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Intizar?",
-          "a": "Intizar is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Intizar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Intizar (انتظار).",
+      "h1": "Intizar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Intizar meaning",
       "secondary_keywords": [
-        "Islam name Intizar",
-        "Intizar meaning",
-        "Intizar origin"
+        "Intizar name meaning",
+        "Intizar meaning in Urdu",
+        "Intizar origin",
+        "Intizar Islamic name",
+        "Intizar pronunciation",
+        "Intizar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Intizar (انتظار) is associated with the Arabic form انتظار, whose core sense is waiting, anticipation, expectation. Intizar is Arabic اِنْتِظَار (Intiẓār) 'waiting, anticipation, expectation', from the root ن ظ ر (n-ẓ-r). CRITICAL SOURCE ERROR: the source gave إنطزار (a different form) and glossed the name 'To Expect, To Wait'; the correct form is اِنْتِظَار. Same name as intezar.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Intizar is associated with the Arabic form انتظار, whose core sense is waiting, anticipation, expectation.",
+      "meaning_section": "The central meaning of Intizar is waiting, anticipation, expectation.",
+      "origin_section": "Intizar is associated with Arabic rather than with a different language.",
+      "islam_section": "Intizar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Intizar is with the sense waiting.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Intizar",
+      "#IntizarMeaning",
+      "#IntizarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic culture, the concept of \"Intizar\" is deeply connected to the idea of patience, perseverance, and submission to Allah's will. This can be observed in various aspects of Islamic life, such as during times of hardship, adversity, or suffering. Intizar also reflects the belief in the Day of Judgment and the reward or punishment that comes after death. Muslims are encouraged to practice Intizar in their daily lives, reminding them to keep their faith strong in times of uncertainty and to remain steadfast in their belief in Allah's divine plan.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Intizar\" holds great significance in Islamic teachings. It reflects the belief that Faith and patience are essential virtues, which enable individuals to withstand life's trials and tribulations with dignity and serenity. The name also underscores the importance of trusting in Allah's plan and understanding that He is in ultimate control of one's destiny. Ultimately, Intizar is a reminder that the true reward for a believer lies in the hereafter, and that true happiness and contentment come from living in accordance with Allah's will.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Intizar was the name of a Sufi saint from the 13th century. The name Intizar carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "Intizar was a prominent Sufi figure who is known for his spiritual teachings and devotion to Allah."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Intizar is a popular name for boys in Pakistan and India.",
-        "Intizar is used as a given name in various Muslim communities around the world."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Intizar corresponds to the Arabic form انتظار",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Intizar has the core sense waiting, anticipation, expectation",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Intizar is a common name on social media platforms such as Facebook and Twitter.",
-        "Intizar is used as a username on various Islamic websites and forums."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Intizar remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Intizar",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Maryam Intizar from Riyadh, Saudi Arabia embodies the meaning of Intizar - \"To Expect, To Wait\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"To Expect, To Wait\" symbolizes One who is waiting, anticipating, or expecting. In Islamic spirituality, bearing the name Intizar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of to expect, to wait.",
-    "created_at": "2025-12-22T19:19:49.876Z",
-    "updated_at": "2025-12-22T04:53:15.063Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1686,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Intizar",
-      "description": "To Expect, To Wait",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Intizar",
+        "intizar"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Intizar",
-          "description": "Discover the meaning of Intizar - \"To Expect, To Wait\"",
-          "image": "/images/social/intizar-facebook.jpg"
+      "description": "A name associated with the Arabic form انتظار, meaning waiting, anticipation, expectation.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "intizar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Intizar - Name Meaning",
-          "description": "Learn about the beautiful name Intizar",
-          "image": "/images/social/intizar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Intizar",
-          "description": "Name meaning: To Expect, To Wait",
-          "image": "/images/social/intizar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Intizar - Meaning: To Expect, To Wait",
-        "email_subject": "Beautiful Name: Intizar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Intizar with meaning To Expect, To Wait",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Intizar, associated with the Arabic form انتظار, meaning waiting, anticipation, expectation."
     },
-    "similar_sounding_names": [
-      "iqrit",
-      "izzannisa",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

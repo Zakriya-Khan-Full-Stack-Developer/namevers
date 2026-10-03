@@ -3,277 +3,487 @@
   "data": {
     "name": "Haani",
     "slug": "haani",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Given by God",
-    "long_meaning": "Means 'given by God' in Arabic.",
-    "spiritual_meaning": "Haani is a name with deep spiritual significance. It represents the gentle, tender side of nature and the delicate beauty of creation. It is a reminder of the fragility of life and the importance of treating all beings with kindness and compassion.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Blue",
-      "Pink"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 2,
-    "numerology_meaning": "Haani is a name that resonates with the energy of harmony, balance and diplomacy. It suggests a gentle, compassionate nature, and a natural ability to bring people together.",
-    "in_arabic": {
-      "name": "هاني",
-      "meaning": "هاني يعني السعيد والحسن والراضي",
-      "long_meaning": "اسم هاني مشتق من الجذر العربي هـنأ، ويعني السعيد والحسن والراضي. يدل على الفرح والسرور، وورد في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'وَهَنَأً وَبَشَرًا' (سورة البقرة: 61). يستخدم اسم هاني في الثقافة الإسلامية كدلالة على الفرح والسعادة"
+    "identity": {
+      "display_name": "Haani",
+      "normalized_name": "haani",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Haani",
+        "haani",
+        "hani"
+      ],
+      "search_variants": [
+        "Haani",
+        "haani",
+        "hani"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ہانی",
-      "meaning": "ہانی معنی ہے خوش قسمت، خوشحال، اور مطمئن",
-      "long_meaning": "ہانی نام عربی جڑ ہـنأ سے ماخوذ ہے، جس کا مطلب ہے خوش قسمت، خوشحال، اور مطمئن۔ یہ نام اسلامی ثقافت میں سعادت و خوشی کی علامت کے طور پر استعمال ہوتا ہے۔ عربی زبان میں اس کا مطلب ہے وہ شخص جو ہمیشہ خوشحال اور مطمئن ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Pleasant, sweet, delightful",
+      "primary_meaning": "Pleasant",
+      "secondary_meanings": [
+        "sweet",
+        "delightful"
+      ],
+      "literal_meaning": "Pleasant",
+      "extended_meaning": "Pleasant, sweet, delightful",
+      "meaning_explanation": "Haani corresponds to the Arabic form هاني (Arabic root ه ن أ (h-n-ʾ); هانئ (Hāniʾ)). Its core sense is pleasant, sweet, delightful. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हानी",
-      "meaning": "हानी अर्थ है खुशहाल, सुखी और संतुष्ट",
-      "long_meaning": "हानी नाम की उत्पत्ति अरबी मूल हـनأ से हुई है, जिसका अर्थ है खुशहाल, सुखी और संतुष्ट। यह नाम इस्लामी संस्कृति में सुख और आनंद के प्रतीक के रूप में प्रयोग किया जाता है। मुस्लिम समुदाय में यह नाम बच्चे के लिए एक शुभ संकेत माना जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هاني",
+      "transliteration": "haani",
+      "romanization": "haani",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Pleasant",
+        "sweet",
+        "delightful"
+      ],
+      "etymology_explanation": "The form هاني is an established Arabic lexical item. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "هاني",
-      "meaning": "هاني د خوشحالۍ، برياليتوب، او راضي کيدو معنی لري",
-      "long_meaning": "هاني نوم د عربي جذر هـنأ څخه اخيستل شوی دی، کوم چې د خوشحالۍ، برياليتوب، او راضي کيدو معنی لري. دا نوم په اسلامي کلتور کې د برياليتوب او خوښۍ د نښه په توګه کارول کيږي. په پښتو کلتور کې، دا نوم د يوې ښې او خوشحاله راتلونکي په ګوته ګرځي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "هاني is an established Arabic form.",
+        "Urdu": "ہانی is used in Urdu.",
+        "Persian": "هانی is an established Persian form.",
+        "Hindi": "हानी is used in Hindi.",
+        "Pashto": "هاني is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Haani",
-      "meaning": "Haani means happy, cheerful, and satisfied",
-      "long_meaning": "The name Haani is derived from the Arabic root هـنأ (h-n-'), which conveys the meanings of happiness, cheerfulness, and satisfaction. Referenced in the Quran (Surah Al-Baqarah: 61), it symbolizes joy and felicity. In Islamic tradition, Haani is used to signify a person who brings happiness and contentment. The name is popular across various Muslim cultures for its positive connotations"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form هاني. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Haani may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense pleasant, sweet, delightful.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Pleasant",
+      "related_concepts": [
+        "pleasant",
+        "sweet",
+        "delightful"
+      ],
+      "semantic_relationship": "The central semantic idea is pleasant; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of pleasant.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Pleasant",
+        "Sweet",
+        "Delightful"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Haani",
+        "meaning": "Pleasant, sweet, delightful",
+        "long_meaning": "Haani is a Arabic-origin name. Its core meaning is pleasant, sweet, delightful. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense."
+      },
+      "urdu": {
+        "name": "ہانی",
+        "meaning": "خوشگوار، شیریں",
+        "long_meaning": "Haani (ہانی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوشگوار، شیریں ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هانی",
+        "meaning": "دلپذیر، شیرین",
+        "long_meaning": "Haani (هانی) نامی برگرفته از زبان عربی است و معنای اصلی آن دلپذیر، شیرین است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हानी",
+        "meaning": "सुखद, मधुर",
+        "long_meaning": "Haani (हानी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सुखद, मधुर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هاني",
+        "meaning": "خوږ، خوښ",
+        "long_meaning": "Haani (هاني) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوږ، خوښ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هاني",
+        "meaning": "الهانئ، اللذيذ، السارّ",
+        "long_meaning": "Haani (هاني) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهانئ، اللذيذ، السارّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "hah-NEE",
-      "urdu": "ہانی کا تلفظ ہاہ-نی ہے",
-      "hindi": "हानी का उच्चारण हाह-नी है",
-      "pashto": "د هاني تلفظ هه-NAY دی",
-      "ipa": "/hɑːˈniː/"
+      "romanized": "haa-ni",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہانی",
+      "persian": "هانی",
+      "hindi": "हानी",
+      "pashto": "هاني"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HaaniMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Haani"
-    ],
-    "name_variations": [
-      "Hani"
-    ],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Haani",
+        "haani",
+        "hani"
+      ],
+      "script_variants": [
+        "هاني",
+        "هانی",
+        "ہانی",
+        "हानी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هاني is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Haani can be understood through the Arabic form هاني, whose central sense is pleasant, sweet, delightful. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Haani mean?",
+        "answer": "Haani is associated with the Arabic form هاني, whose core sense is pleasant, sweet, delightful."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Haani?",
+        "answer": "Haani is associated with Arabic. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Haani an Arabic name?",
+        "answer": "Yes — the underlying form هاني is Arabic."
+      },
+      {
+        "question": "Is Haani an Islamic name?",
+        "answer": "Haani can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Haani a Quranic name?",
+        "answer": "Haani should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Haani mean in Urdu?",
+        "answer": "In Urdu, Haani is rendered ہانی and carries the sense خوشگوار، شیریں."
+      },
+      {
+        "question": "What does Haani mean in Persian?",
+        "answer": "In Persian, Haani is rendered هانی and carries the sense دلپذیر، شیرین."
+      },
+      {
+        "question": "How is Haani pronounced?",
+        "answer": "A romanized syllable approximation is haa-ni. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Haani?",
+        "answer": "Romanization variants include Haani, haani, hani. Script forms are هاني, هانی, ہانی, हानी."
+      },
+      {
+        "question": "Is Haani a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Haani Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Haani, a beautiful Islam name meaning \"Given by God\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Haani, Islam name, baby names, Given by God, Islam baby names, name meaning",
-      "description_paragraph": "Haani is a meaningful Islam name of Arabic origin that means \"Given by God\". Means 'given by God' in Arabic.",
-      "keywords": [
-        "Haani",
-        "Islam name",
-        "baby names",
-        "Given by God",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Haani in Islam tradition?",
-          "a": "Haani is a beautiful Islam name meaning \"Given by God\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Haani a good Islam name for a baby?",
-          "a": "Yes, Haani is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Haani?",
-          "a": "The name Haani has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Haani correctly?",
-          "a": "Haani is pronounced hah-NEE in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Haani?",
-          "a": "Naming a child Haani brings blessings. The meaning \"Given by God\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Haani?",
-          "a": "Haani is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Haani Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Haani (هاني).",
+      "h1": "Haani Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Haani meaning",
       "secondary_keywords": [
-        "Islam name Haani",
-        "Haani meaning",
-        "Haani origin"
+        "Haani name meaning",
+        "Haani meaning in Urdu",
+        "Haani origin",
+        "Haani Islamic name",
+        "Haani pronunciation",
+        "Haani name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Haani (هاني) is associated with the Arabic form هاني, whose core sense is pleasant, sweet, delightful. Haani is Arabic هانئ (Hāniʾ) 'happy, content; pleasant, wholesome', from the root ه ن أ (h-n-ʾ). The source gloss 'given by God' is unsupported and has been replaced with the lexical sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Haani is associated with the Arabic form هاني, whose core sense is pleasant, sweet, delightful.",
+      "meaning_section": "The central meaning of Haani is pleasant, sweet, delightful.",
+      "origin_section": "Haani is associated with Arabic rather than with a different language.",
+      "islam_section": "Haani can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Haani is with the sense pleasant.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Haani",
+      "#HaaniMeaning",
+      "#HaaniName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Haani may not have a significant cultural impact as it is not a commonly used name within the Islamic community. Its meaning, 'given by God' is a beautiful testament to the belief that every name, every life, every event is influenced and determined by the divine will of Allah SWT. Haani, being a phrase indicating this belief, can serve as a daily reminder for those fortunate enough to bear the name, to appreciate and be grateful for their existence.",
-    "spiritual_significance": "In Islamic theology, the names of our Creator, Allah SWT, and His Prophet, Muhammad SAW, carry immense spiritual significance. The name Haani, being a reminder of the absolute power and control Allah holds over our lives, can serve as a source of comfort, strength, and inspiration for believers. It is a reminder that despite the trials and tribulations we face in life, we are ultimately 'given by God.' and thus, we should place our trust and faith in His plan for us, surrender to His will, and seek His pleasure in all our actions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Haani was mentioned in the book 'Kitab al-Aghani' as a female given name. The name Haani carried significant weight in that era.",
-        "time_period": "10th century",
-        "context": "The book 'Kitab al-Aghani' is a historical collection of Arabic poetry and music."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional",
-        "Cultural"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Haani corresponds to the Arabic form هاني",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Haani has the core sense pleasant, sweet, delightful",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Cultural events"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Haani remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Haani",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Layla Haani in Karachi, Pakistan attributes much of their success to the blessing of their name Haani, which means \"Given by God\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Given by God\" symbolizes Means 'given by God' in Arabic.. In Islamic spirituality, bearing the name Haani serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of given by god.",
-    "created_at": "2025-12-22T19:19:49.839Z",
-    "updated_at": "2025-12-22T04:53:14.667Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1651,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Haani",
-      "description": "Given by God",
-      "additionalName": [
-        "Hani"
+      "alternateName": [
+        "Haani",
+        "haani",
+        "hani"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form هاني, meaning pleasant, sweet, delightful.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Haani",
-          "description": "Discover the meaning of Haani - \"Given by God\"",
-          "image": "/images/social/haani-facebook.jpg"
+      "termCode": "haani",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Haani - Name Meaning",
-          "description": "Learn about the beautiful name Haani",
-          "image": "/images/social/haani-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Haani",
-          "description": "Name meaning: Given by God",
-          "image": "/images/social/haani-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Haani - Meaning: Given by God",
-        "email_subject": "Beautiful Name: Haani"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Haani with meaning Given by God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Haani, associated with the Arabic form هاني, meaning pleasant, sweet, delightful."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

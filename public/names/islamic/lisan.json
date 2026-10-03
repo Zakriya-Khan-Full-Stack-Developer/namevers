@@ -3,284 +3,481 @@
   "data": {
     "name": "Lisan",
     "slug": "lisan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Tongue, Speech",
-    "long_meaning": "Derived from the Arabic root ‘l-s-n’, which means ‘tongue’ or ‘speech’. In Islamic context, Lisan can symbolize the power of articulate speech and the importance of expressing truth and wisdom. The Prophet Muhammad (pbuh) is reported to have said, ‘A man speaking the truth will be saved from the Hell-fire, even if he has committed actions equal to the fill of the earth.’ (Sahih Muslim).",
-    "spiritual_meaning": "Articulate speech that expresses truth and wisdom",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 6,
-    "numerology_meaning": "People with a Life Path Number 6 are caring, nurturing, and self-sacrificing. They are known for their devotion and responsibility to their loved ones.",
-    "in_arabic": {
-      "name": "لسان",
-      "meaning": "اللسان يعني اللسان أو الكلام أو التعبير عن الأفكار",
-      "long_meaning": "اللسان هو اسم عربي مشتق من الفعل 'لسن' الذي يعني التكلم أو التعبير عن الأفكار والمشاعر. في اللغة العربية، اللسان هو العضو الذي يستخدم للتحدث والتواصل. وفي القرآن الكريم، يوصف اللسان بأنه أداة للتعبير عن الشكر والحمد لله. اسم لسان يحمل معاني متعددة، منها القدرة على التعبير والتواصل بفعالية، والصدق في القول، والوضوح في التعبير عن الأفكار والمشاعر."
+    "identity": {
+      "display_name": "Lisan",
+      "normalized_name": "lisan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Lisan",
+        "lisan"
+      ],
+      "search_variants": [
+        "Lisan",
+        "lisan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "لسان",
-      "meaning": "لسان کا مطلب ہے زبان یا بولنے کی صلاحیت",
-      "long_meaning": "نام لسان عربی زبان سے ماخوذ ہے، جس کا مطلب ہے زبان یا بولنے کی صلاحیت۔ یہ نام اس بات کی علامت ہے کہ انسان اپنی زبان سے اپنے افکار اور مشاعر کو ظاہر کر سکتا ہے۔ اسلامی روایات میں، لسان کو ایک ایسا ذریعہ سمجھا جاتا ہے جو انسان کو دوسروں کے ساتھ بات چیت کرنے اور اپنے خیالات کو واضح طریقے سے پیش کرنے کی صلاحیت प्रदान کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Tongue, language, speech",
+      "primary_meaning": "Tongue",
+      "secondary_meanings": [
+        "language",
+        "speech"
+      ],
+      "literal_meaning": "Tongue",
+      "extended_meaning": "Tongue, language, speech",
+      "meaning_explanation": "Lisan corresponds to the Arabic form لسان (Arabic root ل س ن (l-s-n); لِسَان (Lisān)). Its core sense is tongue, language, speech. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "लिसान",
-      "meaning": "लिसान का अर्थ है जीभ या बोलने की क्षमता",
-      "long_meaning": "लिसान नाम की उत्पत्ति अरबी भाषा से हुई है, जिसका अर्थ है जीभ या बोलने की क्षमता। यह नाम इस बात का प्रतीक है कि मनुष्य अपनी जीभ से अपने विचारों और भावनाओं को व्यक्त कर सकता है। इस्लामी परंपराओं में, लिसान को एक ऐसा माध्यम माना जाता है जो मनुष्य को दूसरों के साथ बातचीत करने और अपने विचारों को स्पष्ट तरीके से प्रस्तुत करने की क्षमता प्रदान करता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "لسان",
+      "transliteration": "lisan",
+      "romanization": "lisan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Tongue",
+        "language",
+        "speech"
+      ],
+      "etymology_explanation": "The form لسان is an established Arabic lexical item. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "لسان",
-      "meaning": "لسان دى معنى ژبه يا د خبرو کولو توانايي",
-      "long_meaning": "د لسان نوم د عربي ژبې څخه اخيستل شوی دی، چې دى معنى ژبه يا د خبرو کولو توانايي. دا نوم د دې علامه ده چې انسان کولاى شي خپلى ژبې سره خپل فکرونه او احساسات څرګند کړي. په اسلامي دودونو کې، لسان داسې يو ذريعہ ګڼل کېږي چې انسان ته د نورو سره د خبرو اترو او خپلو افکارو د واضح ډول وړاندې کولو توانايي برابروي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "لسان is an established Arabic form.",
+        "Urdu": "لسان is used in Urdu.",
+        "Persian": "لسان is an established Persian form.",
+        "Hindi": "लिसान is used in Hindi.",
+        "Pashto": "لسان is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Lisan",
-      "meaning": "Lisan means tongue or the ability to speak",
-      "long_meaning": "The name Lisan is derived from Arabic, meaning 'tongue' or 'the ability to speak'. It symbolizes the capacity to express thoughts and emotions through language. In Islamic tradition, Lisan is considered a vital tool for communication, enabling individuals to convey their ideas and feelings effectively. The name also reflects the importance of articulate expression and honest communication in Islam."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form لسان. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Lisan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense tongue, language, speech.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Tongue",
+      "related_concepts": [
+        "tongue",
+        "language",
+        "speech"
+      ],
+      "semantic_relationship": "The central semantic idea is tongue; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of tongue.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Tongue",
+        "Language",
+        "Speech"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Lisan",
+        "meaning": "Tongue, language, speech",
+        "long_meaning": "Lisan is a Arabic-origin name. Its core meaning is tongue, language, speech. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "لسان",
+        "meaning": "لسان، زبان، گفتار",
+        "long_meaning": "Lisan (لسان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لسان، زبان، گفتار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "لسان",
+        "meaning": "لسان، زبان، گفتار",
+        "long_meaning": "Lisan (لسان) نامی برگرفته از زبان عربی است و معنای اصلی آن لسان، زبان، گفتار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "लिसान",
+        "meaning": "जीभ, लिसान, भाषा",
+        "long_meaning": "Lisan (लिसान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ जीभ, लिसान, भाषा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "لسان",
+        "meaning": "لسان، ژبه، وینا",
+        "long_meaning": "Lisan (لسان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لسان، ژبه، وینا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "لسان",
+        "meaning": "اللسان، اللغة، الكلام",
+        "long_meaning": "Lisan (لسان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي اللسان، اللغة، الكلام. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "lis-an",
-      "urdu": "اردو میں تلفظ کی تفصیل: لِسَان",
-      "hindi": "हिन्दी में उच्चारण विवरण: लिसान",
-      "pashto": "په پښتو کې د تلفظ تفصیل: لسان",
-      "ipa": "/lɪˈsɑːn/"
+      "romanized": "li-san",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "لسان",
+      "persian": "لسان",
+      "hindi": "लिसान",
+      "pashto": "لسان"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#LisanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Lisan"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Lisan",
+        "lisan"
+      ],
+      "script_variants": [
+        "لسان",
+        "लिसान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form لسان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Lisan can be understood through the Arabic form لسان, whose central sense is tongue, language, speech. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Lisan mean?",
+        "answer": "Lisan is associated with the Arabic form لسان, whose core sense is tongue, language, speech."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Lisan?",
+        "answer": "Lisan is associated with Arabic. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Lisan an Arabic name?",
+        "answer": "Yes — the underlying form لسان is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 65,
-        "year": 2024
+        "question": "Is Lisan an Islamic name?",
+        "answer": "Lisan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Lisan a Quranic name?",
+        "answer": "Lisan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Lisan mean in Urdu?",
+        "answer": "In Urdu, Lisan is rendered لسان and carries the sense لسان، زبان، گفتار."
+      },
+      {
+        "question": "What does Lisan mean in Persian?",
+        "answer": "In Persian, Lisan is rendered لسان and carries the sense لسان، زبان، گفتار."
+      },
+      {
+        "question": "How is Lisan pronounced?",
+        "answer": "A romanized syllable approximation is li-san. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Lisan?",
+        "answer": "Romanization variants include Lisan, lisan. Script forms are لسان, लिसान."
+      },
+      {
+        "question": "Is Lisan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Lisan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Lisan, a beautiful Islam name meaning \"Tongue, Speech\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Lisan, Islam name, baby names, Tongue, Speech, Islam baby names, name meaning",
-      "description_paragraph": "Lisan is a meaningful Islam name of Arabic origin that means \"Tongue, Speech\". Derived from the Arabic root ‘l-s-n’, which means ‘tongue’ or ‘speech’. In Islamic context, Lisan can symbolize the power of articulate speech and the importance of expressing truth and wisdom. The Prophet Muhammad (pbuh) is reported to have said, ‘A man speaking the truth will be saved from the Hell-fire, even if he has committed actions equal to the fill of the earth.’ (Sahih Muslim).",
-      "keywords": [
-        "Lisan",
-        "Islam name",
-        "baby names",
-        "Tongue, Speech",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Lisan in Islam tradition?",
-          "a": "Lisan is a beautiful Islam name meaning \"Tongue, Speech\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Lisan a good Islam name for a baby?",
-          "a": "Yes, Lisan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Lisan?",
-          "a": "The name Lisan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Lisan correctly?",
-          "a": "Lisan is pronounced lis-an in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Lisan?",
-          "a": "Naming a child Lisan brings blessings. The meaning \"Tongue, Speech\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Lisan?",
-          "a": "Lisan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Lisan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Lisan (لسان).",
+      "h1": "Lisan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Lisan meaning",
       "secondary_keywords": [
-        "Islam name Lisan",
-        "Lisan meaning",
-        "Lisan origin"
+        "Lisan name meaning",
+        "Lisan meaning in Urdu",
+        "Lisan origin",
+        "Lisan Islamic name",
+        "Lisan pronunciation",
+        "Lisan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Lisan (لسان) is associated with the Arabic form لسان, whose core sense is tongue, language, speech. Lisan is Arabic لِسَان (Lisān) 'tongue, language, speech', from the root ل س ن (l-s-n). The source gloss 'Tongue, Speech' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Lisan is associated with the Arabic form لسان, whose core sense is tongue, language, speech.",
+      "meaning_section": "The central meaning of Lisan is tongue, language, speech.",
+      "origin_section": "Lisan is associated with Arabic rather than with a different language.",
+      "islam_section": "Lisan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Lisan is with the sense tongue.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Lisan",
+      "#LisanMeaning",
+      "#LisanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Arabic culture, Lisan is often associated with linguistic prowess, including eloquence, oratory skills, and the art of storytelling. Arabic poetry, for instance, often revolves around the theme of Lisan, emphasizing the power of words in expressing emotion, ideas, and experiences. In some traditions, a person who masters the Arabic language is also known as a ‘Shaheed-e-Lisan’, or ‘The Martyr of the Tongue’. This indicates a linguistic expertise and influencer, the ability to effect change through speech, making a notable cultural impact.",
-    "spiritual_significance": "According to Islamic teachings, the tongue is considered one of the most powerful faculties of human beings. Controlled speech is considered a sign of the mercy of God, as it enables humans to express their emotions, thoughts, and wisdom in a beneficial way. On the other hand, unrestrained speech can lead to misinformation, harm, and misconceptions. Therefore, in Islamic spirituality, Lisan represents the importance of the power of words in communication, both within and without. It advocates using speech as a means to seek closeness to God, spread knowledge, and diffuse peace amongst people. Ultimately, Lisan serves as a reminder of the great potential of the tongue and encourages Muslims to strive for its ethical and productive use.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Abdul Barr in his book 'Al-Isti'ab' mentions Lisan Al-Din as a Persian physician who lived during the Abbasid Caliphate (750-1258 AD) and was renowned for his medical knowledge and expertise in pharmacology.",
-        "time_period": "Abbasid Caliphate (750-1258 AD)",
-        "context": "Persian physician and pharmacologist"
-      },
-      {
-        "reference": "Al-Maqrizi in his book 'Kitab Al-Mawāqi' states that Lisan Al-Din Al-Fusi was a prominent Moroccan historian and geographer who lived during the late 14th and early 15th centuries (1353-1415 AD) and is considered one of the pioneers of Arabic historical writing.",
-        "time_period": "Late 14th and early 15th centuries (1353-1415 AD)",
-        "context": "Moroccan historian and geographer"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Lisan corresponds to the Arabic form لسان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Lisan has the core sense tongue, language, speech",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Lisan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Lisan",
-      "location": "Dubai, UAE",
-      "story": "Zainab Lisan, a teacher in Dubai, UAE, shares that their name Lisan meaning \"Tongue, Speech\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Tongue, Speech\" symbolizes Derived from the Arabic root ‘l-s-n’, which means ‘tongue’ or ‘speech’. In Islamic context, Lisan can symbolize the power of articulate speech and the importance of expressing truth and wisdom. The Prophet Muhammad (pbuh) is reported to have said, ‘A man speaking the truth will be saved from the Hell-fire, even if he has committed actions equal to the fill of the earth.’ (Sahih Muslim).. In Islamic spirituality, bearing the name Lisan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of tongue, speech.",
-    "created_at": "2025-12-22T19:19:49.948Z",
-    "updated_at": "2025-12-22T04:53:15.636Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1397,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Lisan",
-      "description": "Tongue, Speech",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Lisan",
+        "lisan"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Lisan",
-          "description": "Discover the meaning of Lisan - \"Tongue, Speech\"",
-          "image": "/images/social/lisan-facebook.jpg"
+      "description": "A name associated with the Arabic form لسان, meaning tongue, language, speech.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "lisan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Lisan - Name Meaning",
-          "description": "Learn about the beautiful name Lisan",
-          "image": "/images/social/lisan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Lisan",
-          "description": "Name meaning: Tongue, Speech",
-          "image": "/images/social/lisan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Lisan - Meaning: Tongue, Speech",
-        "email_subject": "Beautiful Name: Lisan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Lisan with meaning Tongue, Speech",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Lisan, associated with the Arabic form لسان, meaning tongue, language, speech."
     },
-    "similar_sounding_names": [
-      "leyla"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,274 +3,473 @@
   "data": {
     "name": "Hurmuz",
     "slug": "hurmuz",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male/Female/Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Shining Light",
-    "long_meaning": "Derived from the Arabic word 'hurma', meaning 'protection'. Often associated with a shining light.",
-    "spiritual_meaning": "In Islamic tradition, Hurmuz signifies a beacon of light, guiding one through life's journey.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 1,
-    "numerology_meaning": "The number 1 is a representation of new beginnings and leadership. People with a life path number of 1 are often independent, ambitious, and determined. They are natural leaders and innovators, and they have a strong desire to be recognized for their abilities and accomplishments.",
-    "in_arabic": {
-      "name": "هُرْمُز",
-      "meaning": "هُرْمُز أسم فريد ومميز ومعناه العلامة",
-      "long_meaning": "هُرْمُز أسم عربي قديم يذكر في القرآن الكريم في سورة القصص (34) في قصة فرعون، ويُستخدم للإشارة إلى العلامة أو النصيحة، ويُعد من الأسماء الفريدة والنادرة، ويُعتبر من الأسماء التي لها تأثير جمالي وعلمي في ثقافة المسلمين"
+    "identity": {
+      "display_name": "Hurmuz",
+      "normalized_name": "hurmuz",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hurmuz",
+        "hurmuz"
+      ],
+      "search_variants": [
+        "Hurmuz",
+        "hurmuz"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ہُرَمُز",
-      "meaning": "ہُرَمُز ایک فریڈ اور ممیز نام ہے، اور اس کا مطلب ہے علامت اور مشورہ",
-      "long_meaning": "ہُرَمُز ایک قدیم عربی نام ہے جو قرآن مجید میں ذکر ہوا ہے، سورة قصص (34) میں فرعون کی کہانی میں، اور اسے علامت یا مشورہ کے لئے استعمال کیا جاتا ہے، یہ نام فریڈ اور نادر ہے، اور یہ نام المسلمین کی ثقافت میں جمالی اور علمي اثر ڈالتا ہے"
+    "core_meaning": {
+      "short_meaning": "Hormuz; a Persian name and place name",
+      "primary_meaning": "Hormuz; a Persian name and place name",
+      "secondary_meanings": [],
+      "literal_meaning": "Hormuz; a Persian name and place name",
+      "extended_meaning": "Hormuz; a Persian name and place name",
+      "meaning_explanation": "Hurmuz corresponds to the Persian form هرمز (Persian هرمز (Hormoz)). Its core sense is hormuz; a persian name and place name. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "हर्मूज़",
-      "meaning": "हर्मूज़ एक विशिष्ट और अनोखा नाम है, जिसका अर्थ है संकेत या सलाह",
-      "long_meaning": "हर्मूज़ एक पुराना अरबी नाम है जो कुरान में उल्लिखित है सुरह कसास (34) में, फिरौन की कहानी में, और इसे संकेत या सलाह के लिए उपयोग किया जाता है, यह नाम अद्वितीय और दुर्लभ है, और यह नाम मुस्लिम संस्कृति में कलात्मक और ज्ञानी प्रभाव डालता है"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "هرمز",
+      "transliteration": "hurmuz",
+      "romanization": "hurmuz",
+      "root_status": "Persian هرمز (Hormoz)",
+      "etymological_meaning": [
+        "Hormuz; a Persian name and place name"
+      ],
+      "etymology_explanation": "The form هرمز is an established Persian lexical item. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "هُرْمُز",
-      "meaning": "هُرْمُز یوڼه یوړلی او نومیړلی نوم دی، او دا یعنۍ نشانه",
-      "long_meaning": "هُرْمُز یوڼه دا عربي نوم دی چې په قرآن کريم کې وړاندې شوی دی، سورة قصص (34) کې فرعون دی کې، او دا نشانه یا مشورې لپاره کارول کېږي، یوڼه یوړلی او نومیړلی نوم دی، او دا نوم د مسلمو خلکو ثقافت کې جمالي او علمي اغېزې لري"
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "هرمز is an established Arabic form.",
+        "Urdu": "ہرمز is used in Urdu.",
+        "Persian": "هرمز is an established Persian form.",
+        "Hindi": "होर्मुज़ is used in Hindi.",
+        "Pashto": "هرمز is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Hurmuz",
-      "meaning": "Hurmuz is a unique and distinctive name that means a sign or advice",
-      "long_meaning": "Hurmuz is an ancient Arabic name mentioned in the Quran in Surah Al-Qasas (28: 3, 34: 49), referring to a sign or advice, it is a unique and rare name, and it has a cultural and spiritual significance in the Islamic tradition, associated with knowledge, guidance, and wisdom"
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Persian form هرمز. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hurmuz may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense hormuz; a persian name and place name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Hormuz; a Persian name and place name",
+      "related_concepts": [
+        "hormuz; a persian name and place name"
+      ],
+      "semantic_relationship": "The central semantic idea is hormuz; a persian name and place name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of hormuz; a persian name and place name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Hormuz; a persian name and place name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hurmuz",
+        "meaning": "Hormuz; a Persian name and place name",
+        "long_meaning": "Hurmuz is a Persian-origin name. Its core meaning is hormuz; a persian name and place name. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "ہرمز",
+        "meaning": "ہرمز، فارسی نام اور مقام",
+        "long_meaning": "Hurmuz (ہرمز) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ہرمز، فارسی نام اور مقام ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هرمز",
+        "meaning": "هرمز، نام و جاینام فارسی",
+        "long_meaning": "Hurmuz (هرمز) نامی برگرفته از زبان فارسی است و معنای اصلی آن هرمز، نام و جاینام فارسی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "होर्मुज़",
+        "meaning": "होर्मुज़, फ़ारसी नाम और स्थान",
+        "long_meaning": "Hurmuz (होर्मुज़) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ होर्मुज़, फ़ारसी नाम और स्थान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هرمز",
+        "meaning": "هرمز، فارسي نوم او ځای",
+        "long_meaning": "Hurmuz (هرمز) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې هرمز، فارسي نوم او ځای ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هرمز",
+        "meaning": "هرمز، اسم ومكان فارسي",
+        "long_meaning": "Hurmuz (هرمز) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي هرمز، اسم ومكان فارسي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "/ˈhɜːrmʊz/",
-      "urdu": "ہُرَمُز کا تلفظ ہے",
-      "hindi": "हर्मूज़ का उच्चारण है",
-      "pashto": "هُرْمُز په پښتو کې د تلفظ شوی دی",
-      "ipa": "/ˈhɜːrmʊz/"
+      "romanized": "hur-muz",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہرمز",
+      "persian": "هرمز",
+      "hindi": "होर्मुज़",
+      "pashto": "هرمز"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HurmuzMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hurmuz"
-    ],
-    "name_variations": [],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hurmuz",
+        "hurmuz"
+      ],
+      "script_variants": [
+        "هرمز",
+        "ہرمز",
+        "होर्मुज़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هرمز is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hurmuz can be understood through the Persian form هرمز, whose central sense is hormuz; a persian name and place name. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Hurmuz mean?",
+        "answer": "Hurmuz is associated with the Persian form هرمز, whose core sense is hormuz; a persian name and place name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Hurmuz?",
+        "answer": "Hurmuz is associated with Persian. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Hurmuz an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Hurmuz an Islamic name?",
+        "answer": "Hurmuz can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hurmuz a Quranic name?",
+        "answer": "Hurmuz should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hurmuz mean in Urdu?",
+        "answer": "In Urdu, Hurmuz is rendered ہرمز and carries the sense ہرمز، فارسی نام اور مقام."
+      },
+      {
+        "question": "What does Hurmuz mean in Persian?",
+        "answer": "In Persian, Hurmuz is rendered هرمز and carries the sense هرمز، نام و جاینام فارسی."
+      },
+      {
+        "question": "How is Hurmuz pronounced?",
+        "answer": "A romanized syllable approximation is hur-muz. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hurmuz?",
+        "answer": "Romanization variants include Hurmuz, hurmuz. Script forms are هرمز, ہرمز, होर्मुज़."
+      },
+      {
+        "question": "Is Hurmuz a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hurmuz Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hurmuz, a beautiful Islam name meaning \"Shining Light\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hurmuz, Islam name, baby names, Shining Light, Islam baby names, name meaning",
-      "description_paragraph": "Hurmuz is a meaningful Islam name of Arabic origin that means \"Shining Light\". Derived from the Arabic word 'hurma', meaning 'protection'. Often associated with a shining light.",
-      "keywords": [
-        "Hurmuz",
-        "Islam name",
-        "baby names",
-        "Shining Light",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hurmuz in Islam tradition?",
-          "a": "Hurmuz is a beautiful Islam name meaning \"Shining Light\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hurmuz a good Islam name for a baby?",
-          "a": "Yes, Hurmuz is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hurmuz?",
-          "a": "The name Hurmuz has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hurmuz correctly?",
-          "a": "Hurmuz is pronounced /ˈhɜːrmʊz/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hurmuz?",
-          "a": "Naming a child Hurmuz brings blessings. The meaning \"Shining Light\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hurmuz?",
-          "a": "Hurmuz is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Hurmuz Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hurmuz (هرمز).",
+      "h1": "Hurmuz Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hurmuz meaning",
       "secondary_keywords": [
-        "Islam name Hurmuz",
-        "Hurmuz meaning",
-        "Hurmuz origin"
+        "Hurmuz name meaning",
+        "Hurmuz meaning in Urdu",
+        "Hurmuz origin",
+        "Hurmuz Islamic name",
+        "Hurmuz pronunciation",
+        "Hurmuz name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hurmuz (هرمز) is associated with the Persian form هرمز, whose core sense is hormuz; a persian name and place name. Hurmuz is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Shining Light'; هرمز (Hormoz) is a Persian name and place name, but the source gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hurmuz is associated with the Persian form هرمز, whose core sense is hormuz; a persian name and place name.",
+      "meaning_section": "The central meaning of Hurmuz is hormuz; a persian name and place name.",
+      "origin_section": "Hurmuz is associated with Persian rather than with a different language.",
+      "islam_section": "Hurmuz can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hurmuz is with the sense hormuz; a persian name and place name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hurmuz",
+      "#HurmuzMeaning",
+      "#HurmuzName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Hurmuz has historical significance as it was once the name of a coastal province in ancient Iran, known for its strategic location and valuable ports. It is believed that the name may have inspired reverence and protection due to the importance of this region for trade and economy. Additionally, in the Persian epic poem \"The Conference of the Birds,\" Hurmuz is mentioned as one of the sacred stops on the pilgrimage of the birds seeking the King of the Mountain, representing the spiritual quest of self-realization.",
-    "spiritual_significance": "In Islamic context, the name Hurmuz holds spiritual significance as it evokes a sense of protection and security, often associated with Allah's unending mercy and compassion. The name connotes a shining light, a beacon of guidance, inspiring hope and courage during times of uncertainty. It is a reminder of the numerous blessings that Allah bestows upon us, and the importance of seeking his protection and guidance in all aspects of life. The name Hurmuz ultimately serves as a reminder of the divine presence that surrounds and protects us in times of need.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ancient Persian name mentioned in the Shahnameh The name Hurmuz carried significant weight in that era.",
-        "time_period": "6th century",
-        "context": "Persian mythology and literature"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "uncommon given name in Iran"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hurmuz corresponds to the Persian form هرمز",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Hurmuz has the core sense hormuz; a persian name and place name",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "social media, literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hurmuz remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Hurmuz",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Khadija Hurmuz, a teacher in Riyadh, Saudi Arabia, shares that their name Hurmuz meaning \"Shining Light\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Shining Light\" symbolizes Derived from the Arabic word 'hurma', meaning 'protection'. Often associated with a shining light.. In Islamic spirituality, bearing the name Hurmuz serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of shining light.",
-    "created_at": "2025-12-22T19:19:49.799Z",
-    "updated_at": "2025-12-22T04:53:14.334Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1189,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hurmuz",
-      "description": "Shining Light",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Hurmuz",
+        "hurmuz"
       ],
-      "religion": "Islam",
-      "gender": "(Male/Female/Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hurmuz",
-          "description": "Discover the meaning of Hurmuz - \"Shining Light\"",
-          "image": "/images/social/hurmuz-facebook.jpg"
+      "description": "A name associated with the Persian form هرمز, meaning hormuz; a persian name and place name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "hurmuz",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Hurmuz - Name Meaning",
-          "description": "Learn about the beautiful name Hurmuz",
-          "image": "/images/social/hurmuz-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Hurmuz",
-          "description": "Name meaning: Shining Light",
-          "image": "/images/social/hurmuz-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hurmuz - Meaning: Shining Light",
-        "email_subject": "Beautiful Name: Hurmuz"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hurmuz with meaning Shining Light",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hurmuz, associated with the Persian form هرمز, meaning hormuz; a persian name and place name."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

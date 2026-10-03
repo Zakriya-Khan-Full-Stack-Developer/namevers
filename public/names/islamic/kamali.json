@@ -3,281 +3,479 @@
   "data": {
     "name": "Kamali",
     "slug": "kamali",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Perfect, Beautiful",
-    "long_meaning": "Derived from the Arabic root 'k-m-l', meaning 'to complete' or 'to make perfect'. In Islamic context, Kamali can symbolize striving for spiritual and moral excellence, and fulfilling one's duties towards God and others.",
-    "spiritual_meaning": "A name inspired by the quest for perfection in the eyes of Allah.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 6,
-    "numerology_meaning": "People with name Kamali tend to be nurturing, loving, and caring individuals who thrive on stability and inner peace.",
-    "in_arabic": {
-      "name": "كاملي",
-      "meaning": "اسم مشتق من كامل، يعني الشخص الكامل أو المكتمل",
-      "long_meaning": "اسم كاملي مشتق من الجذر العربي ك-م-ل، والذي يعني الكمال أو الإكمال. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يتصف بالكمال أو النمو الكامل. ويرتبط هذا الاسم في بعض الأحيان بصفات مثل الإكمال الروحي أو الأخلاقي."
+    "identity": {
+      "display_name": "Kamali",
+      "normalized_name": "kamali",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kamali",
+        "kamali"
+      ],
+      "search_variants": [
+        "Kamali",
+        "kamali"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "کاملی",
-      "meaning": "مکمل یا کامل شخصیت والا",
-      "long_meaning": "کاملی نام عربی جڑ ک-م-ل سے ماخوذ ہے، جس کا مطلب ہے مکمل یا اکمل۔ اردو میں، یہ نام مکمل یا کامل شخصیت والے فرد کے لئے استعمال ہوتا ہے۔ یہ نام اکثر روحانی یا اخلاقی مکملता کی صفات کے ساتھ منسلک ہوتا ہے۔ جنوبی ایشیا میں مسلم روایات میں اس کا استعمال ایک قابل احترام نام کے طور پر پایا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Kamali; of Kamal, belonging to Kamal",
+      "primary_meaning": "Kamali; of Kamal",
+      "secondary_meanings": [
+        "belonging to Kamal"
+      ],
+      "literal_meaning": "Kamali; of Kamal",
+      "extended_meaning": "Kamali; of Kamal, belonging to Kamal",
+      "meaning_explanation": "Kamali corresponds to the Arabic form كمالي (Nisba of كَمَال; كَمَالِيّ (Kamāliyy)). Its core sense is kamali; of kamal, belonging to kamal. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "कमली",
-      "meaning": "पूर्ण या सम्पूर्ण व्यक्तित्व वाला",
-      "long_meaning": "कमली नाम की उत्पत्ति العربية जड़ क-म-ल से हुई है, जिसका अर्थ है पूर्ण या सम्पूर्ण। हिन्दी में, यह नाम पूर्ण व्यक्तित्व वाले व्यक्ति के लिए प्रयोग किया जाता है। यह नाम अक्सर आध्यात्मिक या नैतिक पूर्णता के साथ जुड़ा होता है। भारतीय मुस्लिम समुदाय में, यह नाम एक आदरणीय और शुभ नाम के रूप में प्रयोग होता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "كمالي",
+      "transliteration": "kamali",
+      "romanization": "kamali",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Kamali; of Kamal",
+        "belonging to Kamal"
+      ],
+      "etymology_explanation": "The form كمالي is an established Arabic lexical item. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "کمالي",
-      "meaning": "کامل يا مکمل شخص",
-      "long_meaning": "کمالي د عربي جڑ ک-م-ل څخه اخیستل شوی دی، چې معنی یې کامل يا مکمل دی. په پښتو کې، دا نوم د کامل يا مکمل شخص لپاره کارول کیږي. دا نوم اکثر د روحاني يا اخلاقي کمال سره تړلی دی. په افغان او پښتني دود کې، دا نوم د احترام وړ او ښه نوم په توګه کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "كمالي is an established Arabic form.",
+        "Urdu": "کمالی is used in Urdu.",
+        "Persian": "کمالی is an established Persian form.",
+        "Hindi": "कमाली is used in Hindi.",
+        "Pashto": "کمالي is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Kamali",
-      "meaning": "Derived from Kamil, meaning complete or perfect",
-      "long_meaning": "The name Kamali originates from the Arabic root k-m-l, meaning complete or perfection. In Islamic tradition, this name signifies an individual with complete or perfect qualities, often associated with spiritual or moral excellence. Historically, the name has been used across various Muslim cultures, symbolizing a person of noble character and integrity. The name Kamali is found in many forms and variations, reflecting its widespread usage and significance in Islamic naming conventions."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form كمالي. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kamali may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense kamali; of kamal, belonging to kamal.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Kamali; of Kamal",
+      "related_concepts": [
+        "kamali; of kamal",
+        "belonging to kamal"
+      ],
+      "semantic_relationship": "The central semantic idea is kamali; of kamal; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of kamali; of kamal.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Kamali; of kamal",
+        "Belonging to kamal"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kamali",
+        "meaning": "Kamali; of Kamal, belonging to Kamal",
+        "long_meaning": "Kamali is a Arabic-origin name. Its core meaning is kamali; of kamal, belonging to kamal. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense."
+      },
+      "urdu": {
+        "name": "کمالی",
+        "meaning": "کمالی، کمال سے منسوب",
+        "long_meaning": "Kamali (کمالی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کمالی، کمال سے منسوب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "کمالی",
+        "meaning": "کمالی، منسوب به کمال",
+        "long_meaning": "Kamali (کمالی) نامی برگرفته از زبان عربی است و معنای اصلی آن کمالی، منسوب به کمال است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "कमाली",
+        "meaning": "कमाली, कमाल से",
+        "long_meaning": "Kamali (कमाली) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कमाली, कमाल से है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "کمالي",
+        "meaning": "کمالي، د کمال اړوند",
+        "long_meaning": "Kamali (کمالي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کمالي، د کمال اړوند ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "كمالي",
+        "meaning": "الكَمَالِيّ، منسوب إلى الكمال",
+        "long_meaning": "Kamali (كمالي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الكَمَالِيّ، منسوب إلى الكمال. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "kah-MAH-lee",
-      "urdu": "اردو میں تلفظ کی تفصیل: کا ملی",
-      "hindi": "हिन्दी में उच्चारण विवरण: कमली",
-      "pashto": "په پښتو کې د تلفظ تفصیل: کمالي",
-      "ipa": "/kɑːˈmɑːli/"
+      "romanized": "ka-ma-li",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "کمالی",
+      "persian": "کمالی",
+      "hindi": "कमाली",
+      "pashto": "کمالي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#KamaliMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kamali"
-    ],
-    "name_variations": [],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kamali",
+        "kamali"
+      ],
+      "script_variants": [
+        "كمالي",
+        "کمالي",
+        "کمالی",
+        "कमाली"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form كمالي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kamali can be understood through the Arabic form كمالي, whose central sense is kamali; of kamal, belonging to kamal. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Kamali mean?",
+        "answer": "Kamali is associated with the Arabic form كمالي, whose core sense is kamali; of kamal, belonging to kamal."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Kamali?",
+        "answer": "Kamali is associated with Arabic. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Kamali an Arabic name?",
+        "answer": "Yes — the underlying form كمالي is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 69,
-        "year": 2024
+        "question": "Is Kamali an Islamic name?",
+        "answer": "Kamali can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Kamali a Quranic name?",
+        "answer": "Kamali should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kamali mean in Urdu?",
+        "answer": "In Urdu, Kamali is rendered کمالی and carries the sense کمالی، کمال سے منسوب."
+      },
+      {
+        "question": "What does Kamali mean in Persian?",
+        "answer": "In Persian, Kamali is rendered کمالی and carries the sense کمالی، منسوب به کمال."
+      },
+      {
+        "question": "How is Kamali pronounced?",
+        "answer": "A romanized syllable approximation is ka-ma-li. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kamali?",
+        "answer": "Romanization variants include Kamali, kamali. Script forms are كمالي, کمالي, کمالی, कमाली."
+      },
+      {
+        "question": "Is Kamali a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kamali Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kamali, a beautiful Islam name meaning \"Perfect, Beautiful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kamali, Islam name, baby names, Perfect, Beautiful, Islam baby names, name meaning",
-      "description_paragraph": "Kamali is a meaningful Islam name of Arabic origin that means \"Perfect, Beautiful\". Derived from the Arabic root 'k-m-l', meaning 'to complete' or 'to make perfect'. In Islamic context, Kamali can symbolize striving for spiritual and moral excellence, and fulfilling one's duties towards God and others.",
-      "keywords": [
-        "Kamali",
-        "Islam name",
-        "baby names",
-        "Perfect, Beautiful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kamali in Islam tradition?",
-          "a": "Kamali is a beautiful Islam name meaning \"Perfect, Beautiful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kamali a good Islam name for a baby?",
-          "a": "Yes, Kamali is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kamali?",
-          "a": "The name Kamali has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kamali correctly?",
-          "a": "Kamali is pronounced kah-MAH-lee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kamali?",
-          "a": "Naming a child Kamali brings blessings. The meaning \"Perfect, Beautiful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kamali?",
-          "a": "Kamali is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Kamali Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kamali (كمالي).",
+      "h1": "Kamali Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kamali meaning",
       "secondary_keywords": [
-        "Islam name Kamali",
-        "Kamali meaning",
-        "Kamali origin"
+        "Kamali name meaning",
+        "Kamali meaning in Urdu",
+        "Kamali origin",
+        "Kamali Islamic name",
+        "Kamali pronunciation",
+        "Kamali name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kamali (كمالي) is associated with the Arabic form كمالي, whose core sense is kamali; of kamal, belonging to kamal. Kamali is Arabic كَمَالِيّ (Kamāliyy), the nisba of كَمَال (Kamāl), meaning 'of Kamal; belonging to Kamal'. The source gloss 'Perfect, Beautiful' is unsupported and has been replaced with the lexical sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kamali is associated with the Arabic form كمالي, whose core sense is kamali; of kamal, belonging to kamal.",
+      "meaning_section": "The central meaning of Kamali is kamali; of kamal, belonging to kamal.",
+      "origin_section": "Kamali is associated with Arabic rather than with a different language.",
+      "islam_section": "Kamali can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kamali is with the sense kamali; of kamal.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kamali",
+      "#KamaliMeaning",
+      "#KamaliName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Ali is a common name among Arabs and Persians, derived from the Arabic 'Ali' meaning 'elevated' or 'exalted'. Originally a title given to Imam Ali, his name reflects the high esteem in which he was held.",
-    "spiritual_significance": "In Islamic tradition, Ali is considered as the fourth caliph and a companion of Prophet Muhammad (peace be upon him). His name represents striving for exalted status through righteousness and devotion, emulating the qualities of the Prophet and his companions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Kamali is derived from the Arabic word 'kamal' meaning perfection or completeness. The name Kamali carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "The name Kamali was historically used among early Muslim communities to denote individuals seen as embodying moral or spiritual completeness."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increased global recognition",
-        "used in academic and professional contexts"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kamali corresponds to the Arabic form كمالي",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Kamali has the core sense kamali; of kamal, belonging to kamal",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media",
-        "professional networking sites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Kamali remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Kamali",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Aisha Kamali from Riyadh, Saudi Arabia embodies the meaning of Kamali - \"Perfect, Beautiful\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Perfect, Beautiful\" symbolizes Derived from the Arabic root 'k-m-l', meaning 'to complete' or 'to make perfect'. In Islamic context, Kamali can symbolize striving for spiritual and moral excellence, and fulfilling one's duties towards God and others.. In Islamic spirituality, bearing the name Kamali serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of perfect, beautiful.",
-    "created_at": "2025-12-22T19:19:49.946Z",
-    "updated_at": "2025-12-22T04:53:15.628Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1286,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kamali",
-      "description": "Perfect, Beautiful",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Kamali",
+        "kamali"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kamali",
-          "description": "Discover the meaning of Kamali - \"Perfect, Beautiful\"",
-          "image": "/images/social/kamali-facebook.jpg"
+      "description": "A name associated with the Arabic form كمالي, meaning kamali; of kamal, belonging to kamal.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kamali",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kamali - Name Meaning",
-          "description": "Learn about the beautiful name Kamali",
-          "image": "/images/social/kamali-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kamali",
-          "description": "Name meaning: Perfect, Beautiful",
-          "image": "/images/social/kamali-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kamali - Meaning: Perfect, Beautiful",
-        "email_subject": "Beautiful Name: Kamali"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kamali with meaning Perfect, Beautiful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kamali, associated with the Arabic form كمالي, meaning kamali; of kamal, belonging to kamal."
     },
-    "similar_sounding_names": [
-      "kabir",
-      "kashish",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

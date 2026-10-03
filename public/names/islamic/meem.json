@@ -3,284 +3,473 @@
   "data": {
     "name": "Meem",
     "slug": "meem",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Letter M",
-    "long_meaning": "Derived from the Arabic letter ‘Mīm’",
-    "spiritual_meaning": "Represents the divine attribute of mercy and compassion",
-    "emotional_traits": [
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Blue",
-      "Pink"
-    ],
-    "lucky_stone": "Pearl",
-    "life_path_number": 11,
-    "numerology_meaning": "Intuition, inspiration, and illumination",
-    "in_arabic": {
-      "name": "م",
-      "meaning": "حرف منفصل، يؤنث ماء",
-      "long_meaning": "يعد حرف ميم من أبرز الأحرف في اللغة العربية، ويشير إلى الماء، ويستخدم في كتابة الكثير من الكلمات في اللغة العربية، ويحتوي على معنى إضافي في القرآن الكريم، ويعد من الأحرف التي تحمل أهمية كبيرة في الدين الإسلامي"
+    "identity": {
+      "display_name": "Meem",
+      "normalized_name": "meem",
+      "name_type": "given_name",
+      "gender": "Unknown",
+      "gender_confidence": "unknown",
+      "gender_note": "No documented personal-name gender usage was established for this form.",
+      "alternate_spellings": [
+        "Meem",
+        "meem"
+      ],
+      "search_variants": [
+        "Meem",
+        "meem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "م",
-      "meaning": "حرف منفصل، ہوا میں سے، یا جسم کے اندر پانی",
-      "long_meaning": "اردو زبان میں حرف ميم ایک اہم حرف ہے، جو کہ پانی یا ہوا میں سے لگایا جاتا ہے، اور ایک جسم کے اندر پانی لگایا جاتا ہے۔ اردو زبان میں یہ حرف کافی اہمیت کا حامل ہے، اور کثیر الفاظ میں استعمال ہوتا ہے، اور اسلامی روایات میں بھی یہ حرف اہمیت کا حامل ہے"
+    "core_meaning": {
+      "short_meaning": "Meem; the Arabic letter mīm",
+      "primary_meaning": "Meem; the Arabic letter mīm",
+      "secondary_meanings": [],
+      "literal_meaning": "Meem; the Arabic letter mīm",
+      "extended_meaning": "Meem; the Arabic letter mīm",
+      "meaning_explanation": "Meem corresponds to the Arabic form ميم (Arabic مِيم (Mīm)). Its core sense is meem; the arabic letter mīm. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "म",
-      "meaning": "अलग एक अक्षर, पानी या हवा में से",
-      "long_meaning": "हिंदी भाषा में अक्षर मिम आपने अलग महत्व का है, जिसका अर्थ है पानी या हवा में से लेना, या जिस्म के अंदर पानी भरना। इस अक्षर का इस्तेमाल हिंदी भाषा में बहुतायत से होता है, और इस्लामी परंपराओं में भी इसे महत्व का हिस्सा माना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "ميم",
+      "transliteration": "meem",
+      "romanization": "meem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Meem; the Arabic letter mīm"
+      ],
+      "etymology_explanation": "The form ميم is an established Arabic lexical item. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "م",
-      "meaning": "غږ، اوبوږ کې، یوڅخه لږ",
-      "long_meaning": "پښتو زبېنی مخلوق کې د ميم غږ یو مهم غږ دی، چې د اوبوږ کې لږ کېږي، یا د یو لږ لږ کېږي. پښتو زبېنی مخلوق کې د ميم غږ ډېر مهم غږ دی، چې په کثیر الفاظو کې کارول کېږي، او د اسلامي روایاتو کې لاهم د ميم غږ ډېر مهم غږ دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "ميم is an established Arabic form.",
+        "Urdu": "میم is used in Urdu.",
+        "Persian": "میم is an established Persian form.",
+        "Hindi": "मीम is used in Hindi.",
+        "Pashto": "میم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Meem",
-      "meaning": "A standalone letter, water, air, or liquid within a body",
-      "long_meaning": "The letter Meem is an important letter in the Arabic alphabet, referring to water or air, and is used in the writing of many words in Arabic. In the Quran, Meem is a significant letter with additional meaning, and is considered an important letter in Islamic tradition due to its use in many names and words related to water and air."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form ميم. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Meem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense meem; the arabic letter mīm.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Meem; the Arabic letter mīm",
+      "related_concepts": [
+        "meem; the arabic letter mīm"
+      ],
+      "semantic_relationship": "The central semantic idea is meem; the arabic letter mīm; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of meem; the arabic letter mīm.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Meem; the arabic letter mīm"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Meem",
+        "meaning": "Meem; the Arabic letter mīm",
+        "long_meaning": "Meem is a Arabic-origin name. Its core meaning is meem; the arabic letter mīm. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted."
+      },
+      "urdu": {
+        "name": "میم",
+        "meaning": "میم، عربی حرف",
+        "long_meaning": "Meem (میم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم میم، عربی حرف ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "میم",
+        "meaning": "میم، حرف عربی",
+        "long_meaning": "Meem (میم) نامی برگرفته از زبان عربی است و معنای اصلی آن میم، حرف عربی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मीम",
+        "meaning": "मीम, अरबी अक्षर",
+        "long_meaning": "Meem (मीम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मीम, अरबी अक्षर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "میم",
+        "meaning": "میم، عربي توری",
+        "long_meaning": "Meem (میم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې میم، عربي توری ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "ميم",
+        "meaning": "الْمِيم، حَرْف عَرَبِيّ",
+        "long_meaning": "Meem (ميم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمِيم، حَرْف عَرَبِيّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈmiːm/",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈmiːm/"
+      "romanized": "meem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "میم",
+      "persian": "میم",
+      "hindi": "मीम",
+      "pashto": "میم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MeemMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Meem"
-    ],
-    "name_variations": [
-      "Mim"
-    ],
-    "popularity_score": 71,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Meem",
+        "meem"
+      ],
+      "script_variants": [
+        "ميم",
+        "میم",
+        "मीम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form ميم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Meem can be understood through the Arabic form ميم, whose central sense is meem; the arabic letter mīm. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Meem mean?",
+        "answer": "Meem is associated with the Arabic form ميم, whose core sense is meem; the arabic letter mīm."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Meem?",
+        "answer": "Meem is associated with Arabic. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Meem an Arabic name?",
+        "answer": "Yes — the underlying form ميم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Meem an Islamic name?",
+        "answer": "Meem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Meem a Quranic name?",
+        "answer": "Meem should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Meem mean in Urdu?",
+        "answer": "In Urdu, Meem is rendered میم and carries the sense میم، عربی حرف."
+      },
+      {
+        "question": "What does Meem mean in Persian?",
+        "answer": "In Persian, Meem is rendered میم and carries the sense میم، حرف عربی."
+      },
+      {
+        "question": "How is Meem pronounced?",
+        "answer": "A romanized syllable approximation is meem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Meem?",
+        "answer": "Romanization variants include Meem, meem. Script forms are ميم, میم, मीम."
+      },
+      {
+        "question": "Is Meem a boy's or girl's name?",
+        "answer": "Documented usage records this form as unknown. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Meem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Meem, a beautiful Islam name meaning \"Letter M\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Meem, Islam name, baby names, Letter M, Islam baby names, name meaning",
-      "description_paragraph": "Meem is a meaningful Islam name of Arabic origin that means \"Letter M\". Derived from the Arabic letter ‘Mīm’",
-      "keywords": [
-        "Meem",
-        "Islam name",
-        "baby names",
-        "Letter M",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Meem in Islam tradition?",
-          "a": "Meem is a beautiful Islam name meaning \"Letter M\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Meem a good Islam name for a baby?",
-          "a": "Yes, Meem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Meem?",
-          "a": "The name Meem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Meem correctly?",
-          "a": "Meem is pronounced /ˈmiːm/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Meem?",
-          "a": "Naming a child Meem brings blessings. The meaning \"Letter M\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Meem?",
-          "a": "Meem is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Meem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Meem (ميم).",
+      "h1": "Meem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Meem meaning",
       "secondary_keywords": [
-        "Islam name Meem",
-        "Meem meaning",
-        "Meem origin"
+        "Meem name meaning",
+        "Meem meaning in Urdu",
+        "Meem origin",
+        "Meem Islamic name",
+        "Meem pronunciation",
+        "Meem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Meem (ميم) is associated with the Arabic form ميم, whose core sense is meem; the arabic letter mīm. Meem is Arabic مِيم (Mīm), the name of the Arabic letter m. The source gloss 'Letter M' is consistent. Recorded as a letter name rather than a personal name; no personal-name gender usage is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Meem is associated with the Arabic form ميم, whose core sense is meem; the arabic letter mīm.",
+      "meaning_section": "The central meaning of Meem is meem; the arabic letter mīm.",
+      "origin_section": "Meem is associated with Arabic rather than with a different language.",
+      "islam_section": "Meem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Meem is with the sense meem; the arabic letter mīm.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Meem",
+      "#MeemMeaning",
+      "#MeemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic tradition, the Arabic letter ‘Mīm’ carries the numerical value of 40 and symbolizes the prophet Moses (AS), who is associated with the number 40. In calligraphy and arts, the letter's unique shape and rounded form combines grace, elegance, and strength. In the Islamic world, it is a common name among boys and is sometimes used as a part of compounds, such as \"Mohammad\" or \"Mohamed,\" which consist of multiple \"Mīm\" letters.",
-    "spiritual_significance": "Meem represents the concept of 'Remembrance of Allah.' This form of dhikr (remembrance and repetition) is important in Islam as it encourages a constant connection with the Divine, helping individuals to cultivate their faith and develop a strong spiritual relationship. The Arabic term ‘Dhikr-Al-Lah’ (Remembrance of Allah) itself contains several 'Meems,' emphasizing the importance of remembering and glorifying God at all times. This name serve as a reminder and call to consciousness, encouraging the practice of bringing Allah into our daily thoughts and actions.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that short reference text The name Meem carried significant weight in that era.",
-        "time_period": "e.g. 7th century",
-        "context": "historical context of the name"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "list of trends"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Meem corresponds to the Arabic form ميم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Meem has the core sense meem; the arabic letter mīm",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "list of platforms"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Meem remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Hassan Meem",
-      "location": "Cairo, Egypt",
-      "story": "Hassan Meem, a teacher in Cairo, Egypt, shares that their name Meem meaning \"Letter M\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Letter M\" symbolizes Derived from the Arabic letter ‘Mīm’. In Islamic spirituality, bearing the name Meem serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of letter m.",
-    "created_at": "2025-12-22T19:19:49.84Z",
-    "updated_at": "2025-12-22T04:53:14.683Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1185,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Meem",
-      "description": "Letter M",
-      "additionalName": [
-        "Mim"
+      "alternateName": [
+        "Meem",
+        "meem"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form ميم, meaning meem; the arabic letter mīm.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Meem",
-          "description": "Discover the meaning of Meem - \"Letter M\"",
-          "image": "/images/social/meem-facebook.jpg"
+      "termCode": "meem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Meem - Name Meaning",
-          "description": "Learn about the beautiful name Meem",
-          "image": "/images/social/meem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unknown"
         },
-        "instagram": {
-          "title": "Meem",
-          "description": "Name meaning: Letter M",
-          "image": "/images/social/meem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Meem - Meaning: Letter M",
-        "email_subject": "Beautiful Name: Meem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Meem with meaning Letter M",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Meem, associated with the Arabic form ميم, meaning meem; the arabic letter mīm."
     },
-    "similar_sounding_names": [
-      "mika",
-      "meena",
-      "marnia",
-      "manab",
-      "meher",
-      "mahek",
-      "mada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

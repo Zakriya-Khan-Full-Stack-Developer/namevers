@@ -3,295 +3,479 @@
   "data": {
     "name": "Ehtisham",
     "slug": "ehtisham",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Respect, Honor, Dignity",
-    "long_meaning": "Ehtisham is derived from the Arabic word 'h-t-sh-m' which means 'to respect', 'to honor', 'to show dignity'. The term is used to describe a person who is held in high esteem due to his or her noble character and conduct.",
-    "spiritual_meaning": "A name that reflects respect and honor towards Allah and His creation.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Black",
-      "White",
-      "Green"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 6,
-    "numerology_meaning": "People with a life path number 6 are nurturing, loving, and caring. They have a strong desire to help others and to be of service.",
-    "in_arabic": {
-      "name": "إحتشام",
-      "meaning": "إحتشام يعني الإجلال والإكرام والتعظيم",
-      "long_meaning": "إحتشام هو اسم مشتق من الجذر العربي 'ح ش م' والذي يعني الإجلال والإكرام والتعظيم. يعتبر اسم إحتشام من الأسماء التي تحمل معاني رفيعة و noble، وهو شائع الاستخدام في الثقافة الإسلامية لما له من دلالة على الاحترام والكرامة. وقد ورد في القرآن الكريم ذكر الفعل 'حشم' في سياق الإجلال لله تعالى، مما يعزز القيمة الروحية للاسم."
+    "identity": {
+      "display_name": "Ehtisham",
+      "normalized_name": "ehtisham",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ehtisham",
+        "ehtisham"
+      ],
+      "search_variants": [
+        "Ehtisham",
+        "ehtisham"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "احتسام",
-      "meaning": "احتسام کا مطلب ہے احترام، عزت، اور تعظیم",
-      "long_meaning": "احتسام ایک عربی मूल کا نام ہے جس کا مطلب ہے احترام، عزت، اور تعظیم. یہ نام جنوبی ایشیائی مسلمانوں کے درمیان میں مقبول ہے کیونکہ یہ عزت، احترام، اور کرامت کی نمائندگی کرتا ہے. اسلامی تقليد میں، احتسام کو ایک ایسے شخص کی صفت کے طور پر دیکھا جاتا ہے جو اللہ تعالیٰ کی عزت و احترام کرنے والا ہے."
+    "core_meaning": {
+      "short_meaning": "Respect, esteem, dignity",
+      "primary_meaning": "Respect",
+      "secondary_meanings": [
+        "esteem",
+        "dignity"
+      ],
+      "literal_meaning": "Respect",
+      "extended_meaning": "Respect, esteem, dignity",
+      "meaning_explanation": "Ehtisham corresponds to the Arabic form احتشام (ح ش م). Its core sense is respect, esteem, dignity. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इहतिशाम",
-      "meaning": "इहतिशाम का अर्थ है सम्मान, आदर और महत्व",
-      "long_meaning": "इहतिशाम एक अरबी मूल का नाम है जिसका अर्थ है सम्मान, आदर और महत्व. यह नाम भारतीय मुस्लिम समुदाय में व्यापक रूप से प्रयोग किया जाता है क्योंकि यह सम्मान, आदर और गरिमा का प्रतीक है. इस्लामी परंपरा में, इहतिशाम को एक ऐसे व्यक्ति के गुण के रूप में देखा जाता है जो अल्लाह की इज्जत करने वाला है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "احتشام",
+      "transliteration": "ehtisham",
+      "romanization": "ehtisham",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Respect",
+        "esteem",
+        "dignity"
+      ],
+      "etymology_explanation": "The form احتشام is an established Arabic lexical item. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "احتشام",
-      "meaning": "احتشام د احترام، عزت او تعظیم معنی لري",
-      "long_meaning": "احتشام د عربي ريښې نوم دی چې د احترام، عزت او تعظیم معنی لري. دا نوم د افغان او پښتن مسلمانو په منځ کې مشهور دی ځکه چې دا د عزت، احترام او کرامت استازیتوب کوي. په اسلامي دود کې، احتشام د هغه چا ځانګړتیا ګڼل کیږي چې د الله تعالیٰ د عزت او احترام کوونکی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "احتشام is an established Arabic form.",
+        "Urdu": "احتشام is used in Urdu.",
+        "Hindi": "एहतेशाम is used in Hindi.",
+        "Pashto": "احتشام is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ehtisham",
-      "meaning": "Ehtisham means respect, honor, and dignity",
-      "long_meaning": "Ehtisham is derived from the Arabic root 'h-sh-m' which signifies respect, honor, and dignity. This name holds a revered position in Islamic culture due to its connotations of esteem and veneration. The Quran references actions related to 'h-sh-m' in contexts of reverence for Allah, thereby imbuing Ehtisham with spiritual significance. Historically, the name Ehtisham has been used across Muslim societies to denote individuals of noble character, embodying values of respect and honor."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form احتشام. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ehtisham may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense respect, esteem, dignity.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Respect",
+      "related_concepts": [
+        "respect",
+        "esteem",
+        "dignity"
+      ],
+      "semantic_relationship": "The central semantic idea is respect; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of respect.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Respect",
+        "Esteem",
+        "Dignity"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ehtisham",
+        "meaning": "Respect, esteem, dignity",
+        "long_meaning": "Ehtisham is a Arabic-origin name. Its core meaning is respect, esteem, dignity. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "احتشام",
+        "meaning": "احترام، عزت، وقار",
+        "long_meaning": "Ehtisham (احتشام) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم احترام، عزت، وقار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "एहतेशाम",
+        "meaning": "सम्मान, इज़्ज़त, गरिमा",
+        "long_meaning": "Ehtisham (एहतेशाम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सम्मान, इज़्ज़त, गरिमा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "احتشام",
+        "meaning": "درناوی، عزت، وقار",
+        "long_meaning": "Ehtisham (احتشام) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې درناوی، عزت، وقار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "احتشام",
+        "meaning": "الاحترام، التقدير، الوقار",
+        "long_meaning": "Ehtisham (احتشام) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الاحترام، التقدير، الوقار. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "eh-THEE-shahm",
-      "urdu": "اردو میں تلفظ کی تفصیل: احتسام",
-      "hindi": "हिन्दी में उच्चारण विवरण: इहतिशाम",
-      "pashto": "په پښتو کې د تلفظ تفصیل: احتشام",
-      "ipa": "/ɛhˈtiːʃɑːm/"
+      "romanized": "eh-tis-ham",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "احتشام",
+      "persian": null,
+      "hindi": "एहतेशाम",
+      "pashto": "احتشام"
     },
-    "celebrity_usage": [
-      "Mahmood Farooqui"
-    ],
-    "social_tags": [
-      "#EhtishamMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ehtisham"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ehtisham",
+        "ehtisham"
+      ],
+      "script_variants": [
+        "احتشام",
+        "एहतेशाम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form احتشام is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ehtisham can be understood through the Arabic form احتشام, whose central sense is respect, esteem, dignity. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Ehtisham mean?",
+        "answer": "Ehtisham is associated with the Arabic form احتشام, whose core sense is respect, esteem, dignity."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Ehtisham?",
+        "answer": "Ehtisham is associated with Arabic. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Ehtisham an Arabic name?",
+        "answer": "Yes — the underlying form احتشام is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Ehtisham an Islamic name?",
+        "answer": "Ehtisham can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 71,
-        "year": 2024
+        "question": "Is Ehtisham a Quranic name?",
+        "answer": "Ehtisham should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ehtisham mean in Urdu?",
+        "answer": "In Urdu, Ehtisham is rendered احتشام and carries the sense احترام، عزت، وقار."
+      },
+      {
+        "question": "What does Ehtisham mean in Persian?",
+        "answer": "No verified Persian form was established for Ehtisham."
+      },
+      {
+        "question": "How is Ehtisham pronounced?",
+        "answer": "A romanized syllable approximation is eh-tis-ham. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ehtisham?",
+        "answer": "Romanization variants include Ehtisham, ehtisham. Script forms are احتشام, एहतेशाम."
+      },
+      {
+        "question": "Is Ehtisham a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ehtisham Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ehtisham, a beautiful Islam name meaning \"Respect, Honor, Dignity\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ehtisham, Islam name, baby names, Respect, Honor, Dignity, Islam baby names, name meaning",
-      "description_paragraph": "Ehtisham is a meaningful Islam name of Arabic origin that means \"Respect, Honor, Dignity\". Ehtisham is derived from the Arabic word 'h-t-sh-m' which means 'to respect', 'to honor', 'to show dignity'. The term is used to describe a person who is held in high esteem due to his or her noble character and conduct.",
-      "keywords": [
-        "Ehtisham",
-        "Islam name",
-        "baby names",
-        "Respect, Honor, Dignity",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ehtisham in Islam tradition?",
-          "a": "Ehtisham is a beautiful Islam name meaning \"Respect, Honor, Dignity\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ehtisham a good Islam name for a baby?",
-          "a": "Yes, Ehtisham is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ehtisham?",
-          "a": "The name Ehtisham has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ehtisham correctly?",
-          "a": "Ehtisham is pronounced eh-THEE-shahm in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ehtisham?",
-          "a": "Naming a child Ehtisham brings blessings. The meaning \"Respect, Honor, Dignity\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ehtisham?",
-          "a": "Ehtisham is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Ehtisham Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ehtisham (احتشام).",
+      "h1": "Ehtisham Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ehtisham meaning",
       "secondary_keywords": [
-        "Islam name Ehtisham",
-        "Ehtisham meaning",
-        "Ehtisham origin"
+        "Ehtisham name meaning",
+        "Ehtisham meaning in Urdu",
+        "Ehtisham origin",
+        "Ehtisham Islamic name",
+        "Ehtisham pronunciation",
+        "Ehtisham name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ehtisham (احتشام) is associated with the Arabic form احتشام, whose core sense is respect, esteem, dignity. Variant romanization of احتشام ('dignity'). The source record's gloss 'Respect, Honor, Dignity' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ehtisham is associated with the Arabic form احتشام, whose core sense is respect, esteem, dignity.",
+      "meaning_section": "The central meaning of Ehtisham is respect, esteem, dignity.",
+      "origin_section": "Ehtisham is associated with Arabic rather than with a different language.",
+      "islam_section": "Ehtisham can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ehtisham is with the sense respect.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ehtisham",
+      "#EhtishamMeaning",
+      "#EhtishamName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Ehtisham is a name that is deeply rooted in Islamic culture and values. In a society that places great emphasis on respect and honor for others, especially for elders and those in positions of authority, the name Ehtisham is fitting. It reflects a person's character and behavior, implying that the bearer of this name is someone who is deserving of respect and honor due to his or her noble actions and conduct. Thus, the name Ehtisham is a source of pride for the family and community, and a reminder of the importance of respect and dignity.",
-    "spiritual_significance": "From a spiritual perspective, the name Ehtisham holds great significance in the Islamic tradition. The Prophet Muhammad (peace be upon him) is a prime example of someone who was held in high esteem due to his noble character and conduct. He was respected and loved by all, and his life was a model for his followers to emulate. The name Ehtisham is a reminder of the importance of striving for excellence in character and conduct, and seeking the pleasure of Allah (God) through acts of virtue and good deeds. It is a call to honor and respect the divine commandments and to strive towards living a life that reflects the best qualities of humanity. Ultimately, the name Ehtisham is a source of motivation and inspiration, reminding us of the great reward that awaits those who overcome their ego and selfish desires to become people of respect and honor in both this world and the next.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Kathir's Al-Bidayah wa Al-Nihayah The name Ehtisham carried significant weight in that era.",
-        "time_period": "7th Century",
-        "context": "Ehtisham was a title given to the governor of Egypt during the Umayyad Caliphate. He is known for his unjust rule, which led to widespread rebellion and ultimately his removal from power."
-      },
-      {
-        "reference": "Historical records show that Al-Maqrizi's Kitab Al-Khitat Al-Masriyah The name Ehtisham carried significant weight in that era.",
-        "time_period": "15th Century",
-        "context": "Ehtisham was also a Mamluk amir (slave soldier) who rose to prominence under Sultan Qaitbey. He is remembered for his military conquests and successful defense of Egypt against the Ottoman Turks."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ehtisham corresponds to the Arabic form احتشام",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ehtisham has the core sense respect, esteem, dignity",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ehtisham remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Ehtisham",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Khadija Ehtisham in Karachi, Pakistan attributes much of their success to the blessing of their name Ehtisham, which means \"Respect, Honor, Dignity\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Respect, Honor, Dignity\" symbolizes Ehtisham is derived from the Arabic word 'h-t-sh-m' which means 'to respect', 'to honor', 'to show dignity'. The term is used to describe a person who is held in high esteem due to his or her noble character and conduct.. In Islamic spirituality, bearing the name Ehtisham serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of respect, honor, dignity.",
-    "created_at": "2025-12-22T19:19:50.326Z",
-    "updated_at": "2025-12-22T04:53:15.845Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1497,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ehtisham",
-      "description": "Respect, Honor, Dignity",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Ehtisham",
+        "ehtisham"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ehtisham",
-          "description": "Discover the meaning of Ehtisham - \"Respect, Honor, Dignity\"",
-          "image": "/images/social/ehtisham-facebook.jpg"
+      "description": "A name associated with the Arabic form احتشام, meaning respect, esteem, dignity.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ehtisham",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ehtisham - Name Meaning",
-          "description": "Learn about the beautiful name Ehtisham",
-          "image": "/images/social/ehtisham-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ehtisham",
-          "description": "Name meaning: Respect, Honor, Dignity",
-          "image": "/images/social/ehtisham-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ehtisham - Meaning: Respect, Honor, Dignity",
-        "email_subject": "Beautiful Name: Ehtisham"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ehtisham with meaning Respect, Honor, Dignity",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ehtisham, associated with the Arabic form احتشام, meaning respect, esteem, dignity."
     },
-    "similar_sounding_names": [
-      "elamin",
-      "eijaz",
-      "eliza"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

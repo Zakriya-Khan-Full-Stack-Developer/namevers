@@ -3,292 +3,480 @@
   "data": {
     "name": "Jawhara",
     "slug": "jawhara",
-    "language": [
-      "English",
-      "Urdu",
-      "Hindi",
-      "Arabic",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Jewel",
-    "long_meaning": "Jawhara means 'jewel' in Arabic. Often used as a name for females, it symbolizes beauty, grace, and value.",
-    "spiritual_meaning": "As a spiritual name, Jawhara represents divine beauty and the preciousness of one's faith and character.",
-    "emotional_traits": [
-      "Devoted",
-      "Kind",
-      "Spiritual",
-      "Confident"
-    ],
-    "hidden_personality_traits": [
-      "A = Ambitious",
-      "Y = Youthful",
-      "S = Strong",
-      "H = Honest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Yellow",
-      "Pink"
-    ],
-    "lucky_stone": "Citrine",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious and balanced life, a strong sense of responsibility and a nurturing nature.",
-    "in_arabic": {
-      "name": "جَوْهَرَة",
-      "meaning": "الجوهرة تعني اللؤلؤة أو الحجر الكريم",
-      "long_meaning": "الجوهرة اسم علم مؤنث، مشتق من الجوهر، وهو كل ما له قيمة وذو شرف، ويشير إلى اللؤلؤة أو الحجر الكريم. يستخدم هذا الاسم في الثقافة الإسلامية للإشارة إلى الفتاة الثمينة والغالية، كما ورد في القرآن الكريم في سورة الحج آية 62: 'أَوَلَم يَرَ اللَهُ الَّذِي أَرسَلَ إِلَيهِ مَلَكًا فَأَخذَ نَفسَهُ وَقَد أَراهُ آيَاتِنا وَلَو شاءَ اللَهُ لَأَخذَها وَلكِن لِيَبۡتُلِيَ بَعضَكُم بِبَعضٍ وَلِلرِّيحِ مَسِيرٌ جَواهِرُه"
+    "identity": {
+      "display_name": "Jawhara",
+      "normalized_name": "jawhara",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jawhara",
+        "jawhara"
+      ],
+      "search_variants": [
+        "Jawhara",
+        "jawhara"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جَوہَرہ",
-      "meaning": "جَوہَرہ کا مطلب ہے قیمتی چیز یا لؤلؤ",
-      "long_meaning": "جَوہَرہ ایک مؤنث نام ہے جو عربی زبان کے 'جَوْهَر' سے ماخوذ ہے، جس کا مطلب ہے قیمتی چیز یا لؤلؤ۔ یہ نام اسلامی ثقافت میں ایک قیمتی اور پیاری فتاة کے لئے استعمال ہوتا ہے۔ اس نام کی اہمیت اس لئے ہے کیونکہ یہ لؤلؤ یا قیمتی حجر کی مانند ہے، جو انتہائی قیمتی سمجھا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Jewel, gem (feminine)",
+      "primary_meaning": "Jewel",
+      "secondary_meanings": [
+        "gem (feminine)"
+      ],
+      "literal_meaning": "Jewel",
+      "extended_meaning": "Jewel, gem (feminine)",
+      "meaning_explanation": "Jawhara corresponds to the Arabic form جوهرة (Arabic root ج و ه ر (j-w-h-r); جَوْهَرَة (Jawhara)). Its core sense is jewel, gem (feminine). Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "जौहरा",
-      "meaning": "जौहरा का अर्थ है मूल्यवान वस्तु या मोती",
-      "long_meaning": "जौहरा एक स्त्रीलिंग नाम है जो अरबी भाषा के 'جَوْهَر' से लिया गया है, जिसका अर्थ है मूल्यवान वस्तु या मोती। यह नाम इस्लामी संस्कृति में एक मूल्यवान और प्यारी लड़की के लिए प्रयोग किया जाता है। इस नाम का महत्व इसलिए है क्योंकि यह मोती या मूल्यवान पत्थर की तरह है, जो अत्यधिक मूल्यवान माना जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جوهرة",
+      "transliteration": "jawhara",
+      "romanization": "jawhara",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Jewel",
+        "gem (feminine)"
+      ],
+      "etymology_explanation": "The form جوهرة is an established Arabic lexical item. Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جوهره",
-      "meaning": "جوهره د قيمتي شي یا موتی معنی",
-      "long_meaning": "جوهره یو ښځینه نوم دی چی د عربی ژبې د 'جَوْهَر' څخه اخیستل شوی دی، چی د قيمتي شي یا موتی معنی ورکوي. دا نوم د اسلامي کلتور کې د قيمتي او مینه ور فتاة لپاره کارول کیږي. ددی نوم اهميت د دې له امله دی چې دا د موتی یا قيمتي ډبرې په څير دی، چی ډیر قيمتي ګڼل کیږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جوهرة is an established Arabic form.",
+        "Urdu": "جوہرہ is used in Urdu.",
+        "Persian": "گوهره is an established Persian form.",
+        "Hindi": "जौहरा is used in Hindi.",
+        "Pashto": "جوهره is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Jawhara",
-      "meaning": "Jawhara means precious gem, pearl, or valuable stone",
-      "long_meaning": "Jawhara is a feminine given name derived from the Arabic word 'جَوْهَر' (jawhar), meaning precious gem, pearl, or valuable stone. In Islamic culture, it symbolizes a precious and beloved person. The name has its roots in Quranic Arabic, reflecting the value and beauty of a person, much like a precious gem or pearl. Historically, it has been used across various Muslim cultures to signify the importance and dignity of the individual bearing the name"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form جوهرة. Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jawhara may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense jewel, gem (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Jewel",
+      "related_concepts": [
+        "jewel",
+        "gem (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is jewel; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of jewel.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Jewel",
+        "Gem (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jawhara",
+        "meaning": "Jewel, gem (feminine)",
+        "long_meaning": "Jawhara is a Arabic-origin name. Its core meaning is jewel, gem (feminine). Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara."
+      },
+      "urdu": {
+        "name": "جوہرہ",
+        "meaning": "جوہرہ، نگینہ",
+        "long_meaning": "Jawhara (جوہرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جوہرہ، نگینہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "گوهره",
+        "meaning": "گوهره، جواهر (مؤنث)",
+        "long_meaning": "Jawhara (گوهره) نامی برگرفته از زبان عربی است و معنای اصلی آن گوهره، جواهر (مؤنث) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जौहरा",
+        "meaning": "रत्न (स्त्री)",
+        "long_meaning": "Jawhara (जौहरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रत्न (स्त्री) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جوهره",
+        "meaning": "غمه (ښځينه)",
+        "long_meaning": "Jawhara (جوهره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې غمه (ښځينه) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جوهرة",
+        "meaning": "الجوهرة، الجوهر (مؤنث)",
+        "long_meaning": "Jawhara (جوهرة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجوهرة، الجوهر (مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "jaw-HAH-rah",
-      "urdu": "جَوہَرہ کا تلفظ: ج - و - ہ - ر - ہ",
-      "hindi": "जौहरा का उच्चारण: ज - औ - ह - र - आ",
-      "pashto": "جوهره د تلفظ: ج - و - ه - ر - ه",
-      "ipa": "/dʒɔːˈhɑːrɑː/"
+      "romanized": "jaw-ha-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جوہرہ",
+      "persian": "گوهره",
+      "hindi": "जौहरा",
+      "pashto": "جوهره"
     },
-    "celebrity_usage": [
-      "Zahra El-Kholy",
-      "Jawhara Mankal"
-    ],
-    "social_tags": [
-      "#JawharaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jawhara"
-    ],
-    "name_variations": [],
-    "popularity_score": 57,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jawhara",
+        "jawhara"
+      ],
+      "script_variants": [
+        "جوهرة",
+        "جوهره",
+        "جوہرہ",
+        "گوهره",
+        "जौहरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جوهرة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jawhara can be understood through the Arabic form جوهرة, whose central sense is jewel, gem (feminine). Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Jawhara mean?",
+        "answer": "Jawhara is associated with the Arabic form جوهرة, whose core sense is jewel, gem (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Jawhara?",
+        "answer": "Jawhara is associated with Arabic. Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Jawhara an Arabic name?",
+        "answer": "Yes — the underlying form جوهرة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 66,
-        "year": 2024
+        "question": "Is Jawhara an Islamic name?",
+        "answer": "Jawhara can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jawhara a Quranic name?",
+        "answer": "Jawhara should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jawhara mean in Urdu?",
+        "answer": "In Urdu, Jawhara is rendered جوہرہ and carries the sense جوہرہ، نگینہ."
+      },
+      {
+        "question": "What does Jawhara mean in Persian?",
+        "answer": "In Persian, Jawhara is rendered گوهره and carries the sense گوهره، جواهر (مؤنث)."
+      },
+      {
+        "question": "How is Jawhara pronounced?",
+        "answer": "A romanized syllable approximation is jaw-ha-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jawhara?",
+        "answer": "Romanization variants include Jawhara, jawhara. Script forms are جوهرة, جوهره, جوہرہ, گوهره, जौहरा."
+      },
+      {
+        "question": "Is Jawhara a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jawhara Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jawhara, a beautiful Islam name meaning \"Jewel\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jawhara, Islam name, baby names, Jewel, Islam baby names, name meaning",
-      "description_paragraph": "Jawhara is a meaningful Islam name of Arabic origin that means \"Jewel\". Jawhara means 'jewel' in Arabic. Often used as a name for females, it symbolizes beauty, grace, and value.",
-      "keywords": [
-        "Jawhara",
-        "Islam name",
-        "baby names",
-        "Jewel",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jawhara in Islam tradition?",
-          "a": "Jawhara is a beautiful Islam name meaning \"Jewel\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jawhara a good Islam name for a baby?",
-          "a": "Yes, Jawhara is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jawhara?",
-          "a": "The name Jawhara has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jawhara correctly?",
-          "a": "Jawhara is pronounced jaw-HAH-rah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jawhara?",
-          "a": "Naming a child Jawhara brings blessings. The meaning \"Jewel\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jawhara?",
-          "a": "Jawhara is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Jawhara Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jawhara (جوهرة).",
+      "h1": "Jawhara Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jawhara meaning",
       "secondary_keywords": [
-        "Islam name Jawhara",
-        "Jawhara meaning",
-        "Jawhara origin"
+        "Jawhara name meaning",
+        "Jawhara meaning in Urdu",
+        "Jawhara origin",
+        "Jawhara Islamic name",
+        "Jawhara pronunciation",
+        "Jawhara name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jawhara (جوهرة) is associated with the Arabic form جوهرة, whose core sense is jewel, gem (feminine). Jawhara is Arabic جَوْهَرَة (Jawhara) 'jewel, gem' (feminine), from the root ج و ه ر (j-w-h-r). The source gloss 'Jewel' is consistent. Same name as jawharat and johara.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jawhara is associated with the Arabic form جوهرة, whose core sense is jewel, gem (feminine).",
+      "meaning_section": "The central meaning of Jawhara is jewel, gem (feminine).",
+      "origin_section": "Jawhara is associated with Arabic rather than with a different language.",
+      "islam_section": "Jawhara can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jawhara is with the sense jewel.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jawhara",
+      "#JawharaMeaning",
+      "#JawharaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Nadia is derived from the Arabic word for \"hope\". In various Arab and Muslim cultures, giving a child the name Nadia can express a familial wish for a hopeful and bright future for the child.",
-    "spiritual_significance": "The name Nadia also carries a deep spiritual significance in Islam, as it represents the belief that all beings and all of life is a manifestation of God's hope and bounty.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arabic poet Jawhara al-Sanawi (d. 1924) The name Jawhara carried significant weight in that era.",
-        "time_period": "early 20th century",
-        "context": "Arabic poetry"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Middle Eastern cultural revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jawhara corresponds to the Arabic form جوهرة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Jawhara has the core sense jewel, gem (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Jawhara remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Jawhara",
-      "location": "Istanbul, Turkey",
-      "story": "Layla Jawhara, a teacher in Istanbul, Turkey, shares that their name Jawhara meaning \"Jewel\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Jewel\" symbolizes Jawhara means 'jewel' in Arabic. Often used as a name for females, it symbolizes beauty, grace, and value.. In Islamic spirituality, bearing the name Jawhara serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of jewel.",
-    "created_at": "2025-12-22T19:19:49.777Z",
-    "updated_at": "2025-12-22T04:53:14.08Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1752,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jawhara",
-      "description": "Jewel",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Hindi",
-        "Arabic",
-        "Pashto"
+      "alternateName": [
+        "Jawhara",
+        "jawhara"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jawhara",
-          "description": "Discover the meaning of Jawhara - \"Jewel\"",
-          "image": "/images/social/jawhara-facebook.jpg"
+      "description": "A name associated with the Arabic form جوهرة, meaning jewel, gem (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "jawhara",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jawhara - Name Meaning",
-          "description": "Learn about the beautiful name Jawhara",
-          "image": "/images/social/jawhara-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Jawhara",
-          "description": "Name meaning: Jewel",
-          "image": "/images/social/jawhara-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jawhara - Meaning: Jewel",
-        "email_subject": "Beautiful Name: Jawhara"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jawhara with meaning Jewel",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jawhara, associated with the Arabic form جوهرة, meaning jewel, gem (feminine)."
     },
-    "similar_sounding_names": [
-      "jada",
-      "jadallah",
-      "jasmina",
-      "javier",
-      "jamesha",
-      "janaan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

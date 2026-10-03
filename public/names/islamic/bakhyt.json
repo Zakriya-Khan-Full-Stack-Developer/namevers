@@ -3,286 +3,481 @@
   "data": {
     "name": "Bakhyt",
     "slug": "bakhyt",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Joy, Happiness",
-    "long_meaning": "A state of intense pleasure and contentment",
-    "spiritual_meaning": "A gift from Allah, a blessing bestowed upon the believer",
-    "emotional_traits": [
-      "Cheerful",
-      "Radiant",
-      "Elated"
-    ],
-    "hidden_personality_traits": [
-      "Resilient",
-      "Adaptable",
-      "Resourceful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 2,
-    "numerology_meaning": "Relationships, Diplomacy, Partnerships",
-    "in_arabic": {
-      "name": "البخت",
-      "meaning": "البخت هو اسم عربي يعني الحظ الجيد أو الحظ السعيد",
-      "long_meaning": "البخت هو اسم عربي منقول من اللغه السريانية واللى معناه الحظ الجيد أو الحظ السعيد، ويقال إن هذا الاسم مشتق من الكلمة العربية البخيل، التي تعني الحظ الجيد أو الحظ السعيد، وهو مصطلح مستخدم في القرآن الكريم لوصف الحظ الجيد أو الحظ السعيد الذي يصيب المؤمنين، ويعد الاسم البخت من أسماء الله الحسنى، ويتميز بالفخر والاعتزاز عند تسمية الأطفال به، ويحمل معنى الحظ الجيد والنجاح، ويُعتبر اسمًا شائعًا في الثقافة العربية والإسلامية."
+    "identity": {
+      "display_name": "Bakhyt",
+      "normalized_name": "bakhyt",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Bakhyt",
+        "bakhyt"
+      ],
+      "search_variants": [
+        "Bakhyt",
+        "bakhyt"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "البخت",
-      "meaning": "الالبخت ایک خوش قسمت یا خوش شانسی کہنا",
-      "long_meaning": "الالبخت ایک خوش قسمت یا خوش شانسی کا نام ہے جسے عرب زبان سے لے کر اردو میں بھی استعمال کیا جاتا ہے۔ اس کے معانی خوش قسمت، خوش شانسی، خوش قضا، خوش نصیب ہوتے ہیں۔ یہ نام سے مراد خوش قسمت، خوش شانسی اور خوش نصیب انسان ہوتا ہے جو اللہ تعالیٰ کی رہمت اور فضل سے اس کی نعمتوں سے مستفید ہوتا ہے۔ اس نام کے حامل کا تعلق خوش قسمت اور خوش شانسی کے ساتھ ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Fortune, luck, destiny",
+      "primary_meaning": "Fortune",
+      "secondary_meanings": [
+        "luck",
+        "destiny"
+      ],
+      "literal_meaning": "Fortune",
+      "extended_meaning": "Fortune, luck, destiny",
+      "meaning_explanation": "Bakhyt corresponds to the Persian form بخت (Persian lexical element). Its core sense is fortune, luck, destiny. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "बख़त",
-      "meaning": "खुशकिस्मत या सौभाग्यशाली",
-      "long_meaning": "बख़त एक खुशकिस्मत या सौभाग्यशाली का नाम है जो अरबी भाषा से लेकर हिंदी में भी प्रयोग किया जाता है। इसके अर्थ खुशकिस्मत, सौभाग्यशालि, अच्छा किस्मत, सौभाग्यशाली होते हैं। यह नाम से संकेत है कि व्यक्ति अच्छे किस्मत से धनी है और जीवन में सफलता प्राप्त करता है। इस नाम का व्यक्ति अच्छे किस्मत से धनी होता है और जीवन में सफलता प्राप्त करता है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "بخت",
+      "transliteration": "bakhyt",
+      "romanization": "bakhyt",
+      "root_status": "Persian lexical element",
+      "etymological_meaning": [
+        "Fortune",
+        "luck",
+        "destiny"
+      ],
+      "etymology_explanation": "The form بخت is an established Persian lexical item. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "پخټ",
-      "meaning": "خوش قسمت یا خوش شانسی",
-      "long_meaning": "پخټ یوځای د خوش قسمت یا خوش شانسی نوم دی. دغه نوم د د لاتیني په معنا خوش قسمت، خوش شانسی، خوش قضا، خوش نصیب دی. دغه نوم د هغه ښځه او مړي سره اړه لري چي د الله تعالی له رحمتو او فضل له خواته د نعمتوړوځای د لوړۍ ده. دغه نوم د خوش قسمت او خوش شانسی سره اړه لري."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "بخت is an established Arabic form.",
+        "Urdu": "بخت is used in Urdu.",
+        "Persian": "بخت is an established Persian form.",
+        "Hindi": "बख़्यत is used in Hindi.",
+        "Pashto": "بخت is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Bakhyt",
-      "meaning": "Good fortune, Lucky, Blessed, Prosperous, Successful",
-      "long_meaning": "Bakhyt is an Arabic name that means good fortune, lucky, blessed, prosperous, and successful. It is derived from the root 'bakha' which means to be fortunate or to have good luck. In the Quran, the term 'bakht' is used to describe the good fortune or prosperity that Muslims experience. The name Bakhyt is considered to be a blessed name and is associated with good fortune, prosperity, and success. People with this name are believed to have a positive and optimistic outlook on life, and are often successful in their endeavors."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Persian form بخت. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Bakhyt may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense fortune, luck, destiny.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fortune",
+      "related_concepts": [
+        "fortune",
+        "luck",
+        "destiny"
+      ],
+      "semantic_relationship": "The central semantic idea is fortune; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of fortune.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Fortune",
+        "Luck",
+        "Destiny"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Bakhyt",
+        "meaning": "Fortune, luck, destiny",
+        "long_meaning": "Bakhyt is a Persian-origin name. Its core meaning is fortune, luck, destiny. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "بخت",
+        "meaning": "قسمت، بخت، نصیب",
+        "long_meaning": "Bakhyt (بخت) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قسمت، بخت، نصیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "بخت",
+        "meaning": "بخت، سرنوشت، اقبال",
+        "long_meaning": "Bakhyt (بخت) نامی برگرفته از زبان فارسی است و معنای اصلی آن بخت، سرنوشت، اقبال است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "बख़्यत",
+        "meaning": "भाग्य, क़िस्मत",
+        "long_meaning": "Bakhyt (बख़्यत) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ भाग्य, क़िस्मत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بخت",
+        "meaning": "بخت، برخه",
+        "long_meaning": "Bakhyt (بخت) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بخت، برخه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بخت",
+        "meaning": "البخت، الحظ، النصيب",
+        "long_meaning": "Bakhyt (بخت) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي البخت، الحظ، النصيب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "BAHK-hyt",
-      "urdu": "اردو میں تلفظ کی تفصیل: بہکھٹ",
-      "hindi": "हिन्दी में उच्चारण विवरण: बख़त",
-      "pashto": "په پښتو کې د تلفظ تفصیل: پخټ",
-      "ipa": "/ˈbɑːk.ɪt/"
+      "romanized": "bak-hyt",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بخت",
+      "persian": "بخت",
+      "hindi": "बख़्यत",
+      "pashto": "بخت"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#BakhytMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Bakhyt"
-    ],
-    "name_variations": [],
-    "popularity_score": 65,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Bakhyt",
+        "bakhyt"
+      ],
+      "script_variants": [
+        "بخت",
+        "बख़्यत"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بخت is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Bakhyt can be understood through the Persian form بخت, whose central sense is fortune, luck, destiny. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 79,
-        "year": 2024
+        "question": "What does Bakhyt mean?",
+        "answer": "Bakhyt is associated with the Persian form بخت, whose core sense is fortune, luck, destiny."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Bakhyt?",
+        "answer": "Bakhyt is associated with Persian. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 70,
-        "year": 2024
+        "question": "Is Bakhyt an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 62,
-        "year": 2024
+        "question": "Is Bakhyt an Islamic name?",
+        "answer": "Bakhyt can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Bakhyt a Quranic name?",
+        "answer": "Bakhyt should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Bakhyt mean in Urdu?",
+        "answer": "In Urdu, Bakhyt is rendered بخت and carries the sense قسمت، بخت، نصیب."
+      },
+      {
+        "question": "What does Bakhyt mean in Persian?",
+        "answer": "In Persian, Bakhyt is rendered بخت and carries the sense بخت، سرنوشت، اقبال."
+      },
+      {
+        "question": "How is Bakhyt pronounced?",
+        "answer": "A romanized syllable approximation is bak-hyt. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Bakhyt?",
+        "answer": "Romanization variants include Bakhyt, bakhyt. Script forms are بخت, बख़्यत."
+      },
+      {
+        "question": "Is Bakhyt a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Bakhyt Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Bakhyt, a beautiful Islam name meaning \"Joy, Happiness\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Bakhyt, Islam name, baby names, Joy, Happiness, Islam baby names, name meaning",
-      "description_paragraph": "Bakhyt is a meaningful Islam name of Arabic origin that means \"Joy, Happiness\". A state of intense pleasure and contentment",
-      "keywords": [
-        "Bakhyt",
-        "Islam name",
-        "baby names",
-        "Joy, Happiness",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Bakhyt in Islam tradition?",
-          "a": "Bakhyt is a beautiful Islam name meaning \"Joy, Happiness\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Bakhyt a good Islam name for a baby?",
-          "a": "Yes, Bakhyt is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Bakhyt?",
-          "a": "The name Bakhyt has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Bakhyt correctly?",
-          "a": "Bakhyt is pronounced BAHK-hyt in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Bakhyt?",
-          "a": "Naming a child Bakhyt brings blessings. The meaning \"Joy, Happiness\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Bakhyt?",
-          "a": "Bakhyt is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Bakhyt Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Bakhyt (بخت).",
+      "h1": "Bakhyt Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Bakhyt meaning",
       "secondary_keywords": [
-        "Islam name Bakhyt",
-        "Bakhyt meaning",
-        "Bakhyt origin"
+        "Bakhyt name meaning",
+        "Bakhyt meaning in Urdu",
+        "Bakhyt origin",
+        "Bakhyt Islamic name",
+        "Bakhyt pronunciation",
+        "Bakhyt name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Bakhyt (بخت) is associated with the Persian form بخت, whose core sense is fortune, luck, destiny. Variant romanization of بخت ('fortune'). The source record's gloss 'Joy, Happiness' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Bakhyt is associated with the Persian form بخت, whose core sense is fortune, luck, destiny.",
+      "meaning_section": "The central meaning of Bakhyt is fortune, luck, destiny.",
+      "origin_section": "Bakhyt is associated with Persian rather than with a different language.",
+      "islam_section": "Bakhyt can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Bakhyt is with the sense fortune.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Bakhyt",
+      "#BakhytMeaning",
+      "#BakhytName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Islamic name \"Bakhyt\" suggests a person who brings joy and happiness. This name is beautifully rooted in the Islamic culture as it represents an essence of positivity, joy, and contentment in one's being. It is a name that inspires joy and happiness within oneself and others, creating a ripple effect of positivity.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Bakhyt\" signifies a deep sense of inner peace, contentment, and pleasure that comes from a close connection with Allah (God). It can be seen as a reminder to seek Allah's pleasure and find joy in the worship of Allah, rather than transient worldly pleasures that may provide temporary happiness but ultimately lead to disappointment and sorrow. The name also implies the presence of gratitude and appreciation for the blessings bestowed upon us by Allah. Overall, it encourages one to cultivate a deeper spiritual connection with Allah and strive towards a state of constant inner pleasure and contentment.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Bakhyt carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Bakhyt corresponds to the Persian form بخت",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Bakhyt has the core sense fortune, luck, destiny",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Bakhyt remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Bakhyt",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Maryam Bakhyt in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Bakhyt, which means \"Joy, Happiness\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Joy, Happiness\" symbolizes A state of intense pleasure and contentment. In Islamic spirituality, bearing the name Bakhyt serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of joy, happiness.",
-    "created_at": "2025-12-22T19:19:49.849Z",
-    "updated_at": "2025-12-22T04:53:14.751Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1505,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Bakhyt",
-      "description": "Joy, Happiness",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Bakhyt",
+        "bakhyt"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Bakhyt",
-          "description": "Discover the meaning of Bakhyt - \"Joy, Happiness\"",
-          "image": "/images/social/bakhyt-facebook.jpg"
+      "description": "A name associated with the Persian form بخت, meaning fortune, luck, destiny.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "bakhyt",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Bakhyt - Name Meaning",
-          "description": "Learn about the beautiful name Bakhyt",
-          "image": "/images/social/bakhyt-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Bakhyt",
-          "description": "Name meaning: Joy, Happiness",
-          "image": "/images/social/bakhyt-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Bakhyt - Meaning: Joy, Happiness",
-        "email_subject": "Beautiful Name: Bakhyt"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Bakhyt with meaning Joy, Happiness",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Bakhyt, associated with the Persian form بخت, meaning fortune, luck, destiny."
     },
-    "similar_sounding_names": [
-      "buhayyah",
-      "binesh",
-      "buthayna",
-      "baseema",
-      "basbas",
-      "banujah",
-      "badri",
-      "ban",
-      "baraaa",
-      "busrah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

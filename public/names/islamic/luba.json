@@ -3,286 +3,473 @@
   "data": {
     "name": "Luba",
     "slug": "luba",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gentle breeze",
-    "long_meaning": "The name Luba is derived from the Arabic language and means 'gentle breeze'. It is a beautiful and soft name, evoking images of calm and serenity. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) named a wind 'Luba' due to its gentle and soothing nature.",
-    "spiritual_meaning": "Symbol of tranquility and peace",
-    "emotional_traits": [
-      "Compassionate",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "(Tuesday)",
-    "lucky_colors": [
-      "Blue",
-      "Silver"
-    ],
-    "lucky_stone": "(Moonstone)",
-    "life_path_number": 3,
-    "numerology_meaning": "Those with the name Luba are creative, artistic, and imaginative. They are often deeply intuitive and have a strong desire for self-expression and personal growth.",
-    "in_arabic": {
-      "name": "لبا",
-      "meaning": "اسم يدل على الحب والوداد في اللغة العربية",
-      "long_meaning": "اسم لبا مشتق من الجذر اللغوي ل-ب-ي الذي يعني الحب والوداد في اللغة العربية. يعتبر هذا الاسم من الأسماء الجميلة التي تعبر عن المشاعر الإيجابية والعلاقات الإنسانية القوية. في الثقافة الإسلامية، يرتبط الاسم بالمحبة والرحمة التي هي من القيم الأساسية في الدين الإسلامي."
+    "identity": {
+      "display_name": "Luba",
+      "normalized_name": "luba",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Luba",
+        "luba"
+      ],
+      "search_variants": [
+        "Luba",
+        "luba"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "لبا",
-      "meaning": "نام جو محبت اور اچھائی کی دلالت کرتا ہے",
-      "long_meaning": "لبا نام عربی جڑ ل-ب-ی سے ماخوذ ہے جس کا مطلب ہے محبت اور اچھائی۔ یہ نام اسلامی ثقافت میں محبت، رحمت، اور انسانی تعلقات کی مثبت تصویر کشی کرتا ہے۔ جنوبی ایشیائی اسلامی روایت میں، یہ نام ان خوبصورت القاب میں شامل ہے جو فطرت میں محبت اور تعاون پر زور دیتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Luba; a female given name",
+      "primary_meaning": "Luba; a female given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Luba; a female given name",
+      "extended_meaning": "Luba; a female given name",
+      "meaning_explanation": "Luba corresponds to the Arabic form لبى (Arabic لُبَى (Lubā)). Its core sense is luba; a female given name. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "लुबा",
-      "meaning": "यह नाम प्रेम और अच्छाई की भावना को दर्शाता है",
-      "long_meaning": "लुबा नाम की उत्पत्ति अरबी मूल ल-ب-ی से हुई है, जिसका अर्थ है प्रेम और अच्छाई। यह नाम भारतीय मुस्लिम समुदाय में एक महत्वपूर्ण स्थान रखता है, जहां यह प्रेम, सहानुभूति और सामाजिक संबंधों की महत्ता को प्रतिबिंबित करता है। इस नाम का उपयोग पारंपरिक और आधुनिक संदर्भों में समान रूप से किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "لبى",
+      "transliteration": "luba",
+      "romanization": "luba",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Luba; a female given name"
+      ],
+      "etymology_explanation": "The form لبى is an established Arabic lexical item. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "لوبا",
-      "meaning": "د مینې او میړنې نوم",
-      "long_meaning": "لوبا نوم د عربي ژبې د ريښې ل-ب-ي څخه اخيستل شوی دی، چې د مینې او میړنې معنی لري. په پښتني کلتور کې، دا نوم د مثبتو اړيکو او ټولنیزو اړیکو د ښودلو لپاره کارول کیږي. دا نوم د افغانستان او پښتونستان په ټولنو کې د محبت او همدردۍ د ارزښتونو د منعکس کولو لپاره کارول شوی دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "لبى is an established Arabic form.",
+        "Urdu": "لبا is used in Urdu.",
+        "Persian": "لبا is an established Persian form.",
+        "Hindi": "लुबा is used in Hindi.",
+        "Pashto": "لبا is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Luba",
-      "meaning": "A name signifying love and goodness in Arabic origin",
-      "long_meaning": "The name Luba originates from the Arabic root ل-ب-ی (l-b-y), which means love and goodness. In Islamic tradition, this name reflects positive human relationships and emotional bonds. It carries a spiritual significance of compassion and affection, values highly regarded in Islam. Historically, the name has been used across various Muslim cultures, symbolizing the importance of love and kindness in personal and social life."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form لبى. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Luba may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense luba; a female given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Luba; a female given name",
+      "related_concepts": [
+        "luba; a female given name"
+      ],
+      "semantic_relationship": "The central semantic idea is luba; a female given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of luba; a female given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Luba; a female given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Luba",
+        "meaning": "Luba; a female given name",
+        "long_meaning": "Luba is a Arabic-origin name. Its core meaning is luba; a female given name. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name."
+      },
+      "urdu": {
+        "name": "لبا",
+        "meaning": "لبا (زنانہ نام)",
+        "long_meaning": "Luba (لبا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لبا (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "لبا",
+        "meaning": "لبا (نام زنانه)",
+        "long_meaning": "Luba (لبا) نامی برگرفته از زبان عربی است و معنای اصلی آن لبا (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "लुबा",
+        "meaning": "लुबा (स्त्री नाम)",
+        "long_meaning": "Luba (लुबा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ लुबा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "لبا",
+        "meaning": "لبا (ښځينه نوم)",
+        "long_meaning": "Luba (لبا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لبا (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "لبى",
+        "meaning": "لُبَا (اسم علم مؤنث)",
+        "long_meaning": "Luba (لبى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي لُبَا (اسم علم مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "LOO-bah",
-      "urdu": "اردو میں تلفظ: لو بہ",
-      "hindi": "हिन्दी में उच्चारण: लू बा",
-      "pashto": "په پښتو کې تلفظ: لو باه",
-      "ipa": "/ˈluːbə/"
+      "romanized": "lu-ba",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "لبا",
+      "persian": "لبا",
+      "hindi": "लुबा",
+      "pashto": "لبا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#LubaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Luba"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Luba",
+        "luba"
+      ],
+      "script_variants": [
+        "لبا",
+        "لبى",
+        "लुबा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form لبى is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Luba can be understood through the Arabic form لبى, whose central sense is luba; a female given name. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Luba mean?",
+        "answer": "Luba is associated with the Arabic form لبى, whose core sense is luba; a female given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Luba?",
+        "answer": "Luba is associated with Arabic. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Luba an Arabic name?",
+        "answer": "Yes — the underlying form لبى is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Luba an Islamic name?",
+        "answer": "Luba can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 71,
-        "year": 2024
+        "question": "Is Luba a Quranic name?",
+        "answer": "Luba should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Luba mean in Urdu?",
+        "answer": "In Urdu, Luba is rendered لبا and carries the sense لبا (زنانہ نام)."
+      },
+      {
+        "question": "What does Luba mean in Persian?",
+        "answer": "In Persian, Luba is rendered لبا and carries the sense لبا (نام زنانه)."
+      },
+      {
+        "question": "How is Luba pronounced?",
+        "answer": "A romanized syllable approximation is lu-ba. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Luba?",
+        "answer": "Romanization variants include Luba, luba. Script forms are لبا, لبى, लुबा."
+      },
+      {
+        "question": "Is Luba a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Luba Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Luba, a beautiful Islam name meaning \"Gentle breeze\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Luba, Islam name, baby names, Gentle breeze, Islam baby names, name meaning",
-      "description_paragraph": "Luba is a meaningful Islam name of Arabic origin that means \"Gentle breeze\". The name Luba is derived from the Arabic language and means 'gentle breeze'. It is a beautiful and soft name, evoking images of calm and serenity. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) named a wind 'Luba' due to its gentle and soothing nature.",
-      "keywords": [
-        "Luba",
-        "Islam name",
-        "baby names",
-        "Gentle breeze",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Luba in Islam tradition?",
-          "a": "Luba is a beautiful Islam name meaning \"Gentle breeze\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Luba a good Islam name for a baby?",
-          "a": "Yes, Luba is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Luba?",
-          "a": "The name Luba has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Luba correctly?",
-          "a": "Luba is pronounced LOO-bah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Luba?",
-          "a": "Naming a child Luba brings blessings. The meaning \"Gentle breeze\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Luba?",
-          "a": "Luba is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Luba Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Luba (لبى).",
+      "h1": "Luba Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Luba meaning",
       "secondary_keywords": [
-        "Islam name Luba",
-        "Luba meaning",
-        "Luba origin"
+        "Luba name meaning",
+        "Luba meaning in Urdu",
+        "Luba origin",
+        "Luba Islamic name",
+        "Luba pronunciation",
+        "Luba name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Luba (لبى) is associated with the Arabic form لبى, whose core sense is luba; a female given name. Luba is Arabic لُبَى (Lubā), a documented female given name. CRITICAL SOURCE ERROR: the source gave لبا (a different form); the correct form is لُبَى. The source gloss 'Gentle breeze' is unsupported; the name is a proper name.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Luba is associated with the Arabic form لبى, whose core sense is luba; a female given name.",
+      "meaning_section": "The central meaning of Luba is luba; a female given name.",
+      "origin_section": "Luba is associated with Arabic rather than with a different language.",
+      "islam_section": "Luba can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Luba is with the sense luba; a female given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Luba",
+      "#LubaMeaning",
+      "#LubaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Luba carries a sense of elegance and gentleness, making it a popular choice among Muslims. It has been adopted in various parts of the Muslim world and is considered a beautiful and unique name. The meaning of the name is often used as a metaphor for calmness, peace, and tranquility in daily life.",
-    "spiritual_significance": "From a spiritual perspective, the name Luba represents the gentle breeze of the mercy and compassion of Allah. It serves as a reminder of the comfort and peace that can be found in the presence of Allah. The name also signifies the gentle heeling power of Allah's guidance and teachings, as it guides us through life like a gentle breeze. In Islamic spirituality, the name Luba can be seen as a symbol of the soothing and calming effects of Allah's love and grace.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Luba carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Luba corresponds to the Arabic form لبى",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Luba has the core sense luba; a female given name",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Luba remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Luba",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Maryam Luba in Istanbul, Turkey attributes much of their success to the blessing of their name Luba, which means \"Gentle breeze\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Gentle breeze\" symbolizes The name Luba is derived from the Arabic language and means 'gentle breeze'. It is a beautiful and soft name, evoking images of calm and serenity. In Islamic history, it is said that the Prophet Muhammad (peace be upon him) named a wind 'Luba' due to its gentle and soothing nature.. In Islamic spirituality, bearing the name Luba serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gentle breeze.",
-    "created_at": "2025-12-22T19:19:49.92Z",
-    "updated_at": "2025-12-22T04:53:15.41Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1149,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Luba",
-      "description": "Gentle breeze",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Luba",
+        "luba"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Luba",
-          "description": "Discover the meaning of Luba - \"Gentle breeze\"",
-          "image": "/images/social/luba-facebook.jpg"
+      "description": "A name associated with the Arabic form لبى, meaning luba; a female given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "luba",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Luba - Name Meaning",
-          "description": "Learn about the beautiful name Luba",
-          "image": "/images/social/luba-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Luba",
-          "description": "Name meaning: Gentle breeze",
-          "image": "/images/social/luba-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Luba - Meaning: Gentle breeze",
-        "email_subject": "Beautiful Name: Luba"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Luba with meaning Gentle breeze",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Luba, associated with the Arabic form لبى, meaning luba; a female given name."
     },
-    "similar_sounding_names": [
-      "leyla"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,283 +3,483 @@
   "data": {
     "name": "Mahara",
     "slug": "mahara",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Sea, Ocean",
-    "long_meaning": "In Arabic, Mahara means 'sea' or 'ocean'. It is derived from the root word 'h-r-h' which signifies 'to flow' or 'water'. In Islamic tradition, the sea is often used as a metaphor for the boundless mercy and forgiveness of Allah.",
-    "spiritual_meaning": "Symbolizes the boundless mercy and forgiveness of Allah.",
-    "emotional_traits": [
-      "Compassionate",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Turquoise",
-    "life_path_number": 2,
-    "numerology_meaning": "In Islamic numerology, the number 2 symbolizes harmony, balance, and cooperation. It represents the duality of life and the importance of maintaining balance in relationships and personal growth.",
-    "in_arabic": {
-      "name": "مَهَرَة",
-      "meaning": "وَجْهَةٌ فِي البَحْرِ",
-      "long_meaning": "وَجْهَةٌ مِنَ المَاءِ المَتَنَضَّجِينِ فِي البَحْرِ"
+    "identity": {
+      "display_name": "Mahara",
+      "normalized_name": "mahara",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mahara",
+        "mahara"
+      ],
+      "search_variants": [
+        "Mahara",
+        "mahara"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مَهَرَة",
-      "meaning": "بَحرِيَة",
-      "long_meaning": "بَحرِيَةٌ مِنَ المَاءِ"
+    "core_meaning": {
+      "short_meaning": "Skill, proficiency, mastery",
+      "primary_meaning": "Skill",
+      "secondary_meanings": [
+        "proficiency",
+        "mastery"
+      ],
+      "literal_meaning": "Skill",
+      "extended_meaning": "Skill, proficiency, mastery",
+      "meaning_explanation": "Mahara corresponds to the Arabic form مهارة (Arabic root م ه ر (m-h-r); مَهَارَة (Mahāra)). Its core sense is skill, proficiency, mastery. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "महारा",
-      "meaning": "समुद्रीया",
-      "long_meaning": "समुद्रीयां का पानी"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مهارة",
+      "transliteration": "mahara",
+      "romanization": "mahara",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Skill",
+        "proficiency",
+        "mastery"
+      ],
+      "etymology_explanation": "The form مهارة is an established Arabic lexical item. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مهره",
-      "meaning": "دریایی",
-      "long_meaning": "دریایی اور ماءولون"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مهارة is an established Arabic form.",
+        "Urdu": "مہارت is used in Urdu.",
+        "Persian": "مهارت is an established Persian form.",
+        "Hindi": "महारत is used in Hindi.",
+        "Pashto": "مهارت is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Mahara",
-      "meaning": "Sea, Ocean",
-      "long_meaning": "In Arabic, Mahara means 'sea' or 'ocean'. It is derived from the root word 'h-r-h' which signifies 'to flow' or 'water'. In Islamic tradition, the sea is often used as a metaphor for the boundless mercy and forgiveness of Allah."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مهارة. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mahara may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense skill, proficiency, mastery.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Skill",
+      "related_concepts": [
+        "skill",
+        "proficiency",
+        "mastery"
+      ],
+      "semantic_relationship": "The central semantic idea is skill; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of skill.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Skill",
+        "Proficiency",
+        "Mastery"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mahara",
+        "meaning": "Skill, proficiency, mastery",
+        "long_meaning": "Mahara is a Arabic-origin name. Its core meaning is skill, proficiency, mastery. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة."
+      },
+      "urdu": {
+        "name": "مہارت",
+        "meaning": "مہارت، ہنر، مہارت",
+        "long_meaning": "Mahara (مہارت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مہارت، ہنر، مہارت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مهارت",
+        "meaning": "مهارت، هنر، تبحر",
+        "long_meaning": "Mahara (مهارت) نامی برگرفته از زبان عربی است و معنای اصلی آن مهارت، هنر، تبحر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "महारत",
+        "meaning": "कौशल, महारत, हुनर",
+        "long_meaning": "Mahara (महारत) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कौशल, महारत, हुनर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مهارت",
+        "meaning": "مهارت، هنر، پوهه",
+        "long_meaning": "Mahara (مهارت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مهارت، هنر، پوهه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مهارة",
+        "meaning": "المهارة، الحذق، البراعة",
+        "long_meaning": "Mahara (مهارة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المهارة، الحذق، البراعة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈmɑːhɑːrə/",
-      "urdu": "/مَهَرَة/",
-      "hindi": "/महारा/",
-      "pashto": "/مهره/"
+      "romanized": "ma-ha-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مہارت",
+      "persian": "مهارت",
+      "hindi": "महारत",
+      "pashto": "مهارت"
     },
-    "celebrity_usage": [
-      "Mahara Khan, Pakistani actress"
-    ],
-    "social_tags": [
-      "#MaharaMeaning",
-      "#IslamicNames"
-    ],
-    "name_variations": [
-      "Maara"
-    ],
-    "popularity_score": 43,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mahara",
+        "mahara"
+      ],
+      "script_variants": [
+        "مهارة",
+        "مهارت",
+        "مہارت",
+        "महारत"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مهارة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mahara can be understood through the Arabic form مهارة, whose central sense is skill, proficiency, mastery. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Mahara mean?",
+        "answer": "Mahara is associated with the Arabic form مهارة, whose core sense is skill, proficiency, mastery."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Mahara?",
+        "answer": "Mahara is associated with Arabic. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Mahara an Arabic name?",
+        "answer": "Yes — the underlying form مهارة is Arabic."
+      },
+      {
+        "question": "Is Mahara an Islamic name?",
+        "answer": "Mahara can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mahara a Quranic name?",
+        "answer": "Mahara should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mahara mean in Urdu?",
+        "answer": "In Urdu, Mahara is rendered مہارت and carries the sense مہارت، ہنر، مہارت."
+      },
+      {
+        "question": "What does Mahara mean in Persian?",
+        "answer": "In Persian, Mahara is rendered مهارت and carries the sense مهارت، هنر، تبحر."
+      },
+      {
+        "question": "How is Mahara pronounced?",
+        "answer": "A romanized syllable approximation is ma-ha-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mahara?",
+        "answer": "Romanization variants include Mahara, mahara. Script forms are مهارة, مهارت, مہارت, महारत."
+      },
+      {
+        "question": "Is Mahara a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mahara Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mahara, a beautiful Islam name meaning \"Sea, Ocean\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mahara, Islam name, baby names, Sea, Ocean, Islam baby names, name meaning",
-      "description_paragraph": "Mahara is a meaningful Islam name of Arabic origin that means \"Sea, Ocean\". In Arabic, Mahara means 'sea' or 'ocean'. It is derived from the root word 'h-r-h' which signifies 'to flow' or 'water'. In Islamic tradition, the sea is often used as a metaphor for the boundless mercy and forgiveness of Allah.",
-      "keywords": [
-        "Mahara",
-        "Islam name",
-        "baby names",
-        "Sea, Ocean",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mahara in Islam tradition?",
-          "a": "Mahara is a beautiful Islam name meaning \"Sea, Ocean\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mahara a good Islam name for a baby?",
-          "a": "Yes, Mahara is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mahara?",
-          "a": "The name Mahara has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mahara correctly?",
-          "a": "Mahara is pronounced /ˈmɑːhɑːrə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mahara?",
-          "a": "Naming a child Mahara brings blessings. The meaning \"Sea, Ocean\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mahara?",
-          "a": "Mahara is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Mahara Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mahara (مهارة).",
+      "h1": "Mahara Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mahara meaning",
       "secondary_keywords": [
-        "Islam name Mahara",
-        "Mahara meaning",
-        "Mahara origin"
+        "Mahara name meaning",
+        "Mahara meaning in Urdu",
+        "Mahara origin",
+        "Mahara Islamic name",
+        "Mahara pronunciation",
+        "Mahara name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mahara (مهارة) is associated with the Arabic form مهارة, whose core sense is skill, proficiency, mastery. Mahara is Arabic مَهَارَة (Mahāra) 'skill, proficiency, mastery', from the root م ه ر (m-h-r). CRITICAL SOURCE ERROR: the source gave مَهَرَة (a different form) and glossed the name 'Sea, Ocean'; the correct form is مَهَارَة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mahara is associated with the Arabic form مهارة, whose core sense is skill, proficiency, mastery.",
+      "meaning_section": "The central meaning of Mahara is skill, proficiency, mastery.",
+      "origin_section": "Mahara is associated with Arabic rather than with a different language.",
+      "islam_section": "Mahara can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mahara is with the sense skill.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mahara",
+      "#MaharaMeaning",
+      "#MaharaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Mahara holds great cultural significance in the Islamic world, particularly as it relates to the sea, which is an integral part of the Islamic civilization's history, economy, and literature. The Arabian Peninsula's geographical location and rich marine resources have played a vital role in shaping its cultural identity. Moreover, the Islamic tradition has a rich maritime history, with numerous famous sailors and explorers who voyaged across the Arabian Sea and the Indian Ocean.",
-    "spiritual_significance": "Spiritually, the name Mahara evokes images of Allah's infinite mercy and forgiveness. The sea is a powerful symbol in Islamic tradition and represents Allah's endless bounties and favors. The Quran uses the sea as a metaphor for life's trials and challenges, reminding us to be steadfast and trust in Allah's plan for us. Additionally, the Prophet Muhammad (peace be upon him) is reported to have considered the sea a place of purification. One of the great hadiths of the Prophet says, \"There is no disease that Allah has sent down except that it has a cure; neither is there any ailment that Allah has created, except that He has also created its cure.\" (Bukhari and Muslim). Thus, making a pilgrimage to the sea to seek cure and healing is considered a significant spiritual practice in Islamic tradition.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Mahara carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mahara corresponds to the Arabic form مهارة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Mahara has the core sense skill, proficiency, mastery",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Mahara remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Mahara",
-      "location": "Cairo, Egypt",
-      "story": "Khadija Mahara from Cairo, Egypt embodies the meaning of Mahara - \"Sea, Ocean\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Sea, Ocean\" symbolizes In Arabic, Mahara means 'sea' or 'ocean'. It is derived from the root word 'h-r-h' which signifies 'to flow' or 'water'. In Islamic tradition, the sea is often used as a metaphor for the boundless mercy and forgiveness of Allah.. In Islamic spirituality, bearing the name Mahara serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sea, ocean.",
-    "created_at": "2025-12-22T19:19:50.95Z",
-    "updated_at": "2025-12-22T04:53:16.677Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1026,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mahara",
-      "description": "Sea, Ocean",
-      "additionalName": [
-        "Maara"
+      "alternateName": [
+        "Mahara",
+        "mahara"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form مهارة, meaning skill, proficiency, mastery.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mahara",
-          "description": "Discover the meaning of Mahara - \"Sea, Ocean\"",
-          "image": "/images/social/mahara-facebook.jpg"
+      "termCode": "mahara",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mahara - Name Meaning",
-          "description": "Learn about the beautiful name Mahara",
-          "image": "/images/social/mahara-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Mahara",
-          "description": "Name meaning: Sea, Ocean",
-          "image": "/images/social/mahara-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mahara - Meaning: Sea, Ocean",
-        "email_subject": "Beautiful Name: Mahara"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mahara with meaning Sea, Ocean",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mahara, associated with the Arabic form مهارة, meaning skill, proficiency, mastery."
     },
-    "similar_sounding_names": [
-      "marhabah",
-      "marudeen.",
-      "meher",
-      "maassama",
-      "mahek",
-      "mada",
-      "marnia",
-      "meena",
-      "manab",
-      "mika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

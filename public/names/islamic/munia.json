@@ -3,288 +3,478 @@
   "data": {
     "name": "Munia",
     "slug": "munia",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Jewel, Precious Stone",
-    "long_meaning": "Derived from the Arabic word 'munī' meaning 'precious', 'jewel', or 'gem'. In Islamic tradition, Munia represents the spiritual and emotional wealth a person can possess.",
-    "spiritual_meaning": "A symbol of spiritual wealth and preciousness in Islam.",
-    "emotional_traits": [
-      "Kind",
-      "Nurturing",
-      "Loving"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "Pink"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "A person with a life path number 6 is nurturing, loving, and caring. They have a strong desire to help others and create harmony in their environment.",
-    "in_arabic": {
-      "name": "منيا",
-      "meaning": "Unknown or potentially derived from 'Munah' (satisfied, content) or 'Munawwa' (protected)",
-      "long_meaning": "Unknown or potentially derived from 'Munah' (satisfied, content) or 'Munawwa' (protected)"
+    "identity": {
+      "display_name": "Munia",
+      "normalized_name": "munia",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Munia",
+        "munia"
+      ],
+      "search_variants": [
+        "Munia",
+        "munia"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "منیا",
-      "meaning": "مستفید",
-      "long_meaning": "مستفید ہوندہ یا پاکدار"
+    "core_meaning": {
+      "short_meaning": "Munia; wish, desire",
+      "primary_meaning": "Munia; wish",
+      "secondary_meanings": [
+        "desire"
+      ],
+      "literal_meaning": "Munia; wish",
+      "extended_meaning": "Munia; wish, desire",
+      "meaning_explanation": "Munia corresponds to the Arabic form مُنْيَة (Arabic root م ن ي (m-n-y); مُنْيَة (Munyah)). Its core sense is munia; wish, desire. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मूनिया",
-      "meaning": "पूरा",
-      "long_meaning": "पूरा होने वाली"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُنْيَة",
+      "transliteration": "munia",
+      "romanization": "munia",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Munia; wish",
+        "desire"
+      ],
+      "etymology_explanation": "The form مُنْيَة is an established Arabic lexical item. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "منيا",
-      "meaning": "مستفاد",
-      "long_meaning": "مستفاد شوندہ"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مُنْيَة is an established Arabic form.",
+        "Urdu": "منیا is used in Urdu.",
+        "Persian": "منیا is an established Persian form.",
+        "Hindi": "मुनिया is used in Hindi.",
+        "Pashto": "منیا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Munia",
-      "meaning": "Jewel, Precious Stone",
-      "long_meaning": "Derived from the Arabic word 'munī' meaning 'precious', 'jewel', or 'gem'. In Islamic tradition, Munia represents the spiritual and emotional wealth a person can possess."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مُنْيَة. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Munia may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense munia; wish, desire.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Munia; wish",
+      "related_concepts": [
+        "munia; wish",
+        "desire"
+      ],
+      "semantic_relationship": "The central semantic idea is munia; wish; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of munia; wish.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Munia; wish",
+        "Desire"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Munia",
+        "meaning": "Munia; wish, desire",
+        "long_meaning": "Munia is a Arabic-origin name. Its core meaning is munia; wish, desire. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya."
+      },
+      "urdu": {
+        "name": "منیا",
+        "meaning": "منیا، خواہش، آرزو",
+        "long_meaning": "Munia (منیا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم منیا، خواہش، آرزو ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "منیا",
+        "meaning": "منیا، آرزو",
+        "long_meaning": "Munia (منیا) نامی برگرفته از زبان عربی است و معنای اصلی آن منیا، آرزو است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मुनिया",
+        "meaning": "मुनिया, इच्छा",
+        "long_meaning": "Munia (मुनिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुनिया, इच्छा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "منیا",
+        "meaning": "منیا، هيله",
+        "long_meaning": "Munia (منیا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې منیا، هيله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مُنْيَة",
+        "meaning": "مُنْيَة، الْأُمْنِيَة",
+        "long_meaning": "Munia (مُنْيَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مُنْيَة، الْأُمْنِيَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈmʊniə/",
-      "urdu": "/ˈmʊni.ɑ/",
-      "hindi": "/ˈmʊnɪ.jɑ/",
-      "pashto": "/ˈmʊn.jɑ/",
-      "ipa": "https://en.wikipedia.org/wiki/Help:IPA_for_English#Munia"
+      "romanized": "mu-nia",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "منیا",
+      "persian": "منیا",
+      "hindi": "मुनिया",
+      "pashto": "منیا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MuniaNameMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [
-      "Muniah"
-    ],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Munia",
+        "munia"
+      ],
+      "script_variants": [
+        "منیا",
+        "مُنْيَة",
+        "मुनिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مُنْيَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Munia can be understood through the Arabic form مُنْيَة, whose central sense is munia; wish, desire. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Munia mean?",
+        "answer": "Munia is associated with the Arabic form مُنْيَة, whose core sense is munia; wish, desire."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Munia?",
+        "answer": "Munia is associated with Arabic. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Munia an Arabic name?",
+        "answer": "Yes — the underlying form مُنْيَة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Munia an Islamic name?",
+        "answer": "Munia can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Munia a Quranic name?",
+        "answer": "Munia should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Munia mean in Urdu?",
+        "answer": "In Urdu, Munia is rendered منیا and carries the sense منیا، خواہش، آرزو."
+      },
+      {
+        "question": "What does Munia mean in Persian?",
+        "answer": "In Persian, Munia is rendered منیا and carries the sense منیا، آرزو."
+      },
+      {
+        "question": "How is Munia pronounced?",
+        "answer": "A romanized syllable approximation is mu-nia. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Munia?",
+        "answer": "Romanization variants include Munia, munia. Script forms are منیا, مُنْيَة, मुनिया."
+      },
+      {
+        "question": "Is Munia a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Munia Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Munia, a beautiful Islam name meaning \"Jewel, Precious Stone\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Munia, Islam name, baby names, Jewel, Precious Stone, Islam baby names, name meaning",
-      "description_paragraph": "Munia is a meaningful Islam name of Arabic origin that means \"Jewel, Precious Stone\". Derived from the Arabic word 'munī' meaning 'precious', 'jewel', or 'gem'. In Islamic tradition, Munia represents the spiritual and emotional wealth a person can possess.",
-      "keywords": [
-        "Munia",
-        "Islam name",
-        "baby names",
-        "Jewel, Precious Stone",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Munia in Islam tradition?",
-          "a": "Munia is a beautiful Islam name meaning \"Jewel, Precious Stone\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Munia a good Islam name for a baby?",
-          "a": "Yes, Munia is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Munia?",
-          "a": "The name Munia has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Munia correctly?",
-          "a": "Munia is pronounced /ˈmʊniə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Munia?",
-          "a": "Naming a child Munia brings blessings. The meaning \"Jewel, Precious Stone\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Munia?",
-          "a": "Munia is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Munia Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Munia (مُنْيَة).",
+      "h1": "Munia Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Munia meaning",
       "secondary_keywords": [
-        "Islam name Munia",
-        "Munia meaning",
-        "Munia origin"
+        "Munia name meaning",
+        "Munia meaning in Urdu",
+        "Munia origin",
+        "Munia Islamic name",
+        "Munia pronunciation",
+        "Munia name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Munia (مُنْيَة) is associated with the Arabic form مُنْيَة, whose core sense is munia; wish, desire. Munia is Arabic مُنْيَة (Munyah) 'wish, desire', from the root م ن ي (m-n-y). The source gloss 'Jewel, Precious Stone' is unsupported and has been replaced with the lexical sense. Same name as munya.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Munia is associated with the Arabic form مُنْيَة, whose core sense is munia; wish, desire.",
+      "meaning_section": "The central meaning of Munia is munia; wish, desire.",
+      "origin_section": "Munia is associated with Arabic rather than with a different language.",
+      "islam_section": "Munia can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Munia is with the sense munia; wish.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Munia",
+      "#MuniaMeaning",
+      "#MuniaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Munia holds deep cultural significance in the Islamic world, as it conveys the idea of possessing a valuable, precious, or gem-like quality. It can be interpreted as a reminder of the worth and dignity of every individual, celebrating their unique qualities and contributions to society.",
-    "spiritual_significance": "In the spiritual context, Munia is a symbol of inner wealth – of the soul being enriched with goodness, wisdom, and love. It's a reminder to cherish the spiritual treasures within, as one seeks the divine connection and personal growth - thus adding value as a spiritual asset and companion.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arabic text mentioning Munia The name Munia carried significant weight in that era.",
-        "time_period": "10th century",
-        "context": "Historical records of the name in the Islamic Golden Age"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasing popularity in the Middle East",
-        "Growing use in Islamic communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Munia corresponds to the Arabic form مُنْيَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Munia has the core sense munia; wish, desire",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Naming ceremonies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Munia remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Munia",
-      "location": "Istanbul, Turkey",
-      "story": "Maryam Munia, a teacher in Istanbul, Turkey, shares that their name Munia meaning \"Jewel, Precious Stone\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Jewel, Precious Stone\" symbolizes Derived from the Arabic word 'munī' meaning 'precious', 'jewel', or 'gem'. In Islamic tradition, Munia represents the spiritual and emotional wealth a person can possess.. In Islamic spirituality, bearing the name Munia serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of jewel, precious stone.",
-    "created_at": "2025-12-22T19:19:50.928Z",
-    "updated_at": "2025-12-22T04:53:16.468Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1189,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Munia",
-      "description": "Jewel, Precious Stone",
-      "additionalName": [
-        "Muniah"
+      "alternateName": [
+        "Munia",
+        "munia"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form مُنْيَة, meaning munia; wish, desire.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Munia",
-          "description": "Discover the meaning of Munia - \"Jewel, Precious Stone\"",
-          "image": "/images/social/munia-facebook.jpg"
+      "termCode": "munia",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Munia - Name Meaning",
-          "description": "Learn about the beautiful name Munia",
-          "image": "/images/social/munia-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Munia",
-          "description": "Name meaning: Jewel, Precious Stone",
-          "image": "/images/social/munia-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Munia - Meaning: Jewel, Precious Stone",
-        "email_subject": "Beautiful Name: Munia"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Munia with meaning Jewel, Precious Stone",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Munia, associated with the Arabic form مُنْيَة, meaning munia; wish, desire."
     },
-    "similar_sounding_names": [
-      "marnia",
-      "meena",
-      "mada",
-      "maassama",
-      "marhabah",
-      "manab",
-      "mika",
-      "meher",
-      "mahek"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

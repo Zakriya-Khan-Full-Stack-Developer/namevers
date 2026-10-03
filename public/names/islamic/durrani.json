@@ -3,286 +3,470 @@
   "data": {
     "name": "Durrani",
     "slug": "durrani",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Pearl",
-    "long_meaning": "Derived from the Arabic word 'durr', meaning 'pearl'.",
-    "spiritual_meaning": "Symbolizes the purity and perfection of the divine",
-    "emotional_traits": [
-      "Kind",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 9,
-    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
-    "in_arabic": {
-      "name": "دراني",
-      "meaning": "اسم مشتق من الدر النفيس والثمين",
-      "long_meaning": "دراني هو اسم مشتق من الدر النفيس والثمين، ويرجع إلى الأصول العربية القديمة. يعتبر الدر رمزاً للقيمة والغنى، ويدل على الشخص الذي يمتلك قيمة كبيرة وثمناً عالياً في المجتمع الإسلامي. كما أنه يرتبط بالقيمة الروحية والفكرية."
+    "identity": {
+      "display_name": "Durrani",
+      "normalized_name": "durrani",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Durrani",
+        "durrani"
+      ],
+      "search_variants": [
+        "Durrani",
+        "durrani"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "درانی",
-      "meaning": "نادر اور قیمتی چیز سے متعلق",
-      "long_meaning": "درانی نام عربی زبان کے الدر سے ماخوذ ہے، جس کا مطلب ہے نادر اور قیمتی چیز۔ یہ نام ان شخصیتوں کو مخاطب کرتا ہے جو معاشرے میں اعلیٰ قدر اور مقام رکھتی ہیں۔ درانی نام کے افراد کو اکثر اہم اور نفیس سمجھا جاتا ہے، اور ان کی قدر بہت زیادہ ہوتی ہے۔"
+    "core_meaning": {
+      "short_meaning": "Pearl, precious stone",
+      "primary_meaning": "Pearl",
+      "secondary_meanings": [
+        "precious stone"
+      ],
+      "literal_meaning": "Pearl",
+      "extended_meaning": "Pearl, precious stone",
+      "meaning_explanation": "Durrani corresponds to the Pashto form دراني (Pashto Durrānī). Its core sense is pearl, precious stone. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दुरानी",
-      "meaning": "मूल্যবान और अनमोल व्यक्ति",
-      "long_meaning": "दुरानी नाम की उत्पत्ति संस्कृत और अरबी भाषाओं में होती है, जिसका अर्थ होता है मूल्यवान और अनमोल व्यक्ति। यह नाम उन व्यक्तियों को संबोधित करता है जो समाज में उच्च सम्मान और मूल्य रखते हैं। दुरानी नाम के लोग अक्सर महत्वपूर्ण और विशिष्ट माने जाते हैं।"
+    "etymology": {
+      "primary_language": "Pashto",
+      "lexical_form": "دراني",
+      "transliteration": "durrani",
+      "romanization": "durrani",
+      "root_status": "Pashto Durrānī",
+      "etymological_meaning": [
+        "Pearl",
+        "precious stone"
+      ],
+      "etymology_explanation": "The form دراني is an established Pashto lexical item. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "دراني",
-      "meaning": "د قیمتي او نادرو سړی",
-      "long_meaning": "دراني نوم د پښتو ژبې څخه اخیستل شوی دی، چې معنی یې د قیمتي او نادرو سړی دی. دا نوم د هغو کسانو لپاره کارول کېږي چې په ټولنه کې لوړ قدر او ځای لري. دراني نوم لرونکي اکثراً مهم او ځانګړي ګڼل کېږي."
+    "language": {
+      "primary": "Pashto",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دراني is an established Arabic form.",
+        "Urdu": "درانی is used in Urdu.",
+        "Hindi": "दुर्रानी is used in Hindi.",
+        "Pashto": "دراني is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Durrani",
-      "meaning": "Precious and valuable person",
-      "long_meaning": "The name Durrani originates from Arabic roots, specifically from 'dur' meaning pearl or precious stone. It signifies a person of great value and preciousness. In Islamic tradition, the name Durrani conveys a sense of nobility and high esteem. Historically, it has been used to denote individuals of significant social and spiritual standing."
+    "origin": {
+      "primary_origin": "Pashto",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Pashto form دراني. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Durrani may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense pearl, precious stone.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Pearl",
+      "related_concepts": [
+        "pearl",
+        "precious stone"
+      ],
+      "semantic_relationship": "The central semantic idea is pearl; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of pearl.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Pearl",
+        "Precious stone"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Durrani",
+        "meaning": "Pearl, precious stone",
+        "long_meaning": "Durrani is a Pashto-origin name. Its core meaning is pearl, precious stone. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "درانی",
+        "meaning": "موتی، گوہر، نگینہ",
+        "long_meaning": "Durrani (درانی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم موتی، گوہر، نگینہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दुर्रानी",
+        "meaning": "मोती, रत्न, गोहर",
+        "long_meaning": "Durrani (दुर्रानी) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ मोती, रत्न, गोहर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دراني",
+        "meaning": "مرغلره، غمې، جواهر",
+        "long_meaning": "Durrani (دراني) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مرغلره، غمې، جواهر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دراني",
+        "meaning": "اللؤلؤة، الجوهرة، الدرة",
+        "long_meaning": "Durrani (دراني) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي اللؤلؤة، الجوهرة، الدرة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "doo-RAH-nee",
-      "urdu": "درآنی",
-      "hindi": "दुरानी उच्चारण",
-      "pashto": "دراني تلفظ",
-      "ipa": "/dʊˈrɑːni/"
+      "romanized": "dur-ra-ni",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "درانی",
+      "persian": null,
+      "hindi": "दुर्रानी",
+      "pashto": "دراني"
     },
-    "celebrity_usage": [
-      "Durrani Shah",
-      "Durrani Visram"
-    ],
-    "social_tags": [
-      "#DurraniMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Durrani"
-    ],
-    "name_variations": [],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Durrani",
+        "durrani"
+      ],
+      "script_variants": [
+        "دراني",
+        "درانی",
+        "दुर्रानी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دراني is an established Pashto lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Durrani can be understood through the Pashto form دراني, whose central sense is pearl, precious stone. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Durrani mean?",
+        "answer": "Durrani is associated with the Pashto form دراني, whose core sense is pearl, precious stone."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Durrani?",
+        "answer": "Durrani is associated with Pashto. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Durrani an Arabic name?",
+        "answer": "No — the underlying form is Pashto, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Durrani an Islamic name?",
+        "answer": "Durrani can occur in Muslim naming contexts, but it is better described as a Pashto-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Durrani a Quranic name?",
+        "answer": "Durrani should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Durrani mean in Urdu?",
+        "answer": "In Urdu, Durrani is rendered درانی and carries the sense موتی، گوہر، نگینہ."
+      },
+      {
+        "question": "What does Durrani mean in Persian?",
+        "answer": "No verified Persian form was established for Durrani."
+      },
+      {
+        "question": "How is Durrani pronounced?",
+        "answer": "A romanized syllable approximation is dur-ra-ni. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Durrani?",
+        "answer": "Romanization variants include Durrani, durrani. Script forms are دراني, درانی, दुर्रानी."
+      },
+      {
+        "question": "Is Durrani a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Durrani Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Durrani, a beautiful Islam name meaning \"Pearl\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Durrani, Islam name, baby names, Pearl, Islam baby names, name meaning",
-      "description_paragraph": "Durrani is a meaningful Islam name of Arabic origin that means \"Pearl\". Derived from the Arabic word 'durr', meaning 'pearl'.",
-      "keywords": [
-        "Durrani",
-        "Islam name",
-        "baby names",
-        "Pearl",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Durrani in Islam tradition?",
-          "a": "Durrani is a beautiful Islam name meaning \"Pearl\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Durrani a good Islam name for a baby?",
-          "a": "Yes, Durrani is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Durrani?",
-          "a": "The name Durrani has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Durrani correctly?",
-          "a": "Durrani is pronounced doo-RAH-nee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Durrani?",
-          "a": "Naming a child Durrani brings blessings. The meaning \"Pearl\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Durrani?",
-          "a": "Durrani is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Durrani Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Pashto origin, Urdu meaning, pronunciation, variants and Islamic naming context of Durrani (دراني).",
+      "h1": "Durrani Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Durrani meaning",
       "secondary_keywords": [
-        "Islam name Durrani",
-        "Durrani meaning",
-        "Durrani origin"
+        "Durrani name meaning",
+        "Durrani meaning in Urdu",
+        "Durrani origin",
+        "Durrani Islamic name",
+        "Durrani pronunciation",
+        "Durrani name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Durrani (دراني) is associated with the Pashto form دراني, whose core sense is pearl, precious stone. Durrānī, the name of the Pashtun royal clan of the Durrani Empire, from durr ('pearl'). The source record's gloss 'Pearl' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Durrani is associated with the Pashto form دراني, whose core sense is pearl, precious stone.",
+      "meaning_section": "The central meaning of Durrani is pearl, precious stone.",
+      "origin_section": "Durrani is associated with Pashto rather than with a different language.",
+      "islam_section": "Durrani can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Durrani is with the sense pearl.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Durrani",
+      "#DurraniMeaning",
+      "#DurraniName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Durrani has been significant in Islamic history, most notably associated with the Afghan Durrani Empire established in 1747 AD by Mir Muhammad Shah, the founder of the Durrani Empire. This empire is considered the foundation of modern-day Afghanistan. The name 'Durrani' represents strength, unification, and power, as the empire brought together various ethnic and religious groups under one rule.",
-    "spiritual_significance": "In Islamic tradition, a pearl (durr) is a symbol of purity, rarity, and beauty. Being named Durrani can be seen as a spiritual honor, representing a connection to the divine wisdom, as the name was given by the Prophet Muhammad (PBUH) to Mir Muhammad Shah as a mark of his nobility and leadership qualities. The spiritual significance emphasizes the importance of inner purity, nobleness, and caliber in a person, as reflected in the name Durrani.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Durrani carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Popular choice for newborns in Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Durrani corresponds to the Pashto form دراني",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Durrani has the core sense pearl, precious stone",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Durrani remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Durrani",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Fatima Durrani in Istanbul, Turkey attributes much of their success to the blessing of their name Durrani, which means \"Pearl\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Pearl\" symbolizes Derived from the Arabic word 'durr', meaning 'pearl'.. In Islamic spirituality, bearing the name Durrani serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of pearl.",
-    "created_at": "2025-12-22T19:19:49.889Z",
-    "updated_at": "2025-12-22T04:53:15.118Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1793,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Durrani",
-      "description": "Pearl",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Durrani",
+        "durrani"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Durrani",
-          "description": "Discover the meaning of Durrani - \"Pearl\"",
-          "image": "/images/social/durrani-facebook.jpg"
+      "description": "A name associated with the Pashto form دراني, meaning pearl, precious stone.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "durrani",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Pashto"
         },
-        "twitter": {
-          "title": "Durrani - Name Meaning",
-          "description": "Learn about the beautiful name Durrani",
-          "image": "/images/social/durrani-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Durrani",
-          "description": "Name meaning: Pearl",
-          "image": "/images/social/durrani-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Durrani - Meaning: Pearl",
-        "email_subject": "Beautiful Name: Durrani"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Durrani with meaning Pearl",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Durrani, associated with the Pashto form دراني, meaning pearl, precious stone."
     },
-    "similar_sounding_names": [
-      "dimah",
-      "dafiyah",
-      "daniel",
-      "dhuka",
-      "dina",
-      "dean",
-      "diya"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

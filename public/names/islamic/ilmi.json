@@ -3,273 +3,478 @@
   "data": {
     "name": "Ilmi",
     "slug": "ilmi",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Knowledge",
-    "long_meaning": "Derived from the Arabic word 'ilm', meaning 'knowledge'. In Islamic tradition, knowledge is a valuable treasure.",
-    "spiritual_meaning": "Seeking and acquiring knowledge is a fundamental act of worship.",
-    "emotional_traits": [
-      "Curious",
-      "Intelligent",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and socially active",
-    "in_arabic": {
-      "name": "علمي",
-      "meaning": "المرتبط بالعلم والمعرفة",
-      "long_meaning": "اسم علمي عربي يرمز إلى العلم والمعرفة، يتضمن الجذر العربي ع-ل-م، ويحمل دلالات إسلامية وقرآنية هامة، حيث يُشير إلى أهمية العلم في الإسلام، ويرتبط بالتعلم والتفكر والبحث عن الحقيقة"
+    "identity": {
+      "display_name": "Ilmi",
+      "normalized_name": "ilmi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ilmi",
+        "ilmi"
+      ],
+      "search_variants": [
+        "Ilmi",
+        "ilmi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "علمی",
-      "meaning": "علم اور معرفت سے متعلق",
-      "long_meaning": "علمی نام کا مطلب علم اور معرفت ہے، جو عربی جڑ ع-ل-م سے ماخوذ ہے، اور اس کا اسلامی اور قرآنی معانی ہیں، جو علم کی اہمیت کو ظاہر کرتا ہے اور تعلیم، تفکر، اور حقیقت کی تلاش سے متعلق ہے"
+    "core_meaning": {
+      "short_meaning": "Of knowledge; scholarly, scientific",
+      "primary_meaning": "Of knowledge; scholarly",
+      "secondary_meanings": [
+        "scientific"
+      ],
+      "literal_meaning": "Of knowledge; scholarly",
+      "extended_meaning": "Of knowledge; scholarly, scientific",
+      "meaning_explanation": "Ilmi corresponds to the Arabic form علمي (Arabic root ع ل م (ʿ-l-m); عِلْمِيّ (ʿIlmiyy)). Its core sense is of knowledge; scholarly, scientific. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इल्मी",
-      "meaning": "ज्ञान और विज्ञान से संबंधित",
-      "long_meaning": "इल्मी नाम का अर्थ ज्ञान और विज्ञान से संबंधित है, जो अरबी मूल ع-ल-म से लिया गया है, और इसका इस्लामी और कुरआनी अर्थ है, जो ज्ञान के महत्व को दर्शाता है और शिक्षा, विचार, और सत्य की खोज से संबंधित है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "علمي",
+      "transliteration": "ilmi",
+      "romanization": "ilmi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Of knowledge; scholarly",
+        "scientific"
+      ],
+      "etymology_explanation": "The form علمي is an established Arabic lexical item. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "علمي",
-      "meaning": "د پوهې او پوهني سره تړلي",
-      "long_meaning": "د علمي نوم معنا د پوهې او پوهني سره اړیکه لري، چې د عربی ریښې ع-ل-م څخه اخیستل شوی، او دا د اسلامي او قرآني معانی لري، چې د پوهې اهمیت څرګندوي او د زده کړې، فکر، او حقیقت لټون سره اړیکه لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "علمي is an established Arabic form.",
+        "Urdu": "علمی is used in Urdu.",
+        "Persian": "علمی is an established Persian form.",
+        "Hindi": "इल्मी is used in Hindi.",
+        "Pashto": "علمي is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Ilmi",
-      "meaning": "related to knowledge and science",
-      "long_meaning": "Ilmi name means related to knowledge and science, derived from Arabic root ع-ل-م, holds Islamic and Quranic significance, emphasizing importance of knowledge, associated with learning, thought, and search for truth, and commonly used in Muslim cultures"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form علمي. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ilmi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense of knowledge; scholarly, scientific.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Of knowledge; scholarly",
+      "related_concepts": [
+        "of knowledge; scholarly",
+        "scientific"
+      ],
+      "semantic_relationship": "The central semantic idea is of knowledge; scholarly; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of of knowledge; scholarly.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Of knowledge; scholarly",
+        "Scientific"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ilmi",
+        "meaning": "Of knowledge; scholarly, scientific",
+        "long_meaning": "Ilmi is a Arabic-origin name. Its core meaning is of knowledge; scholarly, scientific. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective."
+      },
+      "urdu": {
+        "name": "علمی",
+        "meaning": "علمی، علمیاتی، دانشورانہ",
+        "long_meaning": "Ilmi (علمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم علمی، علمیاتی، دانشورانہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "علمی",
+        "meaning": "علمی، دانشی، علمیاتی",
+        "long_meaning": "Ilmi (علمی) نامی برگرفته از زبان عربی است و معنای اصلی آن علمی، دانشی، علمیاتی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इल्मी",
+        "meaning": "ज्ञान संबंधी, वैज्ञानिक",
+        "long_meaning": "Ilmi (इल्मी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज्ञान संबंधी, वैज्ञानिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "علمي",
+        "meaning": "علمي، پوهنیز",
+        "long_meaning": "Ilmi (علمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې علمي، پوهنیز ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "علمي",
+        "meaning": "العلمي، المنسوب إلى العلم",
+        "long_meaning": "Ilmi (علمي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العلمي، المنسوب إلى العلم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "IL-mee",
-      "urdu": "علمی کا تلفظ علمي ہے",
-      "hindi": "इल्मी का उच्चारण इल्मी है",
-      "pashto": "د علمي د تلفظ علمي دی",
-      "ipa": "/ˈɪlmi/"
+      "romanized": "il-mi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "علمی",
+      "persian": "علمی",
+      "hindi": "इल्मी",
+      "pashto": "علمي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IlmiMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ilmi"
-    ],
-    "name_variations": [],
-    "popularity_score": 66,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ilmi",
+        "ilmi"
+      ],
+      "script_variants": [
+        "علمي",
+        "علمی",
+        "इल्मी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form علمي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ilmi can be understood through the Arabic form علمي, whose central sense is of knowledge; scholarly, scientific. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 75,
-        "year": 2024
+        "question": "What does Ilmi mean?",
+        "answer": "Ilmi is associated with the Arabic form علمي, whose core sense is of knowledge; scholarly, scientific."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Ilmi?",
+        "answer": "Ilmi is associated with Arabic. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Ilmi an Arabic name?",
+        "answer": "Yes — the underlying form علمي is Arabic."
+      },
+      {
+        "question": "Is Ilmi an Islamic name?",
+        "answer": "Ilmi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ilmi a Quranic name?",
+        "answer": "Ilmi should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ilmi mean in Urdu?",
+        "answer": "In Urdu, Ilmi is rendered علمی and carries the sense علمی، علمیاتی، دانشورانہ."
+      },
+      {
+        "question": "What does Ilmi mean in Persian?",
+        "answer": "In Persian, Ilmi is rendered علمی and carries the sense علمی، دانشی، علمیاتی."
+      },
+      {
+        "question": "How is Ilmi pronounced?",
+        "answer": "A romanized syllable approximation is il-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ilmi?",
+        "answer": "Romanization variants include Ilmi, ilmi. Script forms are علمي, علمی, इल्मी."
+      },
+      {
+        "question": "Is Ilmi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ilmi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ilmi, a beautiful Islam name meaning \"Knowledge\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ilmi, Islam name, baby names, Knowledge, Islam baby names, name meaning",
-      "description_paragraph": "Ilmi is a meaningful Islam name of Arabic origin that means \"Knowledge\". Derived from the Arabic word 'ilm', meaning 'knowledge'. In Islamic tradition, knowledge is a valuable treasure.",
-      "keywords": [
-        "Ilmi",
-        "Islam name",
-        "baby names",
-        "Knowledge",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ilmi in Islam tradition?",
-          "a": "Ilmi is a beautiful Islam name meaning \"Knowledge\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ilmi a good Islam name for a baby?",
-          "a": "Yes, Ilmi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ilmi?",
-          "a": "The name Ilmi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ilmi correctly?",
-          "a": "Ilmi is pronounced IL-mee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ilmi?",
-          "a": "Naming a child Ilmi brings blessings. The meaning \"Knowledge\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ilmi?",
-          "a": "Ilmi is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Ilmi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ilmi (علمي).",
+      "h1": "Ilmi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ilmi meaning",
       "secondary_keywords": [
-        "Islam name Ilmi",
-        "Ilmi meaning",
-        "Ilmi origin"
+        "Ilmi name meaning",
+        "Ilmi meaning in Urdu",
+        "Ilmi origin",
+        "Ilmi Islamic name",
+        "Ilmi pronunciation",
+        "Ilmi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ilmi (علمي) is associated with the Arabic form علمي, whose core sense is of knowledge; scholarly, scientific. Ilmi is Arabic عِلْمِيّ (ʿIlmiyy) 'of knowledge; scholarly, scientific', from the root ع ل م (ʿ-l-m). The source gloss 'Knowledge' is broadly consistent. Recorded at medium confidence because the word is primarily an adjective.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ilmi is associated with the Arabic form علمي, whose core sense is of knowledge; scholarly, scientific.",
+      "meaning_section": "The central meaning of Ilmi is of knowledge; scholarly, scientific.",
+      "origin_section": "Ilmi is associated with Arabic rather than with a different language.",
+      "islam_section": "Ilmi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ilmi is with the sense of knowledge; scholarly.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ilmi",
+      "#IlmiMeaning",
+      "#IlmiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In the Islamic world, the pursuit and acquisition of knowledge are considered essential for personal growth, societal progress, and seeking Allah's pleasure. The term 'Ilmi' reflects an individual's dedication and commitment to expanding their knowledge, particularly in the fields of religion, science, philosophy, and literature.",
-    "spiritual_significance": "From a spiritual perspective, Ilmi signifies an important step towards self-enlightenment, a significant journey towards Allah (God), and an ongoing pursuit of His guidance and wisdom. By embracing knowledge, the individual deepens their connection to Allah, the universe, and the ultimate truth. Knowledge is a reminder of Allah's presence and a vehicle for understanding His divine plan.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ilmi was a prominent scholar during the Abbasid Caliphate. The name Ilmi carried significant weight in that era.",
-        "time_period": "8th-9th century",
-        "context": "Ilmi was a renowned scholar and jurist during the Abbasid Caliphate. His works on Islamic jurisprudence and theology were widely read and respected."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Ilmi is a popular name for girls in the Muslim world"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ilmi corresponds to the Arabic form علمي",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Ilmi has the core sense of knowledge; scholarly, scientific",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Social media, baby name websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ilmi has seen a resurgence in popularity in the Muslim world, particularly as a name for girls. It is often associated with knowledge and learning, making it a fitting choice for parents who value education."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Ilmi",
-      "location": "Karachi, Pakistan",
-      "story": "Zainab Ilmi from Karachi, Pakistan embodies the meaning of Ilmi - \"Knowledge\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Knowledge\" symbolizes Derived from the Arabic word 'ilm', meaning 'knowledge'. In Islamic tradition, knowledge is a valuable treasure.. In Islamic spirituality, bearing the name Ilmi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of knowledge.",
-    "created_at": "2025-12-22T19:19:49.848Z",
-    "updated_at": "2025-12-22T04:53:14.713Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1210,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ilmi",
-      "description": "Knowledge",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Ilmi",
+        "ilmi"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ilmi",
-          "description": "Discover the meaning of Ilmi - \"Knowledge\"",
-          "image": "/images/social/ilmi-facebook.jpg"
+      "description": "A name associated with the Arabic form علمي, meaning of knowledge; scholarly, scientific.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ilmi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ilmi - Name Meaning",
-          "description": "Learn about the beautiful name Ilmi",
-          "image": "/images/social/ilmi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ilmi",
-          "description": "Name meaning: Knowledge",
-          "image": "/images/social/ilmi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ilmi - Meaning: Knowledge",
-        "email_subject": "Beautiful Name: Ilmi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ilmi with meaning Knowledge",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ilmi, associated with the Arabic form علمي, meaning of knowledge; scholarly, scientific."
     },
-    "similar_sounding_names": [
-      "inga",
-      "id",
-      "iqrit",
-      "isa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

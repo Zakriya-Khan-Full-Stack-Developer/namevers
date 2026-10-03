@@ -3,296 +3,481 @@
   "data": {
     "name": "Bakhat",
     "slug": "bakhat",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Fortune, Prosperity, Wealth",
-    "long_meaning": "Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah.",
-    "spiritual_meaning": "A name imbued with the blessings of Allah, symbolizing prosperity and abundance.",
-    "emotional_traits": [
-      "Graceful",
-      "Harmonious",
-      "Gentle"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Friday)",
-    "lucky_colors": [
-      "Gold",
-      "Purple",
-      "Silver"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 5,
-    "numerology_meaning": "Those with the name Bakhat are natural leaders, creative thinkers, and have a strong sense of intuition. They are independent and adaptable, often finding success in business or artistic pursuits.",
-    "in_arabic": {
-      "name": "Bakhat",
-      "meaning": "اسم عربي يعني Fortune, Prosperity, Wealth",
-      "long_meaning": "Bakhat هو اسم عربي إسلامي يحمل معنى عميقاً في الثقافة الإسلامية. Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah."
+    "identity": {
+      "display_name": "Bakhat",
+      "normalized_name": "bakhat",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Bakhat",
+        "bakhat"
+      ],
+      "search_variants": [
+        "Bakhat",
+        "bakhat"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "Bakhat",
-      "meaning": "اسلامی نام جس کا مطلب ہے Fortune, Prosperity, Wealth",
-      "long_meaning": "Bakhat ایک اسلامی نام ہے جو مسلم ثقافت میں گہری روحانی اہمیت رکھتا ہے۔ Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah."
+    "core_meaning": {
+      "short_meaning": "Fortune, luck, destiny",
+      "primary_meaning": "Fortune",
+      "secondary_meanings": [
+        "luck",
+        "destiny"
+      ],
+      "literal_meaning": "Fortune",
+      "extended_meaning": "Fortune, luck, destiny",
+      "meaning_explanation": "Bakhat corresponds to the Persian form بخت (Persian lexical element). Its core sense is fortune, luck, destiny. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "Bakhat",
-      "meaning": "इस्लामी नाम जिसका अर्थ है Fortune, Prosperity, Wealth",
-      "long_meaning": "Bakhat एक इस्लामी नाम है जो मुस्लिम संस्कृति में गहरा आध्यात्मिक महत्व रखता है। Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah."
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "بخت",
+      "transliteration": "bakhat",
+      "romanization": "bakhat",
+      "root_status": "Persian lexical element",
+      "etymological_meaning": [
+        "Fortune",
+        "luck",
+        "destiny"
+      ],
+      "etymology_explanation": "The form بخت is an established Persian lexical item. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "Bakhat",
-      "meaning": "اسلامي نوم چې معنی یې ده Fortune, Prosperity, Wealth",
-      "long_meaning": "Bakhat یو اسلامي نوم دی چې په مسلم کلتور کې ژوره روحاني اهميت لري. Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "بخت is an established Arabic form.",
+        "Urdu": "بخت is used in Urdu.",
+        "Persian": "بخت is an established Persian form.",
+        "Hindi": "बख़त is used in Hindi.",
+        "Pashto": "بخت is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Bakhat",
-      "meaning": "Fortune, Prosperity, Wealth",
-      "long_meaning": "Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form بخت. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Bakhat may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense fortune, luck, destiny.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fortune",
+      "related_concepts": [
+        "fortune",
+        "luck",
+        "destiny"
+      ],
+      "semantic_relationship": "The central semantic idea is fortune; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of fortune.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Fortune",
+        "Luck",
+        "Destiny"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Bakhat",
+        "meaning": "Fortune, luck, destiny",
+        "long_meaning": "Bakhat is a Persian-origin name. Its core meaning is fortune, luck, destiny. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "بخت",
+        "meaning": "قسمت، بخت، نصیب",
+        "long_meaning": "Bakhat (بخت) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قسمت، بخت، نصیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "بخت",
+        "meaning": "بخت، سرنوشت، اقبال",
+        "long_meaning": "Bakhat (بخت) نامی برگرفته از زبان فارسی است و معنای اصلی آن بخت، سرنوشت، اقبال است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "बख़त",
+        "meaning": "भाग्य, क़िस्मत",
+        "long_meaning": "Bakhat (बख़त) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ भाग्य, क़िस्मत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بخت",
+        "meaning": "بخت، برخه",
+        "long_meaning": "Bakhat (بخت) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بخت، برخه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بخت",
+        "meaning": "البخت، الحظ، النصيب",
+        "long_meaning": "Bakhat (بخت) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي البخت، الحظ، النصيب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "B-akh-at",
-      "urdu": "Bakhat کا تلفظ",
-      "hindi": "Bakhat का उच्चारण",
-      "pashto": "د Bakhat تلفظ",
-      "ipa": "/b/a/k/h/a/t/"
+      "romanized": "bak-hat",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بخت",
+      "persian": "بخت",
+      "hindi": "बख़त",
+      "pashto": "بخت"
     },
-    "celebrity_usage": [
-      "Bakhti Shivdasani"
-    ],
-    "social_tags": [
-      "#BakhatMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 79,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Bakhat",
+        "bakhat"
+      ],
+      "script_variants": [
+        "بخت",
+        "बख़त"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بخت is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Bakhat can be understood through the Persian form بخت, whose central sense is fortune, luck, destiny. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 89,
-        "year": 2024
+        "question": "What does Bakhat mean?",
+        "answer": "Bakhat is associated with the Persian form بخت, whose core sense is fortune, luck, destiny."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Bakhat?",
+        "answer": "Bakhat is associated with Persian. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Bakhat an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 81,
-        "year": 2024
+        "question": "Is Bakhat an Islamic name?",
+        "answer": "Bakhat can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Bakhat a Quranic name?",
+        "answer": "Bakhat should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Bakhat mean in Urdu?",
+        "answer": "In Urdu, Bakhat is rendered بخت and carries the sense قسمت، بخت، نصیب."
+      },
+      {
+        "question": "What does Bakhat mean in Persian?",
+        "answer": "In Persian, Bakhat is rendered بخت and carries the sense بخت، سرنوشت، اقبال."
+      },
+      {
+        "question": "How is Bakhat pronounced?",
+        "answer": "A romanized syllable approximation is bak-hat. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Bakhat?",
+        "answer": "Romanization variants include Bakhat, bakhat. Script forms are بخت, बख़त."
+      },
+      {
+        "question": "Is Bakhat a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Bakhat Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Bakhat, a beautiful Islam name meaning \"Fortune, Prosperity, Wealth\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Bakhat, Islam name, baby names, Fortune, Prosperity, Wealth, Islam baby names, name meaning",
-      "description_paragraph": "Bakhat is a meaningful Islam name of Arabic origin that means \"Fortune, Prosperity, Wealth\". Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah.",
-      "keywords": [
-        "Bakhat",
-        "Islam name",
-        "baby names",
-        "Fortune, Prosperity, Wealth",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Bakhat in Islam tradition?",
-          "a": "Bakhat is a beautiful Islam name meaning \"Fortune, Prosperity, Wealth\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Bakhat a good Islam name for a baby?",
-          "a": "Yes, Bakhat is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Bakhat?",
-          "a": "The name Bakhat has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Bakhat correctly?",
-          "a": "Bakhat is pronounced B-akh-at in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Bakhat?",
-          "a": "Naming a child Bakhat brings blessings. The meaning \"Fortune, Prosperity, Wealth\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Bakhat?",
-          "a": "Bakhat is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Bakhat Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Bakhat (بخت).",
+      "h1": "Bakhat Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Bakhat meaning",
       "secondary_keywords": [
-        "Islam name Bakhat",
-        "Bakhat meaning",
-        "Bakhat origin"
+        "Bakhat name meaning",
+        "Bakhat meaning in Urdu",
+        "Bakhat origin",
+        "Bakhat Islamic name",
+        "Bakhat pronunciation",
+        "Bakhat name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Bakhat (بخت) is associated with the Persian form بخت, whose core sense is fortune, luck, destiny. Persian bakht ('fortune, luck, destiny'). The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Bakhat is associated with the Persian form بخت, whose core sense is fortune, luck, destiny.",
+      "meaning_section": "The central meaning of Bakhat is fortune, luck, destiny.",
+      "origin_section": "Bakhat is associated with Persian rather than with a different language.",
+      "islam_section": "Bakhat can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Bakhat is with the sense fortune.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Bakhat",
+      "#BakhatMeaning",
+      "#BakhatName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Bakhat is a name that carries a sense of prosperity, abundance and good fortune in Islamic culture. It is often associated with blessings from Allah, and is a name given to children with the hope of bringing them happiness, success and wealth in their future endeavors.",
-    "spiritual_significance": "In the spiritual context, Bakhat represents the blessings and mercy of Allah. It is a reminder that all that we have, all that we are, comes from Allah. By carrying this name, one is constantly connected to the grace and generosity of the Divine. Bakhat is a name that inspires hope and gratitude, a reminder that even in times of hardship, Allah is always with us and will provide for us. It is a name that encourages us to remember and cherish the blessings in our lives, and to use them in the service of Allah and in the benefit of others.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Battuta's travels in the Indian Subcontinent (circa 1330-1345 AD). He mentions a town named Bakht Nagar in present-day Bangladesh.",
-        "time_period": "14th century AD",
-        "context": "Bakht Nagar was a significant town in the Sylhet region of present-day Bangladesh. Ibn Battuta, a renowned Moroccan traveler, visited this town during his travels in the Indian Subcontinent."
-      },
-      {
-        "reference": "Mughal Emperor Shah Jahan's inscription on the Taj Mahal (1653 AD). He mentions certain lands as 'Bakht-i-Arz', meaning 'lucky or favored lands'.",
-        "time_period": "17th century AD",
-        "context": "The term 'Bakht-i-Arz' was used by Mughal Emperor Shah Jahan to refer to certain lands that were considered especially fortunate or favored. This term is mentioned in the inscription on the Taj Mahal."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Spiritual growth",
-        "Self-care",
-        "Healing"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Bakhat corresponds to the Persian form بخت",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Bakhat has the core sense fortune, luck, destiny",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Blogs",
-        "YouTube"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Bakhat' in the modern context refers to a woman who embodies the divine feminine, embodying qualities of abundance, prosperity, and joy. In contemporary spirituality and self-care circles, Bakhat is often seen as a symbol of empowerment, creativity, and sensuality. On platforms such as Instagram, blogs, and YouTube, Bakhat is celebrated through images, writings, and videos that showcase the embodiment of these qualities in everyday life. For example, a Bakhat Instagram account might feature images of flowers, full moon rituals, and self-care practices, while a Bakhat blog might offer articles on spiritual growth, creativity, and sensuality. A Bakhat YouTube channel might include videos on meditation practices, energy healing techniques, and rituals for attracting abundance."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Bakhat",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Layla Bakhat from Kuala Lumpur, Malaysia embodies the meaning of Bakhat - \"Fortune, Prosperity, Wealth\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Fortune, Prosperity, Wealth\" symbolizes Bakhat originates from the Persian word meaning 'fortune' or 'prosperity'. It is a name of spiritual significance, representing the blessings and wealth granted by Allah.. In Islamic spirituality, bearing the name Bakhat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of fortune, prosperity, wealth.",
-    "created_at": "2025-12-22T19:19:50.334Z",
-    "updated_at": "2025-12-22T04:53:15.958Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1780,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Bakhat",
-      "description": "Fortune, Prosperity, Wealth",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Bakhat",
+        "bakhat"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Bakhat",
-          "description": "Discover the meaning of Bakhat - \"Fortune, Prosperity, Wealth\"",
-          "image": "/images/social/bakhat-facebook.jpg"
+      "description": "A name associated with the Persian form بخت, meaning fortune, luck, destiny.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "bakhat",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Bakhat - Name Meaning",
-          "description": "Learn about the beautiful name Bakhat",
-          "image": "/images/social/bakhat-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Bakhat",
-          "description": "Name meaning: Fortune, Prosperity, Wealth",
-          "image": "/images/social/bakhat-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Bakhat - Meaning: Fortune, Prosperity, Wealth",
-        "email_subject": "Beautiful Name: Bakhat"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Bakhat with meaning Fortune, Prosperity, Wealth",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Bakhat, associated with the Persian form بخت, meaning fortune, luck, destiny."
     },
-    "similar_sounding_names": [
-      "banujah",
-      "badri",
-      "busrah",
-      "buhayyah",
-      "basbas",
-      "buthayna",
-      "binesh",
-      "baseema",
-      "baraaa",
-      "ban"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

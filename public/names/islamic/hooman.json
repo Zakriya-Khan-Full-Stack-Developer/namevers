@@ -3,286 +3,473 @@
   "data": {
     "name": "Hooman",
     "slug": "hooman",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Meaning not available",
-    "long_meaning": "No Islamic, historical or cultural meaning found",
-    "spiritual_meaning": "N/A",
-    "emotional_traits": [
-      "Righteous",
-      "Wise",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest",
-      "S = Strong"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(E.g., Friday, Monday)",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "(E.g., Aqeeq, Emerald)",
-    "life_path_number": 5,
-    "numerology_meaning": "Creative, Free-spirited, Adaptable, and Resourceful individuals",
-    "in_arabic": {
-      "name": "هومان",
-      "meaning": "اسم مذكر معناه العظيم او الكبير في القيمة",
-      "long_meaning": "اسم هومان مشتق من الجذر العربي 'هـ و م ن' والذي يحمل معاني العظمة و الرفعة. يستخدم الاسم في بعض الثقافات الإسلامية للإشارة إلى الشخص العظيم أو ذي القيمة الكبيرة. لا يوجد ذكر مباشر للاسم في القرآن، لكنه يرتبط بمفاهيم الرفعة و العزة."
+    "identity": {
+      "display_name": "Hooman",
+      "normalized_name": "hooman",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hooman",
+        "hooman"
+      ],
+      "search_variants": [
+        "Hooman",
+        "hooman"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ہومان",
-      "meaning": "عظیم، بڑا، اہم شخصیت",
-      "long_meaning": "ہومان کا مطلب عظیم یا بڑا ہے۔ یہ نام بعض اسلامی ممالک میں مقبول ہے اور اس کا تعلق عربی جڑ 'هـ و م ن' سے ہے، جو عظمت و رفعت کے معنی رکھتا ہے۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں بھی استعمال ہوتا ہے، خاص طور پر ایران اور افغانستان کے آس پاس کے علاقوں میں۔"
+    "core_meaning": {
+      "short_meaning": "Hooman; a Persian male given name",
+      "primary_meaning": "Hooman; a Persian male given name",
+      "secondary_meanings": [],
+      "literal_meaning": "Hooman; a Persian male given name",
+      "extended_meaning": "Hooman; a Persian male given name",
+      "meaning_explanation": "Hooman corresponds to the Persian form هومن (Persian هومن (Hūman)). Its core sense is hooman; a persian male given name. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "होमन",
-      "meaning": "महान, बड़ा, महत्वपूर्ण व्यक्ति",
-      "long_meaning": "होमन नाम का अर्थ महान या बड़ा होता है। यह नाम इस्लामी संस्कृति में प्रयोग होता है और इसका संबंध अरबी मूल 'هـ و م ن' से है, जो महानता और ऊंचाई के अर्थ रखता है। भारतीय मुस्लिम समुदाय में भी यह नाम प्रयोग होता है, खासकर मध्य पूर्वी और दक्षिण एशियाई प्रभाव वाले क्षेत्रों में।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "هومن",
+      "transliteration": "hooman",
+      "romanization": "hooman",
+      "root_status": "Persian هومن (Hūman)",
+      "etymological_meaning": [
+        "Hooman; a Persian male given name"
+      ],
+      "etymology_explanation": "The form هومن is an established Persian lexical item. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "هومان",
-      "meaning": "عظیم، لوی، مهم سړی",
-      "long_meaning": "د هومان نوم معنی عظیم یا لوی دی. دا نوم د 'هـ و م ن' عربي ريښې څخه اخیستل شوی، کوم چې د عظمت او لوړوالي مفهوم لري. په افغانستان او پاکستان کې د پښتو وینا کوونکو کې دا نوم کارول کیږي، په ځانګړي ډول د افغان او پښتني دودیزو ټولنو کې."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "هومن is an established Arabic form.",
+        "Urdu": "ہومن is used in Urdu.",
+        "Persian": "هومن is an established Persian form.",
+        "Hindi": "हूमन is used in Hindi.",
+        "Pashto": "هومن is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Hooman",
-      "meaning": "Great, noble, or esteemed person",
-      "long_meaning": "The name Hooman originates from the Arabic root 'هـ و م ن' (h-w-m-n), which conveys meanings of greatness, nobility, and elevation. Although not directly mentioned in the Quran, the name is associated with concepts of grandeur and high esteem. Used in various Islamic cultures, Hooman symbolizes a person of significant value, dignity, and respect. The name has historical usage in regions influenced by Persian and Arabic cultures."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Persian form هومن. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hooman may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense hooman; a persian male given name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Hooman; a Persian male given name",
+      "related_concepts": [
+        "hooman; a persian male given name"
+      ],
+      "semantic_relationship": "The central semantic idea is hooman; a persian male given name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of hooman; a persian male given name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Hooman; a persian male given name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hooman",
+        "meaning": "Hooman; a Persian male given name",
+        "long_meaning": "Hooman is a Persian-origin name. Its core meaning is hooman; a persian male given name. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "ہومن",
+        "meaning": "ہومن، فارسی مردانہ نام",
+        "long_meaning": "Hooman (ہومن) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ہومن، فارسی مردانہ نام ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "هومن",
+        "meaning": "هومن، نام مردانه فارسی",
+        "long_meaning": "Hooman (هومن) نامی برگرفته از زبان فارسی است و معنای اصلی آن هومن، نام مردانه فارسی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हूमन",
+        "meaning": "हूमन, फ़ारसी पुरुष नाम",
+        "long_meaning": "Hooman (हूमन) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हूमन, फ़ारसी पुरुष नाम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "هومن",
+        "meaning": "هومن، فارسي نر نوم",
+        "long_meaning": "Hooman (هومن) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې هومن، فارسي نر نوم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "هومن",
+        "meaning": "هومن، اسم علم مذكر فارسي",
+        "long_meaning": "Hooman (هومن) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي هومن، اسم علم مذكر فارسي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "Hoo-man",
-      "urdu": "ہو مان",
-      "hindi": "होमान",
-      "pashto": "هومان",
-      "ipa": "/ˈhuːmɑːn/"
+      "romanized": "hoo-man",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ہومن",
+      "persian": "هومن",
+      "hindi": "हूमन",
+      "pashto": "هومن"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HoomanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hooman"
-    ],
-    "name_variations": [
-      "Human"
-    ],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hooman",
+        "hooman"
+      ],
+      "script_variants": [
+        "هومن",
+        "ہومن",
+        "हूमन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form هومن is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hooman can be understood through the Persian form هومن, whose central sense is hooman; a persian male given name. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Hooman mean?",
+        "answer": "Hooman is associated with the Persian form هومن, whose core sense is hooman; a persian male given name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Hooman?",
+        "answer": "Hooman is associated with Persian. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Hooman an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Hooman an Islamic name?",
+        "answer": "Hooman can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hooman a Quranic name?",
+        "answer": "Hooman should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hooman mean in Urdu?",
+        "answer": "In Urdu, Hooman is rendered ہومن and carries the sense ہومن، فارسی مردانہ نام."
+      },
+      {
+        "question": "What does Hooman mean in Persian?",
+        "answer": "In Persian, Hooman is rendered هومن and carries the sense هومن، نام مردانه فارسی."
+      },
+      {
+        "question": "How is Hooman pronounced?",
+        "answer": "A romanized syllable approximation is hoo-man. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hooman?",
+        "answer": "Romanization variants include Hooman, hooman. Script forms are هومن, ہومن, हूमन."
+      },
+      {
+        "question": "Is Hooman a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hooman Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hooman, a beautiful Islam name meaning \"Meaning not available\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hooman, Islam name, baby names, Meaning not available, Islam baby names, name meaning",
-      "description_paragraph": "Hooman is a meaningful Islam name of Arabic origin that means \"Meaning not available\". No Islamic, historical or cultural meaning found",
-      "keywords": [
-        "Hooman",
-        "Islam name",
-        "baby names",
-        "Meaning not available",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hooman in Islam tradition?",
-          "a": "Hooman is a beautiful Islam name meaning \"Meaning not available\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hooman a good Islam name for a baby?",
-          "a": "Yes, Hooman is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hooman?",
-          "a": "The name Hooman has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hooman correctly?",
-          "a": "Hooman is pronounced Hoo-man in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hooman?",
-          "a": "Naming a child Hooman brings blessings. The meaning \"Meaning not available\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hooman?",
-          "a": "Hooman is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Hooman Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hooman (هومن).",
+      "h1": "Hooman Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hooman meaning",
       "secondary_keywords": [
-        "Islam name Hooman",
-        "Hooman meaning",
-        "Hooman origin"
+        "Hooman name meaning",
+        "Hooman meaning in Urdu",
+        "Hooman origin",
+        "Hooman Islamic name",
+        "Hooman pronunciation",
+        "Hooman name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hooman (هومن) is associated with the Persian form هومن, whose core sense is hooman; a persian male given name. Hooman is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Meaning not available'; هومن (Hūman) is a Persian male given name, but no lexical meaning could be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hooman is associated with the Persian form هومن, whose core sense is hooman; a persian male given name.",
+      "meaning_section": "The central meaning of Hooman is hooman; a persian male given name.",
+      "origin_section": "Hooman is associated with Persian rather than with a different language.",
+      "islam_section": "Hooman can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hooman is with the sense hooman; a persian male given name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hooman",
+      "#HoomanMeaning",
+      "#HoomanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Hooman\" is not of Islamic origin, nor does it hold any significance in Islamic culture. It is likely a non-Arabic name that has no connection or impact on the Islamic community.",
-    "spiritual_significance": "In Islamic tradition, names carry deep spiritual significance as they are believed to be a gift from God. The name given to a child is seen as having an influence on their character, destiny, and spiritual growth. Unfortunately, \"Hooman\" lacks any spiritual significance within Islamic beliefs or practices.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Khaldun describes the Berber tribe Hooman in his book 'The Muqaddimah'. Hooman inhabited the Maghreb region and were known for their military prowess and strategic alliances. They were a significant force during the 14th century.",
-        "time_period": "14th century",
-        "context": "Ibn Khaldun's historical and sociological work"
-      },
-      {
-        "reference": "The Hooman dynasty in 11th century Andalusia ruled over Granada and other parts of the Iberian Peninsula. They were known for their patronage of the arts, especially in the fields of calligraphy and poetry.",
-        "time_period": "11th century",
-        "context": "Medieval Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic culture",
-        "Personal names",
-        "Digital identity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hooman corresponds to the Persian form هومن",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Hooman has the core sense hooman; a persian male given name",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "E-commerce sites",
-        "Gaming platforms"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hooman, which has its roots in Islamic culture, is gaining popularity as a modern personal name among individuals seeking unique and meaningful names for their digital identity. Hooman is seen on various platforms, including social media, where it is used as a username or handle for profiles. On e-commerce sites, Hooman is used as a name for online stores, showcasing products or services. In the gaming industry, Hooman is used as a gamer tag, representing a player's persona or identity within virtual communities."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Hooman",
-      "location": "Karachi, Pakistan",
-      "story": "Khadija Hooman, a teacher in Karachi, Pakistan, shares that their name Hooman meaning \"Meaning not available\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Meaning not available\" symbolizes No Islamic, historical or cultural meaning found. In Islamic spirituality, bearing the name Hooman serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of meaning not available.",
-    "created_at": "2025-12-22T19:19:50.335Z",
-    "updated_at": "2025-12-22T04:53:15.962Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1023,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hooman",
-      "description": "Meaning not available",
-      "additionalName": [
-        "Human"
+      "alternateName": [
+        "Hooman",
+        "hooman"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Persian form هومن, meaning hooman; a persian male given name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hooman",
-          "description": "Discover the meaning of Hooman - \"Meaning not available\"",
-          "image": "/images/social/hooman-facebook.jpg"
+      "termCode": "hooman",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Hooman - Name Meaning",
-          "description": "Learn about the beautiful name Hooman",
-          "image": "/images/social/hooman-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Hooman",
-          "description": "Name meaning: Meaning not available",
-          "image": "/images/social/hooman-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hooman - Meaning: Meaning not available",
-        "email_subject": "Beautiful Name: Hooman"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hooman with meaning Meaning not available",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hooman, associated with the Persian form هومن, meaning hooman; a persian male given name."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

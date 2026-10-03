@@ -3,286 +3,482 @@
   "data": {
     "name": "Izma",
     "slug": "izma",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Mother of a lion",
-    "long_meaning": "Derived from the Arabic root 'azama', which means 'to be heavy, to become strong'. In Islamic history, Izma is the name of the mother of Prophet Solomon (AS). She was known for her strength and courage in protecting her son from adversaries.",
-    "spiritual_meaning": "Symbol of maternal strength and protection in Islam.",
-    "emotional_traits": [
-      "Righteous",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Gold",
-      "Pink"
-    ],
-    "lucky_stone": "Aquamarine",
-    "life_path_number": 6,
-    "numerology_meaning": "Individuals with a life path number 6 are nurturers, caretakers, and providers. They possess a strong desire to help others and often find joy in making others happy.",
-    "in_arabic": {
-      "name": "عزما",
-      "meaning": "الازدهار والتقدم والنجاح",
-      "long_meaning": "العزما هي كلمة عربية تعني الازدهار والتقدم والنجاح، وتأتي من الجذر العربي عزم، الذي يعني القرار وال决意، ولهذا فإن العزما ت象ز الإرادة القوية والتصميم على النجاح، وتستخدم في الثقافة الإسلامية لتعبير عن الأمل والتفاؤل في المستقبل"
+    "identity": {
+      "display_name": "Izma",
+      "normalized_name": "izma",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Izma",
+        "izma"
+      ],
+      "search_variants": [
+        "Izma",
+        "izma"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عزما",
-      "meaning": "ترقی اور کامیابی",
-      "long_meaning": "عزما ایک عربی لفظ ہے جو ترقی اور کامیابی کے لیے استعمال ہوتا ہے، یہ لفظ عزم سے ماخوذ ہے جو ارادے اور决یت کے لیے استعمال ہوتا ہے، اس لیے عزما ایک مضبوط ارادے اور کامیабی کی طرف پیش قدمی کی علامت ہے، اور یہ جنوبی ایشیائی مسلم ثقافت میں امید اور مستقبل کے لیے تفاؤل کے لیے استعمال ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Greatness, grandeur, majesty",
+      "primary_meaning": "Greatness",
+      "secondary_meanings": [
+        "grandeur",
+        "majesty"
+      ],
+      "literal_meaning": "Greatness",
+      "extended_meaning": "Greatness, grandeur, majesty",
+      "meaning_explanation": "Izma corresponds to the Arabic form عظمة (Arabic root ع ظ م (ʿ-ẓ-m); عَظَمَة (ʿAẓama)). Its core sense is greatness, grandeur, majesty. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इज़मा",
-      "meaning": "प्रगति और सफलता",
-      "long_meaning": "इज़मा एक अरबी शब्द है जो प्रगति और सफलता के लिए उपयोग किया जाता है, यह शब्द अज़म से लिया गया है जो इरादे और संकल्प के लिए उपयोग किया जाता है, इसलिए इज़मा एक मजबूत इरादे और सफलता की ओर आगे बढ़ने का प्रतीक है, और यह भारतीय मुस्लिम समुदाय में आशा और भविष्य के लिए उत्साह के लिए उपयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عظمة",
+      "transliteration": "izma",
+      "romanization": "izma",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Greatness",
+        "grandeur",
+        "majesty"
+      ],
+      "etymology_explanation": "The form عظمة is an established Arabic lexical item. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عزما",
-      "meaning": "پوهی او بریایی",
-      "long_meaning": "عزما یو عربي کلمه ده چې د پوهی او بریایی لپاره کارېږي، دا کلمه د عزم څخه اخیستل شوی ده چې د اراده او決یت لپاره کارېږي، نو ځکه عزما یو قوی اراده او بریایی ته د پرمختیا یو نښه ده، او دا په افغان/پشتون کلتور کې د आशا او د راتلونکي لپاره د تفاؤل لپاره کارېږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عظمة is an established Arabic form.",
+        "Urdu": "عظمت is used in Urdu.",
+        "Persian": "عظمت is an established Persian form.",
+        "Hindi": "इज़मा is used in Hindi.",
+        "Pashto": "عظمت is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Izma",
-      "meaning": "prosperity and success",
-      "long_meaning": "Izma is an Arabic name that means prosperity and success, derived from the Arabic root azm, which means determination and resolve, thus Izma symbolizes a strong will and progress towards success, and is significant in Islamic tradition for its spiritual meaning and association with positive personality traits"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عظمة. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Izma may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense greatness, grandeur, majesty.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Greatness",
+      "related_concepts": [
+        "greatness",
+        "grandeur",
+        "majesty"
+      ],
+      "semantic_relationship": "The central semantic idea is greatness; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of greatness.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Greatness",
+        "Grandeur",
+        "Majesty"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Izma",
+        "meaning": "Greatness, grandeur, majesty",
+        "long_meaning": "Izma is a Arabic-origin name. Its core meaning is greatness, grandeur, majesty. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة."
+      },
+      "urdu": {
+        "name": "عظمت",
+        "meaning": "عظمت، بزرگی، جلال",
+        "long_meaning": "Izma (عظمت) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عظمت، بزرگی، جلال ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عظمت",
+        "meaning": "عظمت، بزرگی، جلال",
+        "long_meaning": "Izma (عظمت) نامی برگرفته از زبان عربی است و معنای اصلی آن عظمت، بزرگی، جلال است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इज़मा",
+        "meaning": "महानता, विशालता, गरिमा",
+        "long_meaning": "Izma (इज़मा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ महानता, विशालता, गरिमा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عظمت",
+        "meaning": "عظمت، لویي، جلال",
+        "long_meaning": "Izma (عظمت) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عظمت، لویي، جلال ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عظمة",
+        "meaning": "العظمة، الجلال، الكبرياء",
+        "long_meaning": "Izma (عظمة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العظمة، الجلال، الكبرياء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "IZ-mah",
-      "urdu": "عزما کی تلفظ ایزما ہے",
-      "hindi": "इज़मा का उच्चारण इज़मा है",
-      "pashto": "د عزما د تلفظ ایزما ده",
-      "ipa": "/ˈɪzmə/"
+      "romanized": "iz-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عظمت",
+      "persian": "عظمت",
+      "hindi": "इज़मा",
+      "pashto": "عظمت"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IzmaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Izma"
-    ],
-    "name_variations": [
-      "Izmah"
-    ],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Izma",
+        "izma"
+      ],
+      "script_variants": [
+        "عظمة",
+        "عظمت",
+        "इज़मा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عظمة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Izma can be understood through the Arabic form عظمة, whose central sense is greatness, grandeur, majesty. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Izma mean?",
+        "answer": "Izma is associated with the Arabic form عظمة, whose core sense is greatness, grandeur, majesty."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Izma?",
+        "answer": "Izma is associated with Arabic. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Izma an Arabic name?",
+        "answer": "Yes — the underlying form عظمة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 80,
-        "year": 2024
+        "question": "Is Izma an Islamic name?",
+        "answer": "Izma can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Izma a Quranic name?",
+        "answer": "Izma should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Izma mean in Urdu?",
+        "answer": "In Urdu, Izma is rendered عظمت and carries the sense عظمت، بزرگی، جلال."
+      },
+      {
+        "question": "What does Izma mean in Persian?",
+        "answer": "In Persian, Izma is rendered عظمت and carries the sense عظمت، بزرگی، جلال."
+      },
+      {
+        "question": "How is Izma pronounced?",
+        "answer": "A romanized syllable approximation is iz-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Izma?",
+        "answer": "Romanization variants include Izma, izma. Script forms are عظمة, عظمت, इज़मा."
+      },
+      {
+        "question": "Is Izma a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Izma Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Izma, a beautiful Islam name meaning \"Mother of a lion\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Izma, Islam name, baby names, Mother of a lion, Islam baby names, name meaning",
-      "description_paragraph": "Izma is a meaningful Islam name of Arabic origin that means \"Mother of a lion\". Derived from the Arabic root 'azama', which means 'to be heavy, to become strong'. In Islamic history, Izma is the name of the mother of Prophet Solomon (AS). She was known for her strength and courage in protecting her son from adversaries.",
-      "keywords": [
-        "Izma",
-        "Islam name",
-        "baby names",
-        "Mother of a lion",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Izma in Islam tradition?",
-          "a": "Izma is a beautiful Islam name meaning \"Mother of a lion\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Izma a good Islam name for a baby?",
-          "a": "Yes, Izma is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Izma?",
-          "a": "The name Izma has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Izma correctly?",
-          "a": "Izma is pronounced IZ-mah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Izma?",
-          "a": "Naming a child Izma brings blessings. The meaning \"Mother of a lion\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Izma?",
-          "a": "Izma is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Izma Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Izma (عظمة).",
+      "h1": "Izma Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Izma meaning",
       "secondary_keywords": [
-        "Islam name Izma",
-        "Izma meaning",
-        "Izma origin"
+        "Izma name meaning",
+        "Izma meaning in Urdu",
+        "Izma origin",
+        "Izma Islamic name",
+        "Izma pronunciation",
+        "Izma name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Izma (عظمة) is associated with the Arabic form عظمة, whose core sense is greatness, grandeur, majesty. Izma is Arabic عَظَمَة (ʿAẓama) 'greatness, grandeur, majesty', from the root ع ظ م (ʿ-ẓ-m). CRITICAL SOURCE ERROR: the source gave عزما (a different form) and glossed the name 'Mother of a lion'; the correct form is عَظَمَة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Izma is associated with the Arabic form عظمة, whose core sense is greatness, grandeur, majesty.",
+      "meaning_section": "The central meaning of Izma is greatness, grandeur, majesty.",
+      "origin_section": "Izma is associated with Arabic rather than with a different language.",
+      "islam_section": "Izma can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Izma is with the sense greatness.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Izma",
+      "#IzmaMeaning",
+      "#IzmaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Izma holds historical significance as the name of Prophet Solomon's (AS) mother. Her strength and courage in protecting her son from adversaries have been celebrated in Islamic tradition. This name can serve as an inspiration for individuals to display strength and resilience in the face of challenges.",
-    "spiritual_significance": "The name Izma signifies strength and courage, not only on a physical level but also on a spiritual one. It reminds us of the importance of protecting and nurturing our faith and values, just as Izma protected and raised Prophet Solomon (AS). It encourages us to be strong in our belief and to face trials with courage, seeking the guidance and strength from Allah (SWT).",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Izma carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Izma corresponds to the Arabic form عظمة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Izma has the core sense greatness, grandeur, majesty",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Izma remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Izma",
-      "location": "Karachi, Pakistan",
-      "story": "Fatima Izma from Karachi, Pakistan embodies the meaning of Izma - \"Mother of a lion\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Mother of a lion\" symbolizes Derived from the Arabic root 'azama', which means 'to be heavy, to become strong'. In Islamic history, Izma is the name of the mother of Prophet Solomon (AS). She was known for her strength and courage in protecting her son from adversaries.. In Islamic spirituality, bearing the name Izma serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of mother of a lion.",
-    "created_at": "2025-12-22T19:19:49.909Z",
-    "updated_at": "2025-12-22T04:53:15.263Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1607,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Izma",
-      "description": "Mother of a lion",
-      "additionalName": [
-        "Izmah"
+      "alternateName": [
+        "Izma",
+        "izma"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form عظمة, meaning greatness, grandeur, majesty.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Izma",
-          "description": "Discover the meaning of Izma - \"Mother of a lion\"",
-          "image": "/images/social/izma-facebook.jpg"
+      "termCode": "izma",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Izma - Name Meaning",
-          "description": "Learn about the beautiful name Izma",
-          "image": "/images/social/izma-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Izma",
-          "description": "Name meaning: Mother of a lion",
-          "image": "/images/social/izma-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Izma - Meaning: Mother of a lion",
-        "email_subject": "Beautiful Name: Izma"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Izma with meaning Mother of a lion",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Izma, associated with the Arabic form عظمة, meaning greatness, grandeur, majesty."
     },
-    "similar_sounding_names": [
-      "id",
-      "iqrit",
-      "isa",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

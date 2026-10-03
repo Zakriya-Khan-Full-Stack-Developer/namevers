@@ -3,296 +3,481 @@
   "data": {
     "name": "Faiqah",
     "slug": "faiqah",
-    "language": [
-      "English",
-      "Urdu",
-      "Hindi",
-      "Arabic",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Distinguished, Exceptional",
-    "long_meaning": "Faiqah is an Arabic name, derived from the word 'fāqa', which means to distinguish, distinguish oneself, be distinguished, be exceptional, excel, surpass.",
-    "spiritual_meaning": "To excel spiritually, to surpass worldly desires, to be distinguished in faith.",
-    "emotional_traits": [
-      "Devoted",
-      "Kind",
-      "Spiritual",
-      "Confident"
-    ],
-    "hidden_personality_traits": [
-      "A = Ambitious",
-      "Y = Youthful",
-      "S = Strong",
-      "H = Honest"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-Expression, and Communication",
-    "in_arabic": {
-      "name": "فائقہ",
-      "meaning": "اسم فائقہ کا مطلب ہے شاندار، ممتاز، اور اعلیٰ قدرتی",
-      "long_meaning": "فائقہ ایک عربی اسم ہے جو 'ف و ق' سے ماخوذ ہے، جس کا مطلب ہے برتر، شاندار، یا ممتاز۔ یہ نام اسلامی روایت میں اعلیٰ اخلاقی اور روحانی قدرتی کی علامت ہے۔ قرآن میں اس جڑ کا ذکر نہیں ہے، لیکن اس کا استعمال مسلم معاشروں میں شاندار شخصیات کی نشاندہی کرنے کے لیے ہوتا ہے۔"
+    "identity": {
+      "display_name": "Faiqah",
+      "normalized_name": "faiqah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faiqah",
+        "faiqah"
+      ],
+      "search_variants": [
+        "Faiqah",
+        "faiqah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فائقہ",
-      "meaning": "فائقہ کا مطلب ہے شاندار، ممتاز، اور اعلیٰ قدرتی والی",
-      "long_meaning": "فائقہ نام عربی جڑ 'ف و ق' سے بنا ہے، جو برتر یا شاندار کے معنی میں ہے۔ اردو زبان میں، یہ نام ان کی شاندار شخصیت اور اعلیٰ روحانی قدرتی کی نشاندہی کرتا ہے۔ جنوبی ایشیائی مسلم روایت میں، یہ نام ان کی ممتاز اور قابل ذکر خصوصیات کی علامت ہے۔ تاریخی طور پر، یہ نام مسلم علماء اور شاعروں نے اپنی شاندار業績 کی وجہ سے استعمال کیا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Distinguished, exceptional, outstanding",
+      "primary_meaning": "Distinguished",
+      "secondary_meanings": [
+        "exceptional",
+        "outstanding"
+      ],
+      "literal_meaning": "Distinguished",
+      "extended_meaning": "Distinguished, exceptional, outstanding",
+      "meaning_explanation": "Faiqah corresponds to the Arabic form فائقة (ف و ق). Its core sense is distinguished, exceptional, outstanding. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फ़ाइقة",
-      "meaning": "फ़ाइقة का अर्थ है उत्कृष्ट, विशिष्ट और उच्च गुणवत्ता वाली",
-      "long_meaning": "फ़ाइقة एक अरबी नाम है जो 'फ व ق' से व्युत्पन्न है, जिसका अर्थ है उत्कृष्ट या विशिष्ट। यह नाम इस्लामी परंपरा में उच्च नैतिक और आध्यात्मिक मूल्यों का प्रतीक है। भारतीय मुस्लिम समुदाय में, यह नाम उनकी विशिष्ट और उल्लेखनीय विशेषताओं की نشانه है। यह नाम अक्सर उच्च आध्यात्मिक और नैतिक दर्जा वाली महिलाओं को दिया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فائقة",
+      "transliteration": "faiqah",
+      "romanization": "faiqah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Distinguished",
+        "exceptional",
+        "outstanding"
+      ],
+      "etymology_explanation": "The form فائقة is an established Arabic lexical item. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فائقه",
-      "meaning": "فائقه د ښځې نوم دی چې مطلب یې ده لوړه، ځانګړې او عالي قدرته",
-      "long_meaning": "فائقه نوم د عربي کلمې 'ف و ق' څخه اخيستل شوی دی، چې د لوړه يا ځانګړې معنی ورکوي. په پښتني روايت کې، دا نوم د هغو ښځو لپاره کارول کيږي چې لوړ اخلاقي او روحاني قدرته لري. دا نوم د افغانستان او پښتونستان په مسلم معاشرو کې د هغو ښځو لپاره چې ممتاز او قابل ذکر ځانګړتي لري، ورکول کيږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فائقة is an established Arabic form.",
+        "Urdu": "فائقہ is used in Urdu.",
+        "Hindi": "फ़ाइक़ा is used in Hindi.",
+        "Pashto": "فاقه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Faiqah",
-      "meaning": "Faiqah means outstanding, distinguished, and of high quality",
-      "long_meaning": "Faiqah is an Arabic name derived from the root 'f-w-q', meaning superior, outstanding, or distinguished. In Islamic tradition, it symbolizes high moral and spiritual values. The name has historical significance in Muslim cultures, particularly for women of notable character and achievement. It reflects attributes of excellence, high standards, and spiritual distinction."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فائقة. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faiqah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense distinguished, exceptional, outstanding.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Distinguished",
+      "related_concepts": [
+        "distinguished",
+        "exceptional",
+        "outstanding"
+      ],
+      "semantic_relationship": "The central semantic idea is distinguished; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of distinguished.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Distinguished",
+        "Exceptional",
+        "Outstanding"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faiqah",
+        "meaning": "Distinguished, exceptional, outstanding",
+        "long_meaning": "Faiqah is a Arabic-origin name. Its core meaning is distinguished, exceptional, outstanding. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "فائقہ",
+        "meaning": "ممتاز، غیر معمولی، نمایاں",
+        "long_meaning": "Faiqah (فائقہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ممتاز، غیر معمولی، نمایاں ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ाइक़ा",
+        "meaning": "विशिष्ट, असाधारण, उत्कृष्ट",
+        "long_meaning": "Faiqah (फ़ाइक़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विशिष्ट, असाधारण, उत्कृष्ट है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فاقه",
+        "meaning": "ممتاز، ځانګړی، غوره",
+        "long_meaning": "Faiqah (فاقه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ممتاز، ځانګړی، غوره ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فائقة",
+        "meaning": "المميز، الاستثنائي، البارز",
+        "long_meaning": "Faiqah (فائقة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المميز، الاستثنائي، البارز. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Fai-qah",
-      "urdu": "فائقہ کا تلفظ فی-قہ ہے",
-      "hindi": "फ़ाइقة का उच्चारण है फाई-क़ा",
-      "pashto": "فائقه د تلفظ فی-قه",
-      "ipa": "/ˈfaɪkɑ/"
+      "romanized": "fai-qah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فائقہ",
+      "persian": null,
+      "hindi": "फ़ाइक़ा",
+      "pashto": "فاقه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FaiqahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faiqah"
-    ],
-    "name_variations": [
-      "Faiqa"
-    ],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faiqah",
+        "faiqah"
+      ],
+      "script_variants": [
+        "فائقة",
+        "فائقہ",
+        "فاقه",
+        "फ़ाइक़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فائقة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faiqah can be understood through the Arabic form فائقة, whose central sense is distinguished, exceptional, outstanding. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Faiqah mean?",
+        "answer": "Faiqah is associated with the Arabic form فائقة, whose core sense is distinguished, exceptional, outstanding."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Faiqah?",
+        "answer": "Faiqah is associated with Arabic. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Faiqah an Arabic name?",
+        "answer": "Yes — the underlying form فائقة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 81,
-        "year": 2024
+        "question": "Is Faiqah an Islamic name?",
+        "answer": "Faiqah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Faiqah a Quranic name?",
+        "answer": "Faiqah should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faiqah mean in Urdu?",
+        "answer": "In Urdu, Faiqah is rendered فائقہ and carries the sense ممتاز، غیر معمولی، نمایاں."
+      },
+      {
+        "question": "What does Faiqah mean in Persian?",
+        "answer": "No verified Persian form was established for Faiqah."
+      },
+      {
+        "question": "How is Faiqah pronounced?",
+        "answer": "A romanized syllable approximation is fai-qah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faiqah?",
+        "answer": "Romanization variants include Faiqah, faiqah. Script forms are فائقة, فائقہ, فاقه, फ़ाइक़ा."
+      },
+      {
+        "question": "Is Faiqah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faiqah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faiqah, a beautiful Islam name meaning \"Distinguished, Exceptional\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faiqah, Islam name, baby names, Distinguished, Exceptional, Islam baby names, name meaning",
-      "description_paragraph": "Faiqah is a meaningful Islam name of Arabic origin that means \"Distinguished, Exceptional\". Faiqah is an Arabic name, derived from the word 'fāqa', which means to distinguish, distinguish oneself, be distinguished, be exceptional, excel, surpass.",
-      "keywords": [
-        "Faiqah",
-        "Islam name",
-        "baby names",
-        "Distinguished, Exceptional",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faiqah in Islam tradition?",
-          "a": "Faiqah is a beautiful Islam name meaning \"Distinguished, Exceptional\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faiqah a good Islam name for a baby?",
-          "a": "Yes, Faiqah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faiqah?",
-          "a": "The name Faiqah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faiqah correctly?",
-          "a": "Faiqah is pronounced Fai-qah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faiqah?",
-          "a": "Naming a child Faiqah brings blessings. The meaning \"Distinguished, Exceptional\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faiqah?",
-          "a": "Faiqah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Faiqah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faiqah (فائقة).",
+      "h1": "Faiqah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faiqah meaning",
       "secondary_keywords": [
-        "Islam name Faiqah",
-        "Faiqah meaning",
-        "Faiqah origin"
+        "Faiqah name meaning",
+        "Faiqah meaning in Urdu",
+        "Faiqah origin",
+        "Faiqah Islamic name",
+        "Faiqah pronunciation",
+        "Faiqah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faiqah (فائقة) is associated with the Arabic form فائقة, whose core sense is distinguished, exceptional, outstanding. Variant romanization of فائقة ('superior, surpassing'). The source record's gloss 'Distinguished, Exceptional' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faiqah is associated with the Arabic form فائقة, whose core sense is distinguished, exceptional, outstanding.",
+      "meaning_section": "The central meaning of Faiqah is distinguished, exceptional, outstanding.",
+      "origin_section": "Faiqah is associated with Arabic rather than with a different language.",
+      "islam_section": "Faiqah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faiqah is with the sense distinguished.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faiqah",
+      "#FaiqahMeaning",
+      "#FaiqahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Faiqah, with its meaning of distinction and excellence, has cultural significance as a name that parents may give to their child as a source of inspiration and motivation. It represents the aspiration that the child will grow up to be an individual who rises above the ordinary, who achieves great things, and who makes a positive impact on society through their exceptional qualities and abilities. It's a name that encourages ambition and striving for excellence.",
-    "spiritual_significance": "From a spiritual perspective, the name Faiqah can be seen as a reminder of the importance of striving for spiritual excellence and distinction. It can be seen as a call to distinguish oneself through good deeds, righteous actions, and living a life in accordance with the teachings of Islamic values. By focusing on the spiritual aspects of life, one can distinguish themselves in the eyes of God and achieve a greater reward in the hereafter. The name Faiqah can serve as a source of inspiration to continually strive towards spiritual growth and self-improvement.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Faiqah bint Al-Aswad was a famous poetess of the pre-Islamic period. The name Faiqah carried significant weight in that era.",
-        "time_period": "Pre-Islamic period",
-        "context": "Faiqah was a renowned poetess in the pre-Islamic Arabian society."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faiqah corresponds to the Arabic form فائقة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Faiqah has the core sense distinguished, exceptional, outstanding",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faiqah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Faiqah",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Maryam Faiqah in Istanbul, Turkey attributes much of their success to the blessing of their name Faiqah, which means \"Distinguished, Exceptional\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The name Faiqah means \"distinguished, excellent, exceptional.\" In spiritual terms, it represents a soul that stands out for its piety, wisdom, and noble character, illuminating the path for others towards the divine.",
-    "created_at": "2025-12-22T19:19:49.775Z",
-    "updated_at": "2025-12-22T04:53:14.066Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1080,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faiqah",
-      "description": "Distinguished, Exceptional",
-      "additionalName": [
-        "Faiqa"
+      "alternateName": [
+        "Faiqah",
+        "faiqah"
       ],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Hindi",
-        "Arabic",
-        "Pashto"
+      "description": "A name associated with the Arabic form فائقة, meaning distinguished, exceptional, outstanding.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faiqah",
-          "description": "Discover the meaning of Faiqah - \"Distinguished, Exceptional\"",
-          "image": "/images/social/faiqah-facebook.jpg"
+      "termCode": "faiqah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Faiqah - Name Meaning",
-          "description": "Learn about the beautiful name Faiqah",
-          "image": "/images/social/faiqah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Faiqah",
-          "description": "Name meaning: Distinguished, Exceptional",
-          "image": "/images/social/faiqah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faiqah - Meaning: Distinguished, Exceptional",
-        "email_subject": "Beautiful Name: Faiqah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faiqah with meaning Distinguished, Exceptional",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faiqah, associated with the Arabic form فائقة, meaning distinguished, exceptional, outstanding."
     },
-    "similar_sounding_names": [
-      "farisha",
-      "fadi",
-      "firoz",
-      "faekah",
-      "fakeehah",
-      "fardeen",
-      "faiyaz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

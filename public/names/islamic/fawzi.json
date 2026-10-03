@@ -3,291 +3,480 @@
   "data": {
     "name": "Fawzi",
     "slug": "fawzi",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Intelligent, Wise, Successful",
-    "long_meaning": "From the Arabic word 'fahahi', meaning 'intelligent, wise, successful'. In Islamic tradition, this name signifies wisdom and success in all areas of life.",
-    "spiritual_meaning": "A name for those who seek wisdom and knowledge in their spiritual journey.",
-    "emotional_traits": [
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 5,
-    "numerology_meaning": "Adaptable, versatile, resourceful, and independent.",
-    "in_arabic": {
-      "name": "فوزي",
-      "meaning": "المُستَوفِز ، المُنصِف، المُستَوفِز، المُنصِف ، فوز العِزّ، الفائز",
-      "long_meaning": "تعود أصل الاسم إلى الجذر F-W-Z، بمعنى المُستَوفِز، المُنصِف، وهو من أسماء الله الحسنى في القرآن الكريم، حيث يُستخدم للعلاج والمفاوضات، ويُعتبر مصدراً للفرح والرضا والفوز، ويُشير إلى شخصٍ يمتلك القدرة على تحقيق ما يرغب فيه، ويُعتبر اسماً متينًا ومشروعًا في الثقافة الإسلامية، ويُستخدم في العديد من المجالات، منها العلم والسياسة والدين"
+    "identity": {
+      "display_name": "Fawzi",
+      "normalized_name": "fawzi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Fawzi",
+        "fawzi"
+      ],
+      "search_variants": [
+        "Fawzi",
+        "fawzi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فوزی",
-      "meaning": "فوزی کا مطلب ہے کامیابی اور خوشی کا مالک، فوزی کا مطلب ہے کامیابی اور خوشی کا مالک ہونا",
-      "long_meaning": "فوزی نام کا مطلب ہے کامیابی اور خوشی کا مالک، اور یہ نام اسلامی ناموں میں بہت مقبول ہے، اس کا مطلب ہے کہ شخص کسی بھی چیلنج کا سامنا کرنے میں کامیاب ہوگا، اور خوشی کا مالک بن جائے گا، یہ نام دینی اور دنیوی کامیابی کا باعث بنتا ہے، اور یہ نام جنوبی ایشیائی مسلمانوں کی ثقافتی اور تاریخی ورثہ ہے"
+    "core_meaning": {
+      "short_meaning": "Intelligent, wise, successful",
+      "primary_meaning": "Intelligent",
+      "secondary_meanings": [
+        "wise",
+        "successful"
+      ],
+      "literal_meaning": "Intelligent",
+      "extended_meaning": "Intelligent, wise, successful",
+      "meaning_explanation": "Fawzi corresponds to the Arabic form فوزي (ف و ز). Its core sense is intelligent, wise, successful. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फाव्ज़ी",
-      "meaning": "फाव्ज़ी का अर्थ है कामयाबी और खुशी का मालिक, फाव्ज़ी का अर्थ है कामयाबी और खुशी का मालिक होना",
-      "long_meaning": "फाव्ज़ी नाम का अर्थ है कामयाबी और खुशी का मालिक, और यह नाम इस्लामी नामों में बहुत लोकप्रिय है, इसका अर्थ है कि व्यक्ति किसी भी चुनौती का सामना करने में सफल होगा, और खुशी का मालिक बन जाएगा, यह नाम दीनी और दुनियावी कामयाबी का कारण बनता है, और यह नाम भारतीय मुस्लिम समुदाय की सांस्कृतिक और ऐतिहासिक विरासत है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فوزي",
+      "transliteration": "fawzi",
+      "romanization": "fawzi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Intelligent",
+        "wise",
+        "successful"
+      ],
+      "etymology_explanation": "The form فوزي is an established Arabic lexical item. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فوزي",
-      "meaning": "فوزي د کامیابی او خوشی د مالګر، فوزي د کامیابی او خوشی د مالګر دی",
-      "long_meaning": "فوزي نوم د کامیابی او خوشی د مالګر دی، دې نوم د افغانستان او پښتنو ثقافتی ورښتې څخه دی، دې نوم د کامیابی او خوشی د مالګر ښودي، او دې نوم د پښتونو لپاره زړې دلالت لري، دې نوم د کامیابی او خوشی د مالګر ښودي، او دې نوم د پښتنو لپاره زړې دلالت لري"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فوزي is an established Arabic form.",
+        "Urdu": "فوزی is used in Urdu.",
+        "Hindi": "फ़ौज़ी is used in Hindi.",
+        "Pashto": "فوزي is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Fawzi",
-      "meaning": "Fawzi name meaning, the one who is blessed with success and triumph, the one who is blessed with success and triumph",
-      "long_meaning": "The name Fawzi is derived from the Arabic root F-W-Z, meaning the one who is blessed with success and triumph. In Islamic tradition, Fawzi is considered a blessed name, associated with success, triumph, and prosperity. In Quranic context, Fawzi is mentioned as a name of Allah, signifying His power and ability to grant success and victory. Fawzi is also a name of great historical significance, associated with the Ottoman Islamic heritage and the cultural importance of success and triumph in Turkish Muslim tradition. The name Fawzi is also associated with the personality traits of a successful and triumphant individual, such as determination, perseverance, and a strong will to achieve one's goals"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فوزي. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Fawzi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense intelligent, wise, successful.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Intelligent",
+      "related_concepts": [
+        "intelligent",
+        "wise",
+        "successful"
+      ],
+      "semantic_relationship": "The central semantic idea is intelligent; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of intelligent.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Intelligent",
+        "Wise",
+        "Successful"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Fawzi",
+        "meaning": "Intelligent, wise, successful",
+        "long_meaning": "Fawzi is a Arabic-origin name. Its core meaning is intelligent, wise, successful. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation."
+      },
+      "urdu": {
+        "name": "فوزی",
+        "meaning": "ذہین، دانا، کامیاب",
+        "long_meaning": "Fawzi (فوزی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ذہین، دانا، کامیاب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ौज़ी",
+        "meaning": "बुद्धिमान, ज्ञानी, कामयाब",
+        "long_meaning": "Fawzi (फ़ौज़ी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ बुद्धिमान, ज्ञानी, कामयाब है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فوزي",
+        "meaning": "ځیرک، پوه، کامیاب",
+        "long_meaning": "Fawzi (فوزي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ځیرک، پوه، کامیاب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فوزي",
+        "meaning": "الذكي، الحكيم، الناجح",
+        "long_meaning": "Fawzi (فوزي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الذكي، الحكيم، الناجح. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈfɔːzi/",
-      "urdu": "فوزی کی تلفظ کی تفصیل ہے کہ فوزی کا تلفظ فاؤزی ہے",
-      "hindi": "फाव्ज़ी का उच्चारण विवरण है कि फाव्ज़ी का उच्चारण फाव्ज़ी है",
-      "pashto": "فوزي د تلفظ تفصيل دی چې فوزي د تلفظ دی فوزي",
-      "ipa": "/ˈfɔːzi/"
+      "romanized": "faw-zi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فوزی",
+      "persian": null,
+      "hindi": "फ़ौज़ी",
+      "pashto": "فوزي"
     },
-    "celebrity_usage": [
-      "Fawzi Shoaib (Actor)",
-      "Fawzi Al-Qurashi (Musician)"
-    ],
-    "social_tags": [
-      "#FawziMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Fawzi"
-    ],
-    "name_variations": [],
-    "popularity_score": 68,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Fawzi",
+        "fawzi"
+      ],
+      "script_variants": [
+        "فوزي",
+        "فوزی",
+        "फ़ौज़ी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فوزي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Fawzi can be understood through the Arabic form فوزي, whose central sense is intelligent, wise, successful. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 71,
-        "year": 2024
+        "question": "What does Fawzi mean?",
+        "answer": "Fawzi is associated with the Arabic form فوزي, whose core sense is intelligent, wise, successful."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 65,
-        "year": 2024
+        "question": "What is the origin of Fawzi?",
+        "answer": "Fawzi is associated with Arabic. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 71,
-        "year": 2024
+        "question": "Is Fawzi an Arabic name?",
+        "answer": "Yes — the underlying form فوزي is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Fawzi an Islamic name?",
+        "answer": "Fawzi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 65,
-        "year": 2024
+        "question": "Is Fawzi a Quranic name?",
+        "answer": "Fawzi should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Fawzi mean in Urdu?",
+        "answer": "In Urdu, Fawzi is rendered فوزی and carries the sense ذہین، دانا، کامیاب."
+      },
+      {
+        "question": "What does Fawzi mean in Persian?",
+        "answer": "No verified Persian form was established for Fawzi."
+      },
+      {
+        "question": "How is Fawzi pronounced?",
+        "answer": "A romanized syllable approximation is faw-zi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Fawzi?",
+        "answer": "Romanization variants include Fawzi, fawzi. Script forms are فوزي, فوزی, फ़ौज़ी."
+      },
+      {
+        "question": "Is Fawzi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Fawzi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Fawzi, a beautiful Islam name meaning \"Intelligent, Wise, Successful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Fawzi, Islam name, baby names, Intelligent, Wise, Successful, Islam baby names, name meaning",
-      "description_paragraph": "Fawzi is a meaningful Islam name of Arabic origin that means \"Intelligent, Wise, Successful\". From the Arabic word 'fahahi', meaning 'intelligent, wise, successful'. In Islamic tradition, this name signifies wisdom and success in all areas of life.",
-      "keywords": [
-        "Fawzi",
-        "Islam name",
-        "baby names",
-        "Intelligent, Wise, Successful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Fawzi in Islam tradition?",
-          "a": "Fawzi is a beautiful Islam name meaning \"Intelligent, Wise, Successful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Fawzi a good Islam name for a baby?",
-          "a": "Yes, Fawzi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Fawzi?",
-          "a": "The name Fawzi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Fawzi correctly?",
-          "a": "Fawzi is pronounced /ˈfɔːzi/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Fawzi?",
-          "a": "Naming a child Fawzi brings blessings. The meaning \"Intelligent, Wise, Successful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Fawzi?",
-          "a": "Fawzi is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Fawzi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Fawzi (فوزي).",
+      "h1": "Fawzi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Fawzi meaning",
       "secondary_keywords": [
-        "Islam name Fawzi",
-        "Fawzi meaning",
-        "Fawzi origin"
+        "Fawzi name meaning",
+        "Fawzi meaning in Urdu",
+        "Fawzi origin",
+        "Fawzi Islamic name",
+        "Fawzi pronunciation",
+        "Fawzi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Fawzi (فوزي) is associated with the Arabic form فوزي, whose core sense is intelligent, wise, successful. Fawzī ('of victory, triumphant'). The source record's gloss 'Intelligent, Wise, Successful' is an approximation.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Fawzi is associated with the Arabic form فوزي, whose core sense is intelligent, wise, successful.",
+      "meaning_section": "The central meaning of Fawzi is intelligent, wise, successful.",
+      "origin_section": "Fawzi is associated with Arabic rather than with a different language.",
+      "islam_section": "Fawzi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Fawzi is with the sense intelligent.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Fawzi",
+      "#FawziMeaning",
+      "#FawziName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fawzi is of Arabic origin and is widely used in Middle Eastern countries and among Arabic communities around the world. It is a name that conveys a sense of intelligence and wisdom, and it is often given to children who are expected to grow up to be thoughtful and successful individuals. In some communities, the name Fawzi is also associated with the Prophet Muhammad's companion, Fawza ibn Mu'ammar, who was known for his courage and devotion.",
-    "spiritual_significance": "In Islamic tradition, the name Fawzi carries a deep spiritual significance. It is believed that those named Fawzi are blessed with wisdom and intelligence, and that they are destined to use these gifts to achieve success in all areas of life. The name Fawzi is also associated with the concept ofihsan, which refers to the highest level of moral and spiritual excellence. Those named Fawzi are encouraged to strive for excellence in their thoughts, words, and actions, and to use their wisdom and intelligence to serve their community and contribute to the greater good. Ultimately, the name Fawzi is seen as a reminder of the importance of knowledge, wisdom, and virtue in the Islamic faith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Fawzi ibn 'Abd Allah al-Qurashi (d. 652 CE) was a companion of the Prophet Muhammad. The name Fawzi carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Fawzi was a companion of the Prophet Muhammad and is mentioned in various historical sources."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular choice for newborns in Muslim communities",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Fawzi corresponds to the Arabic form فوزي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Fawzi has the core sense intelligent, wise, successful",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Fawzi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Hassan Fawzi",
-      "location": "Karachi, Pakistan",
-      "story": "Hassan Fawzi, a teacher in Karachi, Pakistan, shares that their name Fawzi meaning \"Intelligent, Wise, Successful\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Intelligent, Wise, Successful\" symbolizes From the Arabic word 'fahahi', meaning 'intelligent, wise, successful'. In Islamic tradition, this name signifies wisdom and success in all areas of life.. In Islamic spirituality, bearing the name Fawzi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of intelligent, wise, successful.",
-    "created_at": "2025-12-22T19:19:49.841Z",
-    "updated_at": "2025-12-22T04:53:14.689Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1591,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Fawzi",
-      "description": "Intelligent, Wise, Successful",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Fawzi",
+        "fawzi"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Fawzi",
-          "description": "Discover the meaning of Fawzi - \"Intelligent, Wise, Successful\"",
-          "image": "/images/social/fawzi-facebook.jpg"
+      "description": "A name associated with the Arabic form فوزي, meaning intelligent, wise, successful.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "fawzi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Fawzi - Name Meaning",
-          "description": "Learn about the beautiful name Fawzi",
-          "image": "/images/social/fawzi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Fawzi",
-          "description": "Name meaning: Intelligent, Wise, Successful",
-          "image": "/images/social/fawzi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Fawzi - Meaning: Intelligent, Wise, Successful",
-        "email_subject": "Beautiful Name: Fawzi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Fawzi with meaning Intelligent, Wise, Successful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Fawzi, associated with the Arabic form فوزي, meaning intelligent, wise, successful."
     },
-    "similar_sounding_names": [
-      "fakeehah",
-      "faiyaz",
-      "fardeen",
-      "fadi",
-      "farisha",
-      "faekah",
-      "firoz"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

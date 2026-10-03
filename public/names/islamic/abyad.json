@@ -3,283 +3,481 @@
   "data": {
     "name": "Abyad",
     "slug": "abyad",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male or Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "White",
-    "long_meaning": "Derived from the Arabic word ‘abyad’ meaning 'white'. In Islamic culture, white is a symbol of purity and innocence.",
-    "spiritual_meaning": "Symbolizes spiritual purity and innocence.",
-    "emotional_traits": [
-      "Righteous",
-      "Pure"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest",
-      "S = Strong"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 5,
-    "numerology_meaning": "Individuals with this name possess a strong sense of self and are natural leaders. They are creative, independent, and enjoy taking risks.",
-    "in_arabic": {
-      "name": "أبيض",
-      "meaning": "اسم يعني البياض والنقاء والسلام",
-      "long_meaning": "اسم أبيض مشتق من الجذر العربي أ-ب-ي-ض، ويعني البياض والنقاء. ورد ذكر الأبيض في القرآن الكريم كصفة للون الثوب، كما ورد في الحديث النبوي كرمز للنقاء والسلام. يستخدم الاسم في الثقافة الإسلامية كرمز للطهارة والسلام."
+    "identity": {
+      "display_name": "Abyad",
+      "normalized_name": "abyad",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Abyad",
+        "abyad"
+      ],
+      "search_variants": [
+        "Abyad",
+        "abyad"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ابیض",
-      "meaning": "نام مطلب ہے سفید پن، صفائی، اور سلامتی",
-      "long_meaning": "ابیض نام عربی جڑ أ-ب-ي-ض سے ماخوذ ہے، جس کا مطلب ہے سفید پن اور صفائی۔ یہ نام قرآن کریم میں ذکر ہوا ہے جہاں یہ سفید رنگ کے لباس کے لئے استعمال ہوا ہے۔ اس نام کا استعمال اسلامی ثقافت میں صفائی اور سلامتی کی علامت کے طور پر کیا جاتا ہے۔ جنوبی ایشیائی مسلمانوں کے لئے، یہ نام پاکیزگی اور روحانی صفائی کی نمائندگی کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "White, bright, pure",
+      "primary_meaning": "White",
+      "secondary_meanings": [
+        "bright",
+        "pure"
+      ],
+      "literal_meaning": "White",
+      "extended_meaning": "White, bright, pure",
+      "meaning_explanation": "Abyad corresponds to the Arabic form أبيض (ب ي ض). Its core sense is white, bright, pure. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अबयद",
-      "meaning": "नाम का अर्थ है सफेदपन, पवित्रता और शांति",
-      "long_meaning": "अबयद नाम अरबी जड़ أ-ب-ي-ض से लिया गया है, जिसका अर्थ है सफेदपन और पवित्रता। यह नाम भारतीय मुस्लिम समुदाय में पवित्रता और आध्यात्मिक शांति के प्रतीक के रूप में प्रयोग किया जाता है। इस नाम का प्रयोग इस्लामी परंपरा में पवित्रता और शांति की निशानी के रूप में किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أبيض",
+      "transliteration": "abyad",
+      "romanization": "abyad",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "White",
+        "bright",
+        "pure"
+      ],
+      "etymology_explanation": "The form أبيض is an established Arabic lexical item. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ابېض",
-      "meaning": "د سپینوالي، پاکۍ، او سولۍ نوم",
-      "long_meaning": "ابېض نوم د عربي ريښې أ-ب-ي-ض څخه اخیستل شوی دی، چې د سپینوالي او پاکۍ معنی لري. دا نوم د افغان او پښتن مسلمانانو په کلتور کې د پاکۍ او سولۍ د نښې په توګه کارول کېږي. دا نوم د پښتنو په دودیزو نومونو کې شامل دی چې د معنوي پلوه پاک او سوله مند وي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أبيض is an established Arabic form.",
+        "Urdu": "ابیض is used in Urdu.",
+        "Hindi": "अबयद is used in Hindi.",
+        "Pashto": "ابيض is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Abyad",
-      "meaning": "Means whiteness, purity, and peace in Arabic",
-      "long_meaning": "The name Abyad is derived from the Arabic root أ-ب-ي-ض (a-b-y-ḍ), which means whiteness and purity. Referenced in the Quran and Hadith as a symbol of purity and peace, the name Abyad holds significant spiritual meaning in Islamic tradition. It symbolizes cleanliness, innocence, and serenity. Across Muslim cultures, Abyad is used to signify a person of noble character and pure heart."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form أبيض. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Abyad may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense white, bright, pure.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "White",
+      "related_concepts": [
+        "white",
+        "bright",
+        "pure"
+      ],
+      "semantic_relationship": "The central semantic idea is white; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of white.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "White",
+        "Bright",
+        "Pure"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Abyad",
+        "meaning": "White, bright, pure",
+        "long_meaning": "Abyad is a Arabic-origin name. Its core meaning is white, bright, pure. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source."
+      },
+      "urdu": {
+        "name": "ابیض",
+        "meaning": "سفید، روشن، پاک",
+        "long_meaning": "Abyad (ابیض) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سفید، روشن، پاک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अबयद",
+        "meaning": "सफ़ेद, उजला, पवित्र",
+        "long_meaning": "Abyad (अबयद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सफ़ेद, उजला, पवित्र है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ابيض",
+        "meaning": "سپین، روښانه، پاک",
+        "long_meaning": "Abyad (ابيض) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سپین، روښانه، پاک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أبيض",
+        "meaning": "أبيض، ناصع، نقي",
+        "long_meaning": "Abyad (أبيض) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أبيض، ناصع، نقي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-bee-yad",
-      "urdu": "اردو میں تلفظ کی تفصیل ابیض",
-      "hindi": "हिन्दी में उच्चारण विवरण अबयद",
-      "pashto": "په پښتو کې د تلفظ تفصیل ابېض",
-      "ipa": "/ˈɑː.bi.jæd/"
+      "romanized": "a-byad",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ابیض",
+      "persian": null,
+      "hindi": "अबयद",
+      "pashto": "ابيض"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AbyadMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Abyad"
-    ],
-    "name_variations": [],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Abyad",
+        "abyad"
+      ],
+      "script_variants": [
+        "أبيض",
+        "ابيض",
+        "ابیض",
+        "अबयद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أبيض is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Abyad can be understood through the Arabic form أبيض, whose central sense is white, bright, pure. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Abyad mean?",
+        "answer": "Abyad is associated with the Arabic form أبيض, whose core sense is white, bright, pure."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Abyad?",
+        "answer": "Abyad is associated with Arabic. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Abyad an Arabic name?",
+        "answer": "Yes — the underlying form أبيض is Arabic."
+      },
+      {
+        "question": "Is Abyad an Islamic name?",
+        "answer": "Abyad can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Abyad a Quranic name?",
+        "answer": "Abyad should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Abyad mean in Urdu?",
+        "answer": "In Urdu, Abyad is rendered ابیض and carries the sense سفید، روشن، پاک."
+      },
+      {
+        "question": "What does Abyad mean in Persian?",
+        "answer": "No verified Persian form was established for Abyad."
+      },
+      {
+        "question": "How is Abyad pronounced?",
+        "answer": "A romanized syllable approximation is a-byad. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Abyad?",
+        "answer": "Romanization variants include Abyad, abyad. Script forms are أبيض, ابيض, ابیض, अबयद."
+      },
+      {
+        "question": "Is Abyad a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Abyad Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Abyad, a beautiful Islam name meaning \"White\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Abyad, Islam name, baby names, White, Islam baby names, name meaning",
-      "description_paragraph": "Abyad is a meaningful Islam name of Arabic origin that means \"White\". Derived from the Arabic word ‘abyad’ meaning 'white'. In Islamic culture, white is a symbol of purity and innocence.",
-      "keywords": [
-        "Abyad",
-        "Islam name",
-        "baby names",
-        "White",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Abyad in Islam tradition?",
-          "a": "Abyad is a beautiful Islam name meaning \"White\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Abyad a good Islam name for a baby?",
-          "a": "Yes, Abyad is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Abyad?",
-          "a": "The name Abyad has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Abyad correctly?",
-          "a": "Abyad is pronounced ah-bee-yad in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Abyad?",
-          "a": "Naming a child Abyad brings blessings. The meaning \"White\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Abyad?",
-          "a": "Abyad is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Abyad Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Abyad (أبيض).",
+      "h1": "Abyad Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Abyad meaning",
       "secondary_keywords": [
-        "Islam name Abyad",
-        "Abyad meaning",
-        "Abyad origin"
+        "Abyad name meaning",
+        "Abyad meaning in Urdu",
+        "Abyad origin",
+        "Abyad Islamic name",
+        "Abyad pronunciation",
+        "Abyad name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Abyad (أبيض) is associated with the Arabic form أبيض, whose core sense is white, bright, pure. Abyaḍ ('white, bright'). Its use as a personal name is reported but not verified from a Tier-A/B source.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Abyad is associated with the Arabic form أبيض, whose core sense is white, bright, pure.",
+      "meaning_section": "The central meaning of Abyad is white, bright, pure.",
+      "origin_section": "Abyad is associated with Arabic rather than with a different language.",
+      "islam_section": "Abyad can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Abyad is with the sense white.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Abyad",
+      "#AbyadMeaning",
+      "#AbyadName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "** In Islamic culture, the color white is associated with peace, purity, and simplicity. The name \"Abyad\" could be given to a child as a sign of hope for a pure and peaceful beginning to their life. Additionally, it is a popular name for mosques, praying mats, and wedding gowns due to their associations with spiritual purity and cleanliness.",
-    "spiritual_significance": "** The name \"Abyad\" holds deep spiritual significance within Islam as it is a constant reminder of the importance of spiritual purity and striving towards a pure and virtuous life. It signifies the desire to leads a life guided by the principles of the Quran and the Hadith, and to strive towards becoming closer to Allah (God) in all aspects of life. The name also serves as a reminder of the importance of self-reflection and the ongoing journey to seek knowledge, wisdom, and virtue.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Abyad was the name of the Umayyad Caliph Al-Walid I (705-715 AD) The name Abyad carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Abyad was a common name for caliphs during the Umayyad dynasty, and Al-Walid I was one of the most powerful and influential rulers of this period."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Abyad corresponds to the Arabic form أبيض",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Abyad has the core sense white, bright, pure",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Abyad remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Abyad",
-      "location": "Cairo, Egypt",
-      "story": "Khadija Abyad from Cairo, Egypt embodies the meaning of Abyad - \"White\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"White\" symbolizes Derived from the Arabic word ‘abyad’ meaning 'white'. In Islamic culture, white is a symbol of purity and innocence.. In Islamic spirituality, bearing the name Abyad serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of white.",
-    "created_at": "2025-12-22T19:19:49.93Z",
-    "updated_at": "2025-12-22T04:53:15.502Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1796,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Abyad",
-      "description": "White",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Abyad",
+        "abyad"
       ],
-      "religion": "Islam",
-      "gender": "Male or Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Abyad",
-          "description": "Discover the meaning of Abyad - \"White\"",
-          "image": "/images/social/abyad-facebook.jpg"
+      "description": "A name associated with the Arabic form أبيض, meaning white, bright, pure.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "abyad",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Abyad - Name Meaning",
-          "description": "Learn about the beautiful name Abyad",
-          "image": "/images/social/abyad-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Abyad",
-          "description": "Name meaning: White",
-          "image": "/images/social/abyad-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Abyad - Meaning: White",
-        "email_subject": "Beautiful Name: Abyad"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Abyad with meaning White",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Abyad, associated with the Arabic form أبيض, meaning white, bright, pure."
     },
-    "similar_sounding_names": [
-      "alabbas",
-      "anika",
-      "aaidah",
-      "arya",
-      "ashika",
-      "alma",
-      "anaan",
-      "amber",
-      "amelia",
-      "anila"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

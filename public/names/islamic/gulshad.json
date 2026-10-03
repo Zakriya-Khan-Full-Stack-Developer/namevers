@@ -3,285 +3,474 @@
   "data": {
     "name": "Gulshad",
     "slug": "gulshad",
-    "language": [
-      "Persian",
-      "Urdu",
-      "Arabic"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Rose Garden",
-    "long_meaning": "Gulshad is a Persian name that means 'rose garden' or 'garden of roses'. It symbolizes a beautiful and serene place.",
-    "spiritual_meaning": "Symbolizes love, peace, and beauty in nature",
-    "emotional_traits": [
-      "Peaceful",
-      "Kind",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Rose",
-      "Pink"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious and balanced life",
-    "in_arabic": {
-      "name": "غولشاد",
-      "meaning": "اسم يعني زهرة في الجنة و الفرح و السرور",
-      "long_meaning": "غولشاد هو اسم مركب من كلمتين غول و شاد، غول مشتق من الغول و هي الزهرة الجميلة في الجنة و شاد تعني الفرح و السرور، و يعني الاسم الشخص الذي يسبب الفرح و السرور كزهرة في الجنة، و يعتبر هذا الاسم من الأسماء الجميلة و الرائعة في اللغة العربية و يستخدم في العديد من الدول الإسلامية"
+    "identity": {
+      "display_name": "Gulshad",
+      "normalized_name": "gulshad",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Gulshad",
+        "gulshad"
+      ],
+      "search_variants": [
+        "Gulshad",
+        "gulshad"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "گلشاد",
-      "meaning": "جنت میں پھول اور خوشی و مسرت",
-      "long_meaning": "گلشاد ایک مرکب نام ہے جو دو الفاظ گل اور شاد سے بنا ہے، گل کا مطلب ہے جنت کا پھول اور شاد کا مطلب ہے خوشی و مسرت، لہذا گلشاد کا مطلب ہے وہ شخص جو جنت کے پھول کی طرح خوشی و مسرت کا باعث بنتا ہے، یہ نام اردو زبان میں بہت خوبصورت اور رائج ہے، خاص طور پر جنوبی ایشیاء کے مسلم معاشروں میں"
+    "core_meaning": {
+      "short_meaning": "Joyful rose, rose of gladness",
+      "primary_meaning": "Joyful rose",
+      "secondary_meanings": [
+        "rose of gladness"
+      ],
+      "literal_meaning": "Joyful rose",
+      "extended_meaning": "Joyful rose, rose of gladness",
+      "meaning_explanation": "Gulshad corresponds to the Persian form گلشاد (Persian گلشاد (golshād) 'joyful rose', from گل + شاد 'glad'). Its core sense is joyful rose, rose of gladness. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "गुलशाद",
-      "meaning": "स्वर्ग में फूल और खुशी",
-      "long_meaning": "गुलशाद एक मिश्रित नाम है जो दो शब्दों गुल और शाद से बना है, गुल का अर्थ है स्वर्ग का फूल और शाद का अर्थ है खुशी, इसलिए गुलशाद का अर्थ है वह व्यक्ति जो स्वर्ग के फूल की तरह खुशी का कारण बनता है, यह नाम देवनागरी लिपि में बहुत सुंदर और अर्थपूर्ण है, और भारतीय मुस्लिम समुदाय में इसका विशेष महत्व है"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "گلشاد",
+      "transliteration": "gulshad",
+      "romanization": "gulshad",
+      "root_status": "Persian گلشاد (golshād) 'joyful rose', from گل + شاد 'glad'",
+      "etymological_meaning": [
+        "Joyful rose",
+        "rose of gladness"
+      ],
+      "etymology_explanation": "The form گلشاد is an established Persian lexical item. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "گلشاد",
-      "meaning": "په جنت کې ګل او خوښۍ",
-      "long_meaning": "گلشاد د يوې نوم دی چې د دوو کلمو گل او شاد څخه جوړ شوی دی، گل د جنت ګل معنی لري او شاد د خوښۍ معنی لري، نو گلشاد داسې يو شخص ته وايي چې د جنت د ګل په څېر خوښۍ راولي، دا نوم د پښتو ژبې او فرهنگ کې ډېر ښکلی او پر معنا دی، په افغانستان او پښتونستان کې د مسلمو دوديزو کې کارول کېږي"
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Urdu": "گلشاد is used in Urdu.",
+        "Persian": "گلشاد is an established Persian form.",
+        "Pashto": "ګلشاد is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Gulshad",
-      "meaning": "A beautiful flower in Paradise, bringing joy and happiness",
-      "long_meaning": "Gulshad is a compound name derived from Arabic roots 'gul' (flower) and 'shad' (joy). It signifies a person who brings happiness and joy, similar to a beautiful flower in Paradise. This name is used across various Muslim cultures, symbolizing beauty, spirituality, and happiness. Etymologically, it connects to Quranic themes of Paradise and joy."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Persian form گلشاد. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Gulshad may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense joyful rose, rose of gladness.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Joyful rose",
+      "related_concepts": [
+        "joyful rose",
+        "rose of gladness"
+      ],
+      "semantic_relationship": "The central semantic idea is joyful rose; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of joyful rose.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Joyful rose",
+        "Rose of gladness"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Gulshad",
+        "meaning": "Joyful rose, rose of gladness",
+        "long_meaning": "Gulshad is a Persian-origin name. Its core meaning is joyful rose, rose of gladness. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian."
+      },
+      "urdu": {
+        "name": "گلشاد",
+        "meaning": "خوش گلاب، شاد پھول",
+        "long_meaning": "Gulshad (گلشاد) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوش گلاب، شاد پھول ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "گلشاد",
+        "meaning": "گل‌شاد، گل خوشحال",
+        "long_meaning": "Gulshad (گلشاد) نامی برگرفته از زبان فارسی است و معنای اصلی آن گل‌شاد، گل خوشحال است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified hi translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "pashto": {
+        "name": "ګلشاد",
+        "meaning": "خوشحاله ګلاب",
+        "long_meaning": "Gulshad (ګلشاد) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوشحاله ګلاب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified ar translation was established for this form. A meaning is deliberately not asserted."
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "goo-L-shad",
-      "urdu": "گلشاد کا تلفظ گول شاد ہے",
-      "hindi": "गुलशाद का उच्चारण गूल शाद है",
-      "pashto": "د ګلشاد تلفظ دی ګول شاد",
-      "ipa": "/ɡulˈʃɑːd/"
+      "romanized": "gul-shad",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "گلشاد",
+      "persian": "گلشاد",
+      "hindi": null,
+      "pashto": "ګلشاد"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#GulshadMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Gulshad"
-    ],
-    "name_variations": [],
-    "popularity_score": 79,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Gulshad",
+        "gulshad"
+      ],
+      "script_variants": [
+        "ګلشاد",
+        "گلشاد"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form گلشاد is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Gulshad can be understood through the Persian form گلشاد, whose central sense is joyful rose, rose of gladness. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Gulshad mean?",
+        "answer": "Gulshad is associated with the Persian form گلشاد, whose core sense is joyful rose, rose of gladness."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Gulshad?",
+        "answer": "Gulshad is associated with Persian. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Gulshad an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 71,
-        "year": 2024
+        "question": "Is Gulshad an Islamic name?",
+        "answer": "Gulshad can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 67,
-        "year": 2024
+        "question": "Is Gulshad a Quranic name?",
+        "answer": "Gulshad should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Gulshad mean in Urdu?",
+        "answer": "In Urdu, Gulshad is rendered گلشاد and carries the sense خوش گلاب، شاد پھول."
+      },
+      {
+        "question": "What does Gulshad mean in Persian?",
+        "answer": "In Persian, Gulshad is rendered گلشاد and carries the sense گل‌شاد، گل خوشحال."
+      },
+      {
+        "question": "How is Gulshad pronounced?",
+        "answer": "A romanized syllable approximation is gul-shad. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Gulshad?",
+        "answer": "Romanization variants include Gulshad, gulshad. Script forms are ګلشاد, گلشاد."
+      },
+      {
+        "question": "Is Gulshad a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Gulshad Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Gulshad, a beautiful Islam name meaning \"Rose Garden\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Gulshad, Islam name, baby names, Rose Garden, Islam baby names, name meaning",
-      "description_paragraph": "Gulshad is a meaningful Islam name of Arabic origin that means \"Rose Garden\". Gulshad is a Persian name that means 'rose garden' or 'garden of roses'. It symbolizes a beautiful and serene place.",
-      "keywords": [
-        "Gulshad",
-        "Islam name",
-        "baby names",
-        "Rose Garden",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Gulshad in Islam tradition?",
-          "a": "Gulshad is a beautiful Islam name meaning \"Rose Garden\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Gulshad a good Islam name for a baby?",
-          "a": "Yes, Gulshad is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Gulshad?",
-          "a": "The name Gulshad has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Gulshad correctly?",
-          "a": "Gulshad is pronounced goo-L-shad in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Gulshad?",
-          "a": "Naming a child Gulshad brings blessings. The meaning \"Rose Garden\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Gulshad?",
-          "a": "Gulshad is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Gulshad Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Gulshad (گلشاد).",
+      "h1": "Gulshad Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Gulshad meaning",
       "secondary_keywords": [
-        "Islam name Gulshad",
-        "Gulshad meaning",
-        "Gulshad origin"
+        "Gulshad name meaning",
+        "Gulshad meaning in Urdu",
+        "Gulshad origin",
+        "Gulshad Islamic name",
+        "Gulshad pronunciation",
+        "Gulshad name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Gulshad (گلشاد) is associated with the Persian form گلشاد, whose core sense is joyful rose, rose of gladness. Gulshad is the Persian گلشاد (golshād) — گل 'flower' + شاد 'glad, happy' — 'joyful rose, rose of gladness', used as a given name. The source gave غولشاد and labelled the record 'Arabic'; the word is Persian.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Gulshad is associated with the Persian form گلشاد, whose core sense is joyful rose, rose of gladness.",
+      "meaning_section": "The central meaning of Gulshad is joyful rose, rose of gladness.",
+      "origin_section": "Gulshad is associated with Persian rather than with a different language.",
+      "islam_section": "Gulshad can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Gulshad is with the sense joyful rose.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Gulshad",
+      "#GulshadMeaning",
+      "#GulshadName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Gulshad is a reflection of the rich Persian and Islamic culture that values natural beauty, education, and tranquility. It is a name often given to girls to inspire an appreciation and protection of natural beauty and an environment where knowledge and creativity can flourish.",
-    "spiritual_significance": "In Islamic tradition, the rose is a symbol of the beauty of Prophet Muhammad, and it also signifies hope, compassion, and God's blessings. A rose garden is considered to be a paradise-like setting that evokes a deep sense of spiritual and emotional connection to nature and the divine. Naming a girl Gulshad reminds her of her connection to the divine and the importance of nurturing her inner beauty and growth just like a rose garden.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Persian poet Rumi used this name in his works. The name Gulshad carried significant weight in that era.",
-        "time_period": "13th century",
-        "context": "The name is mentioned in Rumi's poetry as a symbol of love and beauty."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in Iran and Afghanistan"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Gulshad corresponds to the Persian form گلشاد",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Gulshad has the core sense joyful rose, rose of gladness",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media, literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Gulshad remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Gulshad",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Khadija Gulshad in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Gulshad, which means \"Rose Garden\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Rose Garden\" symbolizes Gulshad is a Persian name that means 'rose garden' or 'garden of roses'. It symbolizes a beautiful and serene place.. In Islamic spirituality, bearing the name Gulshad serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of rose garden.",
-    "created_at": "2025-12-22T19:19:49.831Z",
-    "updated_at": "2025-12-22T04:53:14.564Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1323,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Gulshad",
-      "description": "Rose Garden",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Persian",
-        "Urdu",
-        "Arabic"
+      "alternateName": [
+        "Gulshad",
+        "gulshad"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Gulshad",
-          "description": "Discover the meaning of Gulshad - \"Rose Garden\"",
-          "image": "/images/social/gulshad-facebook.jpg"
+      "description": "A name associated with the Persian form گلشاد, meaning joyful rose, rose of gladness.",
+      "inLanguage": [
+        "ur",
+        "fa",
+        "ps"
+      ],
+      "termCode": "gulshad",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Gulshad - Name Meaning",
-          "description": "Learn about the beautiful name Gulshad",
-          "image": "/images/social/gulshad-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Gulshad",
-          "description": "Name meaning: Rose Garden",
-          "image": "/images/social/gulshad-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Gulshad - Meaning: Rose Garden",
-        "email_subject": "Beautiful Name: Gulshad"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Gulshad with meaning Rose Garden",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Gulshad, associated with the Persian form گلشاد, meaning joyful rose, rose of gladness."
     },
-    "similar_sounding_names": [
-      "gulerana"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

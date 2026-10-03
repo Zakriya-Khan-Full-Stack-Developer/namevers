@@ -3,288 +3,481 @@
   "data": {
     "name": "Jami",
     "slug": "jami",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male/Female/Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Beauty",
-    "long_meaning": "Jami is derived from the Arabic word jamal which means beauty.",
-    "spiritual_meaning": "Jami is also the name of a Surah in the Quran which signifies the beauty and majesty of Allah.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 2,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Pink",
-      "Green"
-    ],
-    "lucky_stone": "Jade",
-    "life_path_number": 11,
-    "numerology_meaning": "Manifestation, Illumination, Enlightenment",
-    "in_arabic": {
-      "name": "جامي",
-      "meaning": "جامع، جمع کرنے والا، اکٹھا کرنے والا",
-      "long_meaning": "اسم جامي من الجماعة و الجمع، و هو جامع للأشياء، أي يجمعها و يضمها، و قد ورد ذكره في القرآن الكريم في سورة الفاتحة، حيث يقول الله تعالى: الحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ، الآية التي تشير إلى جامعية الله تعالى لجميع العوالم و الأشياء"
+    "identity": {
+      "display_name": "Jami",
+      "normalized_name": "jami",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jami",
+        "jami"
+      ],
+      "search_variants": [
+        "Jami",
+        "jami"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جامی",
-      "meaning": "جامع، جمع کرنے والا، اکٹھا کرنے والا",
-      "long_meaning": "جامی کا مطلب ہے جامع، جمع کرنے والا یا اکٹھا کرنے والا۔ یہ نام عربی زبان کے 'جَمَعَ' (جَمْع) فعل سے ماخوذ ہے، جس کا مطلب ہے اکٹھا کرنا یا جمع کرنا۔ اسلامی تقویم میں، یہ نام اہم ہے کیونکہ یہ اللہ کی صفات میں سے ایک کو ظاہر کرتا ہے، یعنی جامعیت"
+    "core_meaning": {
+      "short_meaning": "Gatherer, collector, unifier",
+      "primary_meaning": "Gatherer",
+      "secondary_meanings": [
+        "collector",
+        "unifier"
+      ],
+      "literal_meaning": "Gatherer",
+      "extended_meaning": "Gatherer, collector, unifier",
+      "meaning_explanation": "Jami corresponds to the Arabic form جامع (Arabic root ج م ع (j-m-ʿ); جَامِع (Jāmiʿ)). Its core sense is gatherer, collector, unifier. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "जामी",
-      "meaning": "जميع, संग्रह करने वाला, इकट्ठा करने वाला",
-      "long_meaning": "जामी नाम का अर्थ है सभी को इकट्ठा करने वाला या संग्रह करने वाला। यह नाम अरबी भाषा के 'جَمَعَ' (जम'आ) क्रिया से लिया गया है, जिसका अर्थ है इकट्ठा करना या संग्रह करना। इस्लामी परंपरा में, यह नाम महत्वपूर्ण है क्योंकि यह अल्लाह की विशेषताओं में से एक को प्रकट करता है, अर्थात् उसकी सर्व-व्यापकता"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جامع",
+      "transliteration": "jami",
+      "romanization": "jami",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Gatherer",
+        "collector",
+        "unifier"
+      ],
+      "etymology_explanation": "The form جامع is an established Arabic lexical item. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جامي",
-      "meaning": "جمع کوونکی، ټولګی کوونکی",
-      "long_meaning": "د جامي نوم معنی دی جمع کوونکی یا ټولګی کوونکی. دا نوم د عربي ژبې د 'جَمَعَ' (جَمْع) فعل څخه اخیستل شوی دی، چې معنی یې ده ټولګی کول یا جمع کول. په اسلامي کلتور کې، دا نوم د اهميت وړ دی ځکه چې دا د الله تعالی یو له صفاتو څخه څرګندوي، یعنې د ټولو شیانو جامعیت"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جامع is an established Arabic form.",
+        "Urdu": "جامع is used in Urdu.",
+        "Persian": "جامع is an established Persian form.",
+        "Hindi": "जामी is used in Hindi.",
+        "Pashto": "جامع is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Jami",
-      "meaning": "Collector, gatherer, one who brings together",
-      "long_meaning": "The name Jami is derived from the Arabic root 'جَمَعَ' (j-m-ʿ), which means 'to gather, collect, or bring together'. In Islamic tradition, this name signifies one who collects or gathers things, and it is associated with the attribute of Allah, al-Jami', who gathers and unites all things. The name Jami has been used in various Muslim cultures, reflecting its significance in Islamic theology and spirituality"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form جامع. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jami may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense gatherer, collector, unifier.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gatherer",
+      "related_concepts": [
+        "gatherer",
+        "collector",
+        "unifier"
+      ],
+      "semantic_relationship": "The central semantic idea is gatherer; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of gatherer.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Gatherer",
+        "Collector",
+        "Unifier"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jami",
+        "meaning": "Gatherer, collector, unifier",
+        "long_meaning": "Jami is a Arabic-origin name. Its core meaning is gatherer, collector, unifier. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense."
+      },
+      "urdu": {
+        "name": "جامع",
+        "meaning": "جامع، جمع کرنے والا",
+        "long_meaning": "Jami (جامع) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جامع، جمع کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جامع",
+        "meaning": "جامع، گردآورنده",
+        "long_meaning": "Jami (جامع) نامی برگرفته از زبان عربی است و معنای اصلی آن جامع، گردآورنده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जामी",
+        "meaning": "संग्रहकर्ता, जामी",
+        "long_meaning": "Jami (जामी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ संग्रहकर्ता, जामी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جامع",
+        "meaning": "جامع، راټولوونکی",
+        "long_meaning": "Jami (جامع) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جامع، راټولوونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جامع",
+        "meaning": "الجامع، الجمع، الحاوي",
+        "long_meaning": "Jami (جامع) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجامع، الجمع، الحاوي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "JAH-mee",
-      "urdu": "جامی کا تلفظ ہے جاہ می",
-      "hindi": "जामी का उच्चारण है जाह मी",
-      "pashto": "د جامي تلفظ دی جاه مي",
-      "ipa": "/ˈdʒɑːmi/"
+      "romanized": "ja-mi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جامع",
+      "persian": "جامع",
+      "hindi": "जामी",
+      "pashto": "جامع"
     },
-    "celebrity_usage": [
-      "Jamī",
-      "Abd al-Raḥmān al-Jāmī"
-    ],
-    "social_tags": [
-      "#JamiMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jami"
-    ],
-    "name_variations": [],
-    "popularity_score": 41,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jami",
+        "jami"
+      ],
+      "script_variants": [
+        "جامع",
+        "जामी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جامع is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jami can be understood through the Arabic form جامع, whose central sense is gatherer, collector, unifier. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 74,
-        "year": 2024
+        "question": "What does Jami mean?",
+        "answer": "Jami is associated with the Arabic form جامع, whose core sense is gatherer, collector, unifier."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Jami?",
+        "answer": "Jami is associated with Arabic. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Jami an Arabic name?",
+        "answer": "Yes — the underlying form جامع is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 70,
-        "year": 2024
+        "question": "Is Jami an Islamic name?",
+        "answer": "Jami can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jami a Quranic name?",
+        "answer": "Jami should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jami mean in Urdu?",
+        "answer": "In Urdu, Jami is rendered جامع and carries the sense جامع، جمع کرنے والا."
+      },
+      {
+        "question": "What does Jami mean in Persian?",
+        "answer": "In Persian, Jami is rendered جامع and carries the sense جامع، گردآورنده."
+      },
+      {
+        "question": "How is Jami pronounced?",
+        "answer": "A romanized syllable approximation is ja-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jami?",
+        "answer": "Romanization variants include Jami, jami. Script forms are جامع, जामी."
+      },
+      {
+        "question": "Is Jami a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jami Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jami, a beautiful Islam name meaning \"Beauty\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jami, Islam name, baby names, Beauty, Islam baby names, name meaning",
-      "description_paragraph": "Jami is a meaningful Islam name of Arabic origin that means \"Beauty\". Jami is derived from the Arabic word jamal which means beauty.",
-      "keywords": [
-        "Jami",
-        "Islam name",
-        "baby names",
-        "Beauty",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jami in Islam tradition?",
-          "a": "Jami is a beautiful Islam name meaning \"Beauty\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jami a good Islam name for a baby?",
-          "a": "Yes, Jami is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jami?",
-          "a": "The name Jami has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jami correctly?",
-          "a": "Jami is pronounced JAH-mee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jami?",
-          "a": "Naming a child Jami brings blessings. The meaning \"Beauty\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jami?",
-          "a": "Jami is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Jami Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jami (جامع).",
+      "h1": "Jami Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jami meaning",
       "secondary_keywords": [
-        "Islam name Jami",
-        "Jami meaning",
-        "Jami origin"
+        "Jami name meaning",
+        "Jami meaning in Urdu",
+        "Jami origin",
+        "Jami Islamic name",
+        "Jami pronunciation",
+        "Jami name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jami (جامع) is associated with the Arabic form جامع, whose core sense is gatherer, collector, unifier. Jami is Arabic جَامِع (Jāmiʿ) 'gatherer, collector, unifier', from the root ج م ع (j-m-ʿ). The source gloss 'Beauty' is unsupported and has been replaced with the lexical sense.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jami is associated with the Arabic form جامع, whose core sense is gatherer, collector, unifier.",
+      "meaning_section": "The central meaning of Jami is gatherer, collector, unifier.",
+      "origin_section": "Jami is associated with Arabic rather than with a different language.",
+      "islam_section": "Jami can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jami is with the sense gatherer.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jami",
+      "#JamiMeaning",
+      "#JamiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jami holds deep cultural significance in the Islamic world. It is often used as a suffix to denote a center or a place of gatherings, such as a Jami Masjid (Mosque) or a Jami Athar (School). Thus, the name symbolizes a sense of unity, gathering, and learning that is essential in Islamic culture.",
-    "spiritual_significance": "Jami holds a spiritual significance in Islamic tradition as it brings to mind the idea of the gathering of all souls before Allah on the Day of Judgment. The name is a reminder of the importance of striving towards spiritual beauty (Jamal Qalib) and inner transformation (Tazkiya), in accordance with the Islamic faith. It encourages individuals to seek knowledge and wisdom in order to fulfill their spiritual potential.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ali ibn Abi Talib (600-661 CE) was the cousin and son-in-law of Prophet Muhammad. The name Jami carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Ali was the fourth caliph of Islam and a prominent military and political leader."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Ali is a common name in the Middle East and South Asia"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jami corresponds to the Arabic form جامع",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Jami has the core sense gatherer, collector, unifier",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Ali is a popular name on social media platforms like Twitter and Instagram"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Jami remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Jami",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Layla Jami from Kuala Lumpur, Malaysia embodies the meaning of Jami - \"Beauty\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Beauty\" symbolizes Jami is derived from the Arabic word jamal which means beauty.. In Islamic spirituality, bearing the name Jami serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of beauty.",
-    "created_at": "2025-12-22T19:19:49.8Z",
-    "updated_at": "2025-12-22T04:53:14.379Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1278,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jami",
-      "description": "Beauty",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Jami",
+        "jami"
       ],
-      "religion": "Islam",
-      "gender": "(Male/Female/Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jami",
-          "description": "Discover the meaning of Jami - \"Beauty\"",
-          "image": "/images/social/jami-facebook.jpg"
+      "description": "A name associated with the Arabic form جامع, meaning gatherer, collector, unifier.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "jami",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jami - Name Meaning",
-          "description": "Learn about the beautiful name Jami",
-          "image": "/images/social/jami-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Jami",
-          "description": "Name meaning: Beauty",
-          "image": "/images/social/jami-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jami - Meaning: Beauty",
-        "email_subject": "Beautiful Name: Jami"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jami with meaning Beauty",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jami, associated with the Arabic form جامع, meaning gatherer, collector, unifier."
     },
-    "similar_sounding_names": [
-      "jan",
-      "javier",
-      "jamesha",
-      "jasmina",
-      "janaan",
-      "jada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

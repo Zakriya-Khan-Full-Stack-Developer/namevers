@@ -1,272 +1,484 @@
 {
   "success": true,
   "data": {
-    "name": "id",
+    "name": "Id",
     "slug": "id",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Power, Lord, Master",
-    "long_meaning": "Derived from the Arabic root ‘dād-rā’, meaning ‘to be strong, powerful, or masterful’. In Islamic tradition, id can refer to Allah as the ultimate Master and Sustainer of the universe.",
-    "spiritual_meaning": "Symbol of submission and devotion to Allah.",
-    "emotional_traits": [
-      "Brave",
-      "Strong-willed"
-    ],
-    "hidden_personality_traits": [
-      "Sincere",
-      "Humble"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, emotional, and imaginative. Expresses artistic talents and potential.",
-    "in_arabic": {
-      "name": "عد",
-      "meaning": "to return",
-      "long_meaning": "The one who brings back, the one who is returned, the one who is given back"
+    "identity": {
+      "display_name": "Id",
+      "normalized_name": "id",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Id",
+        "id"
+      ],
+      "search_variants": [
+        "Id",
+        "id"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عد",
-      "meaning": "واپس لاوڑا",
-      "long_meaning": "وہ جسے واپس لائی جاتا ہے، وہ واپس لائی ہوتا ہے، وہ واپس دیا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Festival, feast, celebration",
+      "primary_meaning": "Festival",
+      "secondary_meanings": [
+        "feast",
+        "celebration"
+      ],
+      "literal_meaning": "Festival",
+      "extended_meaning": "Festival, feast, celebration",
+      "meaning_explanation": "Id corresponds to the Arabic form عيد (Arabic root ع و د (ʿ-w-d); عِيد (ʿĪd)). Its core sense is festival, feast, celebration. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "औद",
-      "meaning": "वापस लाना",
-      "long_meaning": "वह जिससे वापस लाने वाला है, वह वापस लाने वाला होता है, वह वापस दिया जाने वाला है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عيد",
+      "transliteration": "id",
+      "romanization": "id",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Festival",
+        "feast",
+        "celebration"
+      ],
+      "etymology_explanation": "The form عيد is an established Arabic lexical item. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اد",
-      "meaning": "ړوك",
-      "long_meaning": "هغه چې ړوكونه چې، هغه چې بېتا ړوكونه چې، هغه چې به نورست ړوكونه چې"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عيد is an established Arabic form.",
+        "Urdu": "عید is used in Urdu.",
+        "Persian": "عید is an established Persian form.",
+        "Hindi": "ईद is used in Hindi.",
+        "Pashto": "عید is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "id",
-      "meaning": "Power, Lord, Master",
-      "long_meaning": "Derived from the Arabic root ‘dād-rā’, meaning ‘to be strong, powerful, or masterful’. In Islamic tradition, id can refer to Allah as the ultimate Master and Sustainer of the universe."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عيد. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Id may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense festival, feast, celebration.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Festival",
+      "related_concepts": [
+        "festival",
+        "feast",
+        "celebration"
+      ],
+      "semantic_relationship": "The central semantic idea is festival; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of festival.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Festival",
+        "Feast",
+        "Celebration"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Id",
+        "meaning": "Festival, feast, celebration",
+        "long_meaning": "Id is a Arabic-origin name. Its core meaning is festival, feast, celebration. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied."
+      },
+      "urdu": {
+        "name": "عید",
+        "meaning": "عید، تہوار، جشن",
+        "long_meaning": "Id (عید) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عید، تہوار، جشن ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عید",
+        "meaning": "عید، جشن، جشنواره",
+        "long_meaning": "Id (عید) نامی برگرفته از زبان عربی است و معنای اصلی آن عید، جشن، جشنواره است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ईद",
+        "meaning": "ईद, त्योहार, उत्सव",
+        "long_meaning": "Id (ईद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ईद, त्योहार, उत्सव है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عید",
+        "meaning": "عید، اختر، جشن",
+        "long_meaning": "Id (عید) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عید، اختر، جشن ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عيد",
+        "meaning": "العيد، الاحتفال، المهرجان",
+        "long_meaning": "Id (عيد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العيد، الاحتفال، المهرجان. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/ˈɪd/",
-      "urdu": "/ˈiːd/",
-      "hindi": "/ˈʊd/",
-      "pashto": "/ˈɪd/"
+      "romanized": "id",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عید",
+      "persian": "عید",
+      "hindi": "ईद",
+      "pashto": "عید"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IdMeaning",
-      "#IslamicNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Id",
+        "id"
+      ],
+      "script_variants": [
+        "عيد",
+        "عید",
+        "ईद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عيد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Id can be understood through the Arabic form عيد, whose central sense is festival, feast, celebration. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Id mean?",
+        "answer": "Id is associated with the Arabic form عيد, whose core sense is festival, feast, celebration."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Id?",
+        "answer": "Id is associated with Arabic. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 85,
-        "year": 2024
+        "question": "Is Id an Arabic name?",
+        "answer": "Yes — the underlying form عيد is Arabic."
+      },
+      {
+        "question": "Is Id an Islamic name?",
+        "answer": "Id can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Id a Quranic name?",
+        "answer": "Id should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Id mean in Urdu?",
+        "answer": "In Urdu, Id is rendered عید and carries the sense عید، تہوار، جشن."
+      },
+      {
+        "question": "What does Id mean in Persian?",
+        "answer": "In Persian, Id is rendered عید and carries the sense عید، جشن، جشنواره."
+      },
+      {
+        "question": "How is Id pronounced?",
+        "answer": "A romanized syllable approximation is id. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Id?",
+        "answer": "Romanization variants include Id, id. Script forms are عيد, عید, ईद."
+      },
+      {
+        "question": "Is Id a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "id Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of id, a beautiful Islam name meaning \"Power, Lord, Master\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "id, Islam name, baby names, Power, Lord, Master, Islam baby names, name meaning",
-      "description_paragraph": "id is a meaningful Islam name of Arabic origin that means \"Power, Lord, Master\". Derived from the Arabic root ‘dād-rā’, meaning ‘to be strong, powerful, or masterful’. In Islamic tradition, id can refer to Allah as the ultimate Master and Sustainer of the universe.",
-      "keywords": [
-        "id",
-        "Islam name",
-        "baby names",
-        "Power, Lord, Master",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of id in Islam tradition?",
-          "a": "id is a beautiful Islam name meaning \"Power, Lord, Master\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is id a good Islam name for a baby?",
-          "a": "Yes, id is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name id?",
-          "a": "The name id has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce id correctly?",
-          "a": "id is pronounced /ˈɪd/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child id?",
-          "a": "Naming a child id brings blessings. The meaning \"Power, Lord, Master\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name id?",
-          "a": "id is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
-      "focus_keyword": "id meaning",
+      "title": "Id Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Id (عيد).",
+      "h1": "Id Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Id meaning",
       "secondary_keywords": [
-        "Islam name id",
-        "id meaning",
-        "id origin"
+        "Id name meaning",
+        "Id meaning in Urdu",
+        "Id origin",
+        "Id Islamic name",
+        "Id pronunciation",
+        "Id name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Id (عيد) is associated with the Arabic form عيد, whose core sense is festival, feast, celebration. Id is Arabic عِيد (ʿĪd) 'festival, feast, celebration', from the root ع و د (ʿ-w-d). CRITICAL SOURCE ERROR: the source gave عد (a different word) and glossed the name 'Power, Lord, Master'; the correct form is عِيد. Same name as ied.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Id is associated with the Arabic form عيد, whose core sense is festival, feast, celebration.",
+      "meaning_section": "The central meaning of Id is festival, feast, celebration.",
+      "origin_section": "Id is associated with Arabic rather than with a different language.",
+      "islam_section": "Id can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Id is with the sense festival.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Id",
+      "#IdMeaning",
+      "#IdName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Id marks the annual religious event of Eid al-Fitr, a joyous occasion celebrating the end of Ramadan and the beginning of the lunar month of Shawwal. Muslims around the world come together to offer communal Eid prayers, exchange gifts, enjoy special foods, and visit family and friends. Id is a time for forgiveness, unity, and commemorating the blessings of Allah.",
-    "spiritual_significance": "In the Islamic faith, Id represents an expression of submission, love, and gratitude to Allah, emphasizing the importance of faith and good deeds throughout the year. It is a time for self-reflection, seeking forgiveness, and Purifying one's heart and actions. The traditions and practices of Eid foster essential feelings of love, compassion, generosity, and understanding among people, thereby promoting harmony and peace in communities.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name id carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Id corresponds to the Arabic form عيد",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Id has the core sense festival, feast, celebration",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name id remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed id",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Ahmed id, a teacher in Kuala Lumpur, Malaysia, shares that their name id meaning \"Power, Lord, Master\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Power, Lord, Master\" symbolizes Derived from the Arabic root ‘dād-rā’, meaning ‘to be strong, powerful, or masterful’. In Islamic tradition, id can refer to Allah as the ultimate Master and Sustainer of the universe.. In Islamic spirituality, bearing the name id serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of power, lord, master.",
-    "created_at": "2025-12-22T19:19:50.949Z",
-    "updated_at": "2025-12-22T04:53:16.658Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1180,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "id",
-      "description": "Power, Lord, Master",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "@type": "DefinedTerm",
+      "name": "Id",
+      "alternateName": [
+        "Id",
+        "id"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: id",
-          "description": "Discover the meaning of id - \"Power, Lord, Master\"",
-          "image": "/images/social/id-facebook.jpg"
+      "description": "A name associated with the Arabic form عيد, meaning festival, feast, celebration.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "id",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "id - Name Meaning",
-          "description": "Learn about the beautiful name id",
-          "image": "/images/social/id-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "id",
-          "description": "Name meaning: Power, Lord, Master",
-          "image": "/images/social/id-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: id - Meaning: Power, Lord, Master",
-        "email_subject": "Beautiful Name: id"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "id with meaning Power, Lord, Master",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Id, associated with the Arabic form عيد, meaning festival, feast, celebration."
     },
-    "similar_sounding_names": [
-      "iqrit",
-      "inga",
-      "isa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

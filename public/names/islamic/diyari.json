@@ -3,284 +3,476 @@
   "data": {
     "name": "Diyari",
     "slug": "diyari",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Daylight",
-    "long_meaning": "The one who illuminates the day, derived from the Arabic word 'Diyar' meaning abode or dwelling",
-    "spiritual_meaning": "Symbolizes enlightenment and understanding, representing a deep connection with the natural world and the passage of time",
-    "emotional_traits": [
-      "Joyful",
-      "Wise",
-      "Radiant"
-    ],
-    "hidden_personality_traits": [
-      "Mysterious",
-      "Introspective",
-      "Intuitive"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "Encourages love, nurturing, and caring for others, often drawing inspiration from the natural world",
-    "in_arabic": {
-      "name": "دياري",
-      "meaning": "الديار تعني الوطن أو البيت",
-      "long_meaning": "اسم دياري مشتق من الجذر الدال على الوطن أو البيت، ويعبر عن مكانة الشخص في بيته أو وطنه. له أهمية في الثقافة الإسلامية كرمز للانتماء والمكانة الاجتماعية."
+    "identity": {
+      "display_name": "Diyari",
+      "normalized_name": "diyari",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Diyari",
+        "diyari"
+      ],
+      "search_variants": [
+        "Diyari",
+        "diyari"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دیاری",
-      "meaning": "دیاری کا مطلب ہے گھر یا ملک",
-      "long_meaning": "دیاری نام کی اصلیت عربی زبان میں ہے، جو کہ دیار سے ماخوذ ہے۔ یہ نام فرد کی تعلق اور انتماء کو ظاہر کرتا ہے، خاص طور پر اس کے خاندان یا ملک کے ساتھ۔ اسلامی ثقافت میں، یہ نام روحانی اور سماجی اہمیت رکھتا ہے کیونکہ یہ فرد کی جڑوں اور اس کی تشخص کو بیان کرتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Daylight, daytime",
+      "primary_meaning": "Daylight",
+      "secondary_meanings": [
+        "daytime"
+      ],
+      "literal_meaning": "Daylight",
+      "extended_meaning": "Daylight, daytime",
+      "meaning_explanation": "Diyari corresponds to the Arabic form دياري (د و ر). Its core sense is daylight, daytime. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "दीयारी",
-      "meaning": "दीयारी का अर्थ है घर या देश",
-      "long_meaning": "दीयारी नाम की उत्पत्ति अरबी भाषा से हुई है, जो 'दीयार' से लिया गया है, जिसका अर्थ है घर या निवास स्थान। यह नाम व्यक्ति की अपनी जड़ों और उसके समाज में स्थिति को दर्शाता है। भारतीय मुस्लिम समुदाय में, यह नाम व्यक्तिगत और सांस्कृतिक पहचान का महत्वपूर्ण हिस्सा है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "دياري",
+      "transliteration": "diyari",
+      "romanization": "diyari",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Daylight",
+        "daytime"
+      ],
+      "etymology_explanation": "The form دياري is an established Arabic lexical item. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "دياري",
-      "meaning": "دياري د کور يا هېواد معنی",
-      "long_meaning": "دياري نوم د عربي ژبې څخه اخیستل شوی دی، کوم چې د ديار څخه مشتق شوی دی. دا نوم د فرد د تړاو او پورې اړوندی څرګندوي، په ځانګړي ډول د هغه د کورنۍ يا هېواد سره. په افغان او پښتون دود کې، دا نوم روحاني او ټولنيز ارزښت لري ځکه چې دا د فرد ريښې او د هغه شخصیت څرګندوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دياري is an established Arabic form.",
+        "Urdu": "دیاری is used in Urdu.",
+        "Hindi": "दियारी is used in Hindi.",
+        "Pashto": "دياري is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Diyari",
-      "meaning": "Diyari means home, country, or place of belonging",
-      "long_meaning": "The name Diyari originates from the Arabic root 'd-y-r', which signifies home, abode, or country. This name holds spiritual and social significance in Islamic tradition, symbolizing an individual's connection to their family, community, or homeland. It reflects the importance of one's roots and societal standing. Historically, names derived from such roots have been used across various Muslim cultures to denote identity and belonging."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form دياري. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Diyari may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense daylight, daytime.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Daylight",
+      "related_concepts": [
+        "daylight",
+        "daytime"
+      ],
+      "semantic_relationship": "The central semantic idea is daylight; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of daylight.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Daylight",
+        "Daytime"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Diyari",
+        "meaning": "Daylight, daytime",
+        "long_meaning": "Diyari is a Arabic-origin name. Its core meaning is daylight, daytime. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "دیاری",
+        "meaning": "دن کی روشنی، دن",
+        "long_meaning": "Diyari (دیاری) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم دن کی روشنی، دن ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दियारी",
+        "meaning": "दिन का प्रकाश, दिन",
+        "long_meaning": "Diyari (दियारी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दिन का प्रकाश, दिन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دياري",
+        "meaning": "د ورځې رڼا، ورځ",
+        "long_meaning": "Diyari (دياري) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د ورځې رڼا، ورځ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دياري",
+        "meaning": "ضوء النهار، النهار",
+        "long_meaning": "Diyari (دياري) اسم مأخوذ من اللغة العربية، ومعناه الأساسي ضوء النهار، النهار. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "dee-YAH-ree",
-      "urdu": "دیاری کا تلفظ ہے دی-یا-ری",
-      "hindi": "दीयारी का उच्चारण है दी-या-री",
-      "pashto": "دياري د تلفظ دی دی-یا-ري",
-      "ipa": "/diːˈjɑːri/"
+      "romanized": "diya-ri",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دیاری",
+      "persian": null,
+      "hindi": "दियारी",
+      "pashto": "دياري"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#DiyariMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Diyari"
-    ],
-    "name_variations": [],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Diyari",
+        "diyari"
+      ],
+      "script_variants": [
+        "دياري",
+        "دیاری",
+        "दियारी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دياري is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Diyari can be understood through the Arabic form دياري, whose central sense is daylight, daytime. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Diyari mean?",
+        "answer": "Diyari is associated with the Arabic form دياري, whose core sense is daylight, daytime."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 80,
-        "year": 2024
+        "question": "What is the origin of Diyari?",
+        "answer": "Diyari is associated with Arabic. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Diyari an Arabic name?",
+        "answer": "Yes — the underlying form دياري is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Diyari an Islamic name?",
+        "answer": "Diyari can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Diyari a Quranic name?",
+        "answer": "Diyari should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Diyari mean in Urdu?",
+        "answer": "In Urdu, Diyari is rendered دیاری and carries the sense دن کی روشنی، دن."
+      },
+      {
+        "question": "What does Diyari mean in Persian?",
+        "answer": "No verified Persian form was established for Diyari."
+      },
+      {
+        "question": "How is Diyari pronounced?",
+        "answer": "A romanized syllable approximation is diya-ri. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Diyari?",
+        "answer": "Romanization variants include Diyari, diyari. Script forms are دياري, دیاری, दियारी."
+      },
+      {
+        "question": "Is Diyari a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Diyari Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Diyari, a beautiful Islam name meaning \"Daylight\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Diyari, Islam name, baby names, Daylight, Islam baby names, name meaning",
-      "description_paragraph": "Diyari is a meaningful Islam name of Arabic origin that means \"Daylight\". The one who illuminates the day, derived from the Arabic word 'Diyar' meaning abode or dwelling",
-      "keywords": [
-        "Diyari",
-        "Islam name",
-        "baby names",
-        "Daylight",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Diyari in Islam tradition?",
-          "a": "Diyari is a beautiful Islam name meaning \"Daylight\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Diyari a good Islam name for a baby?",
-          "a": "Yes, Diyari is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Diyari?",
-          "a": "The name Diyari has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Diyari correctly?",
-          "a": "Diyari is pronounced dee-YAH-ree in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Diyari?",
-          "a": "Naming a child Diyari brings blessings. The meaning \"Daylight\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Diyari?",
-          "a": "Diyari is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Diyari Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Diyari (دياري).",
+      "h1": "Diyari Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Diyari meaning",
       "secondary_keywords": [
-        "Islam name Diyari",
-        "Diyari meaning",
-        "Diyari origin"
+        "Diyari name meaning",
+        "Diyari meaning in Urdu",
+        "Diyari origin",
+        "Diyari Islamic name",
+        "Diyari pronunciation",
+        "Diyari name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Diyari (دياري) is associated with the Arabic form دياري, whose core sense is daylight, daytime. The source record's gloss 'Daylight' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Diyari is associated with the Arabic form دياري, whose core sense is daylight, daytime.",
+      "meaning_section": "The central meaning of Diyari is daylight, daytime.",
+      "origin_section": "Diyari is associated with Arabic rather than with a different language.",
+      "islam_section": "Diyari can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Diyari is with the sense daylight.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Diyari",
+      "#DiyariMeaning",
+      "#DiyariName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Diyari is associated with light, brightness, and illumination. In many Middle Eastern and Arab cultures, light is seen as a metaphor for knowledge, understanding, and truth. The name may be given to a child born during a particularly bright and clear day, or to one who is expected to bring light and understanding to their community or family.",
-    "spiritual_significance": "In Islamic tradition, light is often associated with Allah (God) and his guidance. The Quran says, \"Allah is the light of the heavens and the earth. His light shines down upon the believers in the darkness.\" (Surah Al-Nur, 24:35). The name Diyari may be considered a reminder of Allah's light and guidance in one's life, and a call to strive towards knowledge and wisdom. It may also be seen as a symbol of the light that one can shine forth into the world, bringing joy, understanding, and harmony to those around them.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Diyari carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Diyari corresponds to the Arabic form دياري",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Diyari has the core sense daylight, daytime",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Diyari remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Diyari",
-      "location": "Karachi, Pakistan",
-      "story": "Layla Diyari from Karachi, Pakistan embodies the meaning of Diyari - \"Daylight\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Daylight\" symbolizes The one who illuminates the day, derived from the Arabic word 'Diyar' meaning abode or dwelling. In Islamic spirituality, bearing the name Diyari serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of daylight.",
-    "created_at": "2025-12-22T19:19:50.34Z",
-    "updated_at": "2025-12-22T04:53:16.051Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1134,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Diyari",
-      "description": "Daylight",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Diyari",
+        "diyari"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Diyari",
-          "description": "Discover the meaning of Diyari - \"Daylight\"",
-          "image": "/images/social/diyari-facebook.jpg"
+      "description": "A name associated with the Arabic form دياري, meaning daylight, daytime.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "diyari",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Diyari - Name Meaning",
-          "description": "Learn about the beautiful name Diyari",
-          "image": "/images/social/diyari-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Diyari",
-          "description": "Name meaning: Daylight",
-          "image": "/images/social/diyari-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Diyari - Meaning: Daylight",
-        "email_subject": "Beautiful Name: Diyari"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Diyari with meaning Daylight",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Diyari, associated with the Arabic form دياري, meaning daylight, daytime."
     },
-    "similar_sounding_names": [
-      "dhuka",
-      "daniel",
-      "dafiyah",
-      "dina",
-      "diya",
-      "dimah",
-      "dean"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

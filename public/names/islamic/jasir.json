@@ -3,288 +3,481 @@
   "data": {
     "name": "Jasir",
     "slug": "jasir",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Firm, Steadfast",
-    "long_meaning": "Derived from the Arabic root 'asr', meaning 'to be firm, steadfast, or establish'. The name Jasir is mentioned in the Quran in Surah Al-Ankabut (29:67) as a name of a companion of Prophet Muhammad (pbuh).",
-    "spiritual_meaning": "A name with a spiritual meaning is a reminder of your connection to the divine and can inspire you to live a more spiritual life. Jasir is a name that represents generosity, compassion, and the ability to bring people together. It is a reminder to be a provider for yourself and others, and to be a source of strength and support.",
-    "emotional_traits": [
-      "Righteous",
-      "Brave",
-      "Strong-willed"
-    ],
-    "hidden_personality_traits": [
-      "M = Quiet",
-      "S = Ambitious"
-    ],
-    "lucky_number": 11,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Red",
-      "Blue"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 3,
-    "numerology_meaning": "People with name Jasir are self-confident, creative, and artistic. They are natural born leaders, and are often visionaries and pioneers.",
-    "in_arabic": {
-      "name": "جاسر",
-      "meaning": "اسم مشتق من جسر، بمعنى من يقوم بالشؤون ويدبر الأمور",
-      "long_meaning": "جاسر هو اسم علم مذكر من أصل عربي، مشتق من الفعل جسر الذي يعني القيام بالشؤون وإدارة الأمور. يدل على الشخص الذي يتحمل المسؤولية ويقوم بإدارة شؤونه بنجاح. ورد في القرآن الكريم ذكر الفعل جسر في سورة الحجر: ﴿وإذ قال عيسى ابن مريم يا بني إسرائيل إني رسول الله إليكم مصدقا لما بين يدي من التوراة ومبشرا برسول يأتي من بعدي اسمه أحمدا﴾، وقد جاء في تفسير الجلالين: 'وأما قوله: مبشرا برسول يأتي من بعدي اسمه أحمد، فهو خبر من الله تعالى لرسوله عيسى عليه السلام، ولفظه: إني رسول الله إليكم، مبشر لكم برسول يأتي من بعدي، اسمه في اللغة العربية أحمد، وهو محمد صلى الله عليه وسلم، وفي بعض كتب المفسرين أن النبي عيسى بشر به في الإنجيل، وسماه في بعض المواضع: بارقليطوس، وهو مشتق من البارق، وهو الذي يضيء ويبشر، ومنه قيل للمشير بالخير: مبشر، ومن أسمائه في الإنجيل: ماناڤر، وهو مشتق من النور، ومن أسمائه أحمد، وأحمد في الأصل: مأخوذ من الحمد، وهو يدل على معنى الحمد الكثير الذي يأتي به هذا النبي، أو هو مخفف من أحمدان، وهو المأخوذ من الأحماد، وهي الحمائل التي تعلق على الكتفين، ومنه قولهم: حمّدته حمدا أحمدا، إذا كثر حمده، ومن أجله سمي النبي صلى الله عليه وسلم: أحمدا، لأنه أتى بالحمد الكثير، أو لأنه يحمد على ما جاء به من الخير الكثير، ومن أسمائه في الإنجيل: محمد، بفتح الميم، وهو على وزن مفاعل، من مَحَدَ الشيء إذا جعله في حد، أو هو مخفف من محمّد، وهو المأخوذ من المحمدة، وهي الحميدة، ومنه قولهم: ما أَحسَنَ حَمْدَ هذا الرجل، أي ما أحسنه حميدة، فأحمد: أي حميدة، وقيل: سمي به لأنه يحد الناس في الخير، أي يقدرهم عليه، ومنه قيل للمتقي: محدّث، لأنه يحد النفس على الإيمان، ومنه قيل للغزاة: محدّثون، لأنهم يحدون أنفسهم على القتال، وقال بعضهم: هو اسم مفاعل من حَمَدَ، بمعنى: الحَمْدُ كُلُّهُ لَهُ، وقيل: هو مخفف من أَحمَدَ، وهو الذي يَحْمَدُهُ الناس، أو هو اسم أعجمي، على أن أصل هذه اللغة: مشتق من الحمد، وهو من أسماء النبي محمد صلى الله عليه وسلم، وقد ورد ذكره في القرآن الكريم، وفي الأحاديث النبوية الشريفة، ويعتبر من الأسماء ذات الأهمية الكبيرة في الإسلام."
+    "identity": {
+      "display_name": "Jasir",
+      "normalized_name": "jasir",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jasir",
+        "jasir"
+      ],
+      "search_variants": [
+        "Jasir",
+        "jasir"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جاسر",
-      "meaning": "جاسر کا مطلب ہے: منظم کرنے والا، انتظام کرنے والا",
-      "long_meaning": "جاسر ایک عربی نام ہے، جو جسر سے ماخوذ ہے۔ اس کا مطلب ہے وہ شخص جو امور کو منظم کرتا ہے اور ان کے انتظام کا ذمہ دار ہوتا ہے۔ یہ نام اسلامی تقویم میں اہمیت رکھتا ہے کیونکہ یہ ان خصوصیات کی نمائندگی کرتا ہے جو ایک مسلمان کو اپنے روزمرہ امور میں نمائش کرنی چاہئیں۔"
+    "core_meaning": {
+      "short_meaning": "Bold, daring, courageous",
+      "primary_meaning": "Bold",
+      "secondary_meanings": [
+        "daring",
+        "courageous"
+      ],
+      "literal_meaning": "Bold",
+      "extended_meaning": "Bold, daring, courageous",
+      "meaning_explanation": "Jasir corresponds to the Arabic form جاسر (Arabic root ج س ر (j-s-r); جَاسِر (Jāsir)). Its core sense is bold, daring, courageous. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "जासिर",
-      "meaning": "जासिर का अर्थ है: प्रबंध करने वाला, व्यवस्था करने वाला",
-      "long_meaning": "जासिर एक अरबी नाम है, जो जस्र से लिया गया है। इसका अर्थ है वह व्यक्ति जो मामलों को व्यवस्थित करता है और उनके प्रबंधन का जिम्मेदार होता है। यह नाम इस्लामी परंपरा में महत्व रखता है क्योंकि यह उन विशेषताओं का प्रतिनिधित्व करता है जो एक मुसलमान को अपने दैनिक मामलों में प्रदर्शित करनी चाहिए।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جاسر",
+      "transliteration": "jasir",
+      "romanization": "jasir",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Bold",
+        "daring",
+        "courageous"
+      ],
+      "etymology_explanation": "The form جاسر is an established Arabic lexical item. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جاسر",
-      "meaning": "جاسر دى معنى: منظم کوونکی، انتظام کوونکی",
-      "long_meaning": "جاسر دى يو عربى نوم دى، چى جسر څخه اخستل شوى دى. دى مطلب دى هغه کسى چې امور يى تنظيم کوى او د هغوى د انتظام مسول دى. دا نوم د اسلامى تقويم دى اهميت لرى، ځکه چې دى هغو ځانګړتيو د نمائندگى کوي چى يو مسلمان بايد خپل ورځنيو چارو کى نمايش کړي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جاسر is an established Arabic form.",
+        "Urdu": "جاسر is used in Urdu.",
+        "Persian": "جاسر is an established Persian form.",
+        "Hindi": "जासिर is used in Hindi.",
+        "Pashto": "جاسر is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Jasir",
-      "meaning": "one who organizes, manages, or takes charge",
-      "long_meaning": "Jasir is an Arabic name derived from the root 'j-s-r', which means 'to organize, manage, or take charge'. It signifies a person who is responsible, capable of managing affairs, and leading others. The name Jasir has a strong Quranic etymology and historical significance in Islamic tradition. It reflects qualities such as leadership, responsibility, and effective management, which are highly valued in Islamic culture."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form جاسر. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jasir may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense bold, daring, courageous.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Bold",
+      "related_concepts": [
+        "bold",
+        "daring",
+        "courageous"
+      ],
+      "semantic_relationship": "The central semantic idea is bold; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of bold.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Bold",
+        "Daring",
+        "Courageous"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jasir",
+        "meaning": "Bold, daring, courageous",
+        "long_meaning": "Jasir is a Arabic-origin name. Its core meaning is bold, daring, courageous. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser."
+      },
+      "urdu": {
+        "name": "جاسر",
+        "meaning": "جسور، بہادر، دلیر",
+        "long_meaning": "Jasir (جاسر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جسور، بہادر، دلیر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جاسر",
+        "meaning": "جسور، دلیر، بیباک",
+        "long_meaning": "Jasir (جاسر) نامی برگرفته از زبان عربی است و معنای اصلی آن جسور، دلیر، بیباک است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जासिर",
+        "meaning": "साहसी, निडर, बहादुर",
+        "long_meaning": "Jasir (जासिर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ साहसी, निडर, बहादुर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جاسر",
+        "meaning": "زړور، ننډر، بې باکه",
+        "long_meaning": "Jasir (جاسر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زړور، ننډر، بې باکه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جاسر",
+        "meaning": "الجسور، الجريء، الشجاع",
+        "long_meaning": "Jasir (جاسر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجسور، الجريء، الشجاع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "JAS-ir",
-      "urdu": "جاسِر",
+      "romanized": "ja-sir",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جاسر",
+      "persian": "جاسر",
       "hindi": "जासिर",
-      "pashto": "جاسر",
-      "ipa": "/ˈdʒɑːsɪr/"
+      "pashto": "جاسر"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#JasirMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jasir"
-    ],
-    "name_variations": [],
-    "popularity_score": 62,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jasir",
+        "jasir"
+      ],
+      "script_variants": [
+        "جاسر",
+        "जासिर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جاسر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jasir can be understood through the Arabic form جاسر, whose central sense is bold, daring, courageous. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Jasir mean?",
+        "answer": "Jasir is associated with the Arabic form جاسر, whose core sense is bold, daring, courageous."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Jasir?",
+        "answer": "Jasir is associated with Arabic. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Jasir an Arabic name?",
+        "answer": "Yes — the underlying form جاسر is Arabic."
+      },
+      {
+        "question": "Is Jasir an Islamic name?",
+        "answer": "Jasir can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jasir a Quranic name?",
+        "answer": "Jasir should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jasir mean in Urdu?",
+        "answer": "In Urdu, Jasir is rendered جاسر and carries the sense جسور، بہادر، دلیر."
+      },
+      {
+        "question": "What does Jasir mean in Persian?",
+        "answer": "In Persian, Jasir is rendered جاسر and carries the sense جسور، دلیر، بیباک."
+      },
+      {
+        "question": "How is Jasir pronounced?",
+        "answer": "A romanized syllable approximation is ja-sir. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jasir?",
+        "answer": "Romanization variants include Jasir, jasir. Script forms are جاسر, जासिर."
+      },
+      {
+        "question": "Is Jasir a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jasir Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jasir, a beautiful Islam name meaning \"Firm, Steadfast\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jasir, Islam name, baby names, Firm, Steadfast, Islam baby names, name meaning",
-      "description_paragraph": "Jasir is a meaningful Islam name of Arabic origin that means \"Firm, Steadfast\". Derived from the Arabic root 'asr', meaning 'to be firm, steadfast, or establish'. The name Jasir is mentioned in the Quran in Surah Al-Ankabut (29:67) as a name of a companion of Prophet Muhammad (pbuh).",
-      "keywords": [
-        "Jasir",
-        "Islam name",
-        "baby names",
-        "Firm, Steadfast",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jasir in Islam tradition?",
-          "a": "Jasir is a beautiful Islam name meaning \"Firm, Steadfast\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jasir a good Islam name for a baby?",
-          "a": "Yes, Jasir is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jasir?",
-          "a": "The name Jasir has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jasir correctly?",
-          "a": "Jasir is pronounced JAS-ir in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jasir?",
-          "a": "Naming a child Jasir brings blessings. The meaning \"Firm, Steadfast\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jasir?",
-          "a": "Jasir is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Jasir Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jasir (جاسر).",
+      "h1": "Jasir Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jasir meaning",
       "secondary_keywords": [
-        "Islam name Jasir",
-        "Jasir meaning",
-        "Jasir origin"
+        "Jasir name meaning",
+        "Jasir meaning in Urdu",
+        "Jasir origin",
+        "Jasir Islamic name",
+        "Jasir pronunciation",
+        "Jasir name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jasir (جاسر) is associated with the Arabic form جاسر, whose core sense is bold, daring, courageous. Jasir is Arabic جَاسِر (Jāsir) 'bold, daring, courageous', from the root ج س ر (j-s-r). The source gloss 'Firm, Steadfast' is unsupported and has been replaced with the lexical sense. Same name as jaseer and jaser.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jasir is associated with the Arabic form جاسر, whose core sense is bold, daring, courageous.",
+      "meaning_section": "The central meaning of Jasir is bold, daring, courageous.",
+      "origin_section": "Jasir is associated with Arabic rather than with a different language.",
+      "islam_section": "Jasir can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jasir is with the sense bold.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jasir",
+      "#JasirMeaning",
+      "#JasirName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jasir holds a rich cultural heritage within the Muslim community, as it is mentioned in the Quran and associated with a revered figure in Islamic history. In some contexts, this name may inspire a sense of honor and respect due to its connection to Prophet Muhammad (pbuh) and the companions of the Prophet (r.a.). It is also a common name within various Muslim communities, which may foster a sense of connection and unity among individuals bearing the same name.",
-    "spiritual_significance": "Bearing the name Jasir holds spiritual significance as it is derived from the Arabic root 'asr', meaning 'to be firm, steadfast, or establish'. This root conveys a message of resilience, determination, and unwavering commitment to one's faith and principles. The spiritual significance of the name may encourage the bearer to embody these traits in their daily life, striving to be a steadfast and strong Muslim, committed to their faith and the ideals of compassion, mercy, and justice as taught in the teachings of Islam.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Ibn Hisham's Sirat Rasul Allah mentions a man named Jasir ibn Surd who was a leader of the Meccan tribe of Banu Bakr. He was an ally of the Prophet Muhammad (pbuh) and embraced Islam before the migration to Medina. When the Prophet (pbuh) and his followers were forced to leave Mecca, Jasir provided them with food and shelter. After the Prophet's (pbuh) return to Mecca following the Treaty of Hudaybiyyah, Jasir and his tribe pledged allegiance to the Prophet (pbuh).",
-        "time_period": "6th century CE (around 622 CE to 632 CE)",
-        "context": "Islamic pre-history, early Islamic history, Prophet Muhammad (pbuh) and the early Muslim community"
-      },
-      {
-        "reference": "Ibn Kathir's Al-Bidayah wa-l-Nihayah records the story of Jasir ibn Harb, a companion of the Prophet Muhammad (pbuh). He was a poet and a prominent member of the Quraysh tribe in Mecca. Jasir was known for his opposition to Islam and his mockery of the Prophet (pbuh) and the early Muslims. However, after the Battle of Badr, when the Muslims defeated the Meccan army, Jasir had a change of heart and embraced Islam. He composed a poem praising Allah and the Prophet (pbuh) and became a valuable asset to the Muslim community.",
-        "time_period": "7th century CE (around 624 CE to 632 CE)",
-        "context": "Islamic history, early Islamic history, Prophet Muhammad (pbuh) and the early Muslim community"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names",
-        "Modern Muslim identity",
-        "Personal branding"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jasir corresponds to the Arabic form جاسر",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Jasir has the core sense bold, daring, courageous",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "LinkedIn",
-        "Personal websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Jasir is a popular Islamic name that is gaining traction in modern contexts, particularly among Muslims seeking to express their identity or establish a personal brand. On Instagram, Jasir is used as a unique username for accounts that feature inspirational quotes, travel photos, or artistic expression. On LinkedIn, Jasir is a common name for professionals in various industries, reflecting the growing importance of a strong personal brand in the job market. Finally, on personal websites, Jasir is used as a domain name or as part of a personal branding strategy, demonstrating the increasing trend of Muslims using their names as a way to establish an online presence and showcase their talents or interests."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Jasir",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Ibrahim Jasir in Karachi, Pakistan attributes much of their success to the blessing of their name Jasir, which means \"Firm, Steadfast\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Firm, Steadfast\" symbolizes Derived from the Arabic root 'asr', meaning 'to be firm, steadfast, or establish'. The name Jasir is mentioned in the Quran in Surah Al-Ankabut (29:67) as a name of a companion of Prophet Muhammad (pbuh).. In Islamic spirituality, bearing the name Jasir serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of firm, steadfast.",
-    "created_at": "2025-12-22T19:19:49.945Z",
-    "updated_at": "2025-12-22T04:53:15.613Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1334,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jasir",
-      "description": "Firm, Steadfast",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Jasir",
+        "jasir"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jasir",
-          "description": "Discover the meaning of Jasir - \"Firm, Steadfast\"",
-          "image": "/images/social/jasir-facebook.jpg"
+      "description": "A name associated with the Arabic form جاسر, meaning bold, daring, courageous.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "jasir",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jasir - Name Meaning",
-          "description": "Learn about the beautiful name Jasir",
-          "image": "/images/social/jasir-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Jasir",
-          "description": "Name meaning: Firm, Steadfast",
-          "image": "/images/social/jasir-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jasir - Meaning: Firm, Steadfast",
-        "email_subject": "Beautiful Name: Jasir"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jasir with meaning Firm, Steadfast",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jasir, associated with the Arabic form جاسر, meaning bold, daring, courageous."
     },
-    "similar_sounding_names": [
-      "janaan",
-      "jadallah",
-      "jada",
-      "jasmina",
-      "javier",
-      "jamesha",
-      "jan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

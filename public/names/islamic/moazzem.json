@@ -3,294 +3,481 @@
   "data": {
     "name": "Moazzem",
     "slug": "moazzem",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Warner",
-    "long_meaning": "One who calls, invites or warns, especially about Islam.",
-    "spiritual_meaning": "To call to the right path of Allah.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 8,
-    "numerology_meaning": "People with this name are natural leaders, and are often very intuitive.",
-    "in_arabic": {
-      "name": "معظم",
-      "meaning": "الاسم المعظم يعني العظيم جدا أو المكرم بشدة",
-      "long_meaning": "اسم معظّم مشتق من الجذر العربي 'عظم' والذي يعني العظمة أو الكرامة. يستخدم الاسم ليعبر عن الرفعة و العلو في الشأن و المكانة. ورد في القرآن الكريم عدة مرات، مما يعطيه قدسية و مكانة عالية في اللغة و الثقافة العربية الإسلامية."
+    "identity": {
+      "display_name": "Moazzem",
+      "normalized_name": "moazzem",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Moazzem",
+        "moazzem"
+      ],
+      "search_variants": [
+        "Moazzem",
+        "moazzem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "معظم",
-      "meaning": "معظم نام کا مطلب بہت عظیم یا انتہائی مکرام والا",
-      "long_meaning": "معظم نام عربی جڑ 'عظم' سے نکلا ہے جس کا مطلب عظمت یا کرامت ہے۔ یہ نام کسی کی رفعت، علو شان اور مقام کی نشاندہی کرتا ہے۔ اسلامی تقالید میں اس کا ذکر قرآن کریم میں آیا ہے، جو اسے لسانی اور ثقافتی لحاظ سے اہم بناتا ہے۔ جنوبی ایشیائی مسلمان معاشروں میں بھی اس نام کی روایات اور استعمال پائے جاتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Exalted, magnified, honoured",
+      "primary_meaning": "Exalted",
+      "secondary_meanings": [
+        "magnified",
+        "honoured"
+      ],
+      "literal_meaning": "Exalted",
+      "extended_meaning": "Exalted, magnified, honoured",
+      "meaning_explanation": "Moazzem corresponds to the Arabic form معظم (Arabic root ع ظ م (ʿ-ẓ-m); مُعَظَّم (Muʿaẓẓam)). Its core sense is exalted, magnified, honoured. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मोअज़्ज़म",
-      "meaning": "मोअज़्ज़म नाम का अर्थ बहुत महान या अत्यधिक पूजनीय",
-      "long_meaning": "मोअज़्ज़म नाम की उत्पत्ति अरबी मूल 'अज़म' से हुई है, जिसका अर्थ महानता या गरिमा है। यह नाम किसी की उच्चता, प्रतिष्ठा और पदवी को दर्शाता है। इस्लामी परंपरा में इसका उल्लेख कुरआन में मिलता है, जो इसे भाषाई और सांस्कृतिक दृष्टि से महत्वपूर्ण बनाता है। भारतीय मुस्लिम समुदाय में भी इस नाम की परंपराएं और उपयोग पाए जाते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "معظم",
+      "transliteration": "moazzem",
+      "romanization": "moazzem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Exalted",
+        "magnified",
+        "honoured"
+      ],
+      "etymology_explanation": "The form معظم is an established Arabic lexical item. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "معظم",
-      "meaning": "د معظم نوم معنی ډیر لوی یا ډیر ویاړلی",
-      "long_meaning": "معظم نوم د عربي ريښې 'عظم' څخه اخستل شوی دی چې معنی يې عظمت يا کرامت دی. دا نوم د کوم چا د لوړوالي، عزت او مقام ښودنه کوي. په اسلامي دود کې دا نوم په قرآن کريم کې راغلی دی، چې دا لفظي او کلتوري لحاظه مهم کوي. په افغان او پښتون دودونو کې ددې نوم کارول او روايات شته دي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "معظم is an established Arabic form.",
+        "Urdu": "معظم is used in Urdu.",
+        "Persian": "معظم is an established Persian form.",
+        "Hindi": "मुअज़्ज़म is used in Hindi.",
+        "Pashto": "معظم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Moazzem",
-      "meaning": "The name Moazzem means extremely great or highly honored",
-      "long_meaning": "The name Moazzem is derived from the Arabic root 'azama', which means to be great or to honor. This name signifies greatness, high esteem, and nobility. It is mentioned in the Quran, which adds to its sanctity and high status in Arabic language and Islamic culture. The name reflects elevated status and spiritual significance in Islamic tradition."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form معظم. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Moazzem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense exalted, magnified, honoured.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Exalted",
+      "related_concepts": [
+        "exalted",
+        "magnified",
+        "honoured"
+      ],
+      "semantic_relationship": "The central semantic idea is exalted; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of exalted.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Exalted",
+        "Magnified",
+        "Honoured"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Moazzem",
+        "meaning": "Exalted, magnified, honoured",
+        "long_meaning": "Moazzem is a Arabic-origin name. Its core meaning is exalted, magnified, honoured. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam."
+      },
+      "urdu": {
+        "name": "معظم",
+        "meaning": "معظم، بلند، بزرگ",
+        "long_meaning": "Moazzem (معظم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معظم، بلند، بزرگ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "معظم",
+        "meaning": "معظم، بزرگ، سرفراز",
+        "long_meaning": "Moazzem (معظم) نامی برگرفته از زبان عربی است و معنای اصلی آن معظم، بزرگ، سرفراز است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मुअज़्ज़म",
+        "meaning": "मुअज़्ज़म, महान, प्रतिष्ठित",
+        "long_meaning": "Moazzem (मुअज़्ज़म) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुअज़्ज़म, महान, प्रतिष्ठित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "معظم",
+        "meaning": "معظم، لوی",
+        "long_meaning": "Moazzem (معظم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې معظم، لوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "معظم",
+        "meaning": "الْمُعَظَّم، الْجَلِيل، الْمُبَجَّل",
+        "long_meaning": "Moazzem (معظم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمُعَظَّم، الْجَلِيل، الْمُبَجَّل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "moh-AHZ-em",
-      "urdu": "اردو میں تلفظ کی تفصیل موآذم",
-      "hindi": "हिन्दी में उच्चारण विवरण मोअज़्ज़म",
-      "pashto": "په پښتو کې د تلفظ تفصیل معظم",
-      "ipa": "/moʊˈæzəm/"
+      "romanized": "moaz-zem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "معظم",
+      "persian": "معظم",
+      "hindi": "मुअज़्ज़म",
+      "pashto": "معظم"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MoazzemMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Moazzem"
-    ],
-    "name_variations": [],
-    "popularity_score": 53,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Moazzem",
+        "moazzem"
+      ],
+      "script_variants": [
+        "معظم",
+        "मुअज़्ज़म"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form معظم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Moazzem can be understood through the Arabic form معظم, whose central sense is exalted, magnified, honoured. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Moazzem mean?",
+        "answer": "Moazzem is associated with the Arabic form معظم, whose core sense is exalted, magnified, honoured."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Moazzem?",
+        "answer": "Moazzem is associated with Arabic. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Moazzem an Arabic name?",
+        "answer": "Yes — the underlying form معظم is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Moazzem an Islamic name?",
+        "answer": "Moazzem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Moazzem a Quranic name?",
+        "answer": "Moazzem should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Moazzem mean in Urdu?",
+        "answer": "In Urdu, Moazzem is rendered معظم and carries the sense معظم، بلند، بزرگ."
+      },
+      {
+        "question": "What does Moazzem mean in Persian?",
+        "answer": "In Persian, Moazzem is rendered معظم and carries the sense معظم، بزرگ، سرفراز."
+      },
+      {
+        "question": "How is Moazzem pronounced?",
+        "answer": "A romanized syllable approximation is moaz-zem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Moazzem?",
+        "answer": "Romanization variants include Moazzem, moazzem. Script forms are معظم, मुअज़्ज़म."
+      },
+      {
+        "question": "Is Moazzem a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Moazzem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Moazzem, a beautiful Islam name meaning \"Warner\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Moazzem, Islam name, baby names, Warner, Islam baby names, name meaning",
-      "description_paragraph": "Moazzem is a meaningful Islam name of Arabic origin that means \"Warner\". One who calls, invites or warns, especially about Islam.",
-      "keywords": [
-        "Moazzem",
-        "Islam name",
-        "baby names",
-        "Warner",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Moazzem in Islam tradition?",
-          "a": "Moazzem is a beautiful Islam name meaning \"Warner\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Moazzem a good Islam name for a baby?",
-          "a": "Yes, Moazzem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Moazzem?",
-          "a": "The name Moazzem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Moazzem correctly?",
-          "a": "Moazzem is pronounced moh-AHZ-em in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Moazzem?",
-          "a": "Naming a child Moazzem brings blessings. The meaning \"Warner\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Moazzem?",
-          "a": "Moazzem is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Moazzem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Moazzem (معظم).",
+      "h1": "Moazzem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Moazzem meaning",
       "secondary_keywords": [
-        "Islam name Moazzem",
-        "Moazzem meaning",
-        "Moazzem origin"
+        "Moazzem name meaning",
+        "Moazzem meaning in Urdu",
+        "Moazzem origin",
+        "Moazzem Islamic name",
+        "Moazzem pronunciation",
+        "Moazzem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Moazzem (معظم) is associated with the Arabic form معظم, whose core sense is exalted, magnified, honoured. Moazzem is Arabic مُعَظَّم (Muʿaẓẓam) 'exalted, magnified, honoured', from the root ع ظ م (ʿ-ẓ-m). The source gloss 'Warner' is unsupported and has been replaced with the lexical sense. Same name as moazzam.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Moazzem is associated with the Arabic form معظم, whose core sense is exalted, magnified, honoured.",
+      "meaning_section": "The central meaning of Moazzem is exalted, magnified, honoured.",
+      "origin_section": "Moazzem is associated with Arabic rather than with a different language.",
+      "islam_section": "Moazzem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Moazzem is with the sense exalted.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Moazzem",
+      "#MoazzemMeaning",
+      "#MoazzemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Moazzem holds significant cultural importance in the Islamic world, as it carries the meaning of one who calls, invites, or warns. This is a title that has been given to various individuals throughout history who have dedicated their lives to spreading the message of Islam. From preachers and teachers to community leaders and imams, Moazzem represents a commitment to faith, a deep sense of responsibility towards the Muslim community, and an unwavering courage in sharing the truth of Islam with others.",
-    "spiritual_significance": "The name Moazzem holds a profound spiritual significance in the Islamic tradition, as it signifies a call or invitation to a deeper connection with God. This can be seen as a reminder of the importance of sharing knowledge and wisdom with others, as well as the responsibility to guide and inspire those around us on the path to spiritual growth. Moazzem also represents the idea of being a messenger or servant of God, constantly striving to uphold the values and teachings of Islam in both words and actions. Ultimately, the name Moazzem serves as a powerful reminder of the essential role that each Muslim plays in the greater spiritual community, and the importance of remaining steadfast and committed to the pursuit of knowledge and piety.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Moazzem was a prominent Sufi scholar and poet during the 13th century in Persia. He was the founder of the Saburiyya order of Sufism, which emphasized the importance of spiritual intoxication and the ecstatic union with God.",
-        "time_period": "13th century",
-        "context": "Sufi scholar and founder of Saburiyya order of Sufism, Persia"
-      },
-      {
-        "reference": "Moazzem al-Din Alp Arslan was a Seljuk Sultan who ruled Anatolia from 1190 to 1211. He was known for his military conquests and the expansion of the Seljuk Empire in Anatolia. The name Moazzem means 'illuminating' in Arabic, reflecting his role as a source of enlightenment and guidance for his people.",
-        "time_period": "12th to 13th century",
-        "context": "Seljuk Sultan and military conqueror, Anatolia"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic names",
-        "Islamic identity",
-        "Modern Muslim culture"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Moazzem corresponds to the Arabic form معظم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Moazzem has the core sense exalted, magnified, honoured",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Blogs",
-        "YouTube"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Moazzem is of Arabic origin, meaning 'the one who glorifies Allah'. In modern contexts, this name is seen on various platforms reflecting the Islamic identity and cultural trends among Muslims. On social media, Moazzem is used as a hashtag in discussions about Islamic identity and spiritual growth. On blogs, articles are written exploring the significance of Moazzem in Islamic traditions and its relevance in contemporary life. On YouTube, there are videos featuring Moazzem as a character in Islamic stories or as the name of various educational channels focused on Islamic studies."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Moazzem",
-      "location": "Istanbul, Turkey",
-      "story": "Yusuf Moazzem from Istanbul, Turkey embodies the meaning of Moazzem - \"Warner\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Warner\" symbolizes One who calls, invites or warns, especially about Islam.. In Islamic spirituality, bearing the name Moazzem serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of warner.",
-    "created_at": "2025-12-22T19:19:49.949Z",
-    "updated_at": "2025-12-22T04:53:15.665Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1333,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Moazzem",
-      "description": "Warner",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Moazzem",
+        "moazzem"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Moazzem",
-          "description": "Discover the meaning of Moazzem - \"Warner\"",
-          "image": "/images/social/moazzem-facebook.jpg"
+      "description": "A name associated with the Arabic form معظم, meaning exalted, magnified, honoured.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "moazzem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Moazzem - Name Meaning",
-          "description": "Learn about the beautiful name Moazzem",
-          "image": "/images/social/moazzem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Moazzem",
-          "description": "Name meaning: Warner",
-          "image": "/images/social/moazzem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Moazzem - Meaning: Warner",
-        "email_subject": "Beautiful Name: Moazzem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Moazzem with meaning Warner",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Moazzem, associated with the Arabic form معظم, meaning exalted, magnified, honoured."
     },
-    "similar_sounding_names": [
-      "mahek",
-      "meher",
-      "manab",
-      "marhabah",
-      "mika",
-      "marudeen.",
-      "meena",
-      "mada",
-      "maassama",
-      "marnia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

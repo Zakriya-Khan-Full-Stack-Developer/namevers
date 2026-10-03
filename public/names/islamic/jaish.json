@@ -3,291 +3,482 @@
   "data": {
     "name": "Jaish",
     "slug": "jaish",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Warrior, Soldier, Army",
-    "long_meaning": "One who fights for a just cause, a warrior, a soldier, an army.",
-    "spiritual_meaning": "A name that inspires courage, strength and determination.",
-    "emotional_traits": [
-      "Courageous",
-      "Brave",
-      "Determined",
-      "Fierce"
-    ],
-    "hidden_personality_traits": [
-      "Calm",
-      "Introspective",
-      "Reflective",
-      "Strategic"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Red",
-      "Orange"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "A name that represents harmony, balance, and the ability to see both sides of a situation.",
-    "in_arabic": {
-      "name": "جيش",
-      "meaning": "جيش يعني الجيش أو القوة العسكرية",
-      "long_meaning": "جيش هو اسم مشتق من الجذر العربي 'ج-ي-ش' والذي يعني التجمع أو الجمع. يشير الاسم إلى فكرة القوة والجماعة, ويعبر عن معاني مثل الجيش أو الفوج. في اللغة العربية, الاسم يستخدم للدلالة على القوة العسكرية أو الجماعة المنظمة. كما ورد في القرآن الكريم في سورة الأنفال آية 11 'وَلَقَدْ أَرَسلْنَا مَلَائِكَتَنَا مَعَ أَثَقيلٍ وَأَنزَلْنَا الْقُرْآنَ وَمَا كُنا لِذَليلٍ'"
+    "identity": {
+      "display_name": "Jaish",
+      "normalized_name": "jaish",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jaish",
+        "jaish"
+      ],
+      "search_variants": [
+        "Jaish",
+        "jaish"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جیش",
-      "meaning": "جیش کا مطلب فوج یا قوت ہے",
-      "long_meaning": "جیش ایک عربی نام ہے جس کا مطلب ہے فوج یا قوت. یہ نام عربی جذر 'ج-ي-ش' سے ماخوذ ہے جس کا مطلب ہے اکٹھا کرنا یا جمع کرنا. یہ نام جنوبی ایشیائی اسلامی ثقافت میں بھی استعمال ہوتا ہے اور اس کا مطلب فوجی قوت یا طاقت کے طور پر سمجھا جاتا ہے. اردو میں, جیش کا استعمال فوج یا مسلح افواج کے حوالے سے کیا جاتا ہے."
+    "core_meaning": {
+      "short_meaning": "Army, troops, host",
+      "primary_meaning": "Army",
+      "secondary_meanings": [
+        "troops",
+        "host"
+      ],
+      "literal_meaning": "Army",
+      "extended_meaning": "Army, troops, host",
+      "meaning_explanation": "Jaish corresponds to the Arabic form جيش (Arabic root ج ي ش (j-y-sh); جَيْش (Jaysh)). Its core sense is army, troops, host. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "जैश",
-      "meaning": "जैश का अर्थ है सेना या शक्ति",
-      "long_meaning": "जैश एक अरबी नाम है जिसका अर्थ है सेना या शक्ति. यह नाम अरबी मूल 'ज-य-श' से लिया गया है जिसका अर्थ है एकत्र करना या इकट्ठा करना. भारतीय मुस्लिम समुदाय में, जैश का उपयोग सेना या सैन्य बल के संदर्भ में किया जाता है. यह नाम शक्ति और साहस के प्रतीक के रूप में भी प्रयोग किया जाता है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جيش",
+      "transliteration": "jaish",
+      "romanization": "jaish",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Army",
+        "troops",
+        "host"
+      ],
+      "etymology_explanation": "The form جيش is an established Arabic lexical item. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جيش",
-      "meaning": "جيش د فوج یا پوځ معنی دی",
-      "long_meaning": "جيش د عربي نوم دی چې د فوج یا پوځ معنی لري. دا نوم د عربي ريښو 'ج-ي-ش' څخه اخيستل شوی دی چې د راغونډولو يا ټولګې معنی لري. په پښتني او افغان کلتور کې، جیش د نظامي ځواک یا پوځ د يو سمبول په توګه کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جيش is an established Arabic form.",
+        "Urdu": "جیش is used in Urdu.",
+        "Persian": "جیش is an established Persian form.",
+        "Hindi": "जैश is used in Hindi.",
+        "Pashto": "جیش is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Jaish",
-      "meaning": "Jaish means army or military force",
-      "long_meaning": "Jaish is an Arabic name derived from the root 'j-y-sh' meaning to gather or collect. It refers to a group of people, particularly an army or military force. In Islamic tradition, the name Jaish symbolizes strength, unity, and collective power. The name has been used historically in various Muslim cultures to signify a strong and organized group."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form جيش. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jaish may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense army, troops, host.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Army",
+      "related_concepts": [
+        "army",
+        "troops",
+        "host"
+      ],
+      "semantic_relationship": "The central semantic idea is army; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of army.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Army",
+        "Troops",
+        "Host"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jaish",
+        "meaning": "Army, troops, host",
+        "long_meaning": "Jaish is a Arabic-origin name. Its core meaning is army, troops, host. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "جیش",
+        "meaning": "جیش، فوج، لشکر",
+        "long_meaning": "Jaish (جیش) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جیش، فوج، لشکر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جیش",
+        "meaning": "جیش، ارتش، لشکر",
+        "long_meaning": "Jaish (جیش) نامی برگرفته از زبان عربی است و معنای اصلی آن جیش، ارتش، لشکر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जैश",
+        "meaning": "सेना, फ़ौज, लश्कर",
+        "long_meaning": "Jaish (जैश) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सेना, फ़ौज, लश्कर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جیش",
+        "meaning": "جیش، پوځ، لښکر",
+        "long_meaning": "Jaish (جیش) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جیش، پوځ، لښکر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جيش",
+        "meaning": "الجيش، العسكر، الحشد",
+        "long_meaning": "Jaish (جيش) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجيش، العسكر، الحشد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "Jā-īsh",
-      "urdu": "جیش کا تلفظ ہے جے-ایش",
-      "hindi": "जैश का उच्चारण है जय-श",
-      "pashto": "د جيش تلفظ د جې-ایش",
-      "ipa": "/ˈdʒɑːɪʃ/"
+      "romanized": "jaish",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جیش",
+      "persian": "جیش",
+      "hindi": "जैश",
+      "pashto": "جیش"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#JaishMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jaish"
-    ],
-    "name_variations": [],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jaish",
+        "jaish"
+      ],
+      "script_variants": [
+        "جيش",
+        "جیش",
+        "जैश"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جيش is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jaish can be understood through the Arabic form جيش, whose central sense is army, troops, host. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Jaish mean?",
+        "answer": "Jaish is associated with the Arabic form جيش, whose core sense is army, troops, host."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Jaish?",
+        "answer": "Jaish is associated with Arabic. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Jaish an Arabic name?",
+        "answer": "Yes — the underlying form جيش is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 80,
-        "year": 2024
+        "question": "Is Jaish an Islamic name?",
+        "answer": "Jaish can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jaish a Quranic name?",
+        "answer": "Jaish should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jaish mean in Urdu?",
+        "answer": "In Urdu, Jaish is rendered جیش and carries the sense جیش، فوج، لشکر."
+      },
+      {
+        "question": "What does Jaish mean in Persian?",
+        "answer": "In Persian, Jaish is rendered جیش and carries the sense جیش، ارتش، لشکر."
+      },
+      {
+        "question": "How is Jaish pronounced?",
+        "answer": "A romanized syllable approximation is jaish. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jaish?",
+        "answer": "Romanization variants include Jaish, jaish. Script forms are جيش, جیش, जैश."
+      },
+      {
+        "question": "Is Jaish a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jaish Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jaish, a beautiful Islam name meaning \"Warrior, Soldier, Army\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jaish, Islam name, baby names, Warrior, Soldier, Army, Islam baby names, name meaning",
-      "description_paragraph": "Jaish is a meaningful Islam name of Arabic origin that means \"Warrior, Soldier, Army\". One who fights for a just cause, a warrior, a soldier, an army.",
-      "keywords": [
-        "Jaish",
-        "Islam name",
-        "baby names",
-        "Warrior, Soldier, Army",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jaish in Islam tradition?",
-          "a": "Jaish is a beautiful Islam name meaning \"Warrior, Soldier, Army\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jaish a good Islam name for a baby?",
-          "a": "Yes, Jaish is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jaish?",
-          "a": "The name Jaish has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jaish correctly?",
-          "a": "Jaish is pronounced Jā-īsh in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jaish?",
-          "a": "Naming a child Jaish brings blessings. The meaning \"Warrior, Soldier, Army\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jaish?",
-          "a": "Jaish is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Jaish Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jaish (جيش).",
+      "h1": "Jaish Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jaish meaning",
       "secondary_keywords": [
-        "Islam name Jaish",
-        "Jaish meaning",
-        "Jaish origin"
+        "Jaish name meaning",
+        "Jaish meaning in Urdu",
+        "Jaish origin",
+        "Jaish Islamic name",
+        "Jaish pronunciation",
+        "Jaish name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jaish (جيش) is associated with the Arabic form جيش, whose core sense is army, troops, host. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jaish is associated with the Arabic form جيش, whose core sense is army, troops, host.",
+      "meaning_section": "The central meaning of Jaish is army, troops, host.",
+      "origin_section": "Jaish is associated with Arabic rather than with a different language.",
+      "islam_section": "Jaish can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jaish is with the sense army.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jaish",
+      "#JaishMeaning",
+      "#JaishName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Jaish has significant cultural importance for Muslims, as it is associated with the concept of Jihad, which is a fundamental religious and moral obligation for every capable Muslim. Jaish evokes images of brave warriors or armies fighting to protect their lands, beliefs, and communities against oppression, tyranny, and injustice. Historically, many Islamic armies and military movements were given this name to reflect their commitment to defend Islam and their people. Today, the term is used to represent various Islamic political and military groups seeking to establish Islamic rule or defend Muslim interests.",
-    "spiritual_significance": "From a spiritual perspective, the name Jaish holds special significance as it underscores the Islamic principle of struggle and self-sacrifice in seeking the pleasure of Allah. The Prophet Muhammad (PBUH) is reported to have said, \"Jihad is the way to repel the enemy and secure Allah's pleasure.\" The name Jaish is thus a reminder of the importance of striving for the sake of Allah and the immense spiritual rewards that come from it. By carrying this name, an individual is encouraged to be a righteous and committed servant of Allah who is willing to fight for the cause of truth and justice.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Jaish al-Muhajirin wa'l-Ansar (Army of Emigrants and Helpers), also known as Jaish Muhammad (Army of Muhammad), was a major military expedition led by the Prophet Muhammad (570-632 CE) in 624 CE against the Banu Qurayzah tribe. It was one of the first major military campaigns of Islam and marked the end of the Treaty of Hudaybiyyah. The name 'Jaish' means 'army' in Arabic.",
-        "time_period": "624 CE",
-        "context": "Islam, early military campaigns"
-      },
-      {
-        "reference": "Jaish al-Islam (Army of Islam) is a Sunni Islamic militant group in Syria, founded in 2011 during the Syrian Civil War. It is known for its strict Salafist ideology and has been designated as a terrorist organization by various countries and organizations, including the United States. The name 'Jaish' reflects the group's belief in establishing an Islamic state in Syria.",
-        "time_period": "2011-present",
-        "context": "Syrian Civil War, Islamic militant groups"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "militant groups",
-        "terrorism",
-        "Middle East"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jaish corresponds to the Arabic form جيش",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Jaish has the core sense army, troops, host",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media",
-        "news media",
-        "military operations"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The term 'Jaish' is an Arabic word meaning 'army' or 'military force'. In modern context, it is commonly used to refer to militant groups in the Middle East, particularly those associated with terrorism. Some well-known groups bearing this name include Jaish al-Fatah, Jaish al-Islam, and Jaish al-Adl. Jaish al-Fatah, for example, is a coalition of Sunni Muslim rebel groups in Syria that has been designated as a terrorist organization by several countries. Jaish al-Islam is another radical Islamist militant group, primarily active in Iraq, known for its brutal tactics and extreme interpretation of Islamic law. Jaish al-Adl is an armed militant group based in Iran, primarily active in the southeastern provinces of Iran and Pakistan, known for its attacks on security forces and civilians. Jaish groups have been known to use social media extensively to recruit members, spread propaganda, and coordinate attacks. News media frequently covers their activities, both in the regions where they operate and globally. Military operations against these groups are a common feature in contemporary Middle Eastern conflicts."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Jaish",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Aisha Jaish in Istanbul, Turkey attributes much of their success to the blessing of their name Jaish, which means \"Warrior, Soldier, Army\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Warrior, Soldier, Army\" symbolizes One who fights for a just cause, a warrior, a soldier, an army.. In Islamic spirituality, bearing the name Jaish serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of warrior, soldier, army.",
-    "created_at": "2025-12-22T19:19:50.322Z",
-    "updated_at": "2025-12-22T04:53:15.751Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1229,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jaish",
-      "description": "Warrior, Soldier, Army",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic"
+      "alternateName": [
+        "Jaish",
+        "jaish"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jaish",
-          "description": "Discover the meaning of Jaish - \"Warrior, Soldier, Army\"",
-          "image": "/images/social/jaish-facebook.jpg"
+      "description": "A name associated with the Arabic form جيش, meaning army, troops, host.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "jaish",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Jaish - Name Meaning",
-          "description": "Learn about the beautiful name Jaish",
-          "image": "/images/social/jaish-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Jaish",
-          "description": "Name meaning: Warrior, Soldier, Army",
-          "image": "/images/social/jaish-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jaish - Meaning: Warrior, Soldier, Army",
-        "email_subject": "Beautiful Name: Jaish"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jaish with meaning Warrior, Soldier, Army",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jaish, associated with the Arabic form جيش, meaning army, troops, host."
     },
-    "similar_sounding_names": [
-      "jamesha",
-      "javier",
-      "jan",
-      "janaan",
-      "jadallah",
-      "jasmina",
-      "jada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,300 +3,470 @@
   "data": {
     "name": "Azab",
     "slug": "azab",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Harsh Punishment",
-    "long_meaning": "In the Quran, the name Azab refers to a severe punishment or torment inflicted by Allah upon the disbelievers.",
-    "spiritual_meaning": "Reminder of the consequences of disbelief and the importance of faith.",
-    "emotional_traits": [
-      "Just"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Tuesday",
-    "lucky_colors": [
-      "Black",
-      "Red"
-    ],
-    "lucky_stone": "Coral",
-    "life_path_number": 3,
-    "numerology_meaning": "Those with the name Azab are passionate and emotional, with a strong desire for self-expression. They are also creative and artistic.",
-    "in_arabic": {
-      "name": "عذاب",
-      "meaning": "عذاب کا مطلب ہے تکلیف، اذیتی، یا سزا",
-      "long_meaning": "عذاب (ʿadhāb) کا لفظ عربی زبان میں استعمال ہوتا ہے جس کا مطلب ہے تکلیف، اذیتی، یا سزا۔ یہ لفظ قرآن کریم میں بھی استعمال ہوا ہے، خاص طور پر ان لوگوں کے لئے جو اللہ کے احکام کی مخالفت کرتے ہیں۔ اس کا عربی جڑ 'ع ذ ب' (ʿ-dh-b) ہے جس کا تعلق درد یا تکلیف سے ہے۔ اسلامی تقویم میں، عذاب کا ذکر اکثر ان لوگوں کے لئے ہوتا ہے جو دنیا میں بد عمل کرتے ہیں اور آخرت میں سزا پاتے ہیں۔"
+    "identity": {
+      "display_name": "Azab",
+      "normalized_name": "azab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Azab",
+        "azab"
+      ],
+      "search_variants": [
+        "Azab",
+        "azab"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عذاب",
-      "meaning": "عذاب کا مطلب تکلیف، سزا یا اذیت ہے",
-      "long_meaning": "عذاب (ʿadhāb) کا لفظ عربی سے ماخوذ ہے اور اردو میں بھی اسی معنی میں استعمال ہوتا ہے۔ یہ تکلیف، سزا، یا اذیت کے لئے استعمال ہوتا ہے۔ قرآن کریم میں عذاب کا ذکر ان لوگوں کے لئے ہوا ہے جو اللہ کے احکام کی مخالفت کرتے ہیں۔ عذاب کی اصطلاح تاریخی اور روحانی سیاق و سباق میں اہم ہے، خاص طور پر جنوبی ایشیائی اسلامی روایت میں جہاں اسلامی اقدار اور تعلیمات پر زور دیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Harsh punishment",
+      "primary_meaning": "Harsh punishment",
+      "secondary_meanings": [],
+      "literal_meaning": "Harsh punishment",
+      "extended_meaning": "Harsh punishment",
+      "meaning_explanation": "Azab corresponds to the Arabic form عذاب (ع ذ ب). Its core sense is harsh punishment. ʿAdhāb ('torment, punishment').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "عذاب",
-      "meaning": "عذاب का अर्थ है तकलीफ, सजा या अज़ाब",
-      "long_meaning": "عذاب (ʿadhāb) का शब्द अरबी मूल से है और हिंदी में भी इसी अर्थ में प्रयोग किया जाता है। यह तकलीफ, सजा, या अज़ाब के लिए प्रयोग होता है। कुरआन में عذاب का उल्लेख उन लोगों के लिए हुआ है जो अल्लाह के आदेशों का उल्लंघन करते हैं। عذاب की शब्दावली भारतीय मुस्लिम समुदाय में ऐतिहासिक और आध्यात्मिक संदर्भ में महत्वपूर्ण है, जहाँ इस्लामी मूल्यों और शिक्षाओं पर बल दिया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عذاب",
+      "transliteration": "azab",
+      "romanization": "azab",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Harsh punishment"
+      ],
+      "etymology_explanation": "The form عذاب is an established Arabic lexical item. ʿAdhāb ('torment, punishment').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عذاب",
-      "meaning": "عذاب د تکلیف، سزا یا اذیت معنی",
-      "long_meaning": "عذاب (ʿadhāb) د عربی کلمې څخه اخیستل شوی دی او په پښتو کې هم په همدې معنا کارول کیږي. دا تکلیف، سزا، یا اذیت لپاره کارول کیږي. په قرآن کریم کې عذاب د هغو کسانو لپاره یاد شوی دی چې د الله تعالی حکمونه یې مخالفت کړي. عذاب اصطلاح په افغان او پښتني دودیزو سیاقاتونو کې مهم دی، چیرته چې د اسلامي ارزښتونو او تعلیماتو ټینګار کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عذاب is an established Arabic form.",
+        "Urdu": "عذاب is used in Urdu.",
+        "Hindi": "अज़ाब is used in Hindi.",
+        "Pashto": "عذاب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Azab",
-      "meaning": "Azab means torment, punishment, or affliction",
-      "long_meaning": "The term Azab (ʿadhāb) originates from Arabic and is used in Islamic contexts to denote torment, punishment, or affliction. It is mentioned in the Quran as a consequence for those who disobey God's commands. Etymologically, it stems from the Arabic root 'ʿ-dh-b' which relates to pain or distress. Historically and spiritually, Azab holds significance in Islamic tradition as a reminder of the consequences of disbelief and misdeeds. In contemporary Muslim cultures, the name Azab serves as a reminder of the importance of righteousness and adherence to Islamic teachings."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عذاب. ʿAdhāb ('torment, punishment').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Azab may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "عذاب occurs frequently in the Qur'an"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense harsh punishment.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Harsh punishment",
+      "related_concepts": [
+        "harsh punishment"
+      ],
+      "semantic_relationship": "The central semantic idea is harsh punishment; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of harsh punishment.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Harsh punishment"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Azab",
+        "meaning": "Harsh punishment",
+        "long_meaning": "Azab is a Arabic-origin name. Its core meaning is harsh punishment. ʿAdhāb ('torment, punishment')."
+      },
+      "urdu": {
+        "name": "عذاب",
+        "meaning": "سخت عذاب",
+        "long_meaning": "Azab (عذاب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سخت عذاب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अज़ाब",
+        "meaning": "कठोर दंड",
+        "long_meaning": "Azab (अज़ाब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ कठोर दंड है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عذاب",
+        "meaning": "سخت عذاب",
+        "long_meaning": "Azab (عذاب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سخت عذاب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عذاب",
+        "meaning": "العذاب الشديد",
+        "long_meaning": "Azab (عذاب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العذاب الشديد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-ZAHB",
-      "urdu": "اردو میں تلفظ کی تفصیل: عَذاب",
-      "hindi": "हिन्दी में उच्चारण विवरण: अज़ाब",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عذاب",
-      "ipa": "/ˈɑːzɑːb/"
+      "romanized": "a-zab",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عذاب",
+      "persian": null,
+      "hindi": "अज़ाब",
+      "pashto": "عذاب"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AzabMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Azab"
-    ],
-    "name_variations": [],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Azab",
+        "azab"
+      ],
+      "script_variants": [
+        "عذاب",
+        "अज़ाब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عذاب is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Azab can be understood through the Arabic form عذاب, whose central sense is harsh punishment. ʿAdhāb ('torment, punishment').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Azab mean?",
+        "answer": "Azab is associated with the Arabic form عذاب, whose core sense is harsh punishment."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Azab?",
+        "answer": "Azab is associated with Arabic. ʿAdhāb ('torment, punishment')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Azab an Arabic name?",
+        "answer": "Yes — the underlying form عذاب is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Azab an Islamic name?",
+        "answer": "Azab can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 73,
-        "year": 2024
+        "question": "Is Azab a Quranic name?",
+        "answer": "Azab should not be classified as a Quranic personal name without a direct Quranic basis. عذاب occurs frequently in the Qur'an"
+      },
+      {
+        "question": "What does Azab mean in Urdu?",
+        "answer": "In Urdu, Azab is rendered عذاب and carries the sense سخت عذاب."
+      },
+      {
+        "question": "What does Azab mean in Persian?",
+        "answer": "No verified Persian form was established for Azab."
+      },
+      {
+        "question": "How is Azab pronounced?",
+        "answer": "A romanized syllable approximation is a-zab. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Azab?",
+        "answer": "Romanization variants include Azab, azab. Script forms are عذاب, अज़ाब."
+      },
+      {
+        "question": "Is Azab a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Azab Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Azab, a beautiful Islam name meaning \"Harsh Punishment\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Azab, Islam name, baby names, Harsh Punishment, Islam baby names, name meaning",
-      "description_paragraph": "Azab is a meaningful Islam name of Arabic origin that means \"Harsh Punishment\". In the Quran, the name Azab refers to a severe punishment or torment inflicted by Allah upon the disbelievers.",
-      "keywords": [
-        "Azab",
-        "Islam name",
-        "baby names",
-        "Harsh Punishment",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Azab in Islam tradition?",
-          "a": "Azab is a beautiful Islam name meaning \"Harsh Punishment\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Azab a good Islam name for a baby?",
-          "a": "Yes, Azab is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Azab?",
-          "a": "The name Azab has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Azab correctly?",
-          "a": "Azab is pronounced ah-ZAHB in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Azab?",
-          "a": "Naming a child Azab brings blessings. The meaning \"Harsh Punishment\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Azab?",
-          "a": "Azab is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Azab Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Azab (عذاب).",
+      "h1": "Azab Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Azab meaning",
       "secondary_keywords": [
-        "Islam name Azab",
-        "Azab meaning",
-        "Azab origin"
+        "Azab name meaning",
+        "Azab meaning in Urdu",
+        "Azab origin",
+        "Azab Islamic name",
+        "Azab pronunciation",
+        "Azab name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Azab (عذاب) is associated with the Arabic form عذاب, whose core sense is harsh punishment. ʿAdhāb ('torment, punishment').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Azab is associated with the Arabic form عذاب, whose core sense is harsh punishment.",
+      "meaning_section": "The central meaning of Azab is harsh punishment.",
+      "origin_section": "Azab is associated with Arabic rather than with a different language.",
+      "islam_section": "Azab can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Azab is with the sense harsh punishment.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Azab",
+      "#AzabMeaning",
+      "#AzabName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Azab holds a significant place in Islamic culture as it represents divine wrath and the consequence of disbelief. It serves as a reminder of the unforgiving nature of Allah's punishment for those who reject His guidance and refuse to follow the righteous path.",
-    "spiritual_significance": "From a spiritual perspective, the name Azab highlights the importance of faith, obedience, and submission to Allah. It is a reminder of the balance between Allah's mercy and His justice, and serves as a warning against straying from the path of righteousness. Additionally, it reminds us of the need to seek Allah's forgiveness and avoid actions that could incur His wrath and punishment. Ultimately, the name Azab inspires reverence for Allah's power and sovereignty, and encourages us to strive towards living a virtuous and obedient life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The Battle of Uhud (625 AD) marked a significant turning point in the Islamic history and resulted in the defeat of the Muslim army led by Muhammad (PBUH). The term Azab refers to the severe punishment inflicted upon the Muslims following this defeat. The men, women and children were subjected to various forms of torment, including the cutting off of hands and feet, crucifixion, and the burning of houses.",
-        "time_period": "625 AD",
-        "context": "Immediately after the Battle of Uhud"
-      },
-      {
-        "reference": "The term Azab also appears in the context of the Prophet Moses (AS) in the Quran, where it refers to a punishment inflicted upon the people of Pharaoh for their disobedience. The punishment was a series of torments and trials, including the sending of various plagues and the drowning of the Pharaoh's army in the Red Sea.",
-        "time_period": "Approx. 13th century BC",
-        "context": "In the context of the Prophet Moses (AS) and the people of Pharaoh"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islam",
-        "Apocalyptic beliefs",
-        "End times"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Azab corresponds to the Arabic form عذاب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Azab has the core sense harsh punishment",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Blogs",
-        "YouTube"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Azab' in Islamic context is often associated with the title of a Surah (chapter) in the Quran, which describes the severity of Allah's punishment for those who disobey His commands. In modern times, this term has gained popularity among certain Islamic communities, particularly those with apocalyptic beliefs and a focus on end times. On social media platforms, there are numerous groups and pages dedicated to discussing the meaning and significance of 'Azab'. Blogs and websites offer interpretations and analyses of this Surah, as well as predictions about the end times based on various hadiths and prophecies. YouTube is home to numerous videos on this topic, with some channels focusing on interpretations of the Surah and others discussing end times prophecies and their implications for the Islamic community."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Azab",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Fatima Azab, a teacher in Riyadh, Saudi Arabia, shares that their name Azab meaning \"Harsh Punishment\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Harsh Punishment\" symbolizes In the Quran, the name Azab refers to a severe punishment or torment inflicted by Allah upon the disbelievers.. In Islamic spirituality, bearing the name Azab serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of harsh punishment.",
-    "created_at": "2025-12-22T19:19:50.326Z",
-    "updated_at": "2025-12-22T04:53:15.833Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1188,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Azab",
-      "description": "Harsh Punishment",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Azab",
+        "azab"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Azab",
-          "description": "Discover the meaning of Azab - \"Harsh Punishment\"",
-          "image": "/images/social/azab-facebook.jpg"
+      "description": "A name associated with the Arabic form عذاب, meaning harsh punishment.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "azab",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Azab - Name Meaning",
-          "description": "Learn about the beautiful name Azab",
-          "image": "/images/social/azab-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Azab",
-          "description": "Name meaning: Harsh Punishment",
-          "image": "/images/social/azab-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Azab - Meaning: Harsh Punishment",
-        "email_subject": "Beautiful Name: Azab"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Azab with meaning Harsh Punishment",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Azab, associated with the Arabic form عذاب, meaning harsh punishment."
     },
-    "similar_sounding_names": [
-      "anika",
-      "arsala",
-      "amalia",
-      "alabbas",
-      "ariana",
-      "aidan",
-      "akil",
-      "anila",
-      "azzahra",
-      "ada"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

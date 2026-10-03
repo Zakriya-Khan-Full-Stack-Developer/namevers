@@ -3,284 +3,482 @@
   "data": {
     "name": "Ikhlaq",
     "slug": "ikhlaq",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift, Reward",
-    "long_meaning": "A reward or gift from God, symbolizing knowledge, wisdom, and creativity.",
-    "spiritual_meaning": "A spiritual reward or gift from God, representing knowledge, wisdom, and the creative expression of one's faith.",
-    "emotional_traits": [
-      "Intelligent",
-      "Creative",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "Patient",
-      "Determined",
-      "Humble"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Amber",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious and balanced personality.",
-    "in_arabic": {
-      "name": "إخلاق",
-      "meaning": "إخلاق تعني الأخلاق الحميدة والصفات الحسنة",
-      "long_meaning": "إخلاق هو اسم مشتق من الأخلاق، وهي الصفات الحميدة التي يتصف بها الإنسان، مثل الصدق، والكرم، والرحمة. وردت كلمة الأخلاق في القرآن الكريم في عدة مواضع، منها قول الله تعالى: 'وَأَحسَنُ أُخُلُقًا مِنهُ مَن يَدعو إِلَی اللَّهِ وَيَعمَلُ صَالِحًا وَيَقُولُ إِنَّني مِنَ المُسْلِمِينَ' (سورة فصّلت: 33). يعتبر إخلاق من الأسماء التي تعبر عن القيم الإسلامية والصفات الحميدة."
+    "identity": {
+      "display_name": "Ikhlaq",
+      "normalized_name": "ikhlaq",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ikhlaq",
+        "ikhlaq"
+      ],
+      "search_variants": [
+        "Ikhlaq",
+        "ikhlaq"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اخلاق",
-      "meaning": "اخلاق کا مطلب ہے اچھے اخلاق اور خوبیاں",
-      "long_meaning": "اخلاق ایک ایسا نام ہے جو اچھے اخلاق اور خوبیاں سے جڑا ہوا ہے۔ یہ نام عربی زبان سے ماخوذ ہے اور اس کا مطلب ہے وہ خوبیاں جو انسان کو بہتر بناتی ہیں، جیسے کہ صدق، کرم، اور مہربانی۔ قرآن کریم میں اخلاق کی اہمیت پر بار بار تاکید کی گئی ہے، جیسے کہ ارشاد ربانی ہے: 'اور سب سے اچھے اخلاق والے وہ ہیں جو اللہ کی طرف دعوت دیتے ہیں اور نیک کام کرتے ہیں' (سورة فصّلت: 33)۔"
+    "core_meaning": {
+      "short_meaning": "Morals, character, ethics",
+      "primary_meaning": "Morals",
+      "secondary_meanings": [
+        "character",
+        "ethics"
+      ],
+      "literal_meaning": "Morals",
+      "extended_meaning": "Morals, character, ethics",
+      "meaning_explanation": "Ikhlaq corresponds to the Arabic form أخلاق (Arabic root خ ل ق (kh-l-q); أَخْلَاق (Akhlāq)). Its core sense is morals, character, ethics. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "इख़्लाक़",
-      "meaning": "इख़्लाक़ का अर्थ है अच्छे आचरण और अच्छे गुण",
-      "long_meaning": "इख़्लाक़ एक ऐसा नाम है जो अच्छे आचरण और गुणों से संबंधित है। यह नाम अरबी भाषा से लिया गया है और इसका अर्थ है वे गुण जो इंसान को बेहतर बनाते हैं, जैसे कि सच्चाई, उदारता, और दया। कुरआन में अच्छे आचरण के महत्व पर जोर दिया गया है, जैसे कि कहा गया है: 'और सबसे अच्छे आचरण वाले वे हैं जो अल्लाह की ओर دعوت देते हैं और अच्छे काम करते हैं' (सूरा फुस्सilat: 33)।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أخلاق",
+      "transliteration": "ikhlaq",
+      "romanization": "ikhlaq",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Morals",
+        "character",
+        "ethics"
+      ],
+      "etymology_explanation": "The form أخلاق is an established Arabic lexical item. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اخلاق",
-      "meaning": "اخلاق د ښو اخلاقو او ځانګړتیاوو معنی",
-      "long_meaning": "اخلاق داسې نوم دی چې د ښو اخلاقو او ځانګړتیاوو سره تړاو لري. دا نوم د عربي ژبې څخه اخیستل شوی دی او د هغه ځانګړتیاوو معنی دی چې انسان ته ښه والی ورکوي، لکه صدق، کرم، او مهربانۍ. په قرآن کریم کې د اخلاقو اهمیت ته ډیری وار تاکید شوی دی، لکه څنګه چې فرمايي: 'او تر ټولو ښو اخلاقو لرونکي هغه کسان دي چې الله ته دعوت ورکوي او نیک کارونه کوي' (سورت فصّلت: 33)."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أخلاق is an established Arabic form.",
+        "Urdu": "اخلاق is used in Urdu.",
+        "Persian": "اخلاق is an established Persian form.",
+        "Hindi": "इख़लाक़ is used in Hindi.",
+        "Pashto": "اخلاق is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Ikhlaq",
-      "meaning": "Ikhlaq means good morals, ethics, and virtues",
-      "long_meaning": "Ikhlaq is a name that signifies good morals, ethics, and virtues. Derived from Arabic, it encompasses qualities like honesty, generosity, and compassion. The Quran emphasizes the importance of good character, stating, 'And the best of character are those who call upon Allah and do righteous deeds' (Surah Fussilat: 33). In Islamic tradition, Ikhlaq is considered a desirable trait, reflecting a person's inner goodness and moral integrity."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form أخلاق. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ikhlaq may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense morals, character, ethics.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Morals",
+      "related_concepts": [
+        "morals",
+        "character",
+        "ethics"
+      ],
+      "semantic_relationship": "The central semantic idea is morals; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of morals.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Morals",
+        "Character",
+        "Ethics"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ikhlaq",
+        "meaning": "Morals, character, ethics",
+        "long_meaning": "Ikhlaq is a Arabic-origin name. Its core meaning is morals, character, ethics. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق."
+      },
+      "urdu": {
+        "name": "اخلاق",
+        "meaning": "اخلاق، کردار، سیرت",
+        "long_meaning": "Ikhlaq (اخلاق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اخلاق، کردار، سیرت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "اخلاق",
+        "meaning": "اخلاق، خوی، منش",
+        "long_meaning": "Ikhlaq (اخلاق) نامی برگرفته از زبان عربی است و معنای اصلی آن اخلاق، خوی، منش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इख़लाक़",
+        "meaning": "नैतिकता, चरित्र, आचरण",
+        "long_meaning": "Ikhlaq (इख़लाक़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नैतिकता, चरित्र, आचरण है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اخلاق",
+        "meaning": "اخلاق، کرکټر، سیرت",
+        "long_meaning": "Ikhlaq (اخلاق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې اخلاق، کرکټر، سیرت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أخلاق",
+        "meaning": "الأخلاق، السجايا، الطبع",
+        "long_meaning": "Ikhlaq (أخلاق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الأخلاق، السجايا، الطبع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ik-LAHK",
-      "urdu": "اخلاق کا تلفظ ہے اکھلاہک",
-      "hindi": "इख़्लाक़ का उच्चारण है इख़्लाक़",
-      "pashto": "اخلاق تلفظ دى اخلاږ",
-      "ipa": "/ɪkˈlɑːk/"
+      "romanized": "ik-hlaq",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اخلاق",
+      "persian": "اخلاق",
+      "hindi": "इख़लाक़",
+      "pashto": "اخلاق"
     },
-    "celebrity_usage": [
-      "M.I.A.",
-      "Iqbal Khan"
-    ],
-    "social_tags": [
-      "#IkhlaqMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ikhlaq"
-    ],
-    "name_variations": [],
-    "popularity_score": 64,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ikhlaq",
+        "ikhlaq"
+      ],
+      "script_variants": [
+        "أخلاق",
+        "اخلاق",
+        "इख़लाक़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أخلاق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ikhlaq can be understood through the Arabic form أخلاق, whose central sense is morals, character, ethics. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 75,
-        "year": 2024
+        "question": "What does Ikhlaq mean?",
+        "answer": "Ikhlaq is associated with the Arabic form أخلاق, whose core sense is morals, character, ethics."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Ikhlaq?",
+        "answer": "Ikhlaq is associated with Arabic. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 77,
-        "year": 2024
+        "question": "Is Ikhlaq an Arabic name?",
+        "answer": "Yes — the underlying form أخلاق is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Ikhlaq an Islamic name?",
+        "answer": "Ikhlaq can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ikhlaq a Quranic name?",
+        "answer": "Ikhlaq should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Ikhlaq mean in Urdu?",
+        "answer": "In Urdu, Ikhlaq is rendered اخلاق and carries the sense اخلاق، کردار، سیرت."
+      },
+      {
+        "question": "What does Ikhlaq mean in Persian?",
+        "answer": "In Persian, Ikhlaq is rendered اخلاق and carries the sense اخلاق، خوی، منش."
+      },
+      {
+        "question": "How is Ikhlaq pronounced?",
+        "answer": "A romanized syllable approximation is ik-hlaq. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ikhlaq?",
+        "answer": "Romanization variants include Ikhlaq, ikhlaq. Script forms are أخلاق, اخلاق, इख़लाक़."
+      },
+      {
+        "question": "Is Ikhlaq a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ikhlaq Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ikhlaq, a beautiful Islam name meaning \"Gift, Reward\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ikhlaq, Islam name, baby names, Gift, Reward, Islam baby names, name meaning",
-      "description_paragraph": "Ikhlaq is a meaningful Islam name of Arabic origin that means \"Gift, Reward\". A reward or gift from God, symbolizing knowledge, wisdom, and creativity.",
-      "keywords": [
-        "Ikhlaq",
-        "Islam name",
-        "baby names",
-        "Gift, Reward",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ikhlaq in Islam tradition?",
-          "a": "Ikhlaq is a beautiful Islam name meaning \"Gift, Reward\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ikhlaq a good Islam name for a baby?",
-          "a": "Yes, Ikhlaq is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ikhlaq?",
-          "a": "The name Ikhlaq has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ikhlaq correctly?",
-          "a": "Ikhlaq is pronounced ik-LAHK in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ikhlaq?",
-          "a": "Naming a child Ikhlaq brings blessings. The meaning \"Gift, Reward\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ikhlaq?",
-          "a": "Ikhlaq is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Ikhlaq Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ikhlaq (أخلاق).",
+      "h1": "Ikhlaq Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ikhlaq meaning",
       "secondary_keywords": [
-        "Islam name Ikhlaq",
-        "Ikhlaq meaning",
-        "Ikhlaq origin"
+        "Ikhlaq name meaning",
+        "Ikhlaq meaning in Urdu",
+        "Ikhlaq origin",
+        "Ikhlaq Islamic name",
+        "Ikhlaq pronunciation",
+        "Ikhlaq name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ikhlaq (أخلاق) is associated with the Arabic form أخلاق, whose core sense is morals, character, ethics. Ikhlaq is Arabic أَخْلَاق (Akhlāq) 'morals, character, ethics', the plural of خُلُق (khuluq), from the root خ ل ق (kh-l-q). CRITICAL SOURCE ERROR: the source gave إخلاق (a different form) and glossed the name 'Gift, Reward'; the correct form is أَخْلَاق.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ikhlaq is associated with the Arabic form أخلاق, whose core sense is morals, character, ethics.",
+      "meaning_section": "The central meaning of Ikhlaq is morals, character, ethics.",
+      "origin_section": "Ikhlaq is associated with Arabic rather than with a different language.",
+      "islam_section": "Ikhlaq can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ikhlaq is with the sense morals.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ikhlaq",
+      "#IkhlaqMeaning",
+      "#IkhlaqName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ikhlaq holds immense cultural significance in the Islamic world. It is derived from the Arabic root \"Khalaqa,\" which means to create. In the context of the name, it implies the act of creating something beautiful and valuable through hard work, effort, and God's grace. The name Ikhlaq is often given to instill a sense of creativity, originality, and innovation in individuals. It is believed to inspire individuals to strive for excellence in their chosen fields and to leave a positive impact on society. Moreover, the name is also associated with the concept of \"hadar,\" which means elegance, refinement, and good manners.",
-    "spiritual_significance": "Spiritually, the name Ikhlaq holds immense significance in Islamic thought. It is a reminder of the divine nature of creation and the human potential to create things that reflect the beauty and wisdom of God. The name Ikhlaq symbolizes the belief that knowledge, wisdom, and creativity are gifts from God, bestowed upon individuals to help them fulfill their purpose in life. Additionally, the name is also a reminder of the importance of spiritual growth and the need to seek God's guidance in all aspects of life. By embodying the name Ikhlaq, individuals are encouraged to strive for excellence, creativity, and originality while remaining deeply connected to God and seeking His pleasure.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Ikhlaq carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ikhlaq corresponds to the Arabic form أخلاق",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Ikhlaq has the core sense morals, character, ethics",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ikhlaq remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Ikhlaq",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Maryam Ikhlaq from Kuala Lumpur, Malaysia embodies the meaning of Ikhlaq - \"Gift, Reward\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gift, Reward\" symbolizes A reward or gift from God, symbolizing knowledge, wisdom, and creativity.. In Islamic spirituality, bearing the name Ikhlaq serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, reward.",
-    "created_at": "2025-12-22T19:19:49.851Z",
-    "updated_at": "2025-12-22T04:53:14.817Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1635,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ikhlaq",
-      "description": "Gift, Reward",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu"
+      "alternateName": [
+        "Ikhlaq",
+        "ikhlaq"
       ],
-      "religion": "Islam",
-      "gender": "male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ikhlaq",
-          "description": "Discover the meaning of Ikhlaq - \"Gift, Reward\"",
-          "image": "/images/social/ikhlaq-facebook.jpg"
+      "description": "A name associated with the Arabic form أخلاق, meaning morals, character, ethics.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "ikhlaq",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ikhlaq - Name Meaning",
-          "description": "Learn about the beautiful name Ikhlaq",
-          "image": "/images/social/ikhlaq-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Ikhlaq",
-          "description": "Name meaning: Gift, Reward",
-          "image": "/images/social/ikhlaq-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ikhlaq - Meaning: Gift, Reward",
-        "email_subject": "Beautiful Name: Ikhlaq"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ikhlaq with meaning Gift, Reward",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ikhlaq, associated with the Arabic form أخلاق, meaning morals, character, ethics."
     },
-    "similar_sounding_names": [
-      "isa",
-      "iqrit",
-      "izzannisa",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

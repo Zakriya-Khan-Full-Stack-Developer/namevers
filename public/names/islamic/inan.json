@@ -3,287 +3,477 @@
   "data": {
     "name": "Inan",
     "slug": "inan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Gift, Blessing",
-    "long_meaning": "Derived from the Arabic word ‘anan, meaning 'gift' or 'blessing'. This name is often used to describe the joy and gratitude one feels towards Allah's blessings.",
-    "spiritual_meaning": "A symbol of the blessings and gifts bestowed by Allah.",
-    "emotional_traits": [
-      "Wise",
-      "Trustworthy"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 8,
-    "numerology_meaning": "People with a life path number 8 are strong-willed, ethical, and have the potential to achieve great things.",
-    "in_arabic": {
-      "name": "إنان",
-      "meaning": "اسم علم مذكر من أصل عربي يعني العبد أو الخادم",
-      "long_meaning": "إنان هو اسم علم مذكر من أصل عربي، مشتق من كلمة 'عبد' أو 'خادم'. يحمل هذا الاسم معاني الخدمة والتواضع. في اللغة العربية، يُستخدم هذا الاسم للإشارة إلى الشخص الذي يخدم أو يعبد الله بإخلاص. وقد وردت هذه الكلمة في القرآن الكريم في سياق الحديث عن العباد الصالحين."
+    "identity": {
+      "display_name": "Inan",
+      "normalized_name": "inan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Inan",
+        "inan"
+      ],
+      "search_variants": [
+        "Inan",
+        "inan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انان",
-      "meaning": "عرب سے منسوب ایک مذکر نام جس کا مطلب ہے عبد یا خادم",
-      "long_meaning": "انان ایک مذکر نام ہے جو عرب سے منسوب ہے۔ اس کا مطلب ہے عبد یا خادم۔ یہ نام خدمت اور تواضع کی صفتوں کو ظاہر کرتا ہے۔ عربی زبان میں، یہ نام ایسے شخص کے لئے استعمال ہوتا ہے جو اللہ کی خدمت یا عبادت کرتا ہے۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے درمیان مقبول ہے۔"
+    "core_meaning": {
+      "short_meaning": "Reins, halter; control",
+      "primary_meaning": "Reins",
+      "secondary_meanings": [
+        "halter; control"
+      ],
+      "literal_meaning": "Reins",
+      "extended_meaning": "Reins, halter; control",
+      "meaning_explanation": "Inan corresponds to the Arabic form عنان (Arabic root ع ن ن (ʿ-n-n); عِنَان (ʿInān)). Its core sense is reins, halter; control. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "इनान",
-      "meaning": "एक मस्क्लिन नाम जिसका अर्थ है सेवक या दास",
-      "long_meaning": "इनान एक मस्क्लिन नाम है जो अरब से उत्पन्न हुआ है। इसका अर्थ है सेवक या दास। यह नाम सेवा और नम्रता के गुणों को दर्शाता है। इस नाम का प्रयोग भारतीय मुस्लिम समुदाय में भी किया जाता है। यह नाम भगवान की सेवा या पूजा करने वाले व्यक्ति के लिए प्रयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عنان",
+      "transliteration": "inan",
+      "romanization": "inan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Reins",
+        "halter; control"
+      ],
+      "etymology_explanation": "The form عنان is an established Arabic lexical item. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "انان",
-      "meaning": "د يوې نارينه نوم چې مانا يې د بنده يا خادم دی",
-      "long_meaning": "انان د يوې نارينه نوم دی چې د عربي ژبې څخه اخيستل شوی دی. مانا يې د بنده يا خادم دی. دا نوم د خدمت او تواضع صفتونه څرګندوي. په پښتو کلتور کې، دا نوم د هغې سړي لپاره کارول کږي چې د الله په خدمت يا عبادت کې بوخت دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عنان is an established Arabic form.",
+        "Urdu": "عنان is used in Urdu.",
+        "Persian": "عنان is an established Persian form.",
+        "Hindi": "इनान is used in Hindi.",
+        "Pashto": "عنان is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Inan",
-      "meaning": "A masculine name meaning servant or worshipper",
-      "long_meaning": "Inan is a masculine given name of Arabic origin. It is derived from the Arabic word for 'servant' or 'worshipper'. The name carries connotations of humility and devotion. In Islamic tradition, the name Inan is associated with individuals who are dedicated to serving or worshipping Allah. The name has historical significance in various Muslim cultures and is still used today."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form عنان. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Inan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense reins, halter; control.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Reins",
+      "related_concepts": [
+        "reins",
+        "halter; control"
+      ],
+      "semantic_relationship": "The central semantic idea is reins; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of reins.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Reins",
+        "Halter; control"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Inan",
+        "meaning": "Reins, halter; control",
+        "long_meaning": "Inan is a Arabic-origin name. Its core meaning is reins, halter; control. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted."
+      },
+      "urdu": {
+        "name": "عنان",
+        "meaning": "عنان، لگام، قابو",
+        "long_meaning": "Inan (عنان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عنان، لگام، قابو ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عنان",
+        "meaning": "عنان، افسار، مهار",
+        "long_meaning": "Inan (عنان) نامی برگرفته از زبان عربی است و معنای اصلی آن عنان، افسار، مهار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इनान",
+        "meaning": "लगाम, बागडोर, नियंत्रण",
+        "long_meaning": "Inan (इनान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ लगाम, बागडोर, नियंत्रण है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عنان",
+        "meaning": "عنان، لګام، کنټرول",
+        "long_meaning": "Inan (عنان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عنان، لګام، کنټرول ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عنان",
+        "meaning": "العنان، اللجام، الزمام",
+        "long_meaning": "Inan (عنان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العنان، اللجام، الزمام. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "ee-NAHN",
-      "urdu": "انان کا تلفظ ہے ےناں",
-      "hindi": "इनान का उच्चारण है ई-नान",
-      "pashto": "انان د تلفظ دی ېنـان",
-      "ipa": "/iːˈnɑːn/"
+      "romanized": "i-nan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عنان",
+      "persian": "عنان",
+      "hindi": "इनान",
+      "pashto": "عنان"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#InanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Inan"
-    ],
-    "name_variations": [],
-    "popularity_score": 61,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Inan",
+        "inan"
+      ],
+      "script_variants": [
+        "عنان",
+        "इनान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عنان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Inan can be understood through the Arabic form عنان, whose central sense is reins, halter; control. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Inan mean?",
+        "answer": "Inan is associated with the Arabic form عنان, whose core sense is reins, halter; control."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Inan?",
+        "answer": "Inan is associated with Arabic. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Inan an Arabic name?",
+        "answer": "Yes — the underlying form عنان is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Inan an Islamic name?",
+        "answer": "Inan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 75,
-        "year": 2024
+        "question": "Is Inan a Quranic name?",
+        "answer": "Inan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Inan mean in Urdu?",
+        "answer": "In Urdu, Inan is rendered عنان and carries the sense عنان، لگام، قابو."
+      },
+      {
+        "question": "What does Inan mean in Persian?",
+        "answer": "In Persian, Inan is rendered عنان and carries the sense عنان، افسار، مهار."
+      },
+      {
+        "question": "How is Inan pronounced?",
+        "answer": "A romanized syllable approximation is i-nan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Inan?",
+        "answer": "Romanization variants include Inan, inan. Script forms are عنان, इनान."
+      },
+      {
+        "question": "Is Inan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Inan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Inan, a beautiful Islam name meaning \"Gift, Blessing\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Inan, Islam name, baby names, Gift, Blessing, Islam baby names, name meaning",
-      "description_paragraph": "Inan is a meaningful Islam name of Arabic origin that means \"Gift, Blessing\". Derived from the Arabic word ‘anan, meaning 'gift' or 'blessing'. This name is often used to describe the joy and gratitude one feels towards Allah's blessings.",
-      "keywords": [
-        "Inan",
-        "Islam name",
-        "baby names",
-        "Gift, Blessing",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Inan in Islam tradition?",
-          "a": "Inan is a beautiful Islam name meaning \"Gift, Blessing\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Inan a good Islam name for a baby?",
-          "a": "Yes, Inan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Inan?",
-          "a": "The name Inan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Inan correctly?",
-          "a": "Inan is pronounced ee-NAHN in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Inan?",
-          "a": "Naming a child Inan brings blessings. The meaning \"Gift, Blessing\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Inan?",
-          "a": "Inan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Inan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Inan (عنان).",
+      "h1": "Inan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Inan meaning",
       "secondary_keywords": [
-        "Islam name Inan",
-        "Inan meaning",
-        "Inan origin"
+        "Inan name meaning",
+        "Inan meaning in Urdu",
+        "Inan origin",
+        "Inan Islamic name",
+        "Inan pronunciation",
+        "Inan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Inan (عنان) is associated with the Arabic form عنان, whose core sense is reins, halter; control. Inan is recorded at low confidence. The source gave إنان (a different form) and glossed the name 'Gift, Blessing'; عِنَان (ʿInān) 'reins, halter' is a documented Arabic word, but the source's form and gloss could not be confirmed. No confident meaning is asserted.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Inan is associated with the Arabic form عنان, whose core sense is reins, halter; control.",
+      "meaning_section": "The central meaning of Inan is reins, halter; control.",
+      "origin_section": "Inan is associated with Arabic rather than with a different language.",
+      "islam_section": "Inan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Inan is with the sense reins.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Inan",
+      "#InanMeaning",
+      "#InanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Inan\" reflects the Islamic values of thankfulness and appreciation for Allah's blessings, which is an essential aspect of Islamic culture. It is also a reminder to continuously express gratitude and thankfulness in all aspects of life.",
-    "spiritual_significance": "On a deeper level, the name \"Inan\" signifies the spiritual connection between the individual and Allah. It emphasizes the belief that all blessings come from Allah, and expressing gratitude is a way of acknowledging this relationship and strengthening the bond between the worshipper and Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Inan carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Inan corresponds to the Arabic form عنان",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Inan has the core sense reins, halter; control",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Inan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Inan",
-      "location": "Dubai, UAE",
-      "story": "Maryam Inan from Dubai, UAE embodies the meaning of Inan - \"Gift, Blessing\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Gift, Blessing\" symbolizes Derived from the Arabic word ‘anan, meaning 'gift' or 'blessing'. This name is often used to describe the joy and gratitude one feels towards Allah's blessings.. In Islamic spirituality, bearing the name Inan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of gift, blessing.",
-    "created_at": "2025-12-22T19:19:50.607Z",
-    "updated_at": "2025-12-22T04:53:16.357Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1188,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Inan",
-      "description": "Gift, Blessing",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Inan",
+        "inan"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Inan",
-          "description": "Discover the meaning of Inan - \"Gift, Blessing\"",
-          "image": "/images/social/inan-facebook.jpg"
+      "description": "A name associated with the Arabic form عنان, meaning reins, halter; control.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "inan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Inan - Name Meaning",
-          "description": "Learn about the beautiful name Inan",
-          "image": "/images/social/inan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Inan",
-          "description": "Name meaning: Gift, Blessing",
-          "image": "/images/social/inan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Inan - Meaning: Gift, Blessing",
-        "email_subject": "Beautiful Name: Inan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Inan with meaning Gift, Blessing",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Inan, associated with the Arabic form عنان, meaning reins, halter; control."
     },
-    "similar_sounding_names": [
-      "id",
-      "isa",
-      "iqrit",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

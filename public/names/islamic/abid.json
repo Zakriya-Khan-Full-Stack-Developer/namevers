@@ -3,293 +3,475 @@
   "data": {
     "name": "Abid",
     "slug": "abid",
-    "language": [
-      "English",
-      "Urdu",
-      "Arabic",
-      "Hindi"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Worshipper, Devout Servant",
-    "long_meaning": "Abid is a noble Arabic name meaning 'devout worshipper' or 'one who sincerely serves Allah'. It is a name that reflects humility, faith, and dedication to spiritual life.",
-    "spiritual_meaning": "Symbolizes one who finds peace and purpose in prayer and worship — a soul devoted to remembrance of Allah.",
-    "emotional_traits": [
-      "Faithful",
-      "Peaceful",
-      "Disciplined",
-      "Spiritual"
-    ],
-    "hidden_personality_traits": [
-      "A = Always devoted",
-      "B = Balanced in thought",
-      "I = Inner peace seeker",
-      "D = Deeply spiritual"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Light Blue"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 7,
-    "numerology_meaning": "Number 4 stands for discipline, stability, and sincere effort — core values of a true Abid.",
-    "in_arabic": {
-      "name": "عبد",
-      "meaning": "العبد هو الذي يعبّد ربه",
-      "long_meaning": "عبد من أصول اللغة العربية، ويُفيد بالعبادة، أي الإخلاص والانابة لله تعالى.  في القرآن الكريم، يُستخدم عبد لوصف أولئك الذين يعبّدون الله بقلوبهم وأعمالهم.  يُعتبر اسم عبد من الأسماء الإسلامية الشائعة،  ويُرمز إلى الشخص الذي يَقوم بالعبادة لله سبحانه وتعالى بكل أمانة ووفاء."
+    "identity": {
+      "display_name": "Abid",
+      "normalized_name": "abid",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Abid",
+        "abid"
+      ],
+      "search_variants": [
+        "Abid",
+        "abid"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عبد",
-      "meaning": "عبد، معبود، اللہ کا بندہ",
-      "long_meaning": "عبد، ایک عربی اصطلاح ہے جو 'عبادت' سے مشتق ہے، جس کا معنی 'پروردگار کی عبادت' ہے۔ یہ نام قرآنی روایات میں بھی موجود ہے اور اسے اللہ کے بندے کے لیے استعمال کیا جاتا ہے۔ یہ ایک مقبول اسلامی نام ہے جو  ایک نیک، خالص اور پرعزم  شخص کی شخصیت کو ظاہر کرتا ہے۔  "
+    "core_meaning": {
+      "short_meaning": "Worshipper, devoted servant",
+      "primary_meaning": "Worshipper",
+      "secondary_meanings": [
+        "devoted servant"
+      ],
+      "literal_meaning": "Worshipper",
+      "extended_meaning": "Worshipper, devoted servant",
+      "meaning_explanation": "Abid corresponds to the Arabic form عابد (ع ب د). Its core sense is worshipper, devoted servant. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अब्द",
-      "meaning": "भगवान का भक्त,  परमेश्वर का सेवक",
-      "long_meaning": "अब्द एक अरबी मूल का नाम है जिसका अर्थ है 'उसका सेवक' या 'भगवान का भक्त'. यह नाम क़ुरान में भी आता है और उसमें  उन लोगों को संबोधित किया जाता है जो ईश्वर की अटूट भक्ति से जीते हैं। अब्द  एक प्रचलित इस्लामी नाम है जो एक निष्ठावान,  पवित्र और समर्पित व्यक्ति की विशेषता बताता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عابد",
+      "transliteration": "abid",
+      "romanization": "abid",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Worshipper",
+        "devoted servant"
+      ],
+      "etymology_explanation": "The form عابد is an established Arabic lexical item. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عبد",
-      "meaning": "خېدमतګر، پروردگار ته خدمتګر",
-      "long_meaning": "عبد، یه د پښتو لغه له جوفې غیریې تړه کلمه ده چې د پروردگار خدمتګرۍ معنی ور کوي. دا نوم قرآن کریم ته هم ورته وي، چې د الله خدمتګرۍ لپاره ورکارې.  عبد یه مشهور نوم دی په عوام یې د نیکو، خالص او جاهد شخص د شخصيت کې د ښه ستاونه کړیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عابد is an established Arabic form.",
+        "Urdu": "عابد is used in Urdu.",
+        "Hindi": "आबिद is used in Hindi.",
+        "Pashto": "عابد is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Abid",
-      "meaning": "Servant of God, devout, worshiper",
-      "long_meaning": "Abid is an Arabic name derived from the root 'abd', meaning 'servant' or 'worshipper'.  It signifies a person who dedicates themselves to the worship and service of God.  The Quran frequently uses 'abid' to describe those who sincerely worship Allah.  It is a popular Islamic name, often given to boys,  conveying attributes of devotion, humility, and obedience. "
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عابد. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Abid may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ع ب د occurs in the Qur'an; عابد is a normal Arabic active participle"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense worshipper, devoted servant.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Worshipper",
+      "related_concepts": [
+        "worshipper",
+        "devoted servant"
+      ],
+      "semantic_relationship": "The central semantic idea is worshipper; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of worshipper.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Worshipper",
+        "Devoted servant"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Abid",
+        "meaning": "Worshipper, devoted servant",
+        "long_meaning": "Abid is a Arabic-origin name. Its core meaning is worshipper, devoted servant. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle."
+      },
+      "urdu": {
+        "name": "عابد",
+        "meaning": "عابد، پرستش کرنے والا",
+        "long_meaning": "Abid (عابد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عابد، پرستش کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आबिद",
+        "meaning": "उपासक, भक्त",
+        "long_meaning": "Abid (आबिद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उपासक, भक्त है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عابد",
+        "meaning": "عبادت کوونکی، بنده",
+        "long_meaning": "Abid (عابد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عبادت کوونکی، بنده ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عابد",
+        "meaning": "عابد، عبد",
+        "long_meaning": "Abid (عابد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عابد، عبد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-BEED",
-      "urdu": "اردو میں تلفظ 'عبد'  ہے.",
-      "hindi": "हिन्दी में उच्चारण 'अब्द' है.",
-      "pashto": "په پښتو کې د تلفظ 'عبد'  هوه.",
-      "ipa": "/ˈæbɪd/"
+      "romanized": "a-bid",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عابد",
+      "persian": null,
+      "hindi": "आबिद",
+      "pashto": "عابد"
     },
-    "celebrity_usage": [
-      "Abid Ali (Pakistani cricketer)"
-    ],
-    "social_tags": [
-      "#AbidMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Abid"
-    ],
-    "name_variations": [],
-    "popularity_score": 58,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Abid",
+        "abid"
+      ],
+      "script_variants": [
+        "عابد",
+        "आबिद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عابد is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Abid can be understood through the Arabic form عابد, whose central sense is worshipper, devoted servant. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Abid mean?",
+        "answer": "Abid is associated with the Arabic form عابد, whose core sense is worshipper, devoted servant."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 86,
-        "year": 2024
+        "question": "What is the origin of Abid?",
+        "answer": "Abid is associated with Arabic. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Abid an Arabic name?",
+        "answer": "Yes — the underlying form عابد is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 78,
-        "year": 2024
+        "question": "Is Abid an Islamic name?",
+        "answer": "Abid can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Abid a Quranic name?",
+        "answer": "Abid should not be classified as a Quranic personal name without a direct Quranic basis. root ع ب د occurs in the Qur'an; عابد is a normal Arabic active participle"
+      },
+      {
+        "question": "What does Abid mean in Urdu?",
+        "answer": "In Urdu, Abid is rendered عابد and carries the sense عابد، پرستش کرنے والا."
+      },
+      {
+        "question": "What does Abid mean in Persian?",
+        "answer": "No verified Persian form was established for Abid."
+      },
+      {
+        "question": "How is Abid pronounced?",
+        "answer": "A romanized syllable approximation is a-bid. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Abid?",
+        "answer": "Romanization variants include Abid, abid. Script forms are عابد, आबिद."
+      },
+      {
+        "question": "Is Abid a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Abid Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Abid, a beautiful Islam name meaning \"Worshipper, Devout Servant\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Abid, Islam name, baby names, Worshipper, Devout Servant, Islam baby names, name meaning",
-      "description_paragraph": "Abid is a meaningful Islam name of Arabic origin that means \"Worshipper, Devout Servant\". Abid is a noble Arabic name meaning 'devout worshipper' or 'one who sincerely serves Allah'. It is a name that reflects humility, faith, and dedication to spiritual life.",
-      "keywords": [
-        "Abid",
-        "Islam name",
-        "baby names",
-        "Worshipper, Devout Servant",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Abid in Islam tradition?",
-          "a": "Abid is a beautiful Islam name meaning \"Worshipper, Devout Servant\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Abid a good Islam name for a baby?",
-          "a": "Yes, Abid is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Abid?",
-          "a": "The name Abid has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Abid correctly?",
-          "a": "Abid is pronounced ah-BEED in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Abid?",
-          "a": "Naming a child Abid brings blessings. The meaning \"Worshipper, Devout Servant\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Abid?",
-          "a": "Abid is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Abid Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Abid (عابد).",
+      "h1": "Abid Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Abid meaning",
       "secondary_keywords": [
-        "Islam name Abid",
-        "Abid meaning",
-        "Abid origin"
+        "Abid name meaning",
+        "Abid meaning in Urdu",
+        "Abid origin",
+        "Abid Islamic name",
+        "Abid pronunciation",
+        "Abid name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Abid (عابد) is associated with the Arabic form عابد, whose core sense is worshipper, devoted servant. ʿĀbid ('worshipper, devout servant'). The source record's form عبد is the root rather than the participle.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Abid is associated with the Arabic form عابد, whose core sense is worshipper, devoted servant.",
+      "meaning_section": "The central meaning of Abid is worshipper, devoted servant.",
+      "origin_section": "Abid is associated with Arabic rather than with a different language.",
+      "islam_section": "Abid can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Abid is with the sense worshipper.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Abid",
+      "#AbidMeaning",
+      "#AbidName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Abid carries great importance in Islamic culture, as it signifies a commitment to the religious practices and values of the faith. It is a name that is often given to children as a reminder of their spiritual heritage and a encouragement to lead a pious and God-conscious life.",
-    "spiritual_significance": "In spiritual terms, the name Abid represents the ideal Muslim. It signifies someone who is fully devoted to Allah and strives to follow His commandments. The name carries a reminder of the ultimate goal of human existence, which is to please and worship Allah, and to seek His mercy and grace in this life and the next.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arabic text mentioning Abid The name Abid carried significant weight in that era.",
-        "time_period": "8th century",
-        "context": "Abid was a common name in medieval Islamic society"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasingly used in fiction and media"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Abid corresponds to the Arabic form عابد",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Abid has the core sense worshipper, devoted servant",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Abid remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Abid",
-      "location": "Karachi, Pakistan",
-      "story": "Yusuf Abid, a teacher in Karachi, Pakistan, shares that their name Abid meaning \"Worshipper, Devout Servant\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The name Abid in Arabic means \"servant\" or \"worshiper\". It is a reminder of our role as God's creation, to serve and worship Him alone with devotion and humility.",
-    "created_at": "2025-06-29T18:25:00+05:00",
-    "updated_at": "2025-12-22T04:53:14.028Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1628,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Abid",
-      "description": "Worshipper, Devout Servant",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English",
-        "Urdu",
-        "Arabic",
-        "Hindi"
+      "alternateName": [
+        "Abid",
+        "abid"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Abid",
-          "description": "Discover the meaning of Abid - \"Worshipper, Devout Servant\"",
-          "image": "/images/social/abid-facebook.jpg"
+      "description": "A name associated with the Arabic form عابد, meaning worshipper, devoted servant.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "abid",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Abid - Name Meaning",
-          "description": "Learn about the beautiful name Abid",
-          "image": "/images/social/abid-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Abid",
-          "description": "Name meaning: Worshipper, Devout Servant",
-          "image": "/images/social/abid-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Abid - Meaning: Worshipper, Devout Servant",
-        "email_subject": "Beautiful Name: Abid"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Abid with meaning Worshipper, Devout Servant",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Abid, associated with the Arabic form عابد, meaning worshipper, devoted servant."
     },
-    "similar_sounding_names": [
-      "alabbas",
-      "alaia",
-      "amaya",
-      "aaidah",
-      "anaan",
-      "ashika",
-      "aryan",
-      "ada",
-      "anika",
-      "akil"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

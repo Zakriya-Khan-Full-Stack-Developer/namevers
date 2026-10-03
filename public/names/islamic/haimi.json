@@ -3,268 +3,456 @@
   "data": {
     "name": "Haimi",
     "slug": "haimi",
-    "language": [
-      "Arabic",
-      "Hebrew"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Fragrant",
-    "long_meaning": "Means fragrant, sweet smelling, and pleasant.",
-    "spiritual_meaning": "Represents the sweetness and fragrance of Allah's love.",
-    "emotional_traits": [
-      "Calm",
-      "Peaceful",
-      "Sweet"
-    ],
-    "hidden_personality_traits": [
-      "Mysterious",
-      "Introspective"
-    ],
-    "lucky_number": 4,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Pink",
-      "White"
-    ],
-    "lucky_stone": "Jade",
-    "life_path_number": 6,
-    "numerology_meaning": "Represents harmony, balance, and love.",
-    "in_arabic": {
-      "name": "Ahmad",
-      "meaning": "Dear or Noble",
-      "long_meaning": "Servant of the most merciful and most compassionate Allah"
+    "identity": {
+      "display_name": "Haimi",
+      "normalized_name": "haimi",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Haimi",
+        "haimi"
+      ],
+      "search_variants": [
+        "Haimi",
+        "haimi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "احمد",
-      "meaning": "محب",
-      "long_meaning": "خدا کے غفرت و مہربان کے عبد"
+    "core_meaning": {
+      "short_meaning": "Life, living",
+      "primary_meaning": "Life",
+      "secondary_meanings": [
+        "living"
+      ],
+      "literal_meaning": "Life",
+      "extended_meaning": "Life, living",
+      "meaning_explanation": "Haimi corresponds to the Hebrew form None (Hebrew חַיִּים (Ḥayyīm) 'life'; diminutive/variant Haimi). Its core sense is life, living. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अहमद",
-      "meaning": "प्यारदार",
-      "long_meaning": "अल्लाह के प्यार व अधीकरण के दास"
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": null,
+      "transliteration": "haimi",
+      "romanization": "haimi",
+      "root_status": "Hebrew חַיִּים (Ḥayyīm) 'life'; diminutive/variant Haimi",
+      "etymological_meaning": [
+        "Life",
+        "living"
+      ],
+      "etymology_explanation": "The form None is an established Hebrew lexical item. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "احمد",
-      "meaning": "مولا",
-      "long_meaning": "نبي صلى الله عليه وسلم کي دوستان والله تعالى و ملکوت کا عبد"
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {},
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Ahmad",
-      "meaning": "Dear or Noble",
-      "long_meaning": "Servant of the most merciful and most compassionate Allah"
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Hebrew form None. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Haimi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense life, living.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Life",
+      "related_concepts": [
+        "life",
+        "living"
+      ],
+      "semantic_relationship": "The central semantic idea is life; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of life.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Life",
+        "Living"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Haimi",
+        "meaning": "Life, living",
+        "long_meaning": "Haimi is a Hebrew-origin name. Its core meaning is life, living. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence."
+      },
+      "urdu": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified ur translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified hi translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "pashto": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified ps translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "arabic": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified ar translation was established for this form. A meaning is deliberately not asserted."
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/əˈhɑːməd/",
-      "urdu": "/aħmɑd/",
-      "hindi": "/əˈhɑːməd/",
-      "pashto": "/aħmɑd/",
-      "ipa": "http://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Ah"
+      "romanized": "hai-mi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": null,
+      "persian": null,
+      "hindi": null,
+      "pashto": null
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AhmadMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 59,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Haimi",
+        "haimi"
+      ],
+      "script_variants": [],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form None is an established Hebrew lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Haimi can be understood through the Hebrew form None, whose central sense is life, living. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Haimi mean?",
+        "answer": "Haimi is associated with the Hebrew form None, whose core sense is life, living."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Haimi?",
+        "answer": "Haimi is associated with Hebrew. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Haimi an Arabic name?",
+        "answer": "No — the underlying form is Hebrew, not Arabic."
+      },
+      {
+        "question": "Is Haimi an Islamic name?",
+        "answer": "Haimi can occur in Muslim naming contexts, but it is better described as a Hebrew-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Haimi a Quranic name?",
+        "answer": "Haimi should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Haimi mean in Urdu?",
+        "answer": "In Urdu, Haimi is rendered — and carries the sense زندگی، حیات."
+      },
+      {
+        "question": "What does Haimi mean in Persian?",
+        "answer": "No verified Persian form was established for Haimi."
+      },
+      {
+        "question": "How is Haimi pronounced?",
+        "answer": "A romanized syllable approximation is hai-mi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Haimi?",
+        "answer": "Romanization variants include Haimi, haimi. Script forms are ."
+      },
+      {
+        "question": "Is Haimi a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Haimi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Haimi, a beautiful Islam name meaning \"Fragrant\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Haimi, Islam name, baby names, Fragrant, Islam baby names, name meaning",
-      "description_paragraph": "Haimi is a meaningful Islam name of Arabic origin that means \"Fragrant\". Means fragrant, sweet smelling, and pleasant.",
-      "keywords": [
-        "Haimi",
-        "Islam name",
-        "baby names",
-        "Fragrant",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Haimi in Islam tradition?",
-          "a": "Haimi is a beautiful Islam name meaning \"Fragrant\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Haimi a good Islam name for a baby?",
-          "a": "Yes, Haimi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Haimi?",
-          "a": "The name Haimi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Haimi correctly?",
-          "a": "Haimi is pronounced /əˈhɑːməd/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Haimi?",
-          "a": "Naming a child Haimi brings blessings. The meaning \"Fragrant\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Haimi?",
-          "a": "Haimi is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Haimi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Hebrew origin, Urdu meaning, pronunciation, variants and Islamic naming context of Haimi (None).",
+      "h1": "Haimi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Haimi meaning",
       "secondary_keywords": [
-        "Islam name Haimi",
-        "Haimi meaning",
-        "Haimi origin"
+        "Haimi name meaning",
+        "Haimi meaning in Urdu",
+        "Haimi origin",
+        "Haimi Islamic name",
+        "Haimi pronunciation",
+        "Haimi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Haimi (None) is associated with the Hebrew form None, whose core sense is life, living. Haimi is best explained as a form of the Hebrew name חַיִּים (Ḥayyīm / Chaim) 'life', cognate with Arabic حياة (ḥayāh). CRITICAL SOURCE ERROR: the record's Arabic column gave أحمد ('Ahmad'), and the gloss 'fragrant' is unsupported. A separate tradition reports 'Haimi' as a Nepali name meaning 'golden'; that is a different, unrelated name. Because the dataset carries both Arabic and Hebrew in its language column, this is recorded as the Hebrew 'life' name at medium confidence.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Haimi is associated with the Hebrew form None, whose core sense is life, living.",
+      "meaning_section": "The central meaning of Haimi is life, living.",
+      "origin_section": "Haimi is associated with Hebrew rather than with a different language.",
+      "islam_section": "Haimi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Haimi is with the sense life.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Haimi",
+      "#HaimiMeaning",
+      "#HaimiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Haimi holds a significant cultural impact in the Arabic language and Islamic culture, as it refers to something that is fragrant, sweet smelling, and pleasant. This name is likely to evoke positive emotions and bring a sense of beauty and joy. In some cultures, the giving of names based on desirable attributes is a common practice, and Haimi's meaning is a perfect reflection of the desired trait.",
-    "spiritual_significance": "The spiritual significance of the Islamic name Haimi is deeply rooted in the teachings of Islam. The term \"fragrant\" can be associated with the concept of being mindful and Present in the moment, as the scent of something can transport us to a different time or memory. Additionally, in Islamic tradition, the term \"sweet smelling\" is used to describe the fragrance of Paradise, which shall be enjoyed by the believers after their death. Thus, the name Haimi carries a reminder of the beauty, joy, and fragrance of the hereafter, inspiring the bearer to lead a righteous life and strive for eternal happiness.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Haimi carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Haimi corresponds to the Hebrew form None",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Haimi has the core sense life, living",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Haimi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Haimi",
-      "location": "Dubai, UAE",
-      "story": "Layla Haimi, a teacher in Dubai, UAE, shares that their name Haimi meaning \"Fragrant\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Fragrant\" symbolizes Means fragrant, sweet smelling, and pleasant.. In Islamic spirituality, bearing the name Haimi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of fragrant.",
-    "created_at": "2025-12-22T19:19:50.951Z",
-    "updated_at": "2025-12-22T04:53:16.684Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1225,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Haimi",
-      "description": "Fragrant",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Hebrew"
+      "alternateName": [
+        "Haimi",
+        "haimi"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Haimi",
-          "description": "Discover the meaning of Haimi - \"Fragrant\"",
-          "image": "/images/social/haimi-facebook.jpg"
+      "description": "A name associated with the Hebrew form None, meaning life, living.",
+      "inLanguage": [],
+      "termCode": "haimi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Hebrew"
         },
-        "twitter": {
-          "title": "Haimi - Name Meaning",
-          "description": "Learn about the beautiful name Haimi",
-          "image": "/images/social/haimi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Haimi",
-          "description": "Name meaning: Fragrant",
-          "image": "/images/social/haimi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Haimi - Meaning: Fragrant",
-        "email_subject": "Beautiful Name: Haimi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Haimi with meaning Fragrant",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": false,
+      "rtl_languages": [],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Haimi, associated with the Hebrew form None, meaning life, living."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

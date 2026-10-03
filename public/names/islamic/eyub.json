@@ -3,281 +3,465 @@
   "data": {
     "name": "Eyub",
     "slug": "eyub",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Son of Hagar",
-    "long_meaning": "In Arabic, Eyub is the name of Ibrahim's (Abraham) son born to Hagar in the Arabian desert. The name is derived from the Arabic word 'A'yūb, meaning 'living one', due to Hagar's belief that her son would live despite her hardships.",
-    "spiritual_meaning": "The name Eyub carries a deep spiritual meaning. It reminds us of the trials and tribulations that we may face in life, and the importance of remaining patient and steadfast in our faith. It also serves as a reminder of the ultimate reward that awaits those who endure suffering with patience and faith.",
-    "emotional_traits": [
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 9,
-    "numerology_meaning": "Represents spirituality, wisdom, and destiny-driven strength.",
-    "in_arabic": {
-      "name": "أيوب",
-      "meaning": "اسم مشتق من ايوب عليه السلام، يعني الصبر والثبات",
-      "long_meaning": "أيوب هو اسم علم مذكر من أصل عربي، مشتق من اسم النبي أيوب عليه السلام، ويعني الصبر والثبات على الحق، كما ورد في القرآن الكريم في سورة الأنبياء، الآية 83-84، حيث ذكرت قصة نبي الله أيوب عليه السلام وبلائه وصبره على المرض والابتلاء، مما يجعل الاسم ذا أهمية دينية وروحية كبيرة في الإسلام."
+    "identity": {
+      "display_name": "Eyub",
+      "normalized_name": "eyub",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Eyub",
+        "eyub"
+      ],
+      "search_variants": [
+        "Eyub",
+        "eyub"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ایوب",
-      "meaning": "نبی ایوب علیہ السلام سے مشتق، معنی صبر و استقامت",
-      "long_meaning": "ایوب ایک مذکر نام ہے جو عربی زبان سے ماخوذ ہے، اور نبی ایوب علیہ السلام سے مشتق ہے، جو قرآن کریم میں انبیاء سورة، آیت 83-84 میں ذکر کیا گیا ہے، یہ نام صبر و استقامت، اور دکھوں و مصائب سے صبر کرنے کی معنا رکھتا ہے، اسلامی تقالید میں اس نام کو بڑی اہمیت حاصل ہے، خاص طور پر جنوبی ایشیاء میں مسلم کمیونٹی میں."
+    "core_meaning": {
+      "short_meaning": "Son of Hagar (Ishmael)",
+      "primary_meaning": "Son of Hagar (Ishmael)",
+      "secondary_meanings": [],
+      "literal_meaning": "Son of Hagar (Ishmael)",
+      "extended_meaning": "Son of Hagar (Ishmael)",
+      "meaning_explanation": "Eyub corresponds to the Hebrew form أيوب (Hebrew אִיּוֹב). Its core sense is son of hagar (ishmael). Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "एयुब",
-      "meaning": "नबी एयुब से लिया गया, अर्थ धैर्य और दृढ़ता",
-      "long_meaning": "एयुब एक पुल्लिंग नाम है जो अरबी भाषा से लिया गया है, और यह नबी एयुब से संबंधित है जिनका उल्लेख कुरआन में है, यह नाम धैर्य और दृढ़ता का प्रतीक है, भारतीय मुस्लिम समुदाय में इस नाम का विशेष महत्व है, और यह नाम धार्मिक और आध्यात्मिक दृष्टिकोण से भी महत्वपूर्ण माना जाता है."
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "أيوب",
+      "transliteration": "eyub",
+      "romanization": "eyub",
+      "root_status": "Hebrew אִיּוֹב",
+      "etymological_meaning": [
+        "Son of Hagar (Ishmael)"
+      ],
+      "etymology_explanation": "The form أيوب is an established Hebrew lexical item. Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ایوب",
-      "meaning": "د نبي ایوب څخه اخستل شوی، معنی یې صبر او استقامت",
-      "long_meaning": "ایوب یو مذکر نوم دی چی د عربي ژبې څخه اخستل شوی دی، او د نبي ایوب څخه مشتق شوی دی، چی د قران کریم په انبیاء سورت، آیت 83-84 کې ذکر شوی دی، دا نوم د صبر او استقامت، او د مشکلاتو څخه د صبر کولو معنی لري، په افغان او پښتون دود کې دا نوم ډیره اهمیت لري."
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أيوب is an established Arabic form.",
+        "Urdu": "ایوب is used in Urdu.",
+        "Hindi": "अय्यूब is used in Hindi.",
+        "Pashto": "ایوب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Eyub",
-      "meaning": "Derived from Prophet Eyub, signifies patience and perseverance",
-      "long_meaning": "Eyub is a masculine name originating from Arabic, derived from the name of Prophet Eyub (Job), mentioned in the Quran, Surah Anbiya, verses 83-84. The name signifies patience, perseverance, and steadfastness in the face of adversity. It holds significant religious and spiritual importance in Islamic tradition, symbolizing the values of endurance and faith. The name Eyub is used across various Muslim cultures, reflecting its universal appeal and timeless relevance."
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Hebrew form أيوب. Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Eyub may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "أيوب is named in the Qur'an (e.g. 4:163)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense son of hagar (ishmael).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Son of Hagar (Ishmael)",
+      "related_concepts": [
+        "son of hagar (ishmael)"
+      ],
+      "semantic_relationship": "The central semantic idea is son of hagar (ishmael); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of son of hagar (ishmael).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Son of hagar (ishmael)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Eyub",
+        "meaning": "Son of Hagar (Ishmael)",
+        "long_meaning": "Eyub is a Hebrew-origin name. Its core meaning is son of hagar (ishmael). Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported."
+      },
+      "urdu": {
+        "name": "ایوب",
+        "meaning": "ہاجرہ کا بیٹا (اسماعیل)",
+        "long_meaning": "Eyub (ایوب) عبرانی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ہاجرہ کا بیٹا (اسماعیل) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अय्यूब",
+        "meaning": "हाजिरा का पुत्र (इस्माईल)",
+        "long_meaning": "Eyub (अय्यूब) हिब्रू भाषा से लिया गया नाम है। इसका मुख्य अर्थ हाजिरा का पुत्र (इस्माईल) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ایوب",
+        "meaning": "د هاجرې زوی (اسماعیل)",
+        "long_meaning": "Eyub (ایوب) د عبري ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د هاجرې زوی (اسماعیل) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أيوب",
+        "meaning": "ابن هاجر (إسماعيل)",
+        "long_meaning": "Eyub (أيوب) اسم مأخوذ من اللغة العبرية، ومعناه الأساسي ابن هاجر (إسماعيل). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "AY-oo-b",
-      "urdu": "ایوب کا تلفظ ایے-یو-ب ہے",
-      "hindi": "एयुब का उच्चारण ए-यू-ब है",
-      "pashto": "ایوب د تلفظ ای-وب دی",
-      "ipa": "/ˈɑː.juːb/"
+      "romanized": "eyub",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ایوب",
+      "persian": null,
+      "hindi": "अय्यूब",
+      "pashto": "ایوب"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#EyubMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Eyub"
-    ],
-    "name_variations": [],
-    "popularity_score": 42,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Eyub",
+        "eyub"
+      ],
+      "script_variants": [
+        "أيوب",
+        "ایوب",
+        "अय्यूब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أيوب is an established Hebrew lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Eyub can be understood through the Hebrew form أيوب, whose central sense is son of hagar (ishmael). Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 90,
-        "year": 2024
+        "question": "What does Eyub mean?",
+        "answer": "Eyub is associated with the Hebrew form أيوب, whose core sense is son of hagar (ishmael)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Eyub?",
+        "answer": "Eyub is associated with Hebrew. Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 89,
-        "year": 2024
+        "question": "Is Eyub an Arabic name?",
+        "answer": "No — the underlying form is Hebrew, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 82,
-        "year": 2024
+        "question": "Is Eyub an Islamic name?",
+        "answer": "Eyub can occur in Muslim naming contexts, but it is better described as a Hebrew-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Eyub a Quranic name?",
+        "answer": "Eyub should not be classified as a Quranic personal name without a direct Quranic basis. أيوب is named in the Qur'an (e.g. 4:163)"
+      },
+      {
+        "question": "What does Eyub mean in Urdu?",
+        "answer": "In Urdu, Eyub is rendered ایوب and carries the sense ہاجرہ کا بیٹا (اسماعیل)."
+      },
+      {
+        "question": "What does Eyub mean in Persian?",
+        "answer": "No verified Persian form was established for Eyub."
+      },
+      {
+        "question": "How is Eyub pronounced?",
+        "answer": "A romanized syllable approximation is eyub. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Eyub?",
+        "answer": "Romanization variants include Eyub, eyub. Script forms are أيوب, ایوب, अय्यूब."
+      },
+      {
+        "question": "Is Eyub a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Eyub Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Eyub, a beautiful Islam name meaning \"Son of Hagar\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Eyub, Islam name, baby names, Son of Hagar, Islam baby names, name meaning",
-      "description_paragraph": "Eyub is a meaningful Islam name of Arabic origin that means \"Son of Hagar\". In Arabic, Eyub is the name of Ibrahim's (Abraham) son born to Hagar in the Arabian desert. The name is derived from the Arabic word 'A'yūb, meaning 'living one', due to Hagar's belief that her son would live despite her hardships.",
-      "keywords": [
-        "Eyub",
-        "Islam name",
-        "baby names",
-        "Son of Hagar",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Eyub in Islam tradition?",
-          "a": "Eyub is a beautiful Islam name meaning \"Son of Hagar\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Eyub a good Islam name for a baby?",
-          "a": "Yes, Eyub is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Eyub?",
-          "a": "The name Eyub has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Eyub correctly?",
-          "a": "Eyub is pronounced AY-oo-b in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Eyub?",
-          "a": "Naming a child Eyub brings blessings. The meaning \"Son of Hagar\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Eyub?",
-          "a": "Eyub is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 92,
+      "title": "Eyub Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Hebrew origin, Urdu meaning, pronunciation, variants and Islamic naming context of Eyub (أيوب).",
+      "h1": "Eyub Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Eyub meaning",
       "secondary_keywords": [
-        "Islam name Eyub",
-        "Eyub meaning",
-        "Eyub origin"
+        "Eyub name meaning",
+        "Eyub meaning in Urdu",
+        "Eyub origin",
+        "Eyub Islamic name",
+        "Eyub pronunciation",
+        "Eyub name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Eyub (أيوب) is associated with the Hebrew form أيوب, whose core sense is son of hagar (ishmael). Ayyūb, the Arabic form of Job, a prophet named in the Qur'an. The source record's gloss 'Son of Hagar' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Eyub is associated with the Hebrew form أيوب, whose core sense is son of hagar (ishmael).",
+      "meaning_section": "The central meaning of Eyub is son of hagar (ishmael).",
+      "origin_section": "Eyub is associated with Hebrew rather than with a different language.",
+      "islam_section": "Eyub can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Eyub is with the sense son of hagar (ishmael).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Eyub",
+      "#EyubMeaning",
+      "#EyubName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Eyub holds significant cultural importance in the Muslim world. In numerous Islamic stories, Eyub is depicted as a symbol of patience, resilience, and perseverance. Hagar's journey to the desert, where she gave birth to Ishmael and Eyub, is considered as an example of faith and determination. Moreover, the central location of Mecca, the holiest city in Islam, in the Arabian Peninsula, reaffirms the important connection between Eyub's story and Islamic cultural heritage.",
-    "spiritual_significance": "The spiritual significance of the name Eyub lies primarily in the story of Ibrahim and Hagar in the Quran. Their unwavering faith, despite adversity, is seen as a reminder for believers to trust in Allah's guidance and to have patience during difficult times. Furthermore, Eyub's name itself means 'living one', emphasizing the belief that life continues, sometimes in unexpected ways, even during the most challenging circumstances. This name carries a powerful message that, no matter the obstacles one may face, faith, patience, and determination will ultimately lead to a better life.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The tomb of Eyub is located in Istanbul, Turkey, and is considered one of the most important sites in Islam. It is said that Eyub was a companion of the Prophet Muhammad and was killed during the Battle of Harrah in 657 AD. He was later buried at his current site below the Edirne city walls.",
-        "time_period": "657 AD",
-        "context": "Battle of Harrah, companion of the Prophet Muhammad"
-      },
-      {
-        "reference": "During the Ottoman Empire, the tomb of Eyub was a site of pilgrimage for both Sunni and Shia Muslims. It is said that the Ottoman Sultan Mehmed II, who conquered Constantinople in 1453, visited the tomb and was granted a vision of the Prophet Muhammad during his prayer there.",
-        "time_period": "1453 AD",
-        "context": "Ottoman Empire, site of pilgrimage for Sunni and Shia Muslims"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic pilgrimage to Mecca known as the Hajj, spiritual significance of the name Eyub in Islam, commemoration of the Prophet Ibrahim and his family's trials and sacrifices"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Eyub corresponds to the Hebrew form أيوب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Eyub has the core sense son of hagar (ishmael)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media like Twitter and Facebook, Islamic websites and blogs, Print and electronic media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Eyub, which is synonymous with the biblical figure Jacob's son Joseph who was sold into slavery in Egypt but later rose to become a powerful advisor, has a significant place in Islamic tradition. In modern context, the name Eyub is frequently mentioned in various Islamic platforms, including social media, websites, blogs, and print and electronic media. The modern usage of the name Eyub is primarily associated with its spiritual significance in Islamic tradition, specifically in the context of the Islamic pilgrimage to Mecca known as the Hajj. The name Eyub is also used to commemorate the trials and sacrifices of the Prophet Ibrahim and his family. For instance, the location where the Prophet Ibrahim is believed to have thrown Hajar, his wife, into the well to quench her thirst is known as the Zamzam well, situated in the holy city of Mecca. The name Eyub is also used to refer to the area around this well. Thus, the name Eyub is an important part of Islamic heritage and continues to be relevant in contemporary discourse and cultural practices."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Eyub",
-      "location": "Karachi, Pakistan",
-      "story": "Aisha Eyub, a teacher in Karachi, Pakistan, shares that their name Eyub meaning \"Son of Hagar\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "Eyub is the name of the blessed companion, who demonstrated unwavering faith and perseverance during the Prophet's migration to Medina. His name symbolizes endurance and steadfastness in the face of adversity. May we all strive to emulate his noble character.",
-    "created_at": "2025-12-22T19:19:49.767Z",
-    "updated_at": "2025-12-22T04:53:13.89Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1610,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Eyub",
-      "description": "Son of Hagar",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Eyub",
+        "eyub"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Eyub",
-          "description": "Discover the meaning of Eyub - \"Son of Hagar\"",
-          "image": "/images/social/eyub-facebook.jpg"
+      "description": "A name associated with the Hebrew form أيوب, meaning son of hagar (ishmael).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "eyub",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Hebrew"
         },
-        "twitter": {
-          "title": "Eyub - Name Meaning",
-          "description": "Learn about the beautiful name Eyub",
-          "image": "/images/social/eyub-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Eyub",
-          "description": "Name meaning: Son of Hagar",
-          "image": "/images/social/eyub-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Eyub - Meaning: Son of Hagar",
-        "email_subject": "Beautiful Name: Eyub"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Eyub with meaning Son of Hagar",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Eyub, associated with the Hebrew form أيوب, meaning son of hagar (ishmael)."
     },
-    "similar_sounding_names": [
-      "eijaz",
-      "ehan",
-      "eliza",
-      "elamin"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

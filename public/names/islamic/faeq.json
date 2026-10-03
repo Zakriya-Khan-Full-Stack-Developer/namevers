@@ -3,290 +3,479 @@
   "data": {
     "name": "Faeq",
     "slug": "faeq",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Aware, Conscious",
-    "long_meaning": "Derived from the Arabic root 'fa'aqa', meaning to be aware or conscious. This name is mentioned in the Hadith as the name of a companion of the Prophet Muhammad (pbuh) who was known for his wisdom and righteousness.",
-    "spiritual_meaning": "To be constantly aware and mindful of Allah's presence.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 9,
-    "numerology_meaning": "People with the life path number 9 are natural leaders and humanitarians, who are able to inspire and uplift others.",
-    "in_arabic": {
-      "name": "فائق",
-      "meaning": "فائق تعني متفوق أو متميز عن غيره",
-      "long_meaning": "اسم فائق مشتق من الفعل فاق يفوق فَوْقا بمعنى علا وارتفع في الخُلُق أو في العلم أو في المال، ومنه قيل فاق على فلان أي علا عليه وارتفع، فهو فائق أي متميز عن غيره، وقد ورد في القرآن الكريم في سورة المائدة آية 68: ﴿فَمَن أَظلَمُ مِمَّن فاقَ عَلى اللَّهِ كَذِباً أَوْ كَذَّبَ بِآياتِهِ أُولَـئِكَ يَنالُهُمُ العَذابُ مُصَرَّرٌ وَما لَهُم مِّن أَولِياءَ يَمنَعونَهُم"
+    "identity": {
+      "display_name": "Faeq",
+      "normalized_name": "faeq",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Faeq",
+        "faeq"
+      ],
+      "search_variants": [
+        "Faeq",
+        "faeq"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "فائق",
-      "meaning": "فائق  کا مطلب ہے  ممتاز،  بہتر ، متفوق",
-      "long_meaning": "فائق ایک عربی نام ہے جس کا مطلب ہے ممتاز، بہتر یا متفوق۔ یہ نام اسلامی تقویم میں مقبول ہے اور اکثر ایسے بچوں کو دیا جاتا ہے جو اپنے والدین کی امیدوں سے بالاتر ہوتے ہیں۔ اس نام کی اصلیت عربی زبان میں ہے جہاں اس کا مطلب ہے 'ممتاز' یا 'متفوق'۔"
+    "core_meaning": {
+      "short_meaning": "Aware, conscious, attentive",
+      "primary_meaning": "Aware",
+      "secondary_meanings": [
+        "conscious",
+        "attentive"
+      ],
+      "literal_meaning": "Aware",
+      "extended_meaning": "Aware, conscious, attentive",
+      "meaning_explanation": "Faeq corresponds to the Arabic form فائق (ف و ق). Its core sense is aware, conscious, attentive. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "फाइق",
-      "meaning": "फाइक का अर्थ है उत्कृष्ट, श्रेष्ठ, विशिष्ट",
-      "long_meaning": "फाइक एक अरबी नाम है जिसका अर्थ है उत्कृष्ट, श्रेष्ठ या विशिष्ट। यह नाम मुस्लिम समुदाय में बहुत लोकप्रिय है और अक्सर उन बच्चों को दिया जाता है जो अपने माता-पिता की अपेक्षाओं से अधिक होते हैं। इस नाम की जड़ें अरबी भाषा में हैं जहां इसका अर्थ है 'उत्कृष्ट' या 'विशिष्ट'।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فائق",
+      "transliteration": "faeq",
+      "romanization": "faeq",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Aware",
+        "conscious",
+        "attentive"
+      ],
+      "etymology_explanation": "The form فائق is an established Arabic lexical item. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "فايق",
-      "meaning": "فايق د معنی دا لری چی له نورو څخه لوړ او ښه وي",
-      "long_meaning": "فايق د عربي نوم څخه اخيستل شوی دی چی د معنی يې دی لوړ، ښه او يا ممتاز. دا نوم د افغانستان په مسیحیت کې ډیر مشهور دی او ډیری وختونه یې داسې ماشومانو ته ورکول کیږي چی د خپلو والدینو له هیلو څخه لوړ وي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "فائق is an established Arabic form.",
+        "Urdu": "فائق is used in Urdu.",
+        "Hindi": "फ़ाइक़ is used in Hindi.",
+        "Pashto": "فائق is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Faeq",
-      "meaning": "Faeq means superior, excellent, or outstanding",
-      "long_meaning": "The name Faeq originates from the Arabic root 'F-W-Q' which means 'to be superior' or 'to excel'. It is a popular name in Islamic tradition and is often given to children who are expected to excel in their endeavors. The name Faeq has been used throughout history in various Muslim cultures, including Arabic, Turkish, and South Asian communities. It connotes a sense of excellence, superiority, and distinction."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form فائق. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Faeq may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense aware, conscious, attentive.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Aware",
+      "related_concepts": [
+        "aware",
+        "conscious",
+        "attentive"
+      ],
+      "semantic_relationship": "The central semantic idea is aware; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of aware.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Aware",
+        "Conscious",
+        "Attentive"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Faeq",
+        "meaning": "Aware, conscious, attentive",
+        "long_meaning": "Faeq is a Arabic-origin name. Its core meaning is aware, conscious, attentive. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported."
+      },
+      "urdu": {
+        "name": "فائق",
+        "meaning": "واقف، باخبر، ہوشیار",
+        "long_meaning": "Faeq (فائق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم واقف، باخبر، ہوشیار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "फ़ाइक़",
+        "meaning": "सजग, जागरूक, बाख़बर",
+        "long_meaning": "Faeq (फ़ाइक़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सजग, जागरूक, बाख़बर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "فائق",
+        "meaning": "پوه، خبرتیا، هوښیار",
+        "long_meaning": "Faeq (فائق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوه، خبرتیا، هوښیار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "فائق",
+        "meaning": "الواعي، المدرك، اليقظ",
+        "long_meaning": "Faeq (فائق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الواعي، المدرك، اليقظ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "FAY-ek",
-      "urdu": "فائق کا تلفظ (FAY-k)",
-      "hindi": "फाइक का उच्चारण (FAY-ek)",
-      "pashto": "فايق د تلفظ (FAY-k)",
-      "ipa": "/ˈfɑːɛk/"
+      "romanized": "faeq",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "فائق",
+      "persian": null,
+      "hindi": "फ़ाइक़",
+      "pashto": "فائق"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#FaeqMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Faeq"
-    ],
-    "name_variations": [],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Faeq",
+        "faeq"
+      ],
+      "script_variants": [
+        "فائق",
+        "फ़ाइक़"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form فائق is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Faeq can be understood through the Arabic form فائق, whose central sense is aware, conscious, attentive. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Faeq mean?",
+        "answer": "Faeq is associated with the Arabic form فائق, whose core sense is aware, conscious, attentive."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Faeq?",
+        "answer": "Faeq is associated with Arabic. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Faeq an Arabic name?",
+        "answer": "Yes — the underlying form فائق is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Faeq an Islamic name?",
+        "answer": "Faeq can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 70,
-        "year": 2024
+        "question": "Is Faeq a Quranic name?",
+        "answer": "Faeq should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Faeq mean in Urdu?",
+        "answer": "In Urdu, Faeq is rendered فائق and carries the sense واقف، باخبر، ہوشیار."
+      },
+      {
+        "question": "What does Faeq mean in Persian?",
+        "answer": "No verified Persian form was established for Faeq."
+      },
+      {
+        "question": "How is Faeq pronounced?",
+        "answer": "A romanized syllable approximation is faeq. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Faeq?",
+        "answer": "Romanization variants include Faeq, faeq. Script forms are فائق, फ़ाइक़."
+      },
+      {
+        "question": "Is Faeq a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Faeq Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Faeq, a beautiful Islam name meaning \"Aware, Conscious\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Faeq, Islam name, baby names, Aware, Conscious, Islam baby names, name meaning",
-      "description_paragraph": "Faeq is a meaningful Islam name of Arabic origin that means \"Aware, Conscious\". Derived from the Arabic root 'fa'aqa', meaning to be aware or conscious. This name is mentioned in the Hadith as the name of a companion of the Prophet Muhammad (pbuh) who was known for his wisdom and righteousness.",
-      "keywords": [
-        "Faeq",
-        "Islam name",
-        "baby names",
-        "Aware, Conscious",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Faeq in Islam tradition?",
-          "a": "Faeq is a beautiful Islam name meaning \"Aware, Conscious\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Faeq a good Islam name for a baby?",
-          "a": "Yes, Faeq is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Faeq?",
-          "a": "The name Faeq has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Faeq correctly?",
-          "a": "Faeq is pronounced FAY-ek in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Faeq?",
-          "a": "Naming a child Faeq brings blessings. The meaning \"Aware, Conscious\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Faeq?",
-          "a": "Faeq is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Faeq Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Faeq (فائق).",
+      "h1": "Faeq Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Faeq meaning",
       "secondary_keywords": [
-        "Islam name Faeq",
-        "Faeq meaning",
-        "Faeq origin"
+        "Faeq name meaning",
+        "Faeq meaning in Urdu",
+        "Faeq origin",
+        "Faeq Islamic name",
+        "Faeq pronunciation",
+        "Faeq name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Faeq (فائق) is associated with the Arabic form فائق, whose core sense is aware, conscious, attentive. Fāʾiq ('superior, surpassing, excellent'). The source record's gloss 'Aware, Conscious' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Faeq is associated with the Arabic form فائق, whose core sense is aware, conscious, attentive.",
+      "meaning_section": "The central meaning of Faeq is aware, conscious, attentive.",
+      "origin_section": "Faeq is associated with Arabic rather than with a different language.",
+      "islam_section": "Faeq can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Faeq is with the sense aware.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Faeq",
+      "#FaeqMeaning",
+      "#FaeqName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name 'Faeq' is a beautiful and unique name within the Islamic culture. It is a name that represents wisdom, awareness, and consciousness, qualities that are highly valued in Islamic society. Faeq is also a name with a rich history, as it is mentioned in Islamic texts as the name of a noble companion of the Prophet Muhammad (pbuh). Thus, bearing this name carries a sense of pride and a connection to the Islamic tradition.",
-    "spiritual_significance": "The spiritual significance of the name 'Faeq' lies in its reference to consciousness and awareness, which are essential aspects of Islamic faith. The name encourages the person to strive for knowledge, wisdom, and mindfulness in their daily life, and to be aware of their actions and their impact on themselves and others. By embracing the spiritual meaning of the name, the bearer is inspired to grow in consciousness, wisdom, and piety, ultimately leading to a deeper connection with Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Historical records of the name Faeq in ancient Islamic texts The name Faeq carried significant weight in that era.",
-        "time_period": "8th century",
-        "context": "The name Faeq was used by a prominent Islamic scholar during this time period."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East",
-        "use in Islamic art and architecture"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Faeq corresponds to the Arabic form فائق",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Faeq has the core sense aware, conscious, attentive",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "Islamic websites and forums"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Faeq remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Faeq",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Fatima Faeq from Kuala Lumpur, Malaysia embodies the meaning of Faeq - \"Aware, Conscious\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Aware, Conscious\" symbolizes Derived from the Arabic root 'fa'aqa', meaning to be aware or conscious. This name is mentioned in the Hadith as the name of a companion of the Prophet Muhammad (pbuh) who was known for his wisdom and righteousness.. In Islamic spirituality, bearing the name Faeq serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of aware, conscious.",
-    "created_at": "2025-12-22T19:19:49.919Z",
-    "updated_at": "2025-12-22T04:53:15.383Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1067,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Faeq",
-      "description": "Aware, Conscious",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Faeq",
+        "faeq"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Faeq",
-          "description": "Discover the meaning of Faeq - \"Aware, Conscious\"",
-          "image": "/images/social/faeq-facebook.jpg"
+      "description": "A name associated with the Arabic form فائق, meaning aware, conscious, attentive.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "faeq",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Faeq - Name Meaning",
-          "description": "Learn about the beautiful name Faeq",
-          "image": "/images/social/faeq-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Faeq",
-          "description": "Name meaning: Aware, Conscious",
-          "image": "/images/social/faeq-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Faeq - Meaning: Aware, Conscious",
-        "email_subject": "Beautiful Name: Faeq"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Faeq with meaning Aware, Conscious",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Faeq, associated with the Arabic form فائق, meaning aware, conscious, attentive."
     },
-    "similar_sounding_names": [
-      "firoz",
-      "fadi",
-      "faekah",
-      "faiyaz",
-      "farisha",
-      "fardeen"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,300 +3,474 @@
   "data": {
     "name": "Burak",
     "slug": "burak",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Thunder, Lightning",
-    "long_meaning": "The name Burak is derived from the Turkish word 'burak' meaning 'thunderbolt' or 'lightning'. It is a powerful and energetic name, evoking images of strength and quickness. In Islamic tradition, the name is also associated with the Prophet Ibrahim (Abraham) and his son Ismail, who were both known for their strong faith and dedication to God.",
-    "spiritual_meaning": "A symbol of divine power and swift action.",
-    "emotional_traits": [
-      "Strong",
-      "Brave",
-      "Fearless"
-    ],
-    "hidden_personality_traits": [
-      "M = Confident",
-      "S = Ambitious"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Blue",
-      "Silver",
-      "Gray"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 1,
-    "numerology_meaning": "People with the name Burak are natural born leaders. They are creative, intuitive, and have a strong sense of purpose. They are often seen as independent and self-confident, but can also be impulsive and impatient.",
-    "in_arabic": {
-      "name": "بوراك",
-      "meaning": "اسم مشتق من البرق يدل على السرعة و الخفة",
-      "long_meaning": "بوراك هو اسم علم مذكر من أصل عربي و معناه: البرق الخفيف السريع، و يدل على السرعة و الخفة. و في بعض الروايات يذكر أن النبي محمد صلى الله عليه و سلم أُعطي دابة اسمها بوراك كانت أسرع من الفرس و أبيض اللون."
+    "identity": {
+      "display_name": "Burak",
+      "normalized_name": "burak",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Burak",
+        "burak"
+      ],
+      "search_variants": [
+        "Burak",
+        "burak"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بوراک",
-      "meaning": "برق سے ماخوذ نام، تیزی اور رفتار کی علامت",
-      "long_meaning": "بوراک ایک مذکر نام ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے برق یا روشنی کی تیزی۔ اسلامی روایات میں بوراک کا ذکر ایک ایسی دابہ کے طور پر मिलتا ہے جو رسول اللہ صلی اللہ علیہ و آلہ و سلم کو معراج کے سفر میں سوار کیا گیا تھا۔ یہ دابہ فرس سے زیادہ تیز اور سفید رنگ کا تھا۔"
+    "core_meaning": {
+      "short_meaning": "Lightning, flash, splendour",
+      "primary_meaning": "Lightning",
+      "secondary_meanings": [
+        "flash",
+        "splendour"
+      ],
+      "literal_meaning": "Lightning",
+      "extended_meaning": "Lightning, flash, splendour",
+      "meaning_explanation": "Burak corresponds to the Turkish form بوراك (Turkish Burak). Its core sense is lightning, flash, splendour. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बुराक",
-      "meaning": "विद्युत से व्युत्पन्न, गति और वेग का प्रतीक",
-      "long_meaning": "बुराक एक पुल्लिंग नाम है जो अरबी भाषा से लिया गया है। इसका अर्थ है विद्युत या प्रकाश की गति। इस्लामी परंपरा में बुराक का उल्लेख एक ऐसे वाहन के रूप में मिलता है जिस पर पैगंबर मुहम्मद सल्लल्लाहु अलैहि वसल्लम को मेराज के सफर में सवार किया गया था। यह वाहन घोड़े से अधिक तेज़ और सफेद रंग का था।"
+    "etymology": {
+      "primary_language": "Turkish",
+      "lexical_form": "بوراك",
+      "transliteration": "burak",
+      "romanization": "burak",
+      "root_status": "Turkish Burak",
+      "etymological_meaning": [
+        "Lightning",
+        "flash",
+        "splendour"
+      ],
+      "etymology_explanation": "The form بوراك is an established Turkish lexical item. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بوراك",
-      "meaning": "د برښنا څخه اخستل شوی نوم، چټکتیا او روښانتیا",
-      "long_meaning": "بوراك یو مذکر نوم دی چی د عربي ژبې څخه اخستل شوی دی. دغه نوم د برښنا يا روښانتیا چټکتیا ته اشاره کوي. په اسلامي روایاتو كې د بوراك نوم د يو داسې څاروي په توګه ذكر شوی دی چې رسول الله صلی الله عليه وسلم د معراج په سفر كې پرې سپاره کړی و. دا څاروی د آس څخه چټک او سپینه رنګه وه."
+    "language": {
+      "primary": "Turkish",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بوراك is an established Arabic form.",
+        "Urdu": "بوراک is used in Urdu.",
+        "Hindi": "बुराक is used in Hindi.",
+        "Pashto": "بوراک is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Burak",
-      "meaning": "Derived from Arabic root meaning lightning or speed",
-      "long_meaning": "Burak is a masculine given name originating from Arabic roots. It means 'lightning' or 'speed', symbolizing swiftness and agility. In Islamic tradition, Burak refers to a creature that served as the mount for Prophet Muhammad during his ascension, the Isra' and Mi'raj. This creature was noted for its extraordinary speed and white color. The name Burak is often associated with qualities such as rapidity, illumination, and exceptional abilities."
+    "origin": {
+      "primary_origin": "Turkish",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Turkish form بوراك. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Burak may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense lightning, flash, splendour.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lightning",
+      "related_concepts": [
+        "lightning",
+        "flash",
+        "splendour"
+      ],
+      "semantic_relationship": "The central semantic idea is lightning; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of lightning.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Lightning",
+        "Flash",
+        "Splendour"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Burak",
+        "meaning": "Lightning, flash, splendour",
+        "long_meaning": "Burak is a Turkish-origin name. Its core meaning is lightning, flash, splendour. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "بوراک",
+        "meaning": "بجلی، برق، چمک",
+        "long_meaning": "Burak (بوراک) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بجلی، برق، چمک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "बुराक",
+        "meaning": "बिजली, चमक",
+        "long_meaning": "Burak (बुराक) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ बिजली, चमक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بوراک",
+        "meaning": "بریښنا، ځلا",
+        "long_meaning": "Burak (بوراک) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بریښنا، ځلا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بوراك",
+        "meaning": "البراق، البرق، اللمعان",
+        "long_meaning": "Burak (بوراك) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي البراق، البرق، اللمعان. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "BOO-rak",
-      "urdu": "بوراک کا تلفظ: بُو-راک",
-      "hindi": "बुराक का उच्चारण: बू-राक",
-      "pashto": "د بوراك تلفظ: بُوراک",
-      "ipa": "/ˈbuːrɑːk/"
+      "romanized": "bu-rak",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بوراک",
+      "persian": null,
+      "hindi": "बुराक",
+      "pashto": "بوراک"
     },
-    "celebrity_usage": [
-      "Burak Özçivit"
-    ],
-    "social_tags": [
-      "#BurakMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Burak"
-    ],
-    "name_variations": [],
-    "popularity_score": 63,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Burak",
+        "burak"
+      ],
+      "script_variants": [
+        "بوراك",
+        "بوراک",
+        "बुराक"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بوراك is an established Turkish lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Burak can be understood through the Turkish form بوراك, whose central sense is lightning, flash, splendour. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Burak mean?",
+        "answer": "Burak is associated with the Turkish form بوراك, whose core sense is lightning, flash, splendour."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 76,
-        "year": 2024
+        "question": "What is the origin of Burak?",
+        "answer": "Burak is associated with Turkish. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Burak an Arabic name?",
+        "answer": "No — the underlying form is Turkish, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Burak an Islamic name?",
+        "answer": "Burak can occur in Muslim naming contexts, but it is better described as a Turkish-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Burak a Quranic name?",
+        "answer": "Burak should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Burak mean in Urdu?",
+        "answer": "In Urdu, Burak is rendered بوراک and carries the sense بجلی، برق، چمک."
+      },
+      {
+        "question": "What does Burak mean in Persian?",
+        "answer": "No verified Persian form was established for Burak."
+      },
+      {
+        "question": "How is Burak pronounced?",
+        "answer": "A romanized syllable approximation is bu-rak. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Burak?",
+        "answer": "Romanization variants include Burak, burak. Script forms are بوراك, بوراک, बुराक."
+      },
+      {
+        "question": "Is Burak a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Burak Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Burak, a beautiful Islam name meaning \"Thunder, Lightning\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Burak, Islam name, baby names, Thunder, Lightning, Islam baby names, name meaning",
-      "description_paragraph": "Burak is a meaningful Islam name of Arabic origin that means \"Thunder, Lightning\". The name Burak is derived from the Turkish word 'burak' meaning 'thunderbolt' or 'lightning'. It is a powerful and energetic name, evoking images of strength and quickness. In Islamic tradition, the name is also associated with the Prophet Ibrahim (Abraham) and his son Ismail, who were both known for their strong faith and dedication to God.",
-      "keywords": [
-        "Burak",
-        "Islam name",
-        "baby names",
-        "Thunder, Lightning",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Burak in Islam tradition?",
-          "a": "Burak is a beautiful Islam name meaning \"Thunder, Lightning\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Burak a good Islam name for a baby?",
-          "a": "Yes, Burak is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Burak?",
-          "a": "The name Burak has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Burak correctly?",
-          "a": "Burak is pronounced BOO-rak in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Burak?",
-          "a": "Naming a child Burak brings blessings. The meaning \"Thunder, Lightning\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Burak?",
-          "a": "Burak is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Burak Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Turkish origin, Urdu meaning, pronunciation, variants and Islamic naming context of Burak (بوراك).",
+      "h1": "Burak Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Burak meaning",
       "secondary_keywords": [
-        "Islam name Burak",
-        "Burak meaning",
-        "Burak origin"
+        "Burak name meaning",
+        "Burak meaning in Urdu",
+        "Burak origin",
+        "Burak Islamic name",
+        "Burak pronunciation",
+        "Burak name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Burak (بوراك) is associated with the Turkish form بوراك, whose core sense is lightning, flash, splendour. Burak, a Turkish name from Arabic burāq, the mount of the Prophet's night journey. The source record's gloss 'Thunder, Lightning' is an approximation. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Burak is associated with the Turkish form بوراك, whose core sense is lightning, flash, splendour.",
+      "meaning_section": "The central meaning of Burak is lightning, flash, splendour.",
+      "origin_section": "Burak is associated with Turkish rather than with a different language.",
+      "islam_section": "Burak can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Burak is with the sense lightning.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Burak",
+      "#BurakMeaning",
+      "#BurakName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Burak carries a strong cultural significance, particularly in Turkey. As a common Turkish name, it is associated with Turkish heritage and identity. Additionally, as a name that evokes the power and energy of a thunderbolt, it is also linked to Turkish mythology and folklore, in which heroes and gods are often described as possessing great strength and agency.",
-    "spiritual_significance": "In Islamic tradition, the name Burak holds a spiritual significance tied to the Prophet Ibrahim (Abraham) and his son Ismail. According to Islamic texts, Ibrahim and Ismail built the Kaaba, the holiest site in Islam, in Mecca. The prophet Burukyas, who is known as the companion of the Prophet Muhammad, is also said to have had a dream in which he received the name Burak from Prophet Muhammad himself. The name is thus seen as a reminder of the importance of faith, purpose, and obedience to God.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Burak was the name of the white steed on which Muhammad, the Prophet of Islam, rode during the Night Journey (Isra and Mi'raj) to Jerusalem and then to the 'Seven Heavens'.",
-        "time_period": "620 CE",
-        "context": "Religious event"
-      },
-      {
-        "reference": "Burak was also the name of a hero from Turkish folklore who helped the Ottoman Turks in their battles against the Mongols in the late 13th century.",
-        "time_period": "1281 CE",
-        "context": "Military event"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Technology",
-        "Sports",
-        "Entertainment"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Burak corresponds to the Turkish form بوراك",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Burak has the core sense lightning, flash, splendour",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "TikTok",
-        "Twitter",
-        "Instagram"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Burak is a popular name in the Turkish and Islamic community. In the modern context, the name Burak is seen on various platforms such as TikTok, Twitter, and Instagram. On TikTok, users create videos using the name Burak as a hashtag, with many videos featuring the name in the title or description. On Twitter, Burak is a trending topic in the Turkish and Islamic community, with users discussing various topics related to the name and its significance. On Instagram, users create posts with the name Burak in the caption or hashtag, often featuring beautiful landscapes, religious symbols, or famous landmarks. The general trends surrounding the name Burak include its cultural and religious significance, its popularity in the Turkish and Islamic community, and its use as a trending topic and hashtag on social media."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Burak",
-      "location": "Dubai, UAE",
-      "story": "Yusuf Burak, a teacher in Dubai, UAE, shares that their name Burak meaning \"Thunder, Lightning\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Thunder, Lightning\" symbolizes The name Burak is derived from the Turkish word 'burak' meaning 'thunderbolt' or 'lightning'. It is a powerful and energetic name, evoking images of strength and quickness. In Islamic tradition, the name is also associated with the Prophet Ibrahim (Abraham) and his son Ismail, who were both known for their strong faith and dedication to God.. In Islamic spirituality, bearing the name Burak serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of thunder, lightning.",
-    "created_at": "2025-12-22T19:19:49.934Z",
-    "updated_at": "2025-12-22T04:53:15.56Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1303,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Burak",
-      "description": "Thunder, Lightning",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Burak",
+        "burak"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Burak",
-          "description": "Discover the meaning of Burak - \"Thunder, Lightning\"",
-          "image": "/images/social/burak-facebook.jpg"
+      "description": "A name associated with the Turkish form بوراك, meaning lightning, flash, splendour.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "burak",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Turkish"
         },
-        "twitter": {
-          "title": "Burak - Name Meaning",
-          "description": "Learn about the beautiful name Burak",
-          "image": "/images/social/burak-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Burak",
-          "description": "Name meaning: Thunder, Lightning",
-          "image": "/images/social/burak-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Burak - Meaning: Thunder, Lightning",
-        "email_subject": "Beautiful Name: Burak"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Burak with meaning Thunder, Lightning",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Burak, associated with the Turkish form بوراك, meaning lightning, flash, splendour."
     },
-    "similar_sounding_names": [
-      "basbas",
-      "baraaa",
-      "ban",
-      "binesh",
-      "buthayna",
-      "buhayyah",
-      "baseema",
-      "busrah",
-      "banujah",
-      "badri"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

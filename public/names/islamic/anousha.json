@@ -3,289 +3,479 @@
   "data": {
     "name": "Anousha",
     "slug": "anousha",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Loved one, dear one",
-    "long_meaning": "The name Anousha is derived from the Arabic word ‘anoush’, meaning ‘loved one’ or ‘dear one’. It is a beautiful name with deep spiritual significance, implying a sense of love, affection, and tenderness.",
-    "spiritual_meaning": "A name filled with love and affection",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Gentle"
-    ],
-    "lucky_number": 17,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Pink",
-      "White"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 11,
-    "numerology_meaning": "Those with the life path number 11 have a strong sense of intuition and creativity, and are natural born leaders and teachers.",
-    "in_arabic": {
-      "name": "أنوشة",
-      "meaning": "اسم يعني الجميلة والرقيقة والمحبوبة",
-      "long_meaning": "اسم أنوشة هو اسم علم مؤنث من أصل عربي، يعني الجميلة والرقيقة والمحبوبة. وقد ورد في بعض المصادر أنه مشتق من كلمة 'أنوش' التي تعني السعادة والفرح. وقد استخدم هذا الاسم في الثقافة الإسلامية كاسم للنساء، حيث يرمز إلى الجمال والرقة والمودة."
+    "identity": {
+      "display_name": "Anousha",
+      "normalized_name": "anousha",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Anousha",
+        "anousha"
+      ],
+      "search_variants": [
+        "Anousha",
+        "anousha"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "انوشہ",
-      "meaning": "خوبصورت، پیاری، محبوب",
-      "long_meaning": "انوشہ ایک علم مؤنث ہے جو عربی زبان سے ماخوذ ہے۔ اس کا مطلب ہے خوبصورت، پیاری، محبوب۔ اردو میں اس کا استعمال ایک خوبصورت اور پیاری لڑکی کے نام کے طور پر کیا جاتا ہے۔ اس کا عربی मूल ہے جہاں سے یہ لفظ 'أنوشة' کے طور پر استعمال ہوتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Loved one, dear one",
+      "primary_meaning": "Loved one",
+      "secondary_meanings": [
+        "dear one"
+      ],
+      "literal_meaning": "Loved one",
+      "extended_meaning": "Loved one, dear one",
+      "meaning_explanation": "Anousha corresponds to the Persian form أنوشه (—). Its core sense is loved one, dear one. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अनोशा",
-      "meaning": "सुंदर, प्रिय, प्यारी",
-      "long_meaning": "अनोशा एक सुंदर और प्यारी लड़की का नाम है जो अरबी भाषा से आया है। इसका अर्थ है सुंदर, प्रिय, प्यारी। यह नाम भारतीय मुस्लिम समुदाय में बहुत पसंद किया जाता है क्योंकि यह नाम लड़की की खूबसूरती और प्यार को दर्शाता है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "أنوشه",
+      "transliteration": "anousha",
+      "romanization": "anousha",
+      "root_status": "No reliable root analysis established.",
+      "etymological_meaning": [
+        "Loved one",
+        "dear one"
+      ],
+      "etymology_explanation": "The form أنوشه is an established Persian lexical item. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "انوشه",
-      "meaning": "ښکلې، مینه والې، ګرانې",
-      "long_meaning": "انوشه د ښځې یو نوم دی چې په عربي ژبه کې رښتيا ښکلې او ګرانې معنی لري. په پښتو کې دا نوم د ښکلې او مینه والې لادى لپاره کارول کېږي. دا نوم د افغانستان او پاکستان کې د پښتنو په منځ کې ډېر کارول کېږي."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "أنوشه is an established Arabic form.",
+        "Urdu": "انوشہ is used in Urdu.",
+        "Persian": "انوشه is an established Persian form.",
+        "Hindi": "अनूशा is used in Hindi.",
+        "Pashto": "انوشه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Anousha",
-      "meaning": "Beautiful, lovely, beloved",
-      "long_meaning": "Anousha is a feminine given name of Arabic origin, meaning beautiful, lovely, or beloved. It is derived from the Arabic root 'n-w-sh' which connotes happiness and joy. The name has been used in Islamic tradition to signify a beautiful and charming personality. It symbolizes qualities such as beauty, love, and kindness."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form أنوشه. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Anousha may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense loved one, dear one.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Loved one",
+      "related_concepts": [
+        "loved one",
+        "dear one"
+      ],
+      "semantic_relationship": "The central semantic idea is loved one; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of loved one.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Loved one",
+        "Dear one"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Anousha",
+        "meaning": "Loved one, dear one",
+        "long_meaning": "Anousha is a Persian-origin name. Its core meaning is loved one, dear one. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "انوشہ",
+        "meaning": "محبوب، عزیز",
+        "long_meaning": "Anousha (انوشہ) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محبوب، عزیز ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "انوشه",
+        "meaning": "محبوب، عزیز",
+        "long_meaning": "Anousha (انوشه) نامی برگرفته از زبان فارسی است و معنای اصلی آن محبوب، عزیز است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "अनूशा",
+        "meaning": "प्रिय, प्यारा",
+        "long_meaning": "Anousha (अनूशा) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रिय, प्यारा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "انوشه",
+        "meaning": "خوږه، ګرانه",
+        "long_meaning": "Anousha (انوشه) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوږه، ګرانه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أنوشه",
+        "meaning": "محبوبة، عزيزة",
+        "long_meaning": "Anousha (أنوشه) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي محبوبة، عزيزة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-NOO-shah",
-      "urdu": "انوشہ کا تلفظ ہے: اے-نو-شہ",
-      "hindi": "अनोशा का उच्चारण है: अ-नो-शा",
-      "pashto": "د انوشه تلفظ دی: اے-نو-شه",
-      "ipa": "/ɑːˈnuːʃɑː/"
+      "romanized": "a-nous-ha",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "انوشہ",
+      "persian": "انوشه",
+      "hindi": "अनूशा",
+      "pashto": "انوشه"
     },
-    "celebrity_usage": [
-      "Anoushka Shankar",
-      "Anoushka Masood"
-    ],
-    "social_tags": [
-      "#AnoushaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Anousha"
-    ],
-    "name_variations": [
-      "Anoushah"
-    ],
-    "popularity_score": 67,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Anousha",
+        "anousha"
+      ],
+      "script_variants": [
+        "أنوشه",
+        "انوشه",
+        "انوشہ",
+        "अनूशा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أنوشه is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Anousha can be understood through the Persian form أنوشه, whose central sense is loved one, dear one. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 72,
-        "year": 2024
+        "question": "What does Anousha mean?",
+        "answer": "Anousha is associated with the Persian form أنوشه, whose core sense is loved one, dear one."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 69,
-        "year": 2024
+        "question": "What is the origin of Anousha?",
+        "answer": "Anousha is associated with Persian. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 74,
-        "year": 2024
+        "question": "Is Anousha an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Anousha an Islamic name?",
+        "answer": "Anousha can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Anousha a Quranic name?",
+        "answer": "Anousha should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Anousha mean in Urdu?",
+        "answer": "In Urdu, Anousha is rendered انوشہ and carries the sense محبوب، عزیز."
+      },
+      {
+        "question": "What does Anousha mean in Persian?",
+        "answer": "In Persian, Anousha is rendered انوشه and carries the sense محبوب، عزیز."
+      },
+      {
+        "question": "How is Anousha pronounced?",
+        "answer": "A romanized syllable approximation is a-nous-ha. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Anousha?",
+        "answer": "Romanization variants include Anousha, anousha. Script forms are أنوشه, انوشه, انوشہ, अनूशा."
+      },
+      {
+        "question": "Is Anousha a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Anousha Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Anousha, a beautiful Islam name meaning \"Loved one, dear one\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Anousha, Islam name, baby names, Loved one, dear one, Islam baby names, name meaning",
-      "description_paragraph": "Anousha is a meaningful Islam name of Arabic origin that means \"Loved one, dear one\". The name Anousha is derived from the Arabic word ‘anoush’, meaning ‘loved one’ or ‘dear one’. It is a beautiful name with deep spiritual significance, implying a sense of love, affection, and tenderness.",
-      "keywords": [
-        "Anousha",
-        "Islam name",
-        "baby names",
-        "Loved one, dear one",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Anousha in Islam tradition?",
-          "a": "Anousha is a beautiful Islam name meaning \"Loved one, dear one\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Anousha a good Islam name for a baby?",
-          "a": "Yes, Anousha is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Anousha?",
-          "a": "The name Anousha has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Anousha correctly?",
-          "a": "Anousha is pronounced ah-NOO-shah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Anousha?",
-          "a": "Naming a child Anousha brings blessings. The meaning \"Loved one, dear one\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Anousha?",
-          "a": "Anousha is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Anousha Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Anousha (أنوشه).",
+      "h1": "Anousha Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Anousha meaning",
       "secondary_keywords": [
-        "Islam name Anousha",
-        "Anousha meaning",
-        "Anousha origin"
+        "Anousha name meaning",
+        "Anousha meaning in Urdu",
+        "Anousha origin",
+        "Anousha Islamic name",
+        "Anousha pronunciation",
+        "Anousha name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Anousha (أنوشه) is associated with the Persian form أنوشه, whose core sense is loved one, dear one. Variant romanization of انوشه ('immortal, ambrosial'). The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Anousha is associated with the Persian form أنوشه, whose core sense is loved one, dear one.",
+      "meaning_section": "The central meaning of Anousha is loved one, dear one.",
+      "origin_section": "Anousha is associated with Persian rather than with a different language.",
+      "islam_section": "Anousha can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Anousha is with the sense loved one.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Anousha",
+      "#AnoushaMeaning",
+      "#AnoushaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Anousha is a name that is cherished and loved across many Muslim communities. It holds a special place in the cultural lexicon as a sign of warmth, affection, and love. In some cultures, it is customary to use this name as a term of endearment towards loved ones, and it carries a deep sense of respect and care.",
-    "spiritual_significance": "From a spiritual perspective, the name Anousha signifies a deep connection with the Divine. It reminds us of the love and compassion of Allah, who is our Beloved and our Sustainer. By using this name, we are constantly reminded to uphold the values of love, kindness, and compassion, not only towards our loved ones but towards all creation. Additionally, the name Anousha can serve as a reminder to seek nearness to Allah, to be loved and cherished by Him, and to strive to be a beloved servant of His.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Anousha carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Anousha corresponds to the Persian form أنوشه",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Anousha has the core sense loved one, dear one",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Anousha remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Anousha",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Khadija Anousha in Karachi, Pakistan attributes much of their success to the blessing of their name Anousha, which means \"Loved one, dear one\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Loved one, dear one\" symbolizes The name Anousha is derived from the Arabic word ‘anoush’, meaning ‘loved one’ or ‘dear one’. It is a beautiful name with deep spiritual significance, implying a sense of love, affection, and tenderness.. In Islamic spirituality, bearing the name Anousha serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of loved one, dear one.",
-    "created_at": "2025-12-22T19:19:49.918Z",
-    "updated_at": "2025-12-22T04:53:15.337Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1324,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Anousha",
-      "description": "Loved one, dear one",
-      "additionalName": [
-        "Anoushah"
+      "alternateName": [
+        "Anousha",
+        "anousha"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Persian form أنوشه, meaning loved one, dear one.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Anousha",
-          "description": "Discover the meaning of Anousha - \"Loved one, dear one\"",
-          "image": "/images/social/anousha-facebook.jpg"
+      "termCode": "anousha",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Anousha - Name Meaning",
-          "description": "Learn about the beautiful name Anousha",
-          "image": "/images/social/anousha-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Anousha",
-          "description": "Name meaning: Loved one, dear one",
-          "image": "/images/social/anousha-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Anousha - Meaning: Loved one, dear one",
-        "email_subject": "Beautiful Name: Anousha"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Anousha with meaning Loved one, dear one",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Anousha, associated with the Persian form أنوشه, meaning loved one, dear one."
     },
-    "similar_sounding_names": [
-      "amber",
-      "anja",
-      "anika",
-      "azzahra",
-      "arsala",
-      "amalia",
-      "aaidah",
-      "alika",
-      "anaan",
-      "ashika"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

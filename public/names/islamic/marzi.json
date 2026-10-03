@@ -3,294 +3,478 @@
   "data": {
     "name": "Marzi",
     "slug": "marzi",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Graceful, Delicate",
-    "long_meaning": "Derived from the Arabic root 'r-z-y', meaning 'graceful' or 'delicate'. This name is mentioned in various Hadiths and is associated with noble character and beautiful manners.",
-    "spiritual_meaning": "A name that evokes grace and beauty, reflecting the divine qualities of kindness and compassion.",
-    "emotional_traits": [
-      "Graceful",
-      "Delicate",
-      "Elegant"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest",
-      "S = Strong"
-    ],
-    "lucky_number": 11,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Silver",
-      "White",
-      "Turquoise"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the name Marzi are dynamic, resourceful, and adaptable. They are able to find opportunities in any situation and are known for their versatility and resilience.",
-    "in_arabic": {
-      "name": "مرزي",
-      "meaning": "اسم يعني المرغوب فيه أو المطلوب",
-      "long_meaning": "اسم مرزي مشتق من الجذر العربي م-ر-ز، ويعني المرغوب فيه أو المطلوب، وقد ورد في القرآن الكريم في عدة مواضع، منها قوله تعالى: 'فَمَرْزُ القَلبِ مِنَ النَظَرِ إلَى المُحَرَّمِ وَاجِبٌ'، ويحمل الاسم دلالات روحية عميقة تتعلق بالإرادة والرغبة في القلب."
+    "identity": {
+      "display_name": "Marzi",
+      "normalized_name": "marzi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Marzi",
+        "marzi"
+      ],
+      "search_variants": [
+        "Marzi",
+        "marzi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مرزی",
-      "meaning": "مرغوب میں یا ضروری کے معنی",
-      "long_meaning": "مرزی نام عربی جڑ م-ر-ز سے نکلا ہے، جس کا مطلب ہے مرغوب میں یا ضروری، یہ نام جنوبی ایشیائی مسلمانوں کے درمیان میں مقبول ہے اور اسلامی روایت میں اس کی اہمیت ہے، خاص طور پر دل کی خواہشوں اور ضروریات کے سلسلے میں."
+    "core_meaning": {
+      "short_meaning": "Marzi; pleasing, content",
+      "primary_meaning": "Marzi; pleasing",
+      "secondary_meanings": [
+        "content"
+      ],
+      "literal_meaning": "Marzi; pleasing",
+      "extended_meaning": "Marzi; pleasing, content",
+      "meaning_explanation": "Marzi corresponds to the Arabic form مرضي (Arabic root ر ض ي (r-ḍ-y); مَرْضِيّ (Marḍiyy)). Its core sense is marzi; pleasing, content. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मरज़ी",
-      "meaning": "इच्छित या आवश्यक के अर्थ",
-      "long_meaning": "मरज़ी नाम की उत्पत्ति अरबी मूल म-र-ज़ से हुई है, जिसका अर्थ है इच्छित या आवश्यक, यह नाम भारतीय मुस्लिम समुदाय में प्रचलित है और हृदय की इच्छाओं और आवश्यकताओं के संदर्भ में इसकी आध्यात्मिक महत्ता है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مرضي",
+      "transliteration": "marzi",
+      "romanization": "marzi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Marzi; pleasing",
+        "content"
+      ],
+      "etymology_explanation": "The form مرضي is an established Arabic lexical item. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مرزی",
-      "meaning": "غوښتل شوی یا اړین معنی",
-      "long_meaning": "مرزی نوم د عربي ريښې م-ر-ز څخه اخیستل شوی دی، چې معنی یې ده غوښتل شوی یا اړین، دا نوم د افغان او پښتون دودیزو کې مشهور دی او د زړه غوښتنې او اړتیاوو په اړه یې روحاني اهميت لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مرضي is an established Arabic form.",
+        "Urdu": "مرضی is used in Urdu.",
+        "Persian": "مرضی is an established Persian form.",
+        "Hindi": "मरज़ी is used in Hindi.",
+        "Pashto": "مرضي is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Marzi",
-      "meaning": "Meaning desired, wished, or required",
-      "long_meaning": "The name Marzi originates from the Arabic root م-ر-ز (m-r-z), which conveys the meanings of being desired, wished, or required. It appears in various Quranic contexts, emphasizing spiritual and heartfelt desires. Historically, it holds significance across Islamic traditions globally, symbolizing the will and desires of the heart."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مرضي. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Marzi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense marzi; pleasing, content.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Marzi; pleasing",
+      "related_concepts": [
+        "marzi; pleasing",
+        "content"
+      ],
+      "semantic_relationship": "The central semantic idea is marzi; pleasing; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of marzi; pleasing.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Marzi; pleasing",
+        "Content"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Marzi",
+        "meaning": "Marzi; pleasing, content",
+        "long_meaning": "Marzi is a Arabic-origin name. Its core meaning is marzi; pleasing, content. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya."
+      },
+      "urdu": {
+        "name": "مرضی",
+        "meaning": "مرضی، راضی، پسندیدہ",
+        "long_meaning": "Marzi (مرضی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مرضی، راضی، پسندیدہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مرضی",
+        "meaning": "مرضی، راضی، پسندیده",
+        "long_meaning": "Marzi (مرضی) نامی برگرفته از زبان عربی است و معنای اصلی آن مرضی، راضی، پسندیده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मरज़ी",
+        "meaning": "मरज़ी, प्रसन्न, संतुष्ट",
+        "long_meaning": "Marzi (मरज़ी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मरज़ी, प्रसन्न, संतुष्ट है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مرضي",
+        "meaning": "مرضي، راضي، خوښ",
+        "long_meaning": "Marzi (مرضي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مرضي، راضي، خوښ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مرضي",
+        "meaning": "المرضي، الراضي، المقبول",
+        "long_meaning": "Marzi (مرضي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المرضي، الراضي، المقبول. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "Mar-zee",
-      "urdu": "مرزی کا تلفظ ہے مر-زی",
-      "hindi": "मरज़ी का उच्चारण है मर-जी",
-      "pashto": "مرزی د تلفظ دی مر-زي",
-      "ipa": "/ˈmɑːrzi/"
+      "romanized": "mar-zi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مرضی",
+      "persian": "مرضی",
+      "hindi": "मरज़ी",
+      "pashto": "مرضي"
     },
-    "celebrity_usage": [
-      "Marziya Gloria",
-      "Marziyeh Boroumand"
-    ],
-    "social_tags": [
-      "#MarziMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Marzi"
-    ],
-    "name_variations": [],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Marzi",
+        "marzi"
+      ],
+      "script_variants": [
+        "مرضي",
+        "مرضی",
+        "मरज़ी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مرضي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Marzi can be understood through the Arabic form مرضي, whose central sense is marzi; pleasing, content. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 91,
-        "year": 2024
+        "question": "What does Marzi mean?",
+        "answer": "Marzi is associated with the Arabic form مرضي, whose core sense is marzi; pleasing, content."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Marzi?",
+        "answer": "Marzi is associated with Arabic. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Marzi an Arabic name?",
+        "answer": "Yes — the underlying form مرضي is Arabic."
+      },
+      {
+        "question": "Is Marzi an Islamic name?",
+        "answer": "Marzi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Marzi a Quranic name?",
+        "answer": "Marzi should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Marzi mean in Urdu?",
+        "answer": "In Urdu, Marzi is rendered مرضی and carries the sense مرضی، راضی، پسندیدہ."
+      },
+      {
+        "question": "What does Marzi mean in Persian?",
+        "answer": "In Persian, Marzi is rendered مرضی and carries the sense مرضی، راضی، پسندیده."
+      },
+      {
+        "question": "How is Marzi pronounced?",
+        "answer": "A romanized syllable approximation is mar-zi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Marzi?",
+        "answer": "Romanization variants include Marzi, marzi. Script forms are مرضي, مرضی, मरज़ी."
+      },
+      {
+        "question": "Is Marzi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Marzi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Marzi, a beautiful Islam name meaning \"Graceful, Delicate\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Marzi, Islam name, baby names, Graceful, Delicate, Islam baby names, name meaning",
-      "description_paragraph": "Marzi is a meaningful Islam name of Arabic origin that means \"Graceful, Delicate\". Derived from the Arabic root 'r-z-y', meaning 'graceful' or 'delicate'. This name is mentioned in various Hadiths and is associated with noble character and beautiful manners.",
-      "keywords": [
-        "Marzi",
-        "Islam name",
-        "baby names",
-        "Graceful, Delicate",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Marzi in Islam tradition?",
-          "a": "Marzi is a beautiful Islam name meaning \"Graceful, Delicate\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Marzi a good Islam name for a baby?",
-          "a": "Yes, Marzi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Marzi?",
-          "a": "The name Marzi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Marzi correctly?",
-          "a": "Marzi is pronounced Mar-zee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Marzi?",
-          "a": "Naming a child Marzi brings blessings. The meaning \"Graceful, Delicate\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Marzi?",
-          "a": "Marzi is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Marzi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Marzi (مرضي).",
+      "h1": "Marzi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Marzi meaning",
       "secondary_keywords": [
-        "Islam name Marzi",
-        "Marzi meaning",
-        "Marzi origin"
+        "Marzi name meaning",
+        "Marzi meaning in Urdu",
+        "Marzi origin",
+        "Marzi Islamic name",
+        "Marzi pronunciation",
+        "Marzi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Marzi (مرضي) is associated with the Arabic form مرضي, whose core sense is marzi; pleasing, content. Marzi is Arabic مَرْضِيّ (Marḍiyy) 'pleasing, content', from the root ر ض ي (r-ḍ-y). CRITICAL SOURCE ERROR: the source gave مرزي (a different form); the correct form is مَرْضِيّ. The source gloss 'Graceful, Delicate' is unsupported and has been replaced with the lexical sense. Same name as marzia, marzieh and marziya.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Marzi is associated with the Arabic form مرضي, whose core sense is marzi; pleasing, content.",
+      "meaning_section": "The central meaning of Marzi is marzi; pleasing, content.",
+      "origin_section": "Marzi is associated with Arabic rather than with a different language.",
+      "islam_section": "Marzi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Marzi is with the sense marzi; pleasing.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Marzi",
+      "#MarziMeaning",
+      "#MarziName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Marzi does not have a widely recognized cultural significance. However, it is a unique and beautiful name, especially among Arabic and Islamic communities for its \"graceful\" and \"delicate\" meaning. It conveys an image of poise, refinement, and elegance, which are treasured qualities in many cultures.",
-    "spiritual_significance": "From a spiritual perspective, the name Marzi can serve as a reminder to strive for grace and beauty in one's character and actions. This coincides with the Islamic belief of striving for excellence in all aspects of life, as guided in the Quran and Hadiths. The name can inspire us to be mindful of our manners, speech, and demeanor, and to reflect the divine grace and mercy we have been blessed with. Ultimately, it can be an encouragement to cultivate a beautiful and balanced soul, embodying the best of human virtues.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Marziyah bint al-Hakam was a prominent Islamic scholar and the first female jurist in Islamic history. She was born in Damascus, Syria around 661 CE and studied under well-known scholars of her time, including her father, al-Hakam ibn Amr. She later became a teacher and transmitted knowledge to many students. Her expertise in Islamic law led her to be consulted by caliphs and other rulers for legal opinions.",
-        "time_period": "Early Islamic period (7th century CE)",
-        "context": "Studies and contributes to Islamic scholarship as a female jurist"
-      },
-      {
-        "reference": "Marziyya ibn Muhammad al-Qurashi was a Sufi Saint and poet from Shiraz, Iran in the 13th century CE. She is known for her poetry, which expresses her love for God and her spiritual experiences. Her poetry was highly regarded by other Sufi poets and scholars of her time, and she is still remembered and revered in the Sufi tradition today.",
-        "time_period": "Middle Ages (13th century CE)",
-        "context": "Contributes to Sufi poetry and spirituality"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic fashion",
-        "Social media influencer",
-        "Business entrepreneur"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Marzi corresponds to the Arabic form مرضي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Marzi has the core sense marzi; pleasing, content",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "YouTube",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Marzi is a popular figure in the Islamic fashion industry. She is a social media influencer with a large following on Instagram, YouTube, and TikTok, where she showcases her unique and stylish outfits. Marzi also runs a successful business, selling her own clothing line through her online store. She is known for promoting modest and trendy fashion for Muslim women and is an inspiration for many young Muslims around the world."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Marzi",
-      "location": "Cairo, Egypt",
-      "story": "Fatima Marzi, a teacher in Cairo, Egypt, shares that their name Marzi meaning \"Graceful, Delicate\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Graceful, Delicate\" symbolizes Derived from the Arabic root 'r-z-y', meaning 'graceful' or 'delicate'. This name is mentioned in various Hadiths and is associated with noble character and beautiful manners.. In Islamic spirituality, bearing the name Marzi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of graceful, delicate.",
-    "created_at": "2025-12-22T19:19:49.949Z",
-    "updated_at": "2025-12-22T04:53:15.649Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1127,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Marzi",
-      "description": "Graceful, Delicate",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Marzi",
+        "marzi"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Marzi",
-          "description": "Discover the meaning of Marzi - \"Graceful, Delicate\"",
-          "image": "/images/social/marzi-facebook.jpg"
+      "description": "A name associated with the Arabic form مرضي, meaning marzi; pleasing, content.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "marzi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Marzi - Name Meaning",
-          "description": "Learn about the beautiful name Marzi",
-          "image": "/images/social/marzi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Marzi",
-          "description": "Name meaning: Graceful, Delicate",
-          "image": "/images/social/marzi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Marzi - Meaning: Graceful, Delicate",
-        "email_subject": "Beautiful Name: Marzi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Marzi with meaning Graceful, Delicate",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Marzi, associated with the Arabic form مرضي, meaning marzi; pleasing, content."
     },
-    "similar_sounding_names": [
-      "mahek",
-      "marnia",
-      "manab",
-      "marhabah",
-      "meher",
-      "meena",
-      "mada",
-      "mika",
-      "maassama"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

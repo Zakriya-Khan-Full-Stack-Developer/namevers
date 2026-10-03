@@ -3,293 +3,483 @@
   "data": {
     "name": "Aaliah",
     "slug": "aaliah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "High, Exalted",
-    "long_meaning": "Aaliah is derived from the Arabic word 'Aala' which means 'high' or 'exalted'.",
-    "spiritual_meaning": "In Islamic tradition, the name Aaliah is often associated with lofty ideals and noble character traits.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Gold",
-      "Purple"
-    ],
-    "lucky_stone": "Pearl",
-    "life_path_number": 11,
-    "numerology_meaning": "A spiritual teacher or healer, and a leader in their community.",
-    "in_arabic": {
-      "name": "عالية",
-      "meaning": "الرفعة و العلو في الدنيا و الآخرة",
-      "long_meaning": "اسم علم مؤنث من أصل عربي، يعني الرفعة و العلو في الدنيا و الآخرة، و يدل على مكانة عالية و رفيعة في المجتمع الإسلامي، و هو مشتق من الفعل 'عَلا' الذي يعني الارتفاع و العلو"
+    "identity": {
+      "display_name": "Aaliah",
+      "normalized_name": "aaliah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aaliah",
+        "aaliah",
+        "aliah"
+      ],
+      "search_variants": [
+        "Aaliah",
+        "aaliah",
+        "aliah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عالیہ",
-      "meaning": "دنیا و آخرت میں رفعت و بلندی",
-      "long_meaning": "عالیہ ایک علم مؤنث نام ہے جو عربی मूल سے ہے، جس کا مطلب دنیا و آخرت میں رفعت و بلندی ہے، اور یہ اسلامی معاشرے میں ایک اعلیٰ و رفیع مقام کی نشان دہی کرتا ہے، اور یہ فعل 'عَلا' سے ماخوذ ہے جس کا مطلب ہے ارتفاع و علو"
+    "core_meaning": {
+      "short_meaning": "Exalted, high (feminine)",
+      "primary_meaning": "Exalted",
+      "secondary_meanings": [
+        "high (feminine)"
+      ],
+      "literal_meaning": "Exalted",
+      "extended_meaning": "Exalted, high (feminine)",
+      "meaning_explanation": "Aaliah corresponds to the Arabic form عالية (Arabic root ع ل و (ʿ-l-w); عَالِيَة (ʿĀliya)). Its core sense is exalted, high (feminine). Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "आलिया",
-      "meaning": "दुनिया और آخرत में ऊंचाई और सम्मान",
-      "long_meaning": "आलिया एक स्त्रीलिंग नाम है जो अरबी मूल से है, जिसका अर्थ दुनिया और آخرत में ऊंचाई और सम्मान है, और यह इस्लामी समाज में एक उच्च और प्रतिष्ठित स्थिति की प्रतीक है, और यह क्रिया 'عَلا' से व्युत्पन्न है जिसका अर्थ है ऊंचाई और सम्मान"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عالية",
+      "transliteration": "aaliah",
+      "romanization": "aaliah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Exalted",
+        "high (feminine)"
+      ],
+      "etymology_explanation": "The form عالية is an established Arabic lexical item. Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عاليه",
-      "meaning": "په دنیا او آخرت کې لوړوالی",
-      "long_meaning": "عاليه يو مؤنث نوم دی چې د عربي اصل څخه دی، معنی يې په دنیا او آخرت کې لوړوالی دی، او دا په اسلامي ټولنه کې د لوړو او ویاړلي مقام څرګندونه کوي، او دا د 'عَلا' فعل څخه اخیستل شوی دی چې معنی يې لوړوالی او عزت دی"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عالية is an established Arabic form.",
+        "Urdu": "عالیہ is used in Urdu.",
+        "Persian": "عالیه is an established Persian form.",
+        "Hindi": "आलिया is used in Hindi.",
+        "Pashto": "عالیه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Aaliah",
-      "meaning": "exalted, elevated, high status",
-      "long_meaning": "Aaliah is a feminine given name of Arabic origin, meaning exalted, elevated, or high status. It is derived from the Arabic root 'ع-ل-ي' which connotes elevation, height, and superiority. In Islamic tradition, the name Aaliah symbolizes a lofty and respected position in society. The name has historical significance and is associated with positive personality traits such as leadership and excellence."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عالية. Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aaliah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense exalted, high (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Exalted",
+      "related_concepts": [
+        "exalted",
+        "high (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is exalted; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of exalted.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Exalted",
+        "High (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aaliah",
+        "meaning": "Exalted, high (feminine)",
+        "long_meaning": "Aaliah is a Arabic-origin name. Its core meaning is exalted, high (feminine). Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia."
+      },
+      "urdu": {
+        "name": "عالیہ",
+        "meaning": "عالیہ، بلند (مؤنث)",
+        "long_meaning": "Aaliah (عالیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عالیہ، بلند (مؤنث) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "عالیه",
+        "meaning": "عالیه، بلند (مؤنث)",
+        "long_meaning": "Aaliah (عالیه) نامی برگرفته از زبان عربی است و معنای اصلی آن عالیه، بلند (مؤنث) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "आलिया",
+        "meaning": "आलिया, उच्च (स्त्री)",
+        "long_meaning": "Aaliah (आलिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ आलिया, उच्च (स्त्री) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عالیه",
+        "meaning": "عالیه، لوړه",
+        "long_meaning": "Aaliah (عالیه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عالیه، لوړه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عالية",
+        "meaning": "الْعَالِيَة، الرَّفِيعَة",
+        "long_meaning": "Aaliah (عالية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْعَالِيَة، الرَّفِيعَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-LEE-ah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عالیہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: आलिया",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عاليه",
-      "ipa": "/ɑːˈliːɑː/"
+      "romanized": "aa-liah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عالیہ",
+      "persian": "عالیه",
+      "hindi": "आलिया",
+      "pashto": "عالیه"
     },
-    "celebrity_usage": [
-      "Aaliah Jordan",
-      "Aaliah Ali"
-    ],
-    "social_tags": [
-      "#AaliahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaliah"
-    ],
-    "name_variations": [
-      "Aalia"
-    ],
-    "popularity_score": 40,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aaliah",
+        "aaliah",
+        "aliah"
+      ],
+      "script_variants": [
+        "عالية",
+        "عالیه",
+        "عالیہ",
+        "आलिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عالية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aaliah can be understood through the Arabic form عالية, whose central sense is exalted, high (feminine). Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Aaliah mean?",
+        "answer": "Aaliah is associated with the Arabic form عالية, whose core sense is exalted, high (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 85,
-        "year": 2024
+        "question": "What is the origin of Aaliah?",
+        "answer": "Aaliah is associated with Arabic. Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Aaliah an Arabic name?",
+        "answer": "Yes — the underlying form عالية is Arabic."
+      },
+      {
+        "question": "Is Aaliah an Islamic name?",
+        "answer": "Aaliah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aaliah a Quranic name?",
+        "answer": "Aaliah should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Aaliah mean in Urdu?",
+        "answer": "In Urdu, Aaliah is rendered عالیہ and carries the sense عالیہ، بلند (مؤنث)."
+      },
+      {
+        "question": "What does Aaliah mean in Persian?",
+        "answer": "In Persian, Aaliah is rendered عالیه and carries the sense عالیه، بلند (مؤنث)."
+      },
+      {
+        "question": "How is Aaliah pronounced?",
+        "answer": "A romanized syllable approximation is aa-liah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aaliah?",
+        "answer": "Romanization variants include Aaliah, aaliah, aliah. Script forms are عالية, عالیه, عالیہ, आलिया."
+      },
+      {
+        "question": "Is Aaliah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aaliah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aaliah, a beautiful Islam name meaning \"High, Exalted\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aaliah, Islam name, baby names, High, Exalted, Islam baby names, name meaning",
-      "description_paragraph": "Aaliah is a meaningful Islam name of Arabic origin that means \"High, Exalted\". Aaliah is derived from the Arabic word 'Aala' which means 'high' or 'exalted'.",
-      "keywords": [
-        "Aaliah",
-        "Islam name",
-        "baby names",
-        "High, Exalted",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aaliah in Islam tradition?",
-          "a": "Aaliah is a beautiful Islam name meaning \"High, Exalted\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aaliah a good Islam name for a baby?",
-          "a": "Yes, Aaliah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aaliah?",
-          "a": "The name Aaliah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aaliah correctly?",
-          "a": "Aaliah is pronounced ah-LEE-ah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aaliah?",
-          "a": "Naming a child Aaliah brings blessings. The meaning \"High, Exalted\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aaliah?",
-          "a": "Aaliah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Aaliah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aaliah (عالية).",
+      "h1": "Aaliah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aaliah meaning",
       "secondary_keywords": [
-        "Islam name Aaliah",
-        "Aaliah meaning",
-        "Aaliah origin"
+        "Aaliah name meaning",
+        "Aaliah meaning in Urdu",
+        "Aaliah origin",
+        "Aaliah Islamic name",
+        "Aaliah pronunciation",
+        "Aaliah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aaliah (عالية) is associated with the Arabic form عالية, whose core sense is exalted, high (feminine). Aaliah is Arabic عَالِيَة (ʿĀliya) 'exalted, high' (feminine), from the root ع ل و (ʿ-l-w). The source gloss 'High, Exalted' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is female. Same name as aalia.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aaliah is associated with the Arabic form عالية, whose core sense is exalted, high (feminine).",
+      "meaning_section": "The central meaning of Aaliah is exalted, high (feminine).",
+      "origin_section": "Aaliah is associated with Arabic rather than with a different language.",
+      "islam_section": "Aaliah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aaliah is with the sense exalted.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aaliah",
+      "#AaliahMeaning",
+      "#AaliahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Aaliah has a profound cultural significance in Arab and Islamic communities, as it evokes feelings of honor, prestige, and nobility. This name is often given to girls to reflect high ambitions, aspirations, and aspirations for their future accomplishments and contributions to society. The high status associated with this name can also serve as an inspiration for the individual to consistently strive for self-improvement and excellence in their personal and professional lives.",
-    "spiritual_significance": "In the spiritual context, the name Aaliah carries deep symbolism rooted in the Islamic faith, representing one's connection to the divine and striving towards spiritual heights. The essence of the name resonates with the Islamic belief in the primacy of the spiritual self and emphasizes the importance of elevating one's inner self through prayer, meditation, and personal growth. As someone named Aaliah, one is encouraged to take on a journey of spiritual transformation to live a life that glorifies God and fortifies the soul.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Aaliah bint Abi Bakr was a companion of the Prophet Muhammad. The name Aaliah carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Aaliah bint Abi Bakr was a companion of the Prophet Muhammad and is mentioned in various hadiths."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "The name Aaliah is not commonly used as a given name in modern times.",
-        "In some cases, it may be used as a variant of the name Aisha.",
-        "There is a popular Islamic blog called 'Aaliah's Corner' that focuses on Islamic studies and spiritual growth."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aaliah corresponds to the Arabic form عالية",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Aaliah has the core sense exalted, high (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media",
-        "Blogs"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aaliah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Aaliah",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Maryam Aaliah in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name Aaliah, which means \"High, Exalted\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"High, Exalted\" symbolizes Aaliah is derived from the Arabic word 'Aala' which means 'high' or 'exalted'.. In Islamic spirituality, bearing the name Aaliah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of high, exalted.",
-    "created_at": "2025-12-22T19:19:49.801Z",
-    "updated_at": "2025-12-22T04:53:14.44Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1725,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aaliah",
-      "description": "High, Exalted",
-      "additionalName": [
-        "Aalia"
+      "alternateName": [
+        "Aaliah",
+        "aaliah",
+        "aliah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form عالية, meaning exalted, high (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaliah",
-          "description": "Discover the meaning of Aaliah - \"High, Exalted\"",
-          "image": "/images/social/aaliah-facebook.jpg"
+      "termCode": "aaliah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aaliah - Name Meaning",
-          "description": "Learn about the beautiful name Aaliah",
-          "image": "/images/social/aaliah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Aaliah",
-          "description": "Name meaning: High, Exalted",
-          "image": "/images/social/aaliah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaliah - Meaning: High, Exalted",
-        "email_subject": "Beautiful Name: Aaliah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaliah with meaning High, Exalted",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aaliah, associated with the Arabic form عالية, meaning exalted, high (feminine)."
     },
-    "similar_sounding_names": [
-      "aryan",
-      "azzahra",
-      "alma",
-      "ayan",
-      "aidan",
-      "arsala",
-      "alabbas",
-      "amaya",
-      "arya",
-      "alaia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

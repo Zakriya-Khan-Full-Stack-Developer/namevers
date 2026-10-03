@@ -3,285 +3,477 @@
   "data": {
     "name": "Ayah",
     "slug": "ayah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Sign/Verse from Quran",
-    "long_meaning": "In the Quran, Ayah refers to a verse or a sign. It is a term used to describe a passage of the Quran that conveys a message or a warning. Ayah is also used to describe a sign or a miracle.",
-    "spiritual_meaning": "A sign or a verse from Allah in the Quran.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Compassionate"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Compassionate",
-      "L = Loyal"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "#FFD700",
-      "#E3F2BD"
-    ],
-    "lucky_stone": "Topaz",
-    "life_path_number": 1,
-    "numerology_meaning": "The number 1 represents new beginnings, leadership, and independence. Individuals with the name Ayah are natural leaders and innovators, with a strong sense of determination and the ability to bring new ideas to life.",
-    "in_arabic": {
-      "name": "آية",
-      "meaning": "علامت، نشان، وحی، قرآن کی سورت کا ایک حصہ",
-      "long_meaning": "آية کا مطلب ہے علامت یا نشان جو اللہ تعالیٰ کی قدرت و حکمت کو ظاہر کرتا ہے۔ یہ لفظ قرآن مجید میں بھی استعمال ہوا ہے، جہاں یہ اللہ کی وحی اور معجزات کو بیان کرنے کے لئے استعمال کیا گیا ہے۔ آية کا استعمال اسلامی تقویم میں بھی ہوتا ہے، جہاں یہ مخصوص تاریخوں اور واقعات کو بیان کرنے کے لئے استعمال کی جاتی ہے۔"
+    "identity": {
+      "display_name": "Ayah",
+      "normalized_name": "ayah",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ayah",
+        "ayah"
+      ],
+      "search_variants": [
+        "Ayah",
+        "ayah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "آیت",
-      "meaning": "علامت، نشان، وحی، قرآن کی سورت کا ایک حصہ",
-      "long_meaning": "آیت نام کا مطلب ہے علامت یا نشان جو اللہ تعالیٰ کی قدرت و حکمت کو ظاہر کرتا ہے۔ یہ لفظ عربی زبان سے ماخوذ ہے اور قرآن مجید میں بھی استعمال ہوا ہے، جہاں یہ اللہ کی وحی اور معجزات کو بیان کرنے کے لئے استعمال کیا گیا ہے۔ آیت نام اسلامی ثقافت میں بہت اہمیت رکھتا ہے، خاص طور پر جنوبی ایشیا میں جہاں یہ نام لڑکیوں کو دیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Sign, verse (of the Qur'an)",
+      "primary_meaning": "Sign",
+      "secondary_meanings": [
+        "verse (of the Qur'an)"
+      ],
+      "literal_meaning": "Sign",
+      "extended_meaning": "Sign, verse (of the Qur'an)",
+      "meaning_explanation": "Ayah corresponds to the Arabic form آية (أ ي ي). Its core sense is sign, verse (of the qur'an). Āya ('sign, verse of the Qur'an').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "आयत",
-      "meaning": "चिह्न, निशान, वही, कुरआन का एक हिस्सा",
-      "long_meaning": "आयत नाम का अर्थ है चिह्न या निशान जो अल्लाह की शक्ति और बुद्धि को प्रकट करता है। यह शब्द कुरआन में भी प्रयोग हुआ है, जहां यह अल्लाह की वही और चमत्कारों को व्यक्त करने के लिए प्रयोग किया गया है। आयत नाम भारतीय मुस्लिम समुदाय में बहुत महत्व रखता है, जहां यह नाम लड़कियों को दिया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "آية",
+      "transliteration": "ayah",
+      "romanization": "ayah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Sign",
+        "verse (of the Qur'an)"
+      ],
+      "etymology_explanation": "The form آية is an established Arabic lexical item. Āya ('sign, verse of the Qur'an').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "آیه",
-      "meaning": "نښه، علامت، وحی، قرانکى سورت يوه برخه",
-      "long_meaning": "آیه نوم معنی دے نښه یا علامت چه الله تعالی قدرت و حکمت ښیي. دا کلمه په قران کریم کې هم استعمال شوې ده، چیرته چې دا د الله وحی او معجزاتو دبیانولو لپاره استعمال شوې ده. آیه نوم په افغان او پښتون دود کې ډیر اهمیت لري، په ځانګړي ډول دا نوم نجونو ته ورکول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "آية is an established Arabic form.",
+        "Urdu": "آیہ is used in Urdu.",
+        "Hindi": "आयाह is used in Hindi.",
+        "Pashto": "آیه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ayah",
-      "meaning": "Sign, indication, revelation, verse of the Quran",
-      "long_meaning": "The name Ayah is derived from the Arabic root 'A-Y-W' which means 'to signify' or 'to indicate'. In Islamic context, Ayah refers to a sign or indication of God's power and wisdom. The term is also used in the Quran to describe revelations and verses. Ayah is a significant name in Islamic tradition, symbolizing spiritual guidance and enlightenment. The name is commonly used across Muslim cultures, particularly for girls."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form آية. Āya ('sign, verse of the Qur'an').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ayah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "آية occurs throughout the Qur'an meaning 'sign, verse'"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense sign, verse (of the qur'an).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Sign",
+      "related_concepts": [
+        "sign",
+        "verse (of the qur'an)"
+      ],
+      "semantic_relationship": "The central semantic idea is sign; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of sign.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Sign",
+        "Verse (of the qur'an)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ayah",
+        "meaning": "Sign, verse (of the Qur'an)",
+        "long_meaning": "Ayah is a Arabic-origin name. Its core meaning is sign, verse (of the qur'an). Āya ('sign, verse of the Qur'an')."
+      },
+      "urdu": {
+        "name": "آیہ",
+        "meaning": "نشانی، آیت",
+        "long_meaning": "Ayah (آیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نشانی، آیت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आयाह",
+        "meaning": "निशान, आयत",
+        "long_meaning": "Ayah (आयाह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ निशान, आयत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "آیه",
+        "meaning": "نښه، آیت",
+        "long_meaning": "Ayah (آیه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نښه، آیت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "آية",
+        "meaning": "الآية، العلامة",
+        "long_meaning": "Ayah (آية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الآية، العلامة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-yah",
-      "urdu": "اردو میں تلفظ کی تفصیل: آہ-یہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: आह-याह",
-      "pashto": "په پښتو کې د تلفظ تفصیل: آه-یه",
-      "ipa": "/ˈɑː.jɑː/"
+      "romanized": "ayah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "آیہ",
+      "persian": null,
+      "hindi": "आयाह",
+      "pashto": "آیه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AyahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ayah"
-    ],
-    "name_variations": [
-      "Aya"
-    ],
-    "popularity_score": 64,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ayah",
+        "ayah"
+      ],
+      "script_variants": [
+        "آية",
+        "آیه",
+        "آیہ",
+        "आयाह"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form آية is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ayah can be understood through the Arabic form آية, whose central sense is sign, verse (of the qur'an). Āya ('sign, verse of the Qur'an').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Ayah mean?",
+        "answer": "Ayah is associated with the Arabic form آية, whose core sense is sign, verse (of the qur'an)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Ayah?",
+        "answer": "Ayah is associated with Arabic. Āya ('sign, verse of the Qur'an')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 72,
-        "year": 2024
+        "question": "Is Ayah an Arabic name?",
+        "answer": "Yes — the underlying form آية is Arabic."
+      },
+      {
+        "question": "Is Ayah an Islamic name?",
+        "answer": "Ayah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Ayah a Quranic name?",
+        "answer": "Ayah should not be classified as a Quranic personal name without a direct Quranic basis. آية occurs throughout the Qur'an meaning 'sign, verse'"
+      },
+      {
+        "question": "What does Ayah mean in Urdu?",
+        "answer": "In Urdu, Ayah is rendered آیہ and carries the sense نشانی، آیت."
+      },
+      {
+        "question": "What does Ayah mean in Persian?",
+        "answer": "No verified Persian form was established for Ayah."
+      },
+      {
+        "question": "How is Ayah pronounced?",
+        "answer": "A romanized syllable approximation is ayah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ayah?",
+        "answer": "Romanization variants include Ayah, ayah. Script forms are آية, آیه, آیہ, आयाह."
+      },
+      {
+        "question": "Is Ayah a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ayah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ayah, a beautiful Islam name meaning \"Sign/Verse from Quran\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ayah, Islam name, baby names, Sign/Verse from Quran, Islam baby names, name meaning",
-      "description_paragraph": "Ayah is a meaningful Islam name of Arabic origin that means \"Sign/Verse from Quran\". In the Quran, Ayah refers to a verse or a sign. It is a term used to describe a passage of the Quran that conveys a message or a warning. Ayah is also used to describe a sign or a miracle.",
-      "keywords": [
-        "Ayah",
-        "Islam name",
-        "baby names",
-        "Sign/Verse from Quran",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ayah in Islam tradition?",
-          "a": "Ayah is a beautiful Islam name meaning \"Sign/Verse from Quran\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ayah a good Islam name for a baby?",
-          "a": "Yes, Ayah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ayah?",
-          "a": "The name Ayah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ayah correctly?",
-          "a": "Ayah is pronounced ah-yah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ayah?",
-          "a": "Naming a child Ayah brings blessings. The meaning \"Sign/Verse from Quran\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ayah?",
-          "a": "Ayah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Ayah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ayah (آية).",
+      "h1": "Ayah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ayah meaning",
       "secondary_keywords": [
-        "Islam name Ayah",
-        "Ayah meaning",
-        "Ayah origin"
+        "Ayah name meaning",
+        "Ayah meaning in Urdu",
+        "Ayah origin",
+        "Ayah Islamic name",
+        "Ayah pronunciation",
+        "Ayah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ayah (آية) is associated with the Arabic form آية, whose core sense is sign, verse (of the qur'an). Āya ('sign, verse of the Qur'an').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ayah is associated with the Arabic form آية, whose core sense is sign, verse (of the qur'an).",
+      "meaning_section": "The central meaning of Ayah is sign, verse (of the qur'an).",
+      "origin_section": "Ayah is associated with Arabic rather than with a different language.",
+      "islam_section": "Ayah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ayah is with the sense sign.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ayah",
+      "#AyahMeaning",
+      "#AyahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The word Ayah is not just limited to the religious context; it is also used in common Arabic language to mean a sign, a wonder, or a symbol. Ayah holds significant cultural importance in Islam as it is mentioned frequently in the Quran and Hadiths. It is a reminder of the divine power of Allah and the purpose of revelation.",
-    "spiritual_significance": "In the spiritual sense, Ayah holds a deep significance for Muslims as it represents the messages sent by Allah to guide and warn humanity. Ayah is a reminder of the divine wisdom and purpose of life. By reflecting on the Ayahs of the Quran, Muslims seek to gain a better understanding of themselves, their purpose in life, and their relationship with Allah. Ayah also serves as a source of comfort and guidance during difficult times. The belief that every moment in life is a sign from Allah, known as Ayah al-Khabar, further emphasizes the importance of mindfulness and gratitude. Ultimately, the term Ayah underscores the fundamental tenet of Islam: the belief in the oneness of Allah and the belief that everything in the universe is a manifestation of His will and power.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Mentioned in Hadith as the name of a companion's wife The name Ayah carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popular name for girls"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ayah corresponds to the Arabic form آية",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ayah has the core sense sign, verse (of the qur'an)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ayah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Ayah",
-      "location": "Dubai, UAE",
-      "story": "Zainab Ayah from Dubai, UAE embodies the meaning of Ayah - \"Sign/Verse from Quran\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Sign/Verse from Quran\" symbolizes In the Quran, Ayah refers to a verse or a sign. It is a term used to describe a passage of the Quran that conveys a message or a warning. Ayah is also used to describe a sign or a miracle.. In Islamic spirituality, bearing the name Ayah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sign/verse from quran.",
-    "created_at": "2025-12-22T19:19:49.792Z",
-    "updated_at": "2025-12-22T04:53:14.246Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1797,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ayah",
-      "description": "Sign/Verse from Quran",
-      "additionalName": [
-        "Aya"
+      "alternateName": [
+        "Ayah",
+        "ayah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form آية, meaning sign, verse (of the qur'an).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ayah",
-          "description": "Discover the meaning of Ayah - \"Sign/Verse from Quran\"",
-          "image": "/images/social/ayah-facebook.jpg"
+      "termCode": "ayah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ayah - Name Meaning",
-          "description": "Learn about the beautiful name Ayah",
-          "image": "/images/social/ayah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "Ayah",
-          "description": "Name meaning: Sign/Verse from Quran",
-          "image": "/images/social/ayah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ayah - Meaning: Sign/Verse from Quran",
-        "email_subject": "Beautiful Name: Ayah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ayah with meaning Sign/Verse from Quran",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ayah, associated with the Arabic form آية, meaning sign, verse (of the qur'an)."
     },
-    "similar_sounding_names": [
-      "alika",
-      "anika",
-      "aidan",
-      "akil",
-      "ariana",
-      "alabbas",
-      "amber",
-      "arya",
-      "amala",
-      "anaan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

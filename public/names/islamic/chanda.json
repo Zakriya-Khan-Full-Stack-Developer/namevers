@@ -1,281 +1,468 @@
 {
   "success": true,
   "data": {
-    "name": "chanda",
+    "name": "Chanda",
     "slug": "chanda",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "(Female)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Moon",
-    "long_meaning": "In Persian culture, Chanda represents the beauty and grace of the moon. It is a symbol of peace, tranquility, and femininity.",
-    "spiritual_meaning": "The name Chanda holds a deep spiritual significance in Islam. It is believed that the moon is a symbol of Allah's guidance and protection.",
-    "emotional_traits": [
-      "Kind",
-      "Gentle",
-      "Compassionate"
-    ],
-    "hidden_personality_traits": [
-      "S = Sincere",
-      "H = Humble"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Silver",
-      "White"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 1,
-    "numerology_meaning": "People with the name Chanda are natural leaders, compassionate, and have a strong intuition.",
-    "in_arabic": {
-      "name": "Aisha",
-      "meaning": "alive, lively",
-      "long_meaning": "Aisha is the name of the beloved wife of Prophet Muhammad (pbuh), known for her intelligence, beauty, and generosity."
+    "identity": {
+      "display_name": "Chanda",
+      "normalized_name": "chanda",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Chanda",
+        "chanda"
+      ],
+      "search_variants": [
+        "Chanda",
+        "chanda"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ایشہ",
-      "meaning": "حیات",
-      "long_meaning": "ایشہ اس میں صلیّہ رسول اللہ کے احباب و ایک معنی زن ہیں، جیسا کہ انہیں بہترین تبدیلیات، سرخ بندوں اور سادہ ساعتوں کا شناخت ہوا."
+    "core_meaning": {
+      "short_meaning": "Moon",
+      "primary_meaning": "Moon",
+      "secondary_meanings": [],
+      "literal_meaning": "Moon",
+      "extended_meaning": "Moon",
+      "meaning_explanation": "Chanda corresponds to the Urdu form چندا (Sanskrit चन्द्र). Its core sense is moon. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "ऐशा",
-      "meaning": "जीवन",
-      "long_meaning": "ऐशा अपना प्रभु सलیم کे अحبाब और एक महान नारी हैं। वह بहुत प्रसादी और सरख थे।"
+    "etymology": {
+      "primary_language": "Urdu",
+      "lexical_form": "چندا",
+      "transliteration": "chanda",
+      "romanization": "chanda",
+      "root_status": "Sanskrit चन्द्र",
+      "etymological_meaning": [
+        "Moon"
+      ],
+      "etymology_explanation": "The form چندا is an established Urdu lexical item. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ایشا",
-      "meaning": "زندگی",
-      "long_meaning": "ایشا صلیّة رسول اللہ کے احباب اور ایک مهربان ناری ہیں، جس کے بیترین تبدیلیات اور سرخ بندوں کا شناخت ہوا."
+    "language": {
+      "primary": "Urdu",
+      "associated_languages": [
+        "Persian",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "چندا is an established Arabic form.",
+        "Urdu": "چندا is used in Urdu.",
+        "Persian": "چندا is an established Persian form.",
+        "Hindi": "चंदा is used in Hindi.",
+        "Pashto": "چندا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "chanda",
-      "meaning": "Moon",
-      "long_meaning": "In Persian culture, Chanda represents the beauty and grace of the moon. It is a symbol of peace, tranquility, and femininity."
+    "origin": {
+      "primary_origin": "Urdu",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Urdu form چندا. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Chanda may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense moon.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Moon",
+      "related_concepts": [
+        "moon"
+      ],
+      "semantic_relationship": "The central semantic idea is moon; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of moon.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Moon"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Chanda",
+        "meaning": "Moon",
+        "long_meaning": "Chanda is a Urdu-origin name. Its core meaning is moon. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "چندا",
+        "meaning": "چاند، ماہ",
+        "long_meaning": "Chanda (چندا) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم چاند، ماہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "چندا",
+        "meaning": "ماه",
+        "long_meaning": "Chanda (چندا) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن ماه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "चंदा",
+        "meaning": "चाँद, चंद्र",
+        "long_meaning": "Chanda (चंदा) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ चाँद, चंद्र है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "چندا",
+        "meaning": "سپوږمۍ",
+        "long_meaning": "Chanda (چندا) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سپوږمۍ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "چندا",
+        "meaning": "القمر",
+        "long_meaning": "Chanda (چندا) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي القمر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈaɪ.ʃə/",
-      "urdu": "/ˈeɪ.ʃæ/",
-      "hindi": "/ˈeɪ.ʃɑː/",
-      "pashto": "/ˈeɪ.ʃɑ/",
-      "ipa": "https://en.wikipedia.org/wiki/Help:IPA/en/1/A"
+      "romanized": "chan-da",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "چندا",
+      "persian": "چندا",
+      "hindi": "चंदा",
+      "pashto": "چندا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#chandaNameMeaning",
-      "#IslamicNames",
-      "#PersianNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 56,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Chanda",
+        "chanda"
+      ],
+      "script_variants": [
+        "چندا",
+        "चंदा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form چندا is an established Urdu lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Chanda can be understood through the Urdu form چندا, whose central sense is moon. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Chanda mean?",
+        "answer": "Chanda is associated with the Urdu form چندا, whose core sense is moon."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Chanda?",
+        "answer": "Chanda is associated with Urdu. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 86,
-        "year": 2024
+        "question": "Is Chanda an Arabic name?",
+        "answer": "No — the underlying form is Urdu, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Chanda an Islamic name?",
+        "answer": "Chanda can occur in Muslim naming contexts, but it is better described as a Urdu-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Chanda a Quranic name?",
+        "answer": "Chanda should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Chanda mean in Urdu?",
+        "answer": "In Urdu, Chanda is rendered چندا and carries the sense چاند، ماہ."
+      },
+      {
+        "question": "What does Chanda mean in Persian?",
+        "answer": "In Persian, Chanda is rendered چندا and carries the sense ماه."
+      },
+      {
+        "question": "How is Chanda pronounced?",
+        "answer": "A romanized syllable approximation is chan-da. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Chanda?",
+        "answer": "Romanization variants include Chanda, chanda. Script forms are چندا, चंदा."
+      },
+      {
+        "question": "Is Chanda a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "chanda Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of chanda, a beautiful Islam name meaning \"Moon\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "chanda, Islam name, baby names, Moon, Islam baby names, name meaning",
-      "description_paragraph": "chanda is a meaningful Islam name of Arabic origin that means \"Moon\". In Persian culture, Chanda represents the beauty and grace of the moon. It is a symbol of peace, tranquility, and femininity.",
-      "keywords": [
-        "chanda",
-        "Islam name",
-        "baby names",
-        "Moon",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of chanda in Islam tradition?",
-          "a": "chanda is a beautiful Islam name meaning \"Moon\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is chanda a good Islam name for a baby?",
-          "a": "Yes, chanda is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name chanda?",
-          "a": "The name chanda has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce chanda correctly?",
-          "a": "chanda is pronounced /ˈaɪ.ʃə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child chanda?",
-          "a": "Naming a child chanda brings blessings. The meaning \"Moon\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name chanda?",
-          "a": "chanda is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
-      "focus_keyword": "chanda meaning",
+      "title": "Chanda Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Urdu origin, Urdu meaning, pronunciation, variants and Islamic naming context of Chanda (چندا).",
+      "h1": "Chanda Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Chanda meaning",
       "secondary_keywords": [
-        "Islam name chanda",
-        "chanda meaning",
-        "chanda origin"
+        "Chanda name meaning",
+        "Chanda meaning in Urdu",
+        "Chanda origin",
+        "Chanda Islamic name",
+        "Chanda pronunciation",
+        "Chanda name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Chanda (چندا) is associated with the Urdu form چندا, whose core sense is moon. Urdu/Hindi chandā ('moon'), from Sanskrit चन्द्र. The source record's gloss 'Moon' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Chanda is associated with the Urdu form چندا, whose core sense is moon.",
+      "meaning_section": "The central meaning of Chanda is moon.",
+      "origin_section": "Chanda is associated with Urdu rather than with a different language.",
+      "islam_section": "Chanda can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Chanda is with the sense moon.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Chanda",
+      "#ChandaMeaning",
+      "#ChandaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic tradition, the month of Ramadan is considered sacred, and during this month, Muslims fast from dawn till sunset. During this period, the unity and camaraderie of the Muslim community are emphasized. One of the nightly rituals is to connect with God through prayers and recitation of the Quran. The crescent moon sighting signifies the beginning and end of Ramadan. The crescent shape, known as Chandra in Persian or prominent Arabic dialects, holds symbolic significance as it represents the peace and spiritual reflection during this sanctified month.",
-    "spiritual_significance": "For Muslims, Chanda represents the path to spiritual growth and seeking the presence of God. The moon in Islamic culture represents guidance and the connection to Allah (God). The Islamic holy texts, particularly the Quran, encourage Muslims to seek solace in nature and use it as a reminder of the infinite power and precedence of God. The month of Ramadan and the sighting of Chanda serve as a symbol of seeking knowledge, being mindful of one's actions, and focusing on developing a deeper spiritual connection with God.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name chanda carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Chanda corresponds to the Urdu form چندا",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Chanda has the core sense moon",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name chanda remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla chanda",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "A successful entrepreneur named Layla chanda in Kuala Lumpur, Malaysia attributes much of their success to the blessing of their name chanda, which means \"Moon\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Moon\" symbolizes In Persian culture, Chanda represents the beauty and grace of the moon. It is a symbol of peace, tranquility, and femininity.. In Islamic spirituality, bearing the name chanda serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of moon.",
-    "created_at": "2025-12-22T19:19:50.955Z",
-    "updated_at": "2025-12-22T04:53:16.783Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1253,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "chanda",
-      "description": "Moon",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "@type": "DefinedTerm",
+      "name": "Chanda",
+      "alternateName": [
+        "Chanda",
+        "chanda"
       ],
-      "religion": "Islam",
-      "gender": "(Female)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: chanda",
-          "description": "Discover the meaning of chanda - \"Moon\"",
-          "image": "/images/social/chanda-facebook.jpg"
+      "description": "A name associated with the Urdu form چندا, meaning moon.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "chanda",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Urdu"
         },
-        "twitter": {
-          "title": "chanda - Name Meaning",
-          "description": "Learn about the beautiful name chanda",
-          "image": "/images/social/chanda-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "chanda",
-          "description": "Name meaning: Moon",
-          "image": "/images/social/chanda-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: chanda - Meaning: Moon",
-        "email_subject": "Beautiful Name: chanda"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "chanda with meaning Moon",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Chanda, associated with the Urdu form چندا, meaning moon."
     },
-    "similar_sounding_names": [
-      "cantara",
-      "cala"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

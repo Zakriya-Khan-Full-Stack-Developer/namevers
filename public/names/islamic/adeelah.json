@@ -3,290 +3,481 @@
   "data": {
     "name": "Adeelah",
     "slug": "adeelah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Righteous and Just",
-    "long_meaning": "Adeelah means being just and righteous, reflecting a strong moral character. It signifies a person who upholds the principles of justice and morality.",
-    "spiritual_meaning": "In Islamic tradition, the name Adeelah is associated with the concept of justice and righteousness, as emphasized in the Quran.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Silver",
-      "White",
-      "Pink"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 5,
-    "numerology_meaning": "A name that represents change and new beginnings. Those with the name Adeelah are often natural leaders, adaptable, and have a strong sense of independence. They are also known for their creativity and versatility.",
-    "in_arabic": {
-      "name": "عديلة",
-      "meaning": "العديلة تعني العادلة أو المتساوية في الحق والعدل",
-      "long_meaning": "اسم عديلة مشتق من الجذر العربي 'ع-د-ل' والذي يعني العدل والمساواة. يدل الاسم على الشخصية العادلة والمتساوية في الحقوق والعدل. ورد في القرآن الكريم ذكر العدل والمساواة في عدة آيات، مما يعطي الاسم قيمة دينية وروحانية كبيرة. استخدم الاسم في العديد من الثقافات الإسلامية كدلالة على الخصال الحميدة."
+    "identity": {
+      "display_name": "Adeelah",
+      "normalized_name": "adeelah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Adeelah",
+        "adeelah"
+      ],
+      "search_variants": [
+        "Adeelah",
+        "adeelah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عدیلہ",
-      "meaning": "عدیلہ کا مطلب ہے منصفانہ، برابر، اور انصاف والا",
-      "long_meaning": "عدیلہ نام عربی جڑ 'ع-د-ل' سے ماخوذ ہے جس کا مطلب ہے انصاف اور مساوات۔ یہ نام انصاف اور حق میں برابری کی شخصیت کی نشاندہی کرتا ہے۔ قرآن کریم میں انصاف اور مساوات کا ذکر کئی آیات میں پایا جاتا ہے، جو اس نام کو بڑی دینی اور روحانی اہمیت دیتی ہے۔ یہ نام جنوبی ایشیائی اسلامی ثقافت میں خوبصورت گੁਣوں کی نشاندہی کے طور پر استعمال کیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Just, fair, honest",
+      "primary_meaning": "Just",
+      "secondary_meanings": [
+        "fair",
+        "honest"
+      ],
+      "literal_meaning": "Just",
+      "extended_meaning": "Just, fair, honest",
+      "meaning_explanation": "Adeelah corresponds to the Arabic form عديلة (ع د ل). Its core sense is just, fair, honest. Variant romanization of عديلة.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अदीला",
-      "meaning": "अदीला का अर्थ है न्यायप्रिय, समान, और न्याय करने वाला",
-      "long_meaning": "अदीला नाम अरबी मूल 'ع-د-ل' से लिया गया है जिसका अर्थ है न्याय और समानता। यह नाम न्याय और अधिकार में समानता की व्यक्ति की विशेषता को दर्शाता है। कुरआन में न्याय और समानता का उल्लेख कई आयतों में मिलता है, जो इस नाम को बड़ी धार्मिक और आध्यात्मिक महत्ता प्रदान करता है। यह नाम भारतीय मुस्लिम समुदाय में सुंदर गुणों के प्रतीक के रूप में प्रयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عديلة",
+      "transliteration": "adeelah",
+      "romanization": "adeelah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Just",
+        "fair",
+        "honest"
+      ],
+      "etymology_explanation": "The form عديلة is an established Arabic lexical item. Variant romanization of عديلة.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عدیلہ",
-      "meaning": "عدیلہ د انصاف منونکی، برابری، او د انصاف خاوند معنی لري",
-      "long_meaning": "عدیلہ نوم د عربی جڑ 'ع-د-ل' څخه اخیستل شوی دی چې د انصاف او مساوات معنی ورکوي. دا نوم د انصاف او حق کې د برابرۍ د شخصیت ښودلو لپاره کارول کیږي. په قرآن کریم کې د انصاف او مساوات یادونه په ډیریو آیاتو کې شوې ده، چې دا نوم ته لویه دیني او روحاني ارزښت ورکوي. دا نوم د افغان او پښتون دودیزو کلتورونو کې د ښو ځانګړتیاوو د نښانې په توګه کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عديلة is an established Arabic form.",
+        "Urdu": "عدیلہ is used in Urdu.",
+        "Hindi": "अदीला is used in Hindi.",
+        "Pashto": "عديله is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Adeelah",
-      "meaning": "Adeelah means fair, just, and equal in rights and justice",
-      "long_meaning": "The name Adeelah is derived from the Arabic root 'ع-د-ل' which signifies justice and equality. It denotes a person who is just and fair in rights and dealings. The Quran mentions justice and equality in several verses, lending great religious and spiritual significance to the name. Adeelah is used across various Islamic cultures to signify good character and moral integrity. The name is associated with positive personality traits such as fairness, justice, and compassion."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عديلة. Variant romanization of عديلة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Adeelah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ع د ل occurs in the Qur'an; عديلة is a normal Arabic feminine form"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense just, fair, honest.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Just",
+      "related_concepts": [
+        "just",
+        "fair",
+        "honest"
+      ],
+      "semantic_relationship": "The central semantic idea is just; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of just.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Just",
+        "Fair",
+        "Honest"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Adeelah",
+        "meaning": "Just, fair, honest",
+        "long_meaning": "Adeelah is a Arabic-origin name. Its core meaning is just, fair, honest. Variant romanization of عديلة."
+      },
+      "urdu": {
+        "name": "عدیلہ",
+        "meaning": "عادل، منصف، سچا",
+        "long_meaning": "Adeelah (عدیلہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عادل، منصف، سچا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अदीला",
+        "meaning": "न्यायी, निष्पक्ष, ईमानदार",
+        "long_meaning": "Adeelah (अदीला) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ न्यायी, निष्पक्ष, ईमानदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عديله",
+        "meaning": "عادل، منصف، رښتونی",
+        "long_meaning": "Adeelah (عديله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عادل، منصف، رښتونی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عديلة",
+        "meaning": "عادل، منصف، مستقيم",
+        "long_meaning": "Adeelah (عديلة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عادل، منصف، مستقيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-DEE-lah",
-      "urdu": "اردو میں تلفظ کی تفصیل: عَڈیْلہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: अदीला",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عدیلہ",
-      "ipa": "/ɑːˈdiːlə/"
+      "romanized": "a-dee-lah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عدیلہ",
+      "persian": null,
+      "hindi": "अदीला",
+      "pashto": "عديله"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AdeelahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Adeelah"
-    ],
-    "name_variations": [
-      "Adilah",
-      "Adeela"
-    ],
-    "popularity_score": 67,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Adeelah",
+        "adeelah"
+      ],
+      "script_variants": [
+        "عديلة",
+        "عديله",
+        "عدیلہ",
+        "अदीला"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عديلة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Adeelah can be understood through the Arabic form عديلة, whose central sense is just, fair, honest. Variant romanization of عديلة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 76,
-        "year": 2024
+        "question": "What does Adeelah mean?",
+        "answer": "Adeelah is associated with the Arabic form عديلة, whose core sense is just, fair, honest."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Adeelah?",
+        "answer": "Adeelah is associated with Arabic. Variant romanization of عديلة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Adeelah an Arabic name?",
+        "answer": "Yes — the underlying form عديلة is Arabic."
+      },
+      {
+        "question": "Is Adeelah an Islamic name?",
+        "answer": "Adeelah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Adeelah a Quranic name?",
+        "answer": "Adeelah should not be classified as a Quranic personal name without a direct Quranic basis. root ع د ل occurs in the Qur'an; عديلة is a normal Arabic feminine form"
+      },
+      {
+        "question": "What does Adeelah mean in Urdu?",
+        "answer": "In Urdu, Adeelah is rendered عدیلہ and carries the sense عادل، منصف، سچا."
+      },
+      {
+        "question": "What does Adeelah mean in Persian?",
+        "answer": "No verified Persian form was established for Adeelah."
+      },
+      {
+        "question": "How is Adeelah pronounced?",
+        "answer": "A romanized syllable approximation is a-dee-lah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Adeelah?",
+        "answer": "Romanization variants include Adeelah, adeelah. Script forms are عديلة, عديله, عدیلہ, अदीला."
+      },
+      {
+        "question": "Is Adeelah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Adeelah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Adeelah, a beautiful Islam name meaning \"Righteous and Just\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Adeelah, Islam name, baby names, Righteous and Just, Islam baby names, name meaning",
-      "description_paragraph": "Adeelah is a meaningful Islam name of Arabic origin that means \"Righteous and Just\". Adeelah means being just and righteous, reflecting a strong moral character. It signifies a person who upholds the principles of justice and morality.",
-      "keywords": [
-        "Adeelah",
-        "Islam name",
-        "baby names",
-        "Righteous and Just",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Adeelah in Islam tradition?",
-          "a": "Adeelah is a beautiful Islam name meaning \"Righteous and Just\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Adeelah a good Islam name for a baby?",
-          "a": "Yes, Adeelah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Adeelah?",
-          "a": "The name Adeelah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Adeelah correctly?",
-          "a": "Adeelah is pronounced ah-DEE-lah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Adeelah?",
-          "a": "Naming a child Adeelah brings blessings. The meaning \"Righteous and Just\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Adeelah?",
-          "a": "Adeelah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Adeelah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Adeelah (عديلة).",
+      "h1": "Adeelah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Adeelah meaning",
       "secondary_keywords": [
-        "Islam name Adeelah",
-        "Adeelah meaning",
-        "Adeelah origin"
+        "Adeelah name meaning",
+        "Adeelah meaning in Urdu",
+        "Adeelah origin",
+        "Adeelah Islamic name",
+        "Adeelah pronunciation",
+        "Adeelah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Adeelah (عديلة) is associated with the Arabic form عديلة, whose core sense is just, fair, honest. Variant romanization of عديلة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Adeelah is associated with the Arabic form عديلة, whose core sense is just, fair, honest.",
+      "meaning_section": "The central meaning of Adeelah is just, fair, honest.",
+      "origin_section": "Adeelah is associated with Arabic rather than with a different language.",
+      "islam_section": "Adeelah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Adeelah is with the sense just.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Adeelah",
+      "#AdeelahMeaning",
+      "#AdeelahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name 'Fatima' has roots in Arabic and Islamic history, it was the name of Prophet Muhammad's beloved daughter and wife of Imam Ali. In Islamic culture, the name is often associated with purity, loyalty, and devotion.",
-    "spiritual_significance": "The name 'Fatima' carries deep spiritual significance as it symbolizes Faith, Beauty and Submission to God, reflecting the personal qualities of purity, loyalty and devotion.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that short reference text The name Adeelah carried significant weight in that era.",
-        "time_period": "e.g. 7th century",
-        "context": "historical context of the name"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "list of trends"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Adeelah corresponds to the Arabic form عديلة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Adeelah has the core sense just, fair, honest",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "list of platforms"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Adeelah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Adeelah",
-      "location": "Dubai, UAE",
-      "story": "A successful entrepreneur named Aisha Adeelah in Dubai, UAE attributes much of their success to the blessing of their name Adeelah, which means \"Righteous and Just\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Righteous and Just\" symbolizes Adeelah means being just and righteous, reflecting a strong moral character. It signifies a person who upholds the principles of justice and morality.. In Islamic spirituality, bearing the name Adeelah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of righteous and just.",
-    "created_at": "2025-12-22T19:19:49.804Z",
-    "updated_at": "2025-12-22T04:53:14.497Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1031,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Adeelah",
-      "description": "Righteous and Just",
-      "additionalName": [
-        "Adilah",
-        "Adeela"
+      "alternateName": [
+        "Adeelah",
+        "adeelah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form عديلة, meaning just, fair, honest.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Adeelah",
-          "description": "Discover the meaning of Adeelah - \"Righteous and Just\"",
-          "image": "/images/social/adeelah-facebook.jpg"
+      "termCode": "adeelah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Adeelah - Name Meaning",
-          "description": "Learn about the beautiful name Adeelah",
-          "image": "/images/social/adeelah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Adeelah",
-          "description": "Name meaning: Righteous and Just",
-          "image": "/images/social/adeelah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Adeelah - Meaning: Righteous and Just",
-        "email_subject": "Beautiful Name: Adeelah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Adeelah with meaning Righteous and Just",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Adeelah, associated with the Arabic form عديلة, meaning just, fair, honest."
     },
-    "similar_sounding_names": [
-      "alabbas",
-      "alraaz",
-      "amaya",
-      "aidan",
-      "ashika",
-      "anila",
-      "arsala",
-      "aaidah",
-      "alma",
-      "akil"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

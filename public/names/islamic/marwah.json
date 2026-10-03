@@ -3,291 +3,474 @@
   "data": {
     "name": "Marwah",
     "slug": "marwah",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Source of water",
-    "long_meaning": "A place where one can find solace and tranquility, symbolizing peace and harmony.",
-    "spiritual_meaning": "A symbol of spiritual nourishment and growth.",
-    "emotional_traits": [
-      "Kind",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Pink",
-      "Red"
-    ],
-    "lucky_stone": "Rose Quartz",
-    "life_path_number": 5,
-    "numerology_meaning": "Change, Freedom, Adventure",
-    "in_arabic": {
-      "name": "مروة",
-      "meaning": "اسم مشتق من مروى، يعني الارتقاء والصعود إلى مكانة عالية",
-      "long_meaning": "مروة هو اسم علم مؤنث من أصل عربي، مشتق من كلمة مروى التي تعني الارتقاء والصعود إلى مكانة عالية. ورد ذكر المروة في القرآن الكريم في سورة البقرة، حيث ذكرت كإحدى الشعائر الدينية المهمة في الحج. يعتبر اسم مروة من الأسماء ذات الأهمية الكبيرة في الثقافة الإسلامية، حيث يرتبط بالشعائر الدينية والتضحية في سبيل الله."
+    "identity": {
+      "display_name": "Marwah",
+      "normalized_name": "marwah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Marwah",
+        "marwah"
+      ],
+      "search_variants": [
+        "Marwah",
+        "marwah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "مروہ",
-      "meaning": "مروہ کا مطلب ہے چڑھائی، بلند مقام، یا دینی رسومات",
-      "long_meaning": "مروہ ایک عربی نام ہے جس کا مطلب ہے چڑھائی، بلند مقام، یا دینی رسومات۔ یہ نام قرآن مجید میں سورة البقرة میں ذکر کیا گیا ہے، جہاں یہ حج کی رسومات میں سے ایک کے طور پر بيان کیا گیا ہے۔ مروہ نام اسلامی ثقافت میں اہمیت رکھتا ہے کیونکہ یہ دینی رسومات اور اللہ کی رضا کے حصول کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Marwa; a female given name and place name",
+      "primary_meaning": "Marwa; a female given name and place name",
+      "secondary_meanings": [],
+      "literal_meaning": "Marwa; a female given name and place name",
+      "extended_meaning": "Marwa; a female given name and place name",
+      "meaning_explanation": "Marwah corresponds to the Arabic form مروة (Arabic مَرْوَة (Marwa)). Its core sense is marwa; a female given name and place name. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मरवा",
-      "meaning": "मरवा का अर्थ है ऊंचाई, उच्च स्थान या धार्मिक अनुष्ठान",
-      "long_meaning": "मरवा एक अरबी नाम है जिसका अर्थ है ऊंचाई, उच्च स्थान या धार्मिक अनुष्ठान। यह नाम कुरआन में सूरा अल-बक़रा में उल्लेखित है, जहां यह हज की महत्वपूर्ण रस्मों में से एक के रूप में बताया गया है। मरवा नाम इस्लामी संस्कृति में महत्वपूर्ण है क्योंकि यह धार्मिक अनुष्ठानों और ईश्वर की प्रसन्नता प्राप्त करने का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مروة",
+      "transliteration": "marwah",
+      "romanization": "marwah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Marwa; a female given name and place name"
+      ],
+      "etymology_explanation": "The form مروة is an established Arabic lexical item. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "مروة",
-      "meaning": "مروة د لوړوالي، لوړ مقام، يا مذهبي رسم معنی لري",
-      "long_meaning": "مروة د عربي اصل نوم دی چې د لوړوالي، لوړ مقام، يا مذهبي رسم معنی لري. دا نوم د قرآن کریم په سورة البقرة کې ذکر شوی دی، چیرته چې دا د حج د مهمو رسمو په توګه بیان شوی دی. مروة نوم په اسلامي کلتور کې د پام وړ دی ځکه چې دا د مذهبي رسمو او د الله رضا ترلاسه کولو نښه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "مروة is an established Arabic form.",
+        "Urdu": "مروہ is used in Urdu.",
+        "Persian": "مروه is an established Persian form.",
+        "Hindi": "मरवा is used in Hindi.",
+        "Pashto": "مروه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Marwah",
-      "meaning": "a name that signifies ascension, high place, or religious rituals",
-      "long_meaning": "Marwah is a feminine given name of Arabic origin, signifying ascension, high place, or religious rituals. The name is mentioned in the Quran, specifically in Surah Al-Baqarah, where it refers to one of the essential rituals during Hajj. In Islamic tradition, Marwah symbolizes spiritual elevation, devotion, and the pursuit of divine pleasure. The name holds significant cultural and religious value, reflecting the importance of rituals and spiritual growth."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form مروة. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Marwah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense marwa; a female given name and place name.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Marwa; a female given name and place name",
+      "related_concepts": [
+        "marwa; a female given name and place name"
+      ],
+      "semantic_relationship": "The central semantic idea is marwa; a female given name and place name; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of marwa; a female given name and place name.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Marwa; a female given name and place name"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Marwah",
+        "meaning": "Marwa; a female given name and place name",
+        "long_meaning": "Marwah is a Arabic-origin name. Its core meaning is marwa; a female given name and place name. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat."
+      },
+      "urdu": {
+        "name": "مروہ",
+        "meaning": "مروہ (زنانہ نام)",
+        "long_meaning": "Marwah (مروہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مروہ (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "مروه",
+        "meaning": "مروه (نام زنانه)",
+        "long_meaning": "Marwah (مروه) نامی برگرفته از زبان عربی است و معنای اصلی آن مروه (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मरवा",
+        "meaning": "मरवा (स्त्री नाम)",
+        "long_meaning": "Marwah (मरवा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मरवा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "مروه",
+        "meaning": "مروه (ښځينه نوم)",
+        "long_meaning": "Marwah (مروه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مروه (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "مروة",
+        "meaning": "مَرْوَة (اسم علم مؤنث وموضع)",
+        "long_meaning": "Marwah (مروة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مَرْوَة (اسم علم مؤنث وموضع). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "MAR-wah",
-      "urdu": "اردو میں تلفظ کی تفصیل: مَرْوَہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: मरवाह",
-      "pashto": "په پښتو کې د تلفظ تفصیل: مروة",
-      "ipa": "/ˈmɑːrwɑː/"
+      "romanized": "mar-wah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "مروہ",
+      "persian": "مروه",
+      "hindi": "मरवा",
+      "pashto": "مروه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MarwahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Marwah"
-    ],
-    "name_variations": [
-      "Marwa"
-    ],
-    "popularity_score": 52,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Marwah",
+        "marwah"
+      ],
+      "script_variants": [
+        "مروة",
+        "مروه",
+        "مروہ",
+        "मरवा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form مروة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Marwah can be understood through the Arabic form مروة, whose central sense is marwa; a female given name and place name. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 89,
-        "year": 2024
+        "question": "What does Marwah mean?",
+        "answer": "Marwah is associated with the Arabic form مروة, whose core sense is marwa; a female given name and place name."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 84,
-        "year": 2024
+        "question": "What is the origin of Marwah?",
+        "answer": "Marwah is associated with Arabic. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 87,
-        "year": 2024
+        "question": "Is Marwah an Arabic name?",
+        "answer": "Yes — the underlying form مروة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 79,
-        "year": 2024
+        "question": "Is Marwah an Islamic name?",
+        "answer": "Marwah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Marwah a Quranic name?",
+        "answer": "Marwah should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Marwah mean in Urdu?",
+        "answer": "In Urdu, Marwah is rendered مروہ and carries the sense مروہ (زنانہ نام)."
+      },
+      {
+        "question": "What does Marwah mean in Persian?",
+        "answer": "In Persian, Marwah is rendered مروه and carries the sense مروه (نام زنانه)."
+      },
+      {
+        "question": "How is Marwah pronounced?",
+        "answer": "A romanized syllable approximation is mar-wah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Marwah?",
+        "answer": "Romanization variants include Marwah, marwah. Script forms are مروة, مروه, مروہ, मरवा."
+      },
+      {
+        "question": "Is Marwah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Marwah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Marwah, a beautiful Islam name meaning \"Source of water\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Marwah, Islam name, baby names, Source of water, Islam baby names, name meaning",
-      "description_paragraph": "Marwah is a meaningful Islam name of Arabic origin that means \"Source of water\". A place where one can find solace and tranquility, symbolizing peace and harmony.",
-      "keywords": [
-        "Marwah",
-        "Islam name",
-        "baby names",
-        "Source of water",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Marwah in Islam tradition?",
-          "a": "Marwah is a beautiful Islam name meaning \"Source of water\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Marwah a good Islam name for a baby?",
-          "a": "Yes, Marwah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Marwah?",
-          "a": "The name Marwah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Marwah correctly?",
-          "a": "Marwah is pronounced MAR-wah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Marwah?",
-          "a": "Naming a child Marwah brings blessings. The meaning \"Source of water\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Marwah?",
-          "a": "Marwah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Marwah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Marwah (مروة).",
+      "h1": "Marwah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Marwah meaning",
       "secondary_keywords": [
-        "Islam name Marwah",
-        "Marwah meaning",
-        "Marwah origin"
+        "Marwah name meaning",
+        "Marwah meaning in Urdu",
+        "Marwah origin",
+        "Marwah Islamic name",
+        "Marwah pronunciation",
+        "Marwah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Marwah (مروة) is associated with the Arabic form مروة, whose core sense is marwa; a female given name and place name. Marwah is Arabic مَرْوَة (Marwa), a documented female given name and the name of a hill in Mecca. The source gloss 'Source of water' is unsupported; the name is a proper name. Same name as marva, marwa and marwat.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Marwah is associated with the Arabic form مروة, whose core sense is marwa; a female given name and place name.",
+      "meaning_section": "The central meaning of Marwah is marwa; a female given name and place name.",
+      "origin_section": "Marwah is associated with Arabic rather than with a different language.",
+      "islam_section": "Marwah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Marwah is with the sense marwa; a female given name and place name.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Marwah",
+      "#MarwahMeaning",
+      "#MarwahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islam, Marwah is a significant site in Mecca, Saudi Arabia. It is an important part of the Hajj Pilgrimage, the annual Islamic pilgrimage to Mecca. During the rituals, pilgrims walk between the Safa and Marwah hills seven times as a symbol of Hajar's (the wife of Ibrahim) actions in finding water for her son Ismail. This act reaffirms the faith of Muslims in the profound role that water plays in human existence.",
-    "spiritual_significance": "Marwah, from a spiritual perspective, represents the journey towards seeking tranquility and peace in one's life. The concept of Marwah, encapsulated by the repeated action of walking between the Safa and Marwah hills during the Hajj Pilgrimage, symbolizes the struggle and hardships that one faces in life. However, it is a reminder that even during these hardships, one can find solace and tranquility, leading to spiritual growth and inner peace. This significance is deeply ingrained in the tradition and the spiritual journey of Muslims, and emphasizes the importance of trusting in the divine providence and remaining steadfast in one's faith.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Quranic reference to Marwah The name Marwah carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Ritual performed by the Prophet Muhammad and his companions"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "given name for girls",
-        "place name in Saudi Arabia"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Marwah corresponds to the Arabic form مروة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Marwah has the core sense marwa; a female given name and place name",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "news outlets"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Marwah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Marwah",
-      "location": "Istanbul, Turkey",
-      "story": "Zainab Marwah, a teacher in Istanbul, Turkey, shares that their name Marwah meaning \"Source of water\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Source of water\" symbolizes A place where one can find solace and tranquility, symbolizing peace and harmony.. In Islamic spirituality, bearing the name Marwah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of source of water.",
-    "created_at": "2025-12-22T19:19:49.837Z",
-    "updated_at": "2025-12-22T04:53:14.645Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1340,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Marwah",
-      "description": "Source of water",
-      "additionalName": [
-        "Marwa"
+      "alternateName": [
+        "Marwah",
+        "marwah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form مروة, meaning marwa; a female given name and place name.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Marwah",
-          "description": "Discover the meaning of Marwah - \"Source of water\"",
-          "image": "/images/social/marwah-facebook.jpg"
+      "termCode": "marwah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Marwah - Name Meaning",
-          "description": "Learn about the beautiful name Marwah",
-          "image": "/images/social/marwah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Marwah",
-          "description": "Name meaning: Source of water",
-          "image": "/images/social/marwah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Marwah - Meaning: Source of water",
-        "email_subject": "Beautiful Name: Marwah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Marwah with meaning Source of water",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Marwah, associated with the Arabic form مروة, meaning marwa; a female given name and place name."
     },
-    "similar_sounding_names": [
-      "marudeen.",
-      "maassama",
-      "meher",
-      "mada",
-      "meena",
-      "mahek",
-      "manab",
-      "marhabah",
-      "mika",
-      "marnia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

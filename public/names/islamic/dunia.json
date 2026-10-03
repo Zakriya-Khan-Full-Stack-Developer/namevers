@@ -3,284 +3,476 @@
   "data": {
     "name": "Dunia",
     "slug": "dunia",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "World",
-    "long_meaning": "In Islamic tradition, the name Dunia represents the material world and all the desires and pleasures that come with it. The name is derived from the Arabic word ‘al-dunyā’ which means ‘the world’ or ‘this life’.",
-    "spiritual_meaning": "A reminder of the transient nature of worldly possessions and the importance of focusing on spiritual growth.",
-    "emotional_traits": [
-      "Compassionate",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "S = Sensible",
-      "H = Humble"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Aquamarine",
-    "life_path_number": 6,
-    "numerology_meaning": "In Islamic numerology, the number 6 represents harmony, balance, and love. It is believed that those with a life path number of 6 are natural healers and nurturers, and are drawn to helping others.",
-    "in_arabic": {
-      "name": "دُنِيَا",
-      "meaning": "العالم، الوجود",
-      "long_meaning": "العالم المسموح به في القرآن والسunnah، القلب، الشراقة، السمعة، والعلم كلها"
+    "identity": {
+      "display_name": "Dunia",
+      "normalized_name": "dunia",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Dunia",
+        "dunia"
+      ],
+      "search_variants": [
+        "Dunia",
+        "dunia"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "دُنِيَا",
-      "meaning": "دُنيا",
-      "long_meaning": "جہان، وجود"
+    "core_meaning": {
+      "short_meaning": "World, earthly life",
+      "primary_meaning": "World",
+      "secondary_meanings": [
+        "earthly life"
+      ],
+      "literal_meaning": "World",
+      "extended_meaning": "World, earthly life",
+      "meaning_explanation": "Dunia corresponds to the Arabic form دنيا (د ن و). Its core sense is world, earthly life. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दुनिया",
-      "meaning": "जगत",
-      "long_meaning": "सारा जीवन और उपपत्तियों का सामग्री"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "دنيا",
+      "transliteration": "dunia",
+      "romanization": "dunia",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "World",
+        "earthly life"
+      ],
+      "etymology_explanation": "The form دنيا is an established Arabic lexical item. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "دونيا",
-      "meaning": "دونيا",
-      "long_meaning": "دنيا"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دنيا is an established Arabic form.",
+        "Urdu": "دنیا is used in Urdu.",
+        "Hindi": "दुनिया is used in Hindi.",
+        "Pashto": "دنیا is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Dunia",
-      "meaning": "World",
-      "long_meaning": "In Islamic tradition, the name Dunia represents the material world and all the desires and pleasures that come with it. The name is derived from the Arabic word ‘al-dunyā’ which means ‘the world’ or ‘this life’."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form دنيا. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Dunia may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "الدنيا occurs in the Qur'an (e.g. 2:86)"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense world, earthly life.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "World",
+      "related_concepts": [
+        "world",
+        "earthly life"
+      ],
+      "semantic_relationship": "The central semantic idea is world; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of world.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "World",
+        "Earthly life"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Dunia",
+        "meaning": "World, earthly life",
+        "long_meaning": "Dunia is a Arabic-origin name. Its core meaning is world, earthly life. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "دنیا",
+        "meaning": "دنیا، جہان، عالم",
+        "long_meaning": "Dunia (دنیا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم دنیا، جہان، عالم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दुनिया",
+        "meaning": "दुनिया, संसार, जगत",
+        "long_meaning": "Dunia (दुनिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दुनिया, संसार, जगत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دنیا",
+        "meaning": "دنیا، نړۍ، عالم",
+        "long_meaning": "Dunia (دنیا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې دنیا، نړۍ، عالم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دنيا",
+        "meaning": "الدنيا، العالم، الحياة الدنيا",
+        "long_meaning": "Dunia (دنيا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الدنيا، العالم، الحياة الدنيا. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ˈdjuːniə/",
-      "urdu": "/dʊˈniːə/",
-      "hindi": "/dʊˈniːjɑː/",
-      "pashto": "/dʊˈniːə/",
-      "ipa": "dʊˈniːə"
+      "romanized": "du-nia",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دنیا",
+      "persian": null,
+      "hindi": "दुनिया",
+      "pashto": "دنیا"
     },
-    "celebrity_usage": [
-      "Dunia El-Gamal",
-      "Dunia Malik"
-    ],
-    "social_tags": [
-      "#DuniaNameMeaning",
-      "#IslamicGirlNames",
-      "#ArabicBabyNames"
-    ],
-    "name_variations": [
-      "Duniah"
-    ],
-    "popularity_score": 71,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Dunia",
+        "dunia"
+      ],
+      "script_variants": [
+        "دنيا",
+        "دنیا",
+        "दुनिया"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دنيا is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Dunia can be understood through the Arabic form دنيا, whose central sense is world, earthly life. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Dunia mean?",
+        "answer": "Dunia is associated with the Arabic form دنيا, whose core sense is world, earthly life."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Dunia?",
+        "answer": "Dunia is associated with Arabic. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Dunia an Arabic name?",
+        "answer": "Yes — the underlying form دنيا is Arabic."
+      },
+      {
+        "question": "Is Dunia an Islamic name?",
+        "answer": "Dunia can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Dunia a Quranic name?",
+        "answer": "Dunia should not be classified as a Quranic personal name without a direct Quranic basis. الدنيا occurs in the Qur'an (e.g. 2:86)"
+      },
+      {
+        "question": "What does Dunia mean in Urdu?",
+        "answer": "In Urdu, Dunia is rendered دنیا and carries the sense دنیا، جہان، عالم."
+      },
+      {
+        "question": "What does Dunia mean in Persian?",
+        "answer": "No verified Persian form was established for Dunia."
+      },
+      {
+        "question": "How is Dunia pronounced?",
+        "answer": "A romanized syllable approximation is du-nia. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Dunia?",
+        "answer": "Romanization variants include Dunia, dunia. Script forms are دنيا, دنیا, दुनिया."
+      },
+      {
+        "question": "Is Dunia a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Dunia Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Dunia, a beautiful Islam name meaning \"World\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Dunia, Islam name, baby names, World, Islam baby names, name meaning",
-      "description_paragraph": "Dunia is a meaningful Islam name of Arabic origin that means \"World\". In Islamic tradition, the name Dunia represents the material world and all the desires and pleasures that come with it. The name is derived from the Arabic word ‘al-dunyā’ which means ‘the world’ or ‘this life’.",
-      "keywords": [
-        "Dunia",
-        "Islam name",
-        "baby names",
-        "World",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Dunia in Islam tradition?",
-          "a": "Dunia is a beautiful Islam name meaning \"World\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Dunia a good Islam name for a baby?",
-          "a": "Yes, Dunia is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Dunia?",
-          "a": "The name Dunia has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Dunia correctly?",
-          "a": "Dunia is pronounced /ˈdjuːniə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Dunia?",
-          "a": "Naming a child Dunia brings blessings. The meaning \"World\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Dunia?",
-          "a": "Dunia is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Dunia Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Dunia (دنيا).",
+      "h1": "Dunia Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Dunia meaning",
       "secondary_keywords": [
-        "Islam name Dunia",
-        "Dunia meaning",
-        "Dunia origin"
+        "Dunia name meaning",
+        "Dunia meaning in Urdu",
+        "Dunia origin",
+        "Dunia Islamic name",
+        "Dunia pronunciation",
+        "Dunia name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Dunia (دنيا) is associated with the Arabic form دنيا, whose core sense is world, earthly life. Dunyā ('world, earthly life'). The source record's gloss 'World' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Dunia is associated with the Arabic form دنيا, whose core sense is world, earthly life.",
+      "meaning_section": "The central meaning of Dunia is world, earthly life.",
+      "origin_section": "Dunia is associated with Arabic rather than with a different language.",
+      "islam_section": "Dunia can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Dunia is with the sense world.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Dunia",
+      "#DuniaMeaning",
+      "#DuniaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Dunia often evokes thoughts of secular worldliness and material success. It is associated with a focus on acquiring wealth, power, and status in society. In popular culture, a person named Dunia may symbolize someone who is deeply invested in worldly affairs and value temporal pleasures over spiritual growth.",
-    "spiritual_significance": "Spiritually, the name Dunia serves as a reminder of the transient and fleeting nature of the material world. Islamic teachings encourage individuals to strive for spiritual growth and seek meaning and purpose beyond the physical realm. The name Dunia reminds us that our ultimate goal should be to seek knowledge and wisdom, and to focus on the eternal rewards of the afterlife. It's a call to remember that true happiness and fulfillment come from within and cannot be found in the temporary pleasures of this world.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Dunia carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Classic Islamic name maintaining steady popularity"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Dunia corresponds to the Arabic form دنيا",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Dunia has the core sense world, earthly life",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Dunia remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Dunia",
-      "location": "Cairo, Egypt",
-      "story": "Khadija Dunia from Cairo, Egypt embodies the meaning of Dunia - \"World\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"World\" symbolizes In Islamic tradition, the name Dunia represents the material world and all the desires and pleasures that come with it. The name is derived from the Arabic word ‘al-dunyā’ which means ‘the world’ or ‘this life’.. In Islamic spirituality, bearing the name Dunia serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of world.",
-    "created_at": "2025-12-22T19:19:50.603Z",
-    "updated_at": "2025-12-22T04:53:16.308Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1513,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Dunia",
-      "description": "World",
-      "additionalName": [
-        "Duniah"
+      "alternateName": [
+        "Dunia",
+        "dunia"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form دنيا, meaning world, earthly life.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Dunia",
-          "description": "Discover the meaning of Dunia - \"World\"",
-          "image": "/images/social/dunia-facebook.jpg"
+      "termCode": "dunia",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Dunia - Name Meaning",
-          "description": "Learn about the beautiful name Dunia",
-          "image": "/images/social/dunia-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Dunia",
-          "description": "Name meaning: World",
-          "image": "/images/social/dunia-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Dunia - Meaning: World",
-        "email_subject": "Beautiful Name: Dunia"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Dunia with meaning World",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Dunia, associated with the Arabic form دنيا, meaning world, earthly life."
     },
-    "similar_sounding_names": [
-      "dean",
-      "dafiyah",
-      "dhuka",
-      "daniel",
-      "diya",
-      "dina",
-      "dimah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

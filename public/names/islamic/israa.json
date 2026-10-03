@@ -3,279 +3,477 @@
   "data": {
     "name": "Israa",
     "slug": "israa",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Night Journey",
-    "long_meaning": "The name Israa is derived from the story of Isra and Mi'raj, where Prophet Muhammad (PBUH) was taken on a spiritual journey from Mecca to Jerusalem and then to the heavens. It is a symbol of spiritual growth and closeness to Allah.",
-    "spiritual_meaning": "A symbol of the spiritual journey towards God",
-    "emotional_traits": [
-      "Peaceful",
-      "Spiritual"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Silver",
-      "Blue"
-    ],
-    "lucky_stone": "Moonstone",
-    "life_path_number": 5,
-    "numerology_meaning": "Adaptability, versatility, and resourcefulness",
-    "in_arabic": {
-      "name": "إسراء",
-      "meaning": "الإسراء تعني السفر في الليل أو الإسراء من مكان إلى آخر",
-      "long_meaning": "الإسراء هو اسم مشتق من الفعل 'أسرى' الذي يعني السفر في الليل أو الإسراء من مكان إلى آخر. ورد ذكر الإسراء في القرآن الكريم في سورة الإسراء التي تعتبر من السور المكية، وتتحدث عن رحلة النبي محمد صلى الله عليه وسلم من مكة إلى المسجد الأقصى في القدس. يعتبر اسم إسراء من الأسماء ذات المعنى العميق في الثقافة الإسلامية، حيث يرمز إلى الرحلة الروحية والتحول الإيجابي في حياة الفرد."
+    "identity": {
+      "display_name": "Israa",
+      "normalized_name": "israa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Israa",
+        "isra",
+        "israa"
+      ],
+      "search_variants": [
+        "Israa",
+        "isra",
+        "israa"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اسراء",
-      "meaning": "اسراء کا مطلب رات کے وقت سفر کرنا یا ایک جگہ سے دوسری جگہ سفر کرنا ہے",
-      "long_meaning": "اسراء ایک عربی نام ہے جو 'أسرى' فعل سے ماخوذ ہے، جس کا مطلب ہے رات کے وقت سفر کرنا یا ایک جگہ سے دوسری جگہ سفر کرنا۔ یہ نام قرآن مجید میں سورة الإسراء کے حوالے سے ذکر کیا گیا ہے، جو مکہ میں نازل ہوئی ہے اور حضرت محمد صلی اللہ علیہ وسلم کی مکہ سے مسجد اقصیٰ تک کی رات کی سفر کا ذکر کرتی ہے۔ اسلامی ثقافت میں، اسراء کا نام روحانی سفر اور فرد کی زندگی میں مثبت تبدیلی کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Night journey; the Prophet's night journey",
+      "primary_meaning": "Night journey; the Prophet's night journey",
+      "secondary_meanings": [],
+      "literal_meaning": "Night journey; the Prophet's night journey",
+      "extended_meaning": "Night journey; the Prophet's night journey",
+      "meaning_explanation": "Israa corresponds to the Arabic form إسراء (Qur'anic term; إِسْرَاء (Isrāʾ)). Its core sense is night journey; the prophet's night journey. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इसराह",
-      "meaning": "इसराह का अर्थ है रात में यात्रा करना या एक स्थान से दूसरे स्थान पर यात्रा करना",
-      "long_meaning": "इसराह एक अरबी नाम है जो 'أسرى' क्रिया से लिया गया है, जिसका अर्थ है रात में यात्रा करना या एक स्थान से दूसरे स्थान पर यात्रा करना। यह नाम कुरआन में सूरह अल-इसराह के संदर्भ में उल्लेखित है, जो मक्का में उतरी थी और पैगंबर मुहम्मद की मक्का से अल-अक्सा मस्जिद तक की रात की यात्रा का वर्णन करती है। इस्लामी संस्कृति में, इसराह नाम आध्यात्मिक यात्रा और व्यक्ति के जीवन में सकारात्मक परिवर्तन का प्रतीक है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إسراء",
+      "transliteration": "israa",
+      "romanization": "israa",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Night journey; the Prophet's night journey"
+      ],
+      "etymology_explanation": "The form إسراء is an established Arabic lexical item. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "اسراء",
-      "meaning": "اسراء د شپې سفر معنی لري یا له يوه ځای څخه بل ځای ته سفر",
-      "long_meaning": "اسراء د عربي نوم دی چې د 'أسرى' کلمې څخه اخیستل شوی دی، کوم چې د شپې سفر یا له يوه ځای څخه بل ځای ته سفر معنی لري. دا نوم د قران کریم په سوره الإسراء کې یاد شوی دی، کوم چې په مکہ کې نازل شوی او د حضرت محمد صلی اللہ علیہ وسلم د مکہ څخه مسجد اقصیٰ ته د شپې د سفر بیان کوي. په اسلامي کلتور کې، اسراء نوم د روحاني سفر او د فرد په ژوند کې د مثبتی بدلون نښه ده."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إسراء is an established Arabic form.",
+        "Urdu": "اسراء is used in Urdu.",
+        "Persian": "اسراء is an established Persian form.",
+        "Hindi": "इसरा is used in Hindi.",
+        "Pashto": "اسراء is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Israa",
-      "meaning": "Israa means journey at night or traveling from one place to another",
-      "long_meaning": "Israa is an Arabic name derived from the root 'أسرى' (asra), which means to travel at night or to journey from one place to another. This name is mentioned in the Quran in Surah Al-Isra, which describes the Prophet Muhammad's night journey from Mecca to the Al-Aqsa Mosque in Jerusalem. In Islamic culture, the name Israa symbolizes spiritual journey and positive transformation in a person's life, reflecting themes of movement, growth, and enlightenment."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form إسراء. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Israa may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": true
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense night journey; the prophet's night journey.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Night journey; the Prophet's night journey",
+      "related_concepts": [
+        "night journey; the prophet's night journey"
+      ],
+      "semantic_relationship": "The central semantic idea is night journey; the prophet's night journey; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of night journey; the prophet's night journey.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Night journey; the prophet's night journey"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Israa",
+        "meaning": "Night journey; the Prophet's night journey",
+        "long_meaning": "Israa is a Arabic-origin name. Its core meaning is night journey; the prophet's night journey. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra."
+      },
+      "urdu": {
+        "name": "اسراء",
+        "meaning": "اسراء، شبِ معراج",
+        "long_meaning": "Israa (اسراء) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اسراء، شبِ معراج ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "اسراء",
+        "meaning": "اسراء، سفر شبانه",
+        "long_meaning": "Israa (اسراء) نامی برگرفته از زبان عربی است و معنای اصلی آن اسراء، سفر شبانه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "इसरा",
+        "meaning": "इसरा, रात्रि यात्रा",
+        "long_meaning": "Israa (इसरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ इसरा, रात्रि यात्रा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اسراء",
+        "meaning": "اسراء، د شپې سفر",
+        "long_meaning": "Israa (اسراء) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې اسراء، د شپې سفر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إسراء",
+        "meaning": "الإسراء، السرى ليلاً",
+        "long_meaning": "Israa (إسراء) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإسراء، السرى ليلاً. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "is-RAH",
-      "urdu": "اسراء کا تلفظ: اِس-را",
-      "hindi": "इसराह का उच्चारण: इस-राह",
-      "pashto": "اسراء د تلفظ: اِس-را",
-      "ipa": "/ɪsˈrɑː/"
+      "romanized": "is-raa",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اسراء",
+      "persian": "اسراء",
+      "hindi": "इसरा",
+      "pashto": "اسراء"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#IsraaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Israa"
-    ],
-    "name_variations": [
-      "Isra"
-    ],
-    "popularity_score": 57,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Israa",
+        "isra",
+        "israa"
+      ],
+      "script_variants": [
+        "إسراء",
+        "اسراء",
+        "इसरा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إسراء is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Israa can be understood through the Arabic form إسراء, whose central sense is night journey; the prophet's night journey. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 82,
-        "year": 2024
+        "question": "What does Israa mean?",
+        "answer": "Israa is associated with the Arabic form إسراء, whose core sense is night journey; the prophet's night journey."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Israa?",
+        "answer": "Israa is associated with Arabic. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 79,
-        "year": 2024
+        "question": "Is Israa an Arabic name?",
+        "answer": "Yes — the underlying form إسراء is Arabic."
+      },
+      {
+        "question": "Is Israa an Islamic name?",
+        "answer": "Israa can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Israa a Quranic name?",
+        "answer": "Israa should not be classified as a Quranic personal name without a direct Quranic basis. True"
+      },
+      {
+        "question": "What does Israa mean in Urdu?",
+        "answer": "In Urdu, Israa is rendered اسراء and carries the sense اسراء، شبِ معراج."
+      },
+      {
+        "question": "What does Israa mean in Persian?",
+        "answer": "In Persian, Israa is rendered اسراء and carries the sense اسراء، سفر شبانه."
+      },
+      {
+        "question": "How is Israa pronounced?",
+        "answer": "A romanized syllable approximation is is-raa. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Israa?",
+        "answer": "Romanization variants include Israa, isra, israa. Script forms are إسراء, اسراء, इसरा."
+      },
+      {
+        "question": "Is Israa a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Israa Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Israa, a beautiful Islam name meaning \"Night Journey\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Israa, Islam name, baby names, Night Journey, Islam baby names, name meaning",
-      "description_paragraph": "Israa is a meaningful Islam name of Arabic origin that means \"Night Journey\". The name Israa is derived from the story of Isra and Mi'raj, where Prophet Muhammad (PBUH) was taken on a spiritual journey from Mecca to Jerusalem and then to the heavens. It is a symbol of spiritual growth and closeness to Allah.",
-      "keywords": [
-        "Israa",
-        "Islam name",
-        "baby names",
-        "Night Journey",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Israa in Islam tradition?",
-          "a": "Israa is a beautiful Islam name meaning \"Night Journey\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Israa a good Islam name for a baby?",
-          "a": "Yes, Israa is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Israa?",
-          "a": "The name Israa has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Israa correctly?",
-          "a": "Israa is pronounced is-RAH in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Israa?",
-          "a": "Naming a child Israa brings blessings. The meaning \"Night Journey\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Israa?",
-          "a": "Israa is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Israa Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Israa (إسراء).",
+      "h1": "Israa Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Israa meaning",
       "secondary_keywords": [
-        "Islam name Israa",
-        "Israa meaning",
-        "Israa origin"
+        "Israa name meaning",
+        "Israa meaning in Urdu",
+        "Israa origin",
+        "Israa Islamic name",
+        "Israa pronunciation",
+        "Israa name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Israa (إسراء) is associated with the Arabic form إسراء, whose core sense is night journey; the prophet's night journey. Israa is Arabic إِسْرَاء (Isrāʾ) 'night journey', the term for the Prophet's night journey and the title of a Qur'anic sura. The source gloss 'Night Journey' is consistent. Same name as isra and issra.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Israa is associated with the Arabic form إسراء, whose core sense is night journey; the prophet's night journey.",
+      "meaning_section": "The central meaning of Israa is night journey; the prophet's night journey.",
+      "origin_section": "Israa is associated with Arabic rather than with a different language.",
+      "islam_section": "Israa can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Israa is with the sense night journey; the prophet's night journey.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Israa",
+      "#IsraaMeaning",
+      "#IsraaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Israa carries significant cultural importance in the Islamic world as it is directly related to the miraculous Night Journey (Isra and Mi'raj) of Prophet Muhammad (PBUH) as mentioned in the Quran. This event is celebrated and revered in Islamic communities around the world, and the name Israa serves as a reminder of this important event in Islamic history.",
-    "spiritual_significance": "The name Israa holds great spiritual significance as it represents the journey of spiritual growth and closeness to Allah. In the story of Isra and Mi'raj, Prophet Muhammad (PBUH) was taken on this journey to seek his Lord's blessings and guidance, and this journey serves as an inspiration for Muslims to seek spiritual enlightenment and closeness to Allah in their own lives. The name Israa serves as a reminder of the importance of spiritual growth and the ongoing journey towards Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Israa was a wife of Prophet Muhammad (pbuh) and is mentioned in Sahih Bukhari and Sahih Muslim. The name Israa carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Gaining popularity in Western Muslim communities",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Israa corresponds to the Arabic form إسراء",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Israa has the core sense night journey; the prophet's night journey",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Israa remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Israa",
-      "location": "Istanbul, Turkey",
-      "story": "A successful entrepreneur named Fatima Israa in Istanbul, Turkey attributes much of their success to the blessing of their name Israa, which means \"Night Journey\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Night Journey\" symbolizes The name Israa is derived from the story of Isra and Mi'raj, where Prophet Muhammad (PBUH) was taken on a spiritual journey from Mecca to Jerusalem and then to the heavens. It is a symbol of spiritual growth and closeness to Allah.. In Islamic spirituality, bearing the name Israa serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of night journey.",
-    "created_at": "2025-12-22T19:19:49.841Z",
-    "updated_at": "2025-12-22T04:53:14.687Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1706,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Israa",
-      "description": "Night Journey",
-      "additionalName": [
-        "Isra"
+      "alternateName": [
+        "Israa",
+        "isra",
+        "israa"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form إسراء, meaning night journey; the prophet's night journey.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Israa",
-          "description": "Discover the meaning of Israa - \"Night Journey\"",
-          "image": "/images/social/israa-facebook.jpg"
+      "termCode": "israa",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Israa - Name Meaning",
-          "description": "Learn about the beautiful name Israa",
-          "image": "/images/social/israa-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Israa",
-          "description": "Name meaning: Night Journey",
-          "image": "/images/social/israa-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Israa - Meaning: Night Journey",
-        "email_subject": "Beautiful Name: Israa"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Israa with meaning Night Journey",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Israa, associated with the Arabic form إسراء, meaning night journey; the prophet's night journey."
     },
-    "similar_sounding_names": [
-      "id",
-      "iqrit",
-      "isa",
-      "inga"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

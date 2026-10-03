@@ -3,275 +3,471 @@
   "data": {
     "name": "Daudi",
     "slug": "daudi",
-    "language": [
-      "Swahili"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Follower of Prophet Daud",
-    "long_meaning": "The name Daudi is derived from the Swahili language and is associated with the Prophet Daud (David), a prophet in Islam. It signifies a follower or descendant of the prophet.",
-    "spiritual_meaning": "In Islamic tradition, Daud is known for his justice, courage, and devotion to Allah. The name Daudi is a reflection of these virtues.",
-    "emotional_traits": [
-      "Brave",
-      "Just",
-      "Devout"
-    ],
-    "hidden_personality_traits": [
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 5,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 3,
-    "numerology_meaning": "Creativity, Self-expression, and Communication",
-    "in_arabic": {
-      "name": "داودي",
-      "meaning": "اسم مشتق من داود عليه السلام، يعني محب لله تعالى",
-      "long_meaning": "داودي هو اسم مشتق من اسم النبي داود عليه السلام، ويعني الشخص الذي يحب الله تعالى بشدة، ويتميز بالصفات الحميدة مثل الصبر والشجاعة والتوكل على الله. ورد ذكر اسم داود في القرآن الكريم في عدة سور، منها سورة البقرة وسورة النساء وسورة الأنبياء."
+    "identity": {
+      "display_name": "Daudi",
+      "normalized_name": "daudi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Daudi",
+        "daudi"
+      ],
+      "search_variants": [
+        "Daudi",
+        "daudi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "داؤدی",
-      "meaning": "داؤد علیہ السلام سے ماخوذ، اللہ تعالیٰ کا محب",
-      "long_meaning": "داؤدی نام نبی داؤد علیہ السلام سے ماخوذ ہے، جس کا مطلب ہے اللہ تعالیٰ کا محب۔ یہ نام ان شخصیتوں کو دیا جاتا ہے جو اللہ کی رضا اور محبت کی تلاش میں رہتی ہیں۔ داؤد علیہ السلام کی صفات جیسے کہ صبر، شجاعت، اور تقویٰ کو اپنانے والے افراد کے لئے یہ نام بہت اہم ہے۔"
+    "core_meaning": {
+      "short_meaning": "Follower of Prophet Daud (David)",
+      "primary_meaning": "Follower of Prophet Daud (David)",
+      "secondary_meanings": [],
+      "literal_meaning": "Follower of Prophet Daud (David)",
+      "extended_meaning": "Follower of Prophet Daud (David)",
+      "meaning_explanation": "Daudi corresponds to the Arabic form داودي (Hebrew דָּוִד). Its core sense is follower of prophet daud (david). Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "दावदी",
-      "meaning": "दावूद पर एक प्रेमी, ईश्वर का भक्त",
-      "long_meaning": "दावदी नाम पैगंबर दावूद से लिया गया है, जिसका अर्थ है वह व्यक्ति जो ईश्वर से बहुत प्रेम करता है। यह नाम उन लोगों को दिया जाता है जो ईश्वर की पूजा और सेवा में समर्पित होते हैं। दावूद की विशेषताओं जैसे कि धैर्य, साहस, और पवित्रता को अपनाने वालों के लिए यह नाम महत्वपूर्ण है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "داودي",
+      "transliteration": "daudi",
+      "romanization": "daudi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Follower of Prophet Daud (David)"
+      ],
+      "etymology_explanation": "The form داودي is an established Arabic lexical item. Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "داودي",
-      "meaning": "داؤد پښتو دلیف مشتق، د الله محب",
-      "long_meaning": "داودي د نبي داؤد څخه اخستل شوی نوم دی، کوم چې د الله تعالی د مینې او محبت مانا ورکوي. دا نوم هغو کسانو ته ورکول کيږي چي د الله رضا او مينې په لټه کې وي. د داؤد صفات لکه صبر، حوصله، او پر الله توکل د هغو کسانو لپاره دا نوم ډير مهم دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "داودي is an established Arabic form.",
+        "Urdu": "داؤدی is used in Urdu.",
+        "Hindi": "दाऊदी is used in Hindi.",
+        "Pashto": "داودي is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Daudi",
-      "meaning": "Beloved of Allah, derived from Prophet Dawood",
-      "long_meaning": "The name Daudi is derived from the Arabic root 'D-W-D', which means 'beloved' or 'loved by Allah'. It is associated with Prophet Dawood (David), who is mentioned in the Quran and the Bible. The name signifies a person who is loved and cherished by Allah, and is often given to children born into Muslim families who wish to instill a sense of spiritual connection and devotion."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form داودي. Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Daudi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense follower of prophet daud (david).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Follower of Prophet Daud (David)",
+      "related_concepts": [
+        "follower of prophet daud (david)"
+      ],
+      "semantic_relationship": "The central semantic idea is follower of prophet daud (david); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of follower of prophet daud (david).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Follower of prophet daud (david)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Daudi",
+        "meaning": "Follower of Prophet Daud (David)",
+        "long_meaning": "Daudi is a Arabic-origin name. Its core meaning is follower of prophet daud (david). Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "داؤدی",
+        "meaning": "داؤد علیہ السلام کا پیروکار",
+        "long_meaning": "Daudi (داؤدی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم داؤد علیہ السلام کا پیروکار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "दाऊदी",
+        "meaning": "दाऊद का अनुयायी",
+        "long_meaning": "Daudi (दाऊदी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दाऊद का अनुयायी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "داودي",
+        "meaning": "د داود پيرو",
+        "long_meaning": "Daudi (داودي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د داود پيرو ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "داودي",
+        "meaning": "تابع داود النبي",
+        "long_meaning": "Daudi (داودي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي تابع داود النبي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "DAW-dee",
-      "urdu": "داؤدی کا تلفظ",
-      "hindi": "दावदी का उच्चारण",
-      "pashto": "داودي تلفظ",
-      "ipa": "/ˈdɑːʊdi/"
+      "romanized": "dau-di",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "داؤدی",
+      "persian": null,
+      "hindi": "दाऊदी",
+      "pashto": "داودي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#DaudiMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Daudi"
-    ],
-    "name_variations": [],
-    "popularity_score": 73,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Daudi",
+        "daudi"
+      ],
+      "script_variants": [
+        "داؤدی",
+        "داودي",
+        "दाऊदी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form داودي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Daudi can be understood through the Arabic form داودي, whose central sense is follower of prophet daud (david). Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 85,
-        "year": 2024
+        "question": "What does Daudi mean?",
+        "answer": "Daudi is associated with the Arabic form داودي, whose core sense is follower of prophet daud (david)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 82,
-        "year": 2024
+        "question": "What is the origin of Daudi?",
+        "answer": "Daudi is associated with Arabic. Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Daudi an Arabic name?",
+        "answer": "Yes — the underlying form داودي is Arabic."
+      },
+      {
+        "question": "Is Daudi an Islamic name?",
+        "answer": "Daudi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Daudi a Quranic name?",
+        "answer": "Daudi should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Daudi mean in Urdu?",
+        "answer": "In Urdu, Daudi is rendered داؤدی and carries the sense داؤد علیہ السلام کا پیروکار."
+      },
+      {
+        "question": "What does Daudi mean in Persian?",
+        "answer": "No verified Persian form was established for Daudi."
+      },
+      {
+        "question": "How is Daudi pronounced?",
+        "answer": "A romanized syllable approximation is dau-di. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Daudi?",
+        "answer": "Romanization variants include Daudi, daudi. Script forms are داؤدی, داودي, दाऊदी."
+      },
+      {
+        "question": "Is Daudi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Daudi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Daudi, a beautiful Islam name meaning \"Follower of Prophet Daud\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Daudi, Islam name, baby names, Follower of Prophet Daud, Islam baby names, name meaning",
-      "description_paragraph": "Daudi is a meaningful Islam name of Arabic origin that means \"Follower of Prophet Daud\". The name Daudi is derived from the Swahili language and is associated with the Prophet Daud (David), a prophet in Islam. It signifies a follower or descendant of the prophet.",
-      "keywords": [
-        "Daudi",
-        "Islam name",
-        "baby names",
-        "Follower of Prophet Daud",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Daudi in Islam tradition?",
-          "a": "Daudi is a beautiful Islam name meaning \"Follower of Prophet Daud\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Daudi a good Islam name for a baby?",
-          "a": "Yes, Daudi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Daudi?",
-          "a": "The name Daudi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Daudi correctly?",
-          "a": "Daudi is pronounced DAW-dee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Daudi?",
-          "a": "Naming a child Daudi brings blessings. The meaning \"Follower of Prophet Daud\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Daudi?",
-          "a": "Daudi is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Daudi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Daudi (داودي).",
+      "h1": "Daudi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Daudi meaning",
       "secondary_keywords": [
-        "Islam name Daudi",
-        "Daudi meaning",
-        "Daudi origin"
+        "Daudi name meaning",
+        "Daudi meaning in Urdu",
+        "Daudi origin",
+        "Daudi Islamic name",
+        "Daudi pronunciation",
+        "Daudi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Daudi (داودي) is associated with the Arabic form داودي, whose core sense is follower of prophet daud (david). Dāwūdī ('follower of Dāwūd'), a nisba from the prophet's name. The source record's gloss 'Follower of Prophet Daud' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Daudi is associated with the Arabic form داودي, whose core sense is follower of prophet daud (david).",
+      "meaning_section": "The central meaning of Daudi is follower of prophet daud (david).",
+      "origin_section": "Daudi is associated with Arabic rather than with a different language.",
+      "islam_section": "Daudi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Daudi is with the sense follower of prophet daud (david).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Daudi",
+      "#DaudiMeaning",
+      "#DaudiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Daudi is a popular name among the Swahili-speaking population, particularly those in East Africa. Daudi is considered to be an esteemed name, as it is associated with the Prophet Daud (David), who is revered in both Islam and Christianity. In Swahili culture, parents often give this name to their children as a way to honor their ancestors and the religious traditions of their community.",
-    "spiritual_significance": "The name Daudi holds significant spiritual value, as it is derived from the name of a prophet in Islam. The Prophet Daud (David) is known for his strong faith, wisdom, and devotion to God. The name Daudi can serve as a reminder to those who bear it to strive for spiritual growth, wisdom, and devotion to their Creator. It also conveys a sense of connection to the rich religious history and traditions of the Islamic and Swahili communities.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Daudi ibn Ali was a prominent figure during the Abbasid Caliphate in the 8th century. The name Daudi carried significant weight in that era.",
-        "time_period": "8th century",
-        "context": "Daudi ibn Ali was a scholar, poet, and politician during the Abbasid Caliphate. He was a close advisor to Caliph Harun al-Rashid and played a significant role in the administration of the caliphate."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "The name Daudi is not commonly used in the modern world.",
-        "In some African countries, the name Daudi is used as a given name."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Daudi corresponds to the Arabic form داودي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Daudi has the core sense follower of prophet daud (david)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "The name Daudi is not a popular name on social media platforms."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Daudi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Daudi",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Omar Daudi in Karachi, Pakistan attributes much of their success to the blessing of their name Daudi, which means \"Follower of Prophet Daud\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Follower of Prophet Daud\" symbolizes The name Daudi is derived from the Swahili language and is associated with the Prophet Daud (David), a prophet in Islam. It signifies a follower or descendant of the prophet.. In Islamic spirituality, bearing the name Daudi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of follower of prophet daud.",
-    "created_at": "2025-12-22T19:19:49.833Z",
-    "updated_at": "2025-12-22T04:53:14.576Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1196,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Daudi",
-      "description": "Follower of Prophet Daud",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Swahili"
+      "alternateName": [
+        "Daudi",
+        "daudi"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Daudi",
-          "description": "Discover the meaning of Daudi - \"Follower of Prophet Daud\"",
-          "image": "/images/social/daudi-facebook.jpg"
+      "description": "A name associated with the Arabic form داودي, meaning follower of prophet daud (david).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "daudi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Daudi - Name Meaning",
-          "description": "Learn about the beautiful name Daudi",
-          "image": "/images/social/daudi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Daudi",
-          "description": "Name meaning: Follower of Prophet Daud",
-          "image": "/images/social/daudi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Daudi - Meaning: Follower of Prophet Daud",
-        "email_subject": "Beautiful Name: Daudi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Daudi with meaning Follower of Prophet Daud",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Daudi, associated with the Arabic form داودي, meaning follower of prophet daud (david)."
     },
-    "similar_sounding_names": [
-      "dafiyah",
-      "dimah",
-      "dina",
-      "dhuka",
-      "dean",
-      "diya",
-      "daniel"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

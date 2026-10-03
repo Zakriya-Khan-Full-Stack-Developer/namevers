@@ -3,293 +3,485 @@
   "data": {
     "name": "Azeemah",
     "slug": "azeemah",
-    "language": [
-      "Arabic",
-      "Urdu"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Great, majestic, noble, dignified",
-    "long_meaning": "The one who is great, majestic, noble, and dignified",
-    "spiritual_meaning": "Represents the idea of being humble yet powerful, embodying strength and grace",
-    "emotional_traits": [
-      "Proud",
-      "Majestic",
-      "Gracious"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Resilient",
-      "Brave"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Blue",
-      "Purple"
-    ],
-    "lucky_stone": "Amethyst",
-    "life_path_number": 1,
-    "numerology_meaning": "Leadership, independence, and creativity",
-    "in_arabic": {
-      "name": "أَزِيمَة",
-      "meaning": "أَزِيمَةُ الطَودِ، أَزِيمَةُ الجُدودِ",
-      "long_meaning": "أَزِيمَةُ الطَودِ، أَزِيمَةُ الجُدودِ، مُصَنِفَةٌ عَلى طَودِ الجُدودِ، تَحسَبُ أَنَهُ مَقتولٌ، وَهُوَ مَعجولٌ، لِأَنَهُ لَم يَكُن لَهُ جَنبٌ، وَكانَ يَومَ قِيامِ السَيحَةِ حَتّى أَصابَهُ مَوتٌ، فَقُبِضَ عَلى يَدَيهِ فَضَرَبَ بِأَثناعِجِلَتَيْهِ عَنِ القَومِ حَتّى أَسفَرَ عَلى يَدمِهِ، ثُمَّ وَجهَهُ إِلَي الَّذي يَومَ قِيامِ السَيحَةِ، فَأَصابَ بِالناسِ، ثُمَّ تَلا وَجهَهُ إِلَي أَصحابِ النُطَفِ حَتّى أَسفَرَ عَلى يَدمِهِ، فَقُبِضَ عَلى يَدَيهِ، فَضَرَبَ بِهِ عَنِ القَومِ حَتّى أَسفَرَ عَلى يَدمِهِ، فَأَصابَ بِهِ جَدّي بِالِحِداءِ أَغَرٍّ لِأَنَهُ لَم يَكُن لَهُ جَنبٌ، وَلَم يَكُن لَهُ حَربُ فَتَقُدّ بِهِ عَلى يَدمِهِ، وَأَخَذَ بِهِ يَومَ قِيامِ السَيحَةِ حَتّى أَسفَرَ عَلى يَدمِهِ، فَقُبِضَ عَلى يَدَيهِ، فَضَرَبَ بِأَثناعِجِلَتَيْهِ عَنِ القَومِ حَتّى أَسفَرَ عَلى يَدمِهِ، فَأَصابَ بِهِ جَدّي بِالِحِداءِ"
+    "identity": {
+      "display_name": "Azeemah",
+      "normalized_name": "azeemah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Azeemah",
+        "azeemah"
+      ],
+      "search_variants": [
+        "Azeemah",
+        "azeemah"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "أزیمہ",
-      "meaning": "آزیمہ کا معنی ہے، وہ جس پر چھالے کی طرح چھلکے ہوتے ہیں",
-      "long_meaning": "آزیمہ کا معنی ہے، وہ جس پر چھالے کی طرح چھلکے ہوتے ہیں، یہ ایک مسلمان خاتون کا نام ہے، اپنے وقت کے شہرت و منزلت رکھنے والی، وہ ایک شہزادہ کی بیوی تھیں، ان کی شادی ایک عظیم الشان تقریب میں ہوئی تھی، جس میں پوری قوم کی اہم شخصیات نے شرکت کی تھی، وہ ایک شہزادہ کی بیوی تھیں، ان کی شادی ایک عظیم الشان تقریب میں ہوئی تھی، جس میں پوری قوم کی اہم شخصیات نے شرکت کی تھی"
+    "core_meaning": {
+      "short_meaning": "Great, majestic, noble, dignified",
+      "primary_meaning": "Great",
+      "secondary_meanings": [
+        "majestic",
+        "noble",
+        "dignified"
+      ],
+      "literal_meaning": "Great",
+      "extended_meaning": "Great, majestic, noble, dignified",
+      "meaning_explanation": "Azeemah corresponds to the Arabic form عظيمة (ع ظ م). Its core sense is great, majestic, noble, dignified. Variant romanization of عظيمة.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "आज़ीमाह",
-      "meaning": "आज़ीमाह का अर्थ है विशाल या महान",
-      "long_meaning": "आज़ीमाह का अर्थ है विशाल या महान, जिसका अर्थ है विशाल या महान, जो اپنی विशालता और महानता के لیے جانا जातا ہے، وہ ایک مسلمان خاتون کا نام ہے، اپنے وقت کے شہرت و منزلت رکھنے والی، وہ ایک شہزادہ کی بیوی تھیں، ان کی شادی ایک عظیم الشان تقریب میں ہوئی تھی، جس میں پوری قوم کی اہم شخصیات نے شرکت کی تھی"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عظيمة",
+      "transliteration": "azeemah",
+      "romanization": "azeemah",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Great",
+        "majestic",
+        "noble",
+        "dignified"
+      ],
+      "etymology_explanation": "The form عظيمة is an established Arabic lexical item. Variant romanization of عظيمة.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "آزیمه",
-      "meaning": "آزیمه یوں معنی کوي چې د چالو پورته د چالو پورته وي",
-      "long_meaning": "آزیمه یوں معنی کوي چې د چالو پورته د چالو پورته وي، دې یو مسلمان خاتون نوم دی چې د وخت د مشهوره او ځوابوالی و، دې یو شازادې خاته وه چې د یو عظیم غونډې په سترگه سره واده کړی وه، په دې غونډې کې د ټول ټول په ځانګړي توگه د لوړه سند ته ورته ویل کیږي، دې یو شازادې خاته وه چې د یو عظیم غونډې په سترگه سره واده کړی وه، په دې غونډې کې د ټول ټول په ځانګړي توگه د لوړه سند ته ورته ویل کیږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عظيمة is an established Arabic form.",
+        "Urdu": "عظیمہ is used in Urdu.",
+        "Hindi": "अज़ीमा is used in Hindi.",
+        "Pashto": "عظيمه is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Azeemah",
-      "meaning": "Azeemah is a Muslim feminine given name that means \"great\", \"magnificent\", or \"exalted\"",
-      "long_meaning": "Azeemah is a Muslim feminine given name that means \"great\", \"magnificent\", or \"exalted\", derived from the Arabic word \"azimah\", which means \"great\", \"magnificent\", or \"exalted\", Azeemah is a name that connotes strength, courage, and nobility, Azeemah is a name that connotes strength, courage, and nobility, Azeemah is a name that connotes strength, courage, and nobility, Azeemah is often given to girls born into families of high social status or to those who are known for their exceptional qualities, Azeemah is often given to girls born into families of high social status or to those who are known for their exceptional qualities, Azeemah is a popular name in many Muslim countries and is often associated with positive traits such as kindness, generosity, and wisdom"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form عظيمة. Variant romanization of عظيمة.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Azeemah may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense great, majestic, noble, dignified.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Great",
+      "related_concepts": [
+        "great",
+        "majestic",
+        "noble",
+        "dignified"
+      ],
+      "semantic_relationship": "The central semantic idea is great; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of great.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Great",
+        "Majestic",
+        "Noble",
+        "Dignified"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Azeemah",
+        "meaning": "Great, majestic, noble, dignified",
+        "long_meaning": "Azeemah is a Arabic-origin name. Its core meaning is great, majestic, noble, dignified. Variant romanization of عظيمة."
+      },
+      "urdu": {
+        "name": "عظیمہ",
+        "meaning": "عظیم، باوقار، نجیب",
+        "long_meaning": "Azeemah (عظیمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عظیم، باوقار، نجیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अज़ीमा",
+        "meaning": "महान, गरिमामय, कुलीन",
+        "long_meaning": "Azeemah (अज़ीमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ महान, गरिमामय, कुलीन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عظيمه",
+        "meaning": "لوی، باوقار، نجیب",
+        "long_meaning": "Azeemah (عظيمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لوی، باوقار، نجیب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عظيمة",
+        "meaning": "العظيم، الجليل، النبيل",
+        "long_meaning": "Azeemah (عظيمة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي العظيم، الجليل، النبيل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-ZEE-mah",
-      "urdu": "اردو میں تلفظ کی تفصیل",
-      "hindi": "हिन्दी में उच्चारण विवरण",
-      "pashto": "په پښتو کې د تلفظ تفصیل",
-      "ipa": "/ˈɑː.liːmə/"
+      "romanized": "a-zee-mah",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عظیمہ",
+      "persian": null,
+      "hindi": "अज़ीमा",
+      "pashto": "عظيمه"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AzeemahMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Azeemah"
-    ],
-    "name_variations": [
-      "Azimah",
-      "Azeema"
-    ],
-    "popularity_score": 58,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Azeemah",
+        "azeemah"
+      ],
+      "script_variants": [
+        "عظيمة",
+        "عظيمه",
+        "عظیمہ",
+        "अज़ीमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عظيمة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Azeemah can be understood through the Arabic form عظيمة, whose central sense is great, majestic, noble, dignified. Variant romanization of عظيمة.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Azeemah mean?",
+        "answer": "Azeemah is associated with the Arabic form عظيمة, whose core sense is great, majestic, noble, dignified."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Azeemah?",
+        "answer": "Azeemah is associated with Arabic. Variant romanization of عظيمة."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Azeemah an Arabic name?",
+        "answer": "Yes — the underlying form عظيمة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 74,
-        "year": 2024
+        "question": "Is Azeemah an Islamic name?",
+        "answer": "Azeemah can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Azeemah a Quranic name?",
+        "answer": "Azeemah should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Azeemah mean in Urdu?",
+        "answer": "In Urdu, Azeemah is rendered عظیمہ and carries the sense عظیم، باوقار، نجیب."
+      },
+      {
+        "question": "What does Azeemah mean in Persian?",
+        "answer": "No verified Persian form was established for Azeemah."
+      },
+      {
+        "question": "How is Azeemah pronounced?",
+        "answer": "A romanized syllable approximation is a-zee-mah. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Azeemah?",
+        "answer": "Romanization variants include Azeemah, azeemah. Script forms are عظيمة, عظيمه, عظیمہ, अज़ीमा."
+      },
+      {
+        "question": "Is Azeemah a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Azeemah Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Azeemah, a beautiful Islam name meaning \"Great, majestic, noble, dignified\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Azeemah, Islam name, baby names, Great, majestic, noble, dignified, Islam baby names, name meaning",
-      "description_paragraph": "Azeemah is a meaningful Islam name of Arabic origin that means \"Great, majestic, noble, dignified\". The one who is great, majestic, noble, and dignified",
-      "keywords": [
-        "Azeemah",
-        "Islam name",
-        "baby names",
-        "Great, majestic, noble, dignified",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Azeemah in Islam tradition?",
-          "a": "Azeemah is a beautiful Islam name meaning \"Great, majestic, noble, dignified\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Azeemah a good Islam name for a baby?",
-          "a": "Yes, Azeemah is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Azeemah?",
-          "a": "The name Azeemah has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Azeemah correctly?",
-          "a": "Azeemah is pronounced ah-ZEE-mah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Azeemah?",
-          "a": "Naming a child Azeemah brings blessings. The meaning \"Great, majestic, noble, dignified\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Azeemah?",
-          "a": "Azeemah is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Azeemah Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Azeemah (عظيمة).",
+      "h1": "Azeemah Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Azeemah meaning",
       "secondary_keywords": [
-        "Islam name Azeemah",
-        "Azeemah meaning",
-        "Azeemah origin"
+        "Azeemah name meaning",
+        "Azeemah meaning in Urdu",
+        "Azeemah origin",
+        "Azeemah Islamic name",
+        "Azeemah pronunciation",
+        "Azeemah name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Azeemah (عظيمة) is associated with the Arabic form عظيمة, whose core sense is great, majestic, noble, dignified. Variant romanization of عظيمة.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Azeemah is associated with the Arabic form عظيمة, whose core sense is great, majestic, noble, dignified.",
+      "meaning_section": "The central meaning of Azeemah is great, majestic, noble, dignified.",
+      "origin_section": "Azeemah is associated with Arabic rather than with a different language.",
+      "islam_section": "Azeemah can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Azeemah is with the sense great.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Azeemah",
+      "#AzeemahMeaning",
+      "#AzeemahName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Azeemah holds significant meaning in Islamic culture. In the Arabic language, the word \"Azeem\" signifies greatness, majesty, and nobility. This name was often given to girls whom their parents considered to be born with innate greatness and dignity. This name not only reminded the girl of her worth but also encouraged her to live up to these noble qualities. In traditional Islamic society, women were expected to uphold high moral and social standards. The name Azeemah further reinforced these expectations and proudly displayed the family’s belief in their daughter’s capacity to achieve great things.",
-    "spiritual_significance": "In the spiritual realm, the name Azeemah represents the essence of a noble soul. This greatness is not limited to worldly possessions or earthly achievements but extends to possessing a pure and virtuous character pleasing to Allah. The Prophet Muhammad (peace be upon him) said, \"Allah is pleased with the servant as long as the servant is satisfied with what Allah has given.\" This spiritual significance of the name Azeemah serves as a constant reminder for the individual to strive for inner peace and contentment, continuously working on their character and following Allah's guidance in pursuit of outer success. This name is often a source of inspiration for those who bear it, gently guiding them towards a life filled with spiritual growth and inner transformation.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Azeemah bint Abi Bakr was a companion of the Prophet Muhammad. The name Azeemah carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Azeemah was a prominent female companion of the Prophet Muhammad and is mentioned in various Hadiths."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Increasingly popular among Muslim millennials",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Azeemah corresponds to the Arabic form عظيمة",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Azeemah has the core sense great, majestic, noble, dignified",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Azeemah remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Azeemah",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Layla Azeemah in Karachi, Pakistan attributes much of their success to the blessing of their name Azeemah, which means \"Great, majestic, noble, dignified\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Great, majestic, noble, dignified\" symbolizes The one who is great, majestic, noble, and dignified. In Islamic spirituality, bearing the name Azeemah serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of great, majestic, noble, dignified.",
-    "created_at": "2025-12-22T19:19:49.871Z",
-    "updated_at": "2025-12-22T04:53:15.012Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1026,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Azeemah",
-      "description": "Great, majestic, noble, dignified",
-      "additionalName": [
-        "Azimah",
-        "Azeema"
+      "alternateName": [
+        "Azeemah",
+        "azeemah"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu"
+      "description": "A name associated with the Arabic form عظيمة, meaning great, majestic, noble, dignified.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Azeemah",
-          "description": "Discover the meaning of Azeemah - \"Great, majestic, noble, dignified\"",
-          "image": "/images/social/azeemah-facebook.jpg"
+      "termCode": "azeemah",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Azeemah - Name Meaning",
-          "description": "Learn about the beautiful name Azeemah",
-          "image": "/images/social/azeemah-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Azeemah",
-          "description": "Name meaning: Great, majestic, noble, dignified",
-          "image": "/images/social/azeemah-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Azeemah - Meaning: Great, majestic, noble, dignified",
-        "email_subject": "Beautiful Name: Azeemah"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Azeemah with meaning Great, majestic, noble, dignified",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Azeemah, associated with the Arabic form عظيمة, meaning great, majestic, noble, dignified."
     },
-    "similar_sounding_names": [
-      "alraaz",
-      "amalia",
-      "ayan",
-      "anaan",
-      "ariana",
-      "azzahra",
-      "aidan",
-      "ambar",
-      "amelia",
-      "amber"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

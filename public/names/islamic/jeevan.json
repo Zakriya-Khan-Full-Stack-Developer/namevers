@@ -3,290 +3,479 @@
   "data": {
     "name": "Jeevan",
     "slug": "jeevan",
-    "language": [
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Life, Soul, Living",
-    "long_meaning": "Jeevan is a name that signifies life, vitality, and the essence of being alive. It is often associated with the Persian word for life or soul.",
-    "spiritual_meaning": "The name Jeevan can be related to the Quranic concept of 'hayat' or life, which is a gift from Allah.",
-    "emotional_traits": [
-      "Compassionate",
-      "Vibrant",
-      "Nurturing",
-      "Lively"
-    ],
-    "hidden_personality_traits": [
-      "C = Charismatic",
-      "L = Loyal",
-      "V = Virtuous",
-      "E = Energetic"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Yellow",
-      "Green"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "The number 6 represents harmony and balance in numerology. It is a number of love, beauty, and self-sacrifice. People with the life path number 6 are natural caretakers and nurturers, and they have a deep sense of responsibility and duty.",
-    "in_arabic": {
-      "name": "جيفان",
-      "meaning": "حياة ومعنى الحياة",
-      "long_meaning": "جيفان هو اسم عربي يعود إلى الجذور العربية القديمة، ومعناه الحياة والمعيشة، ويحمل هذا الاسم أهمية كبيرة في التراث الإسلامي حيث يركز على الحياة الدنيا والاخرة، ويُستخدم هذا الاسم في العديد من الثقافات الإسلامية لتحقيق التوازن بين الحياة المادية والروحية"
+    "identity": {
+      "display_name": "Jeevan",
+      "normalized_name": "jeevan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Jeevan",
+        "jeevan"
+      ],
+      "search_variants": [
+        "Jeevan",
+        "jeevan"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "جीवन",
-      "meaning": "زندگی اور زندگی کا مطلب",
-      "long_meaning": "جीवन ایک عربی نام ہے جو قدیم عرب کی جڑوں سے اخذ کیا گیا ہے، اس کا مطلب زندگی اور معاشرہ ہے، اور یہ نام اسلامی روایت میں بہت اہم ہے جہاں زندگی کے دونوں پہلوؤں پر زور دیا جاتا ہے، یہ نام جنوبی ایشیائی مسلم ثقافت میں بھی استعمال ہوتا ہے"
+    "core_meaning": {
+      "short_meaning": "Life, living, soul (Sanskrit)",
+      "primary_meaning": "Life",
+      "secondary_meanings": [
+        "living",
+        "soul (Sanskrit)"
+      ],
+      "literal_meaning": "Life",
+      "extended_meaning": "Life, living, soul (Sanskrit)",
+      "meaning_explanation": "Jeevan corresponds to the Sanskrit form جیون (Sanskrit जीवन (jīvana)). Its core sense is life, living, soul (sanskrit). Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "जीवन",
-      "meaning": "जीवन और जीवन का अर्थ",
-      "long_meaning": "जीवन एक अरबी नाम है जो प्राचीन अरब की जड़ों से लिया गया है, इसका अर्थ जीवन और समाज है, और यह नाम इस्लामी परंपरा में बहुत महत्वपूर्ण है जहां जीवन के दोनों पहलुओं पर जोर दिया जाता है, यह नाम भारतीय मुस्लिम समुदाय में भी प्रयोग किया जाता है"
+    "etymology": {
+      "primary_language": "Sanskrit",
+      "lexical_form": "جیون",
+      "transliteration": "jeevan",
+      "romanization": "jeevan",
+      "root_status": "Sanskrit जीवन (jīvana)",
+      "etymological_meaning": [
+        "Life",
+        "living",
+        "soul (Sanskrit)"
+      ],
+      "etymology_explanation": "The form جیون is an established Sanskrit lexical item. Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "جىوان",
-      "meaning": "ژوند او معنی ژوند",
-      "long_meaning": "جىوان د عربي نوم دی چې د پخواني عرب د ریښو څخه اخیستل شوی دی، دا نوم ژوند او ټولنه معنی لري، او دا نوم په اسلامي دود کې ډیر مهم دی چېرې چې د ژوند دواړه اړخونه ته ټینګار کوي، دا نوم په افغان/پښتو کلتور کې هم کارول کیږي"
+    "language": {
+      "primary": "Sanskrit",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "جیون is an established Arabic form.",
+        "Urdu": "جیون is used in Urdu.",
+        "Persian": "جیوان is an established Persian form.",
+        "Hindi": "जीवन is used in Hindi.",
+        "Pashto": "جیوان is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Jeevan",
-      "meaning": "life and meaning of life",
-      "long_meaning": "Jeevan is an Arabic name derived from ancient Arabic roots, meaning life and society, this name holds significant importance in Islamic tradition where both aspects of life are emphasized, it is used in various Islamic cultures to achieve balance between material and spiritual life"
+    "origin": {
+      "primary_origin": "Sanskrit",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Sanskrit form جیون. Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan.",
+      "cultural_transmission": [
+        "Sanskrit",
+        "South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Jeevan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense life, living, soul (sanskrit).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Life",
+      "related_concepts": [
+        "life",
+        "living",
+        "soul (sanskrit)"
+      ],
+      "semantic_relationship": "The central semantic idea is life; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of life.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Life",
+        "Living",
+        "Soul (sanskrit)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Jeevan",
+        "meaning": "Life, living, soul (Sanskrit)",
+        "long_meaning": "Jeevan is a Sanskrit-origin name. Its core meaning is life, living, soul (sanskrit). Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan."
+      },
+      "urdu": {
+        "name": "جیون",
+        "meaning": "جیون، زندگی، روح (سنسکرت)",
+        "long_meaning": "Jeevan (جیون) سنسکرت زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جیون، زندگی، روح (سنسکرت) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "جیوان",
+        "meaning": "جیوان، زندگی، جان (سانسکریت)",
+        "long_meaning": "Jeevan (جیوان) نامی برگرفته از زبان سانسکریت است و معنای اصلی آن جیوان، زندگی، جان (سانسکریت) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "जीवन",
+        "meaning": "जीवन, प्राण, जीव",
+        "long_meaning": "Jeevan (जीवन) संस्कृत भाषा से लिया गया नाम है। इसका मुख्य अर्थ जीवन, प्राण, जीव है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "جیوان",
+        "meaning": "ژوند، ژوندون، روح",
+        "long_meaning": "Jeevan (جیوان) د سانسکریت ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ژوند، ژوندون، روح ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "جیون",
+        "meaning": "الحياة، الروح (سنسكريتية)",
+        "long_meaning": "Jeevan (جیون) اسم مأخوذ من اللغة السنسكريتية، ومعناه الأساسي الحياة، الروح (سنسكريتية). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "JEE-vahn",
-      "urdu": "جीवन کا تلفظ جىوَن ہے",
-      "hindi": "जीवन का उच्चारण जीवन है",
-      "pashto": "د جىوان د تلفظ جىوان دی",
-      "ipa": "/dʒiˈvɑːn/"
+      "romanized": "jee-van",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "جیون",
+      "persian": "جیوان",
+      "hindi": "जीवन",
+      "pashto": "جیوان"
     },
-    "celebrity_usage": [
-      "Jeevan J. Prasad"
-    ],
-    "social_tags": [
-      "#JeevanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Jeevan"
-    ],
-    "name_variations": [
-      "Jivan"
-    ],
-    "popularity_score": 56,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Jeevan",
+        "jeevan"
+      ],
+      "script_variants": [
+        "جیوان",
+        "جیون",
+        "जीवन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form جیون is an established Sanskrit lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Jeevan can be understood through the Sanskrit form جیون, whose central sense is life, living, soul (sanskrit). Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Jeevan mean?",
+        "answer": "Jeevan is associated with the Sanskrit form جیون, whose core sense is life, living, soul (sanskrit)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Jeevan?",
+        "answer": "Jeevan is associated with Sanskrit. Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Jeevan an Arabic name?",
+        "answer": "No — the underlying form is Sanskrit, not Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 66,
-        "year": 2024
+        "question": "Is Jeevan an Islamic name?",
+        "answer": "Jeevan can occur in Muslim naming contexts, but it is better described as a Sanskrit-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Jeevan a Quranic name?",
+        "answer": "Jeevan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Jeevan mean in Urdu?",
+        "answer": "In Urdu, Jeevan is rendered جیون and carries the sense جیون، زندگی، روح (سنسکرت)."
+      },
+      {
+        "question": "What does Jeevan mean in Persian?",
+        "answer": "In Persian, Jeevan is rendered جیوان and carries the sense جیوان، زندگی، جان (سانسکریت)."
+      },
+      {
+        "question": "How is Jeevan pronounced?",
+        "answer": "A romanized syllable approximation is jee-van. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Jeevan?",
+        "answer": "Romanization variants include Jeevan, jeevan. Script forms are جیوان, جیون, जीवन."
+      },
+      {
+        "question": "Is Jeevan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Jeevan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Jeevan, a beautiful Islam name meaning \"Life, Soul, Living\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Jeevan, Islam name, baby names, Life, Soul, Living, Islam baby names, name meaning",
-      "description_paragraph": "Jeevan is a meaningful Islam name of Arabic origin that means \"Life, Soul, Living\". Jeevan is a name that signifies life, vitality, and the essence of being alive. It is often associated with the Persian word for life or soul.",
-      "keywords": [
-        "Jeevan",
-        "Islam name",
-        "baby names",
-        "Life, Soul, Living",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Jeevan in Islam tradition?",
-          "a": "Jeevan is a beautiful Islam name meaning \"Life, Soul, Living\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Jeevan a good Islam name for a baby?",
-          "a": "Yes, Jeevan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Jeevan?",
-          "a": "The name Jeevan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Jeevan correctly?",
-          "a": "Jeevan is pronounced JEE-vahn in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Jeevan?",
-          "a": "Naming a child Jeevan brings blessings. The meaning \"Life, Soul, Living\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Jeevan?",
-          "a": "Jeevan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 93,
+      "title": "Jeevan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Sanskrit origin, Urdu meaning, pronunciation, variants and Islamic naming context of Jeevan (جیون).",
+      "h1": "Jeevan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Jeevan meaning",
       "secondary_keywords": [
-        "Islam name Jeevan",
-        "Jeevan meaning",
-        "Jeevan origin"
+        "Jeevan name meaning",
+        "Jeevan meaning in Urdu",
+        "Jeevan origin",
+        "Jeevan Islamic name",
+        "Jeevan pronunciation",
+        "Jeevan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Jeevan (جیون) is associated with the Sanskrit form جیون, whose core sense is life, living, soul (sanskrit). Jeevan is Sanskrit जीवन (jīvana) 'life, living, soul'. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Life, Soul, Living' is consistent. Same name as jivan.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Jeevan is associated with the Sanskrit form جیون, whose core sense is life, living, soul (sanskrit).",
+      "meaning_section": "The central meaning of Jeevan is life, living, soul (sanskrit).",
+      "origin_section": "Jeevan is associated with Sanskrit rather than with a different language.",
+      "islam_section": "Jeevan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Jeevan is with the sense life.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Jeevan",
+      "#JeevanMeaning",
+      "#JeevanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic tradition, the name Jeevan holds a significant place as it is an Arabic name that resonates with the vibrancy and energy of life. It is a name that is often given to a newborn, symbolizing a fresh start and the new life that is brought into the world.",
-    "spiritual_significance": "From a spiritual perspective, the name Jeevan carries deep symbolism as it is a reminder of the essence of life and the importance of living every moment to the fullest. It is a name that encourages one to focus on their spiritual growth and to remember that every breath is a gift from Allah, and that we should strive to live her life in accordance with His will. The name Jeevan serves as a reminder that our ultimate goal should be to seek Allah's pleasure and to live a life that is filled with love, grace, and purpose.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Jeevan is a variant of Jivan, a Persian name meaning life The name Jeevan carried significant weight in that era.",
-        "time_period": "12th century",
-        "context": "Jeevan was used in the Middle East during the Islamic Golden Age"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "popular in India and Pakistan"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Jeevan corresponds to the Sanskrit form جیون",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Jeevan has the core sense life, living, soul (sanskrit)",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "social media, naming websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Jeevan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Jeevan",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Fatima Jeevan, a teacher in Riyadh, Saudi Arabia, shares that their name Jeevan meaning \"Life, Soul, Living\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Life, Soul, Living\" symbolizes Jeevan is a name that signifies life, vitality, and the essence of being alive. It is often associated with the Persian word for life or soul.. In Islamic spirituality, bearing the name Jeevan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of life, soul, living.",
-    "created_at": "2025-12-22T19:19:49.833Z",
-    "updated_at": "2025-12-22T04:53:14.577Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1163,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Jeevan",
-      "description": "Life, Soul, Living",
-      "additionalName": [
-        "Jivan"
+      "alternateName": [
+        "Jeevan",
+        "jeevan"
       ],
-      "knowsLanguage": [
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Sanskrit form جیون, meaning life, living, soul (sanskrit).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Jeevan",
-          "description": "Discover the meaning of Jeevan - \"Life, Soul, Living\"",
-          "image": "/images/social/jeevan-facebook.jpg"
+      "termCode": "jeevan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Sanskrit"
         },
-        "twitter": {
-          "title": "Jeevan - Name Meaning",
-          "description": "Learn about the beautiful name Jeevan",
-          "image": "/images/social/jeevan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Jeevan",
-          "description": "Name meaning: Life, Soul, Living",
-          "image": "/images/social/jeevan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Jeevan - Meaning: Life, Soul, Living",
-        "email_subject": "Beautiful Name: Jeevan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Jeevan with meaning Life, Soul, Living",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Jeevan, associated with the Sanskrit form جیون, meaning life, living, soul (sanskrit)."
     },
-    "similar_sounding_names": [
-      "jamesha",
-      "javier",
-      "jada",
-      "jadallah",
-      "janaan",
-      "jasmina",
-      "jan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

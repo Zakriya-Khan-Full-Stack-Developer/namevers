@@ -3,291 +3,481 @@
   "data": {
     "name": "Kadar",
     "slug": "kadar",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Capacity, Ability, Power",
-    "long_meaning": "In Arabic, Kadar means 'capacity', 'ability', or 'power'. It is derived from the verb 'kadara', which means 'to measure' or 'to be sufficient'. In the Quran, Allah (SWT) uses the term 'kadar' to describe His infinite power and wisdom.",
-    "spiritual_meaning": "Symbolizes the infinite mercy and wisdom of Allah, and the unlimited potential within each individual.",
-    "emotional_traits": [
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Green"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 3,
-    "numerology_meaning": "People with the name Kadar are charismatic, generous, and creative. They possess strong leadership qualities and a natural ability to inspire others. However, they can also be impulsive and prone to mood swings.",
-    "in_arabic": {
-      "name": "قدر",
-      "meaning": "الله کی قدرت، قوت، یا مضبوطی کا مطلب",
-      "long_meaning": "قدر کا نام عربی زبان سے نکلا ہے، جس کا مطلب ہے 'الله کی قدرت' یا 'قوت'۔ یہ نام مضبوطی، استحکام، اور الہی مقاصد کی یادآوری کرتا ہے۔ قرآن مجید میں بھی قدر کا ذکر ہے، جیسے کہ 'قدر کی رات' (القدر: 1-5)، جو رمضان کے پچیسویں دن کی رات ہے۔"
+    "identity": {
+      "display_name": "Kadar",
+      "normalized_name": "kadar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Kadar",
+        "kadar"
+      ],
+      "search_variants": [
+        "Kadar",
+        "kadar"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "قدر",
-      "meaning": "اللہ کی طاقت، مضبوطی، یا اقتدار",
-      "long_meaning": "اردو میں قدر کا نام، عربی جڑوں سے ماخوذ ہے، جو 'اللہ کی طاقت' یا 'مضبوطی' کو ظاہر کرتا ہے۔ یہ نام اسلامی تقویم میں رمضان کے مہینے کی تقدیر رات (لیلۂ قدر) کے حوالي سے بھی اہم ہے۔ جنوبی ایشیائی اسلامی روایت میں، یہ نام اکثر بچوں کو دیا جاتا ہے تاکہ وہ اللہ کی قدرت اور حکمت کو یاد رکھیں۔"
+    "core_meaning": {
+      "short_meaning": "Destiny, decree, measure",
+      "primary_meaning": "Destiny",
+      "secondary_meanings": [
+        "decree",
+        "measure"
+      ],
+      "literal_meaning": "Destiny",
+      "extended_meaning": "Destiny, decree, measure",
+      "meaning_explanation": "Kadar corresponds to the Arabic form قدر (Arabic root ق د ر (q-d-r); قَدَر (Qadar)). Its core sense is destiny, decree, measure. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "क़दर",
-      "meaning": "भगवान की शक्ति, सामर्थ्य या ताकत",
-      "long_meaning": "देवनागरी लिपि में क़दर नाम, अरबी मूल से लिया गया है, जिसका अर्थ है 'भगवान की शक्ति' या 'सामर्थ्य'। यह नाम भारतीय मुस्लिम समुदाय में आध्यात्मिक महत्व रखता है, जो अल्लाह की शक्ति और इच्छा को दर्शाता है। यह नाम अक्सर बच्चों को दिया जाता है ताकि वे ईश्वरीय उद्देश्य और शक्ति को याद रखें।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قدر",
+      "transliteration": "kadar",
+      "romanization": "kadar",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Destiny",
+        "decree",
+        "measure"
+      ],
+      "etymology_explanation": "The form قدر is an established Arabic lexical item. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "قدر",
-      "meaning": "د قدرت یا ځواک معنی",
-      "long_meaning": "پښتو کې د قدر نوم، عربي ريښو څخه اخستل شوی دی، کوم چې د 'قدرت' یا 'ځواک' معنی ورکوي. دا نوم د افغان او پښتون دودیزو ارزښتونو لپاره مهم دی، کوم چې د الهي قدرت او حڪمت څرګندونه کوي. دا نوم ډیری وختونه ماشومانو ته ورکول کیږي ترڅو دوی د خدای ځواک او مقاصد په یاد ولري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "قدر is an established Arabic form.",
+        "Urdu": "قدر is used in Urdu.",
+        "Persian": "قدر is an established Persian form.",
+        "Hindi": "क़दर is used in Hindi.",
+        "Pashto": "قدر is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Kadar",
-      "meaning": "Power, might, or divine authority",
-      "long_meaning": "The name Kadar originates from Arabic, meaning 'power' or 'might'. It is derived from the root 'Q-D-R', which signifies strength, capability, and divine authority. In Islamic tradition, Kadar is associated with the concept of predestination and divine decree. The name holds spiritual significance, reflecting the believer's acknowledgment of Allah's power and wisdom. Historically, Kadar has been used across various Muslim cultures, symbolizing the importance of recognizing and submitting to God's will."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form قدر. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Kadar may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense destiny, decree, measure.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Destiny",
+      "related_concepts": [
+        "destiny",
+        "decree",
+        "measure"
+      ],
+      "semantic_relationship": "The central semantic idea is destiny; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of destiny.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Destiny",
+        "Decree",
+        "Measure"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Kadar",
+        "meaning": "Destiny, decree, measure",
+        "long_meaning": "Kadar is a Arabic-origin name. Its core meaning is destiny, decree, measure. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader."
+      },
+      "urdu": {
+        "name": "قدر",
+        "meaning": "قدر، تقدیر، نصیب",
+        "long_meaning": "Kadar (قدر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قدر، تقدیر، نصیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "قدر",
+        "meaning": "قدر، تقدیر، سرنوشت",
+        "long_meaning": "Kadar (قدر) نامی برگرفته از زبان عربی است و معنای اصلی آن قدر، تقدیر، سرنوشت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "क़दर",
+        "meaning": "क़दर, भाग्य, तक़दीर",
+        "long_meaning": "Kadar (क़दर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ क़दर, भाग्य, तक़दीर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "قدر",
+        "meaning": "قدر، برخه، تقدیر",
+        "long_meaning": "Kadar (قدر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې قدر، برخه، تقدیر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "قدر",
+        "meaning": "القدر، القضاء، المقدار",
+        "long_meaning": "Kadar (قدر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي القدر، القضاء، المقدار. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "kah-DAR",
-      "urdu": "اردو میں تلفظ کی تفصیل: قُدَر",
-      "hindi": "हिन्दी में उच्चारण विवरण: क़दर",
-      "pashto": "په پښتو کې د تلفظ تفصیل: کدر",
-      "ipa": "/ˈkɑːdɑːr/"
+      "romanized": "ka-dar",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "قدر",
+      "persian": "قدر",
+      "hindi": "क़दर",
+      "pashto": "قدر"
     },
-    "celebrity_usage": [
-      "Mohammed Kadar - Lebanese actor",
-      "Kadar Ahmad - Indonesian footballer"
-    ],
-    "social_tags": [
-      "#KadarMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Kadar"
-    ],
-    "name_variations": [],
-    "popularity_score": 66,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Kadar",
+        "kadar"
+      ],
+      "script_variants": [
+        "قدر",
+        "क़दर"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form قدر is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Kadar can be understood through the Arabic form قدر, whose central sense is destiny, decree, measure. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Kadar mean?",
+        "answer": "Kadar is associated with the Arabic form قدر, whose core sense is destiny, decree, measure."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Kadar?",
+        "answer": "Kadar is associated with Arabic. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 89,
-        "year": 2024
+        "question": "Is Kadar an Arabic name?",
+        "answer": "Yes — the underlying form قدر is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 77,
-        "year": 2024
+        "question": "Is Kadar an Islamic name?",
+        "answer": "Kadar can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 80,
-        "year": 2024
+        "question": "Is Kadar a Quranic name?",
+        "answer": "Kadar should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Kadar mean in Urdu?",
+        "answer": "In Urdu, Kadar is rendered قدر and carries the sense قدر، تقدیر، نصیب."
+      },
+      {
+        "question": "What does Kadar mean in Persian?",
+        "answer": "In Persian, Kadar is rendered قدر and carries the sense قدر، تقدیر، سرنوشت."
+      },
+      {
+        "question": "How is Kadar pronounced?",
+        "answer": "A romanized syllable approximation is ka-dar. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Kadar?",
+        "answer": "Romanization variants include Kadar, kadar. Script forms are قدر, क़दर."
+      },
+      {
+        "question": "Is Kadar a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Kadar Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Kadar, a beautiful Islam name meaning \"Capacity, Ability, Power\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Kadar, Islam name, baby names, Capacity, Ability, Power, Islam baby names, name meaning",
-      "description_paragraph": "Kadar is a meaningful Islam name of Arabic origin that means \"Capacity, Ability, Power\". In Arabic, Kadar means 'capacity', 'ability', or 'power'. It is derived from the verb 'kadara', which means 'to measure' or 'to be sufficient'. In the Quran, Allah (SWT) uses the term 'kadar' to describe His infinite power and wisdom.",
-      "keywords": [
-        "Kadar",
-        "Islam name",
-        "baby names",
-        "Capacity, Ability, Power",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Kadar in Islam tradition?",
-          "a": "Kadar is a beautiful Islam name meaning \"Capacity, Ability, Power\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Kadar a good Islam name for a baby?",
-          "a": "Yes, Kadar is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Kadar?",
-          "a": "The name Kadar has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Kadar correctly?",
-          "a": "Kadar is pronounced kah-DAR in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Kadar?",
-          "a": "Naming a child Kadar brings blessings. The meaning \"Capacity, Ability, Power\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Kadar?",
-          "a": "Kadar is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Kadar Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Kadar (قدر).",
+      "h1": "Kadar Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Kadar meaning",
       "secondary_keywords": [
-        "Islam name Kadar",
-        "Kadar meaning",
-        "Kadar origin"
+        "Kadar name meaning",
+        "Kadar meaning in Urdu",
+        "Kadar origin",
+        "Kadar Islamic name",
+        "Kadar pronunciation",
+        "Kadar name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Kadar (قدر) is associated with the Arabic form قدر, whose core sense is destiny, decree, measure. Kadar is Arabic قَدَر (Qadar) 'destiny, decree, measure', from the root ق د ر (q-d-r). The source gloss 'Capacity, Ability, Power' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun. Same name as kader.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Kadar is associated with the Arabic form قدر, whose core sense is destiny, decree, measure.",
+      "meaning_section": "The central meaning of Kadar is destiny, decree, measure.",
+      "origin_section": "Kadar is associated with Arabic rather than with a different language.",
+      "islam_section": "Kadar can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Kadar is with the sense destiny.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Kadar",
+      "#KadarMeaning",
+      "#KadarName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Kadar\" has a rich cultural significance in Islamic societies, as it is a name that evokes a sense of power, ability, and strength. Historically, it was common for parents to name their children with names like Kadar, not only for its attractive sound but as a reminder of the inherent power and potential within every human being. It is a name that inspires confidence, and conveys an image of competence and capability.",
-    "spiritual_significance": "From a spiritual perspective, the name \"Kadar\" takes on an even deeper meaning. In the Quran, Allah (SWT) says, \"And We have not sent you, [O Muhammad], except as a mercy to the worlds.\" (21:107) The word 'worlds' in this verse includes not only the material world, but also the spiritual realm. This mercy comes from Allah's infinite 'kadar', or power, wisdom, and ability to grant us blessings and guidance.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn al-Qayyim al-Jawziyya, I'lam al-Muwaqqi'in 'an Rabb al-'Alamin, 2:332-333. The name Kadar carried significant weight in that era.",
-        "time_period": "14th Century",
-        "context": "Ibn al-Qayyim al-Jawziyya mentions Kadar as one of the names of Allah that signifies His infinite power and ability to do all things."
-      },
-      {
-        "reference": "Historical records show that Ibn Kathir, Al-Bidayah wa-l-Nihayah, 8:227-228. The name Kadar carried significant weight in that era.",
-        "time_period": "14th Century",
-        "context": "Ibn Kathir mentions Kadar as one of the names of Allah that is associated with His overwhelming generosity and ability to bestow blessings beyond measure."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Mysticism in Sufism, Cosmic Concepts, Personal God"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Kadar corresponds to the Arabic form قدر",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Kadar has the core sense destiny, decree, measure",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Twitter, Instagram, Reddit"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In modern Islamic context, the term 'Kadar' is often used in the context of mysticism within Sufism, where it refers to the concept of God's will and predestination. The term is also associated with the cosmic concept of 'Qadar Allah' or 'Allah's decree', which signifies the belief that everything in the universe, including human actions, is under God's control. Additionally, 'Kadar' is sometimes used in reference to a personal God, emphasizing the belief in a God who is intimately involved in every aspect of creation and human life. These concepts are popularly discussed and shared on various Islamic social media platforms such as Twitter, Instagram, and Reddit, where individuals engage in spiritual discussions and seek guidance from scholars and peers."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Kadar",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Layla Kadar in Karachi, Pakistan attributes much of their success to the blessing of their name Kadar, which means \"Capacity, Ability, Power\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Capacity, Ability, Power\" symbolizes In Arabic, Kadar means 'capacity', 'ability', or 'power'. It is derived from the verb 'kadara', which means 'to measure' or 'to be sufficient'. In the Quran, Allah (SWT) uses the term 'kadar' to describe His infinite power and wisdom.. In Islamic spirituality, bearing the name Kadar serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of capacity, ability, power.",
-    "created_at": "2025-12-22T19:19:49.946Z",
-    "updated_at": "2025-12-22T04:53:15.627Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1595,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Kadar",
-      "description": "Capacity, Ability, Power",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Kadar",
+        "kadar"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Kadar",
-          "description": "Discover the meaning of Kadar - \"Capacity, Ability, Power\"",
-          "image": "/images/social/kadar-facebook.jpg"
+      "description": "A name associated with the Arabic form قدر, meaning destiny, decree, measure.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "kadar",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Kadar - Name Meaning",
-          "description": "Learn about the beautiful name Kadar",
-          "image": "/images/social/kadar-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Kadar",
-          "description": "Name meaning: Capacity, Ability, Power",
-          "image": "/images/social/kadar-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Kadar - Meaning: Capacity, Ability, Power",
-        "email_subject": "Beautiful Name: Kadar"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Kadar with meaning Capacity, Ability, Power",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Kadar, associated with the Arabic form قدر, meaning destiny, decree, measure."
     },
-    "similar_sounding_names": [
-      "kayan",
-      "kashish",
-      "kabir"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

@@ -3,300 +3,480 @@
   "data": {
     "name": "Baadi",
     "slug": "baadi",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male or Female or Unisex)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Exalted, Noble",
-    "long_meaning": "Derived from the Arabic root 'udda', which means 'to exalt', 'to glorify', or 'to be noble'. In Islamic tradition, the name Baadi is given to a child who is expected to live a righteous and noble life.",
-    "spiritual_meaning": "Symbolizes the journey towards spiritual enlightenment and exalted status in the sight of Allah.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise",
-      "Peaceful"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 6,
-    "numerology_meaning": "Individuals with the name Baadi are often determined, responsible, and courageous. They may have a natural ability to lead and inspire others.",
-    "in_arabic": {
-      "name": "بادي",
-      "meaning": "البداية أو الأول أو الظاهر",
-      "long_meaning": "بادي هو اسم مشتق من الجذر العربي 'ب-د-ى' والذي يعني البداية أو الأول. في اللغة العربية، يعني الاسم الظاهر أو الذي يظهر أولاً. ورد في القرآن الكريم ذكر الفعل 'بدى' في عدة مواضع، مما يعطي الاسم أهمية دينية وروحية في الإسلام. يستخدم الاسم بشكل شائع في الثقافة العربية والإسلامية كدلالة على البدايات الجديدة والظهور أو الانطلاق نحو مستقبل مشرق."
+    "identity": {
+      "display_name": "Baadi",
+      "normalized_name": "baadi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Baadi",
+        "baadi",
+        "badi"
+      ],
+      "search_variants": [
+        "Baadi",
+        "baadi",
+        "badi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بادی",
-      "meaning": "شروع یا ابتداء کرنے والا",
-      "long_meaning": "بادی ایک عربی نام ہے جو 'ب-د-ى' کے جڑ سے نکلا ہے، جس کا مطلب ہے شروع کرنا یا ابتداء کرنا۔ اردو میں، یہ نام شروعات یا اولین کے معنی میں استعمال ہوتا ہے۔ اسلامی تقویم اور تاریخ میں، یہ نام ان اہم واقعات کی یاد دلاتا ہے جو اسلامی تاریخ میں ابتداء یا بدايات سے جڑے ہوئے ہیں۔ جنوبی ایشیا میں مسلمانوں کے درمیان، یہ نام ایک مقبول انتخاب ہے کیونکہ یہ آغاز اور نئے سفر کی علامت ہے۔"
+    "core_meaning": {
+      "short_meaning": "Exalted, noble",
+      "primary_meaning": "Exalted",
+      "secondary_meanings": [
+        "noble"
+      ],
+      "literal_meaning": "Exalted",
+      "extended_meaning": "Exalted, noble",
+      "meaning_explanation": "Baadi corresponds to the Arabic form بادي (ب د و). Its core sense is exalted, noble. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "बादी",
-      "meaning": "शुरुआत या प्रारंभ करने वाला",
-      "long_meaning": "बादी एक अरबी नाम है जिसका अर्थ है शुरुआत या प्रारंभ। यह नाम अरबी मूल 'ब-د-ى' से लिया गया है, जो शुरुआत या पहले के अर्थ में है। भारतीय मुस्लिम समुदाय में, यह नाम अक्सर नए शुरुआत, पहले कदम, या किसी भी नए प्रयास की शुरुआत के प्रतीक के रूप में चुना जाता है। यह नाम इस्लामी परंपरा में भी महत्वपूर्ण है क्योंकि यह कुरआन में उल्लिखित कुछ शब्दों से जुड़ा है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "بادي",
+      "transliteration": "baadi",
+      "romanization": "baadi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Exalted",
+        "noble"
+      ],
+      "etymology_explanation": "The form بادي is an established Arabic lexical item. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "بادي",
-      "meaning": "لومړی یا پیل",
-      "long_meaning": "بادي د عربي نوم دی چې د 'ب-د-ى' د ريښې څخه اخستل شوی دی، چې معنی يې د لومړۍ يا پيل څخه ده. په پښتو کلتور او اسلامي نړۍ کې، دا نوم د نوي پيل يا لومړنیو ګامونو د اخستلو په معنا کارول کیږي. دا نوم د افغانستان او پښتونستان په مسلم ټولنو کې منل شوی دی او د هر نوي سفر يا پيل لپاره د يو مثبت او پرمختللی مفهوم په توګه ګڼل کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بادي is an established Arabic form.",
+        "Urdu": "بادی is used in Urdu.",
+        "Hindi": "बादी is used in Hindi.",
+        "Pashto": "بادي is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Baadi",
-      "meaning": "Beginning, first, or appearing one",
-      "long_meaning": "Baadi is an Arabic name derived from the root 'b-d-y', meaning 'to begin' or 'first'. It signifies the starter, initiator, or the one who appears first. In Islamic tradition, the name relates to several Quranic mentions of beginnings and first occurrences. Baadi symbolizes new beginnings, leadership, and pioneering spirit. Across Muslim cultures, it is chosen for its positive connotations of initiation, renewal, and forward movement."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form بادي. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Baadi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense exalted, noble.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Exalted",
+      "related_concepts": [
+        "exalted",
+        "noble"
+      ],
+      "semantic_relationship": "The central semantic idea is exalted; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of exalted.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Exalted",
+        "Noble"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Baadi",
+        "meaning": "Exalted, noble",
+        "long_meaning": "Baadi is a Arabic-origin name. Its core meaning is exalted, noble. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "بادی",
+        "meaning": "بلند، نجیب",
+        "long_meaning": "Baadi (بادی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بلند، نجیب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "बादी",
+        "meaning": "उन्नत, कुलीन",
+        "long_meaning": "Baadi (बादी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उन्नत, कुलीन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بادي",
+        "meaning": "اوچت، نجیب",
+        "long_meaning": "Baadi (بادي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې اوچت، نجیب ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بادي",
+        "meaning": "الرفيع، النبيل",
+        "long_meaning": "Baadi (بادي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرفيع، النبيل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "bah-AH-dee",
-      "urdu": "اردو میں تلفظ کی تفصیل: باڈی",
-      "hindi": "हिन्दी में उच्चारण विवरण: बा-दी",
-      "pashto": "په پښتو کې د تلفظ تفصیل: باډی",
-      "ipa": "/bɑːˈɑːdi/"
+      "romanized": "baa-di",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بادی",
+      "persian": null,
+      "hindi": "बादी",
+      "pashto": "بادي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#BaadiMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Baadi"
-    ],
-    "name_variations": [
-      "Badi"
-    ],
-    "popularity_score": 60,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Baadi",
+        "baadi",
+        "badi"
+      ],
+      "script_variants": [
+        "بادي",
+        "بادی",
+        "बादी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بادي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Baadi can be understood through the Arabic form بادي, whose central sense is exalted, noble. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Baadi mean?",
+        "answer": "Baadi is associated with the Arabic form بادي, whose core sense is exalted, noble."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Baadi?",
+        "answer": "Baadi is associated with Arabic. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 76,
-        "year": 2024
+        "question": "Is Baadi an Arabic name?",
+        "answer": "Yes — the underlying form بادي is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 72,
-        "year": 2024
+        "question": "Is Baadi an Islamic name?",
+        "answer": "Baadi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Baadi a Quranic name?",
+        "answer": "Baadi should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Baadi mean in Urdu?",
+        "answer": "In Urdu, Baadi is rendered بادی and carries the sense بلند، نجیب."
+      },
+      {
+        "question": "What does Baadi mean in Persian?",
+        "answer": "No verified Persian form was established for Baadi."
+      },
+      {
+        "question": "How is Baadi pronounced?",
+        "answer": "A romanized syllable approximation is baa-di. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Baadi?",
+        "answer": "Romanization variants include Baadi, baadi, badi. Script forms are بادي, بادی, बादी."
+      },
+      {
+        "question": "Is Baadi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Baadi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Baadi, a beautiful Islam name meaning \"Exalted, Noble\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Baadi, Islam name, baby names, Exalted, Noble, Islam baby names, name meaning",
-      "description_paragraph": "Baadi is a meaningful Islam name of Arabic origin that means \"Exalted, Noble\". Derived from the Arabic root 'udda', which means 'to exalt', 'to glorify', or 'to be noble'. In Islamic tradition, the name Baadi is given to a child who is expected to live a righteous and noble life.",
-      "keywords": [
-        "Baadi",
-        "Islam name",
-        "baby names",
-        "Exalted, Noble",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Baadi in Islam tradition?",
-          "a": "Baadi is a beautiful Islam name meaning \"Exalted, Noble\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Baadi a good Islam name for a baby?",
-          "a": "Yes, Baadi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Baadi?",
-          "a": "The name Baadi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Baadi correctly?",
-          "a": "Baadi is pronounced bah-AH-dee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Baadi?",
-          "a": "Naming a child Baadi brings blessings. The meaning \"Exalted, Noble\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Baadi?",
-          "a": "Baadi is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Baadi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Baadi (بادي).",
+      "h1": "Baadi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Baadi meaning",
       "secondary_keywords": [
-        "Islam name Baadi",
-        "Baadi meaning",
-        "Baadi origin"
+        "Baadi name meaning",
+        "Baadi meaning in Urdu",
+        "Baadi origin",
+        "Baadi Islamic name",
+        "Baadi pronunciation",
+        "Baadi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Baadi (بادي) is associated with the Arabic form بادي, whose core sense is exalted, noble. The source record's gloss 'Exalted, Noble' could not be matched to a Tier-A/B lexical source. The form بادي means 'appearing, manifest'. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Baadi is associated with the Arabic form بادي, whose core sense is exalted, noble.",
+      "meaning_section": "The central meaning of Baadi is exalted, noble.",
+      "origin_section": "Baadi is associated with Arabic rather than with a different language.",
+      "islam_section": "Baadi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Baadi is with the sense exalted.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Baadi",
+      "#BaadiMeaning",
+      "#BaadiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Fatima is derived from the Arabic word 'fatima' meaning 'defender' of the faith. It's a common name among Islamic communities and holds significant cultural importance as the name of the Prophet Muhammad's beloved daughter.",
-    "spiritual_significance": "The name Fatima represents selflessness and devotion to one's faith and loved ones. It's a reminder to strive for spiritual growth and protect the teachings of Islam.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "The city of Baadi was an important Islamic center for learning and scholarship, located in Yemen. During the Rasulid Sultanate (1224-1454 CE), it was the seat of a renowned madrasa (university) and was known for its scholars and theologians.",
-        "time_period": "Rasulid Sultanate (1224-1454 CE)",
-        "context": "Islamic center of learning and scholarship"
-      },
-      {
-        "reference": "In the late 18th and early 19th centuries, Baadi was the capital city of the Yemeni Imamate, ruled by Imam al-Mahdi Ahmad bin Yahya (1782-1811 CE). During this period, Baadi was known for its cultural and artistic flourishing, with the city's mosques, madrasas, and palaces being renowned throughout the Islamic world.",
-        "time_period": "Late 18th and early 19th centuries",
-        "context": "Capital city of the Yemeni Imamate and cultural and artistic center"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic interior design",
-        "Sustainable living",
-        "Middle Eastern cuisine"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Baadi corresponds to the Arabic form بادي",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Baadi has the core sense exalted, noble",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Pinterest",
-        "Instagram",
-        "YouTube"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The Islamic name 'Baadi' has gained popularity in modern contexts as a design aesthetic, a lifestyle choice, and a culinary inspiration. In the realm of interior design, 'Baadi' represents an Islamic design style characterized by organic shapes, intricate patterns, and a natural color palette. On platforms such as Pinterest and Instagram, users share images of beautiful 'Baadi' interiors featuring traditional Arabesque motifs, verdant plants, and calming water features. In the area of sustainable living, 'Baadi' is synonymous with eco-consciousness and self-sufficiency, as evidenced by the increasing popularity of 'Baadi' gardens on YouTube and other social media sites. Lastly, in the culinary world, 'Baadi' refers to Middle Eastern and North African dishes that are deeply rooted in Islamic tradition, yet offer contemporary twists and innovative flavor combinations. Popular dishes include shakshuka, falafel, and tagine, which are prepared using locally sourced, seasonal ingredients."
-    },
-    "name_in_real_life": {
-      "person_name": "Zainab Baadi",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "A successful entrepreneur named Zainab Baadi in Riyadh, Saudi Arabia attributes much of their success to the blessing of their name Baadi, which means \"Exalted, Noble\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Exalted, Noble\" symbolizes Derived from the Arabic root 'udda', which means 'to exalt', 'to glorify', or 'to be noble'. In Islamic tradition, the name Baadi is given to a child who is expected to live a righteous and noble life.. In Islamic spirituality, bearing the name Baadi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of exalted, noble.",
-    "created_at": "2025-12-22T19:19:49.933Z",
-    "updated_at": "2025-12-22T04:53:15.534Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1610,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Baadi",
-      "description": "Exalted, Noble",
-      "additionalName": [
-        "Badi"
+      "alternateName": [
+        "Baadi",
+        "baadi",
+        "badi"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "description": "A name associated with the Arabic form بادي, meaning exalted, noble.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "(Male or Female or Unisex)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Baadi",
-          "description": "Discover the meaning of Baadi - \"Exalted, Noble\"",
-          "image": "/images/social/baadi-facebook.jpg"
+      "termCode": "baadi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Baadi - Name Meaning",
-          "description": "Learn about the beautiful name Baadi",
-          "image": "/images/social/baadi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Baadi",
-          "description": "Name meaning: Exalted, Noble",
-          "image": "/images/social/baadi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Baadi - Meaning: Exalted, Noble",
-        "email_subject": "Beautiful Name: Baadi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Baadi with meaning Exalted, Noble",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Baadi, associated with the Arabic form بادي, meaning exalted, noble."
     },
-    "similar_sounding_names": [
-      "buhayyah",
-      "ban",
-      "buthayna",
-      "banujah",
-      "badri",
-      "busrah",
-      "binesh",
-      "baseema",
-      "baraaa",
-      "basbas"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

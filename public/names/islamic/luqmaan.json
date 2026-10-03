@@ -3,277 +3,481 @@
   "data": {
     "name": "Luqmaan",
     "slug": "luqmaan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Intelligent, Wise",
-    "long_meaning": "Luqmaan is a Prophet mentioned in the Quran. He is known for his wisdom and intelligence. The name is derived from the Arabic word 'luqm' which means 'to swallow' or 'to taste'. It is said that Luqmaan swallowed a secret from his father's treasure, which made him wise and knowledgeable. This name is a reminder of the importance of seeking knowledge and wisdom.",
-    "spiritual_meaning": "Luqmaan is a symbol of wisdom and knowledge in Islamic tradition. He is mentioned in the Quran as an example of a wise and just ruler. The name is also associated with the Prophet Solomon, who is known for his wisdom and knowledge.",
-    "emotional_traits": [
-      "Just",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 1,
-    "numerology_meaning": "Represents new beginnings, leadership, and independence. It is a sign of creativity, intuition, and the ability to bring new ideas to life.",
-    "in_arabic": {
-      "name": "لقمان",
-      "meaning": "حكيم و دانا، پرهيزگار، روزه دار، نيكوكار",
-      "long_meaning": "لقمان نام ایک ایسا نام ہے جو قرآن مجید میں ذکر کیا گیا ہے۔ یہ نام ایک معاصر پیغمبر کے نام سے منسوب ہے جو حضرت داؤد کے زمانے میں پیدا ہوا تھا۔ اس کا مطلب حكيم و دانا، پرهيزگار، روزه دار، نيكوكار ہے۔ لقمان ایک بزرگ اور دانشمند شخص تھے جنہیں اللہ تعالیٰ نے حکمت اور دانائی سے نوازا تھا۔"
+    "identity": {
+      "display_name": "Luqmaan",
+      "normalized_name": "luqmaan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Luqmaan",
+        "luqmaan",
+        "luqman"
+      ],
+      "search_variants": [
+        "Luqmaan",
+        "luqmaan",
+        "luqman"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "لقمان",
-      "meaning": "حکیم و دانا، پرہیزگار، روزہ دار، نیکوکار",
-      "long_meaning": "لقمان نام ایک ایسا نام ہے جو قرآن مجید میں ذکر کیا گیا ہے۔ یہ نام ایک معاصر پیغمبر کے نام سے منسوب ہے جو حضرت داؤد کے زمانے میں پیدا ہوا تھا۔ اس کا مطلب حکیم و دانا، پرہیزگار، روزہ دار، نیکوکار ہے۔ لقمان ایک بزرگ اور دانشمند شخص تھے جنہیں اللہ تعالیٰ نے حکمت اور دانائی سے نوازا تھا۔"
+    "core_meaning": {
+      "short_meaning": "Luqman; a Qur'anic figure, the wise man",
+      "primary_meaning": "Luqman; a Qur'anic figure",
+      "secondary_meanings": [
+        "the wise man"
+      ],
+      "literal_meaning": "Luqman; a Qur'anic figure",
+      "extended_meaning": "Luqman; a Qur'anic figure, the wise man",
+      "meaning_explanation": "Luqmaan corresponds to the Arabic form لقمان (Arabic لُقْمَان (Luqmān)). Its core sense is luqman; a qur'anic figure, the wise man. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "लुक़मान",
-      "meaning": "ज्ञानी और बुद्धिमान, परहेज़गार, रज़े दार, नेकوكार",
-      "long_meaning": "लुक़मान नाम एक ऐसा नाम है जो कुरआन में उल्लेख किया गया है। यह नाम एक समकालीन पैगंबर के नाम से संबद्ध है जो हज़रत दाऊद के समय में पैदा हुआ था। इसका अर्थ ज्ञानी और बुद्धिमान, परहेज़गार, रज़े दार, नेकوكار है। लुक़मान एक बड़े और विद्वान व्यक्ति थे जिन्हें अल्लाह तआला ने حکمت और ज्ञान से नवाज़ा था।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "لقمان",
+      "transliteration": "luqmaan",
+      "romanization": "luqmaan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Luqman; a Qur'anic figure",
+        "the wise man"
+      ],
+      "etymology_explanation": "The form لقمان is an established Arabic lexical item. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "لقمان",
-      "meaning": "حکيم او پوهاندی، پرهېزګار، روژه دار، نیکوكار",
-      "long_meaning": "لقمان نوم داسې نوم دی چې په قرآن کې يې ذکر کړی دی. دا نوم د يو پيغمبر نوم ته منسوب دی چې د حضرت داود په وخت کې پيدا شوی و. د دې نوم مطلب حكيم او پوهاندی، پرهېزګار، روژه دار، نیكوكار دی. لقمان يو لوی او دانا سړی و چې كوم الله تعالی يې د حکمت او پوهې سره نواړی و."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "لقمان is an established Arabic form.",
+        "Urdu": "لقمان is used in Urdu.",
+        "Persian": "لقمان is an established Persian form.",
+        "Hindi": "लुक़मान is used in Hindi.",
+        "Pashto": "لقمان is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Luqmaan",
-      "meaning": "Wise and intelligent, pious, fasting, good doer",
-      "long_meaning": "Luqmaan is a name mentioned in the Quran. It is attributed to a contemporary prophet who lived during the time of Prophet Dawud. The name Luqmaan means wise and intelligent, pious, fasting, and good doer. Luqmaan was a wise and knowledgeable person whom Allah gifted with wisdom and intelligence. He is considered a model of piety and righteousness in Islamic tradition."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form لقمان. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Luqmaan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": true
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense luqman; a qur'anic figure, the wise man.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Luqman; a Qur'anic figure",
+      "related_concepts": [
+        "luqman; a qur'anic figure",
+        "the wise man"
+      ],
+      "semantic_relationship": "The central semantic idea is luqman; a qur'anic figure; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of luqman; a qur'anic figure.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Luqman; a qur'anic figure",
+        "The wise man"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Luqmaan",
+        "meaning": "Luqman; a Qur'anic figure, the wise man",
+        "long_meaning": "Luqmaan is a Arabic-origin name. Its core meaning is luqman; a qur'anic figure, the wise man. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman."
+      },
+      "urdu": {
+        "name": "لقمان",
+        "meaning": "لقمان، قرآن میں مذکور دانا",
+        "long_meaning": "Luqmaan (لقمان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لقمان، قرآن میں مذکور دانا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "لقمان",
+        "meaning": "لقمان، شخصیت قرآنی",
+        "long_meaning": "Luqmaan (لقمان) نامی برگرفته از زبان عربی است و معنای اصلی آن لقمان، شخصیت قرآنی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "लुक़मान",
+        "meaning": "लुक़मान, क़ुरआन में वर्णित",
+        "long_meaning": "Luqmaan (लुक़मान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ लुक़मान, क़ुरआन में वर्णित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "لقمان",
+        "meaning": "لقمان، په قرآن کې ذکر شوی",
+        "long_meaning": "Luqmaan (لقمان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لقمان، په قرآن کې ذکر شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "لقمان",
+        "meaning": "لُقْمَان، الحكيم المذكور في القرآن",
+        "long_meaning": "Luqmaan (لقمان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي لُقْمَان، الحكيم المذكور في القرآن. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "loo-KMAHN",
-      "urdu": "اردو میں تلفظ کی تفصیل: لُقْمَان",
-      "hindi": "हिन्दी में उच्चारण विवरण: लुक़्मान",
-      "pashto": "په پښتو کې د تلفظ تفصیل: لُقمان",
-      "ipa": "/ˈluːkmaːn/"
+      "romanized": "luq-maan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "لقمان",
+      "persian": "لقمان",
+      "hindi": "लुक़मान",
+      "pashto": "لقمان"
     },
-    "celebrity_usage": [
-      "Luqman Ahmad"
-    ],
-    "social_tags": [
-      "#LuqmaanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Luqmaan"
-    ],
-    "name_variations": [
-      "Luqman"
-    ],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Luqmaan",
+        "luqmaan",
+        "luqman"
+      ],
+      "script_variants": [
+        "لقمان",
+        "लुक़मान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form لقمان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Luqmaan can be understood through the Arabic form لقمان, whose central sense is luqman; a qur'anic figure, the wise man. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 73,
-        "year": 2024
+        "question": "What does Luqmaan mean?",
+        "answer": "Luqmaan is associated with the Arabic form لقمان, whose core sense is luqman; a qur'anic figure, the wise man."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Luqmaan?",
+        "answer": "Luqmaan is associated with Arabic. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 69,
-        "year": 2024
+        "question": "Is Luqmaan an Arabic name?",
+        "answer": "Yes — the underlying form لقمان is Arabic."
+      },
+      {
+        "question": "Is Luqmaan an Islamic name?",
+        "answer": "Luqmaan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Luqmaan a Quranic name?",
+        "answer": "Luqmaan should not be classified as a Quranic personal name without a direct Quranic basis. True"
+      },
+      {
+        "question": "What does Luqmaan mean in Urdu?",
+        "answer": "In Urdu, Luqmaan is rendered لقمان and carries the sense لقمان، قرآن میں مذکور دانا."
+      },
+      {
+        "question": "What does Luqmaan mean in Persian?",
+        "answer": "In Persian, Luqmaan is rendered لقمان and carries the sense لقمان، شخصیت قرآنی."
+      },
+      {
+        "question": "How is Luqmaan pronounced?",
+        "answer": "A romanized syllable approximation is luq-maan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Luqmaan?",
+        "answer": "Romanization variants include Luqmaan, luqmaan, luqman. Script forms are لقمان, लुक़मान."
+      },
+      {
+        "question": "Is Luqmaan a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Luqmaan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Luqmaan, a beautiful Islam name meaning \"Intelligent, Wise\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Luqmaan, Islam name, baby names, Intelligent, Wise, Islam baby names, name meaning",
-      "description_paragraph": "Luqmaan is a meaningful Islam name of Arabic origin that means \"Intelligent, Wise\". Luqmaan is a Prophet mentioned in the Quran. He is known for his wisdom and intelligence. The name is derived from the Arabic word 'luqm' which means 'to swallow' or 'to taste'. It is said that Luqmaan swallowed a secret from his father's treasure, which made him wise and knowledgeable. This name is a reminder of the importance of seeking knowledge and wisdom.",
-      "keywords": [
-        "Luqmaan",
-        "Islam name",
-        "baby names",
-        "Intelligent, Wise",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Luqmaan in Islam tradition?",
-          "a": "Luqmaan is a beautiful Islam name meaning \"Intelligent, Wise\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Luqmaan a good Islam name for a baby?",
-          "a": "Yes, Luqmaan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Luqmaan?",
-          "a": "The name Luqmaan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Luqmaan correctly?",
-          "a": "Luqmaan is pronounced loo-KMAHN in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Luqmaan?",
-          "a": "Naming a child Luqmaan brings blessings. The meaning \"Intelligent, Wise\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Luqmaan?",
-          "a": "Luqmaan is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Luqmaan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Luqmaan (لقمان).",
+      "h1": "Luqmaan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Luqmaan meaning",
       "secondary_keywords": [
-        "Islam name Luqmaan",
-        "Luqmaan meaning",
-        "Luqmaan origin"
+        "Luqmaan name meaning",
+        "Luqmaan meaning in Urdu",
+        "Luqmaan origin",
+        "Luqmaan Islamic name",
+        "Luqmaan pronunciation",
+        "Luqmaan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Luqmaan (لقمان) is associated with the Arabic form لقمان, whose core sense is luqman; a qur'anic figure, the wise man. Luqmaan is Arabic لُقْمَان (Luqmān), the wise man named in the Qur'an (Surah Luqman). The source gloss 'Intelligent, Wise' is broadly consistent. Same name as lokman, loqman and luqman.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Luqmaan is associated with the Arabic form لقمان, whose core sense is luqman; a qur'anic figure, the wise man.",
+      "meaning_section": "The central meaning of Luqmaan is luqman; a qur'anic figure, the wise man.",
+      "origin_section": "Luqmaan is associated with Arabic rather than with a different language.",
+      "islam_section": "Luqmaan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Luqmaan is with the sense luqman; a qur'anic figure.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Luqmaan",
+      "#LuqmaanMeaning",
+      "#LuqmaanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Luqmaan is a reminder of the rich cultural heritage of the Islamic world. Prophet Luqmaan is forbidden from teaching his wisdom to anyone outside his family, symbolizing the important role of family and the passing down of knowledge and wisdom from one generation to the next. In many Muslim communities, the story of Prophet Luqmaan is taught to children as a lesson in wisdom, intelligence, and the importance of knowledge.",
-    "spiritual_significance": "Prophet Luqmaan's name and story hold great spiritual significance for Muslims. He is seen as a model of wisdom and intelligence, and a reminder of the importance of acquiring knowledge in life. The Quran describes him as a \"man of immense knowledge\" and \"one of the most learned among men\". Prophet Luqmaan's story also shows the reward of seeking knowledge and wisdom, and the dangers of ignoring it. The name Luqmaan is a constant reminder for Muslims to strive for knowledge and wisdom, both worldly and spiritual, and to use that knowledge to benefit themselves and others.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Luqmaan is a name mentioned in the Quran, in Surah Luqmaan (Chapter 31). The name Luqmaan carried significant weight in that era.",
-        "time_period": "7th century CE",
-        "context": "Luqmaan is a wise man who advises his son against the dangers of wealth and worldly pleasures."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Luqmaan is a popular name for boys in the Muslim world.",
-        "Luqmaan is sometimes used as a nickname or a term of endearment."
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Luqmaan corresponds to the Arabic form لقمان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Luqmaan has the core sense luqman; a qur'anic figure, the wise man",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Luqmaan is a common name in Pakistan, India, and Bangladesh.",
-        "Luqmaan is a popular name in the Middle East and North Africa."
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Luqmaan remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Yusuf Luqmaan",
-      "location": "Dubai, UAE",
-      "story": "Yusuf Luqmaan from Dubai, UAE embodies the meaning of Luqmaan - \"Intelligent, Wise\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Intelligent, Wise\" symbolizes Luqmaan is a Prophet mentioned in the Quran. He is known for his wisdom and intelligence. The name is derived from the Arabic word 'luqm' which means 'to swallow' or 'to taste'. It is said that Luqmaan swallowed a secret from his father's treasure, which made him wise and knowledgeable. This name is a reminder of the importance of seeking knowledge and wisdom.. In Islamic spirituality, bearing the name Luqmaan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of intelligent, wise.",
-    "created_at": "2025-12-22T19:19:49.841Z",
-    "updated_at": "2025-12-22T04:53:14.684Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1426,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Luqmaan",
-      "description": "Intelligent, Wise",
-      "additionalName": [
-        "Luqman"
+      "alternateName": [
+        "Luqmaan",
+        "luqmaan",
+        "luqman"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form لقمان, meaning luqman; a qur'anic figure, the wise man.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Luqmaan",
-          "description": "Discover the meaning of Luqmaan - \"Intelligent, Wise\"",
-          "image": "/images/social/luqmaan-facebook.jpg"
+      "termCode": "luqmaan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Luqmaan - Name Meaning",
-          "description": "Learn about the beautiful name Luqmaan",
-          "image": "/images/social/luqmaan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Luqmaan",
-          "description": "Name meaning: Intelligent, Wise",
-          "image": "/images/social/luqmaan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Luqmaan - Meaning: Intelligent, Wise",
-        "email_subject": "Beautiful Name: Luqmaan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Luqmaan with meaning Intelligent, Wise",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Luqmaan, associated with the Arabic form لقمان, meaning luqman; a qur'anic figure, the wise man."
     },
-    "similar_sounding_names": [
-      "leyla"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

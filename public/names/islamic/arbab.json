@@ -3,291 +3,480 @@
   "data": {
     "name": "Arbab",
     "slug": "arbab",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Lords, Masters",
-    "long_meaning": "The name Arbab is derived from the Arabic root 'r-b-b', which means 'lords, masters'. In Islamic history, Arbab is a title given to leaders and rulers, signifying their authority and responsibility over their subjects.",
-    "spiritual_meaning": "Sign of leadership and responsibility",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "(Monday)",
-    "lucky_colors": [
-      "Green",
-      "White"
-    ],
-    "lucky_stone": "Aqeeq",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, artistic, and socially expressive individuals.",
-    "in_arabic": {
-      "name": "أرباب",
-      "meaning": "أرباب هو اسم علم من أصول عربية يعني مالك أو من يمتلك",
-      "long_meaning": "أصل الاسم من الرباب، التي في اللغة العربية تعني مالك أو ملكية، ويعتبر اسماً علمياً من أصول عربية، ويُستخدم في الإسلام لوصف الشخص الذي يمتلك أو يسيطر على شيء ما، وفي بعض الأحيان يُستخدم للوصف من يمتلك مالاً أو ملكيةً، ويُعتبر اسماً شائعاً في بعض الثقافات الإسلامية."
+    "identity": {
+      "display_name": "Arbab",
+      "normalized_name": "arbab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Arbab",
+        "arbab"
+      ],
+      "search_variants": [
+        "Arbab",
+        "arbab"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ارباب",
-      "meaning": "ارباب ایک عربی نام ہے جو مالک یا مال کے مالک کے معنی میں ہے",
-      "long_meaning": "اس نام کا تعلق اردو زبان کے عربی ناموں سے ہوتا ہے، جو کہ اپنے تعلقات کے لحاظ سے بہت سی اقسام کے نام ہیں، اور اس نام کے معنی کے بارے میں خیال کیا جاتا ہے کہ وہ مالک یا مال کے مالک کے معنی میں ہیں، جبکہ اس نام کا استعمال جنوبی ایشیائی مسلمانوں میں بہت عام ہے، اور اس کے معنی کے بارے میں خیال کیا جاتا ہے کہ وہ مال یا مال کے مالک کے معنی میں ہیں، اور اس کے استعمال کے بارے میں خیال کیا جاتا ہے کہ وہ اسلامی ثقافت میں بہت زیادہ مقبول ہے."
+    "core_meaning": {
+      "short_meaning": "Lords, masters, owners",
+      "primary_meaning": "Lords",
+      "secondary_meanings": [
+        "masters",
+        "owners"
+      ],
+      "literal_meaning": "Lords",
+      "extended_meaning": "Lords, masters, owners",
+      "meaning_explanation": "Arbab corresponds to the Arabic form أرباب (ر ب ب). Its core sense is lords, masters, owners. Arbāb, plural of رب ('lord, master, owner').",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "आरबाब",
-      "meaning": "आरबाब एक अरबी नाम है जिसका अर्थ है मालिक या माल का मालिक",
-      "long_meaning": "इस नाम का मूल अरबी भाषा से है, जो कि अपने आप में एक बहुत ही समृद्ध भाषा है, और इस नाम के अर्थ के बारे में कया जाता है कि वह मालिक या माल के मालिक के अर्थ में है, और इस नाम का उपयोग भारतीय मुस्लिम समुदाय में बहुत आम है, और इस नाम के अर्थ के बारे में कया जाता है कि वह माल या माल के मालिक के अर्थ में, और इस नाम के उपयोग के बारे में कया जाता है कि वह इस्लामी संस्कृति में बहुत अधिक लोकप्रिय है, और इस नाम के उपयोग के बारे में कया जाता है कि यह एक बहुत ही समृद्ध और सम्मानजनक नाम है."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أرباب",
+      "transliteration": "arbab",
+      "romanization": "arbab",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Lords",
+        "masters",
+        "owners"
+      ],
+      "etymology_explanation": "The form أرباب is an established Arabic lexical item. Arbāb, plural of رب ('lord, master, owner').",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ځارباب",
-      "meaning": "ځارباب دا نوم د عربي لهزې پورې اړه لري چې معني يې د مالک يا د مال سيګر پورې اړه لري",
-      "long_meaning": "ځارباب دا نوم د افغانستان او پښتونو له فرهنگي زړو څخه راغلی دی، او دا نوم د عربي لهزې پورې اړه لري چې معني يې د مالک يا د مال سيګر پورې اړه لري، او دا نوم داړه لري چې ویل کېږي دا نوم د مال یا مال سیګر ته ویل کېږي، او دا نوم داړه لري چې ویل کېږي دا نوم داړه لري چې دا نوم داړه لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أرباب is an established Arabic form.",
+        "Urdu": "ارباب is used in Urdu.",
+        "Hindi": "अरबाब is used in Hindi.",
+        "Pashto": "ارباب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Arbab",
-      "meaning": "Arbab is an Arabic name meaning owner or one who possesses",
-      "long_meaning": "The name Arbab is derived from the Arabic root 'arbāb', which means owner or one who possesses, and is used in Islam to describe a person who owns or controls something, and in some cases is used to describe one who owns property or wealth, and is considered a common name in some Islamic cultures, and has a rich history and cultural significance in the Islamic tradition."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form أرباب. Arbāb, plural of رب ('lord, master, owner').",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Arbab may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense lords, masters, owners.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lords",
+      "related_concepts": [
+        "lords",
+        "masters",
+        "owners"
+      ],
+      "semantic_relationship": "The central semantic idea is lords; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of lords.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Lords",
+        "Masters",
+        "Owners"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Arbab",
+        "meaning": "Lords, masters, owners",
+        "long_meaning": "Arbab is a Arabic-origin name. Its core meaning is lords, masters, owners. Arbāb, plural of رب ('lord, master, owner')."
+      },
+      "urdu": {
+        "name": "ارباب",
+        "meaning": "ارباب، مالک، سردار",
+        "long_meaning": "Arbab (ارباب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ارباب، مالک، سردار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "अरबाब",
+        "meaning": "स्वामी, मालिक, अधिपति",
+        "long_meaning": "Arbab (अरबाब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्वामी, मालिक, अधिपति है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ارباب",
+        "meaning": "ارباب، مالکان",
+        "long_meaning": "Arbab (ارباب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ارباب، مالکان ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أرباب",
+        "meaning": "الأرباب، المالكون",
+        "long_meaning": "Arbab (أرباب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الأرباب، المالكون. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/ɑrˈbɑb/",
+      "romanized": "ar-bab",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
       "urdu": "ارباب",
+      "persian": null,
       "hindi": "अरबाब",
-      "pashto": "ځارباب",
-      "ipa": "/ˈɑrbɑb/"
+      "pashto": "ارباب"
     },
-    "celebrity_usage": [
-      "Arbab Al-Saud",
-      "Arbab Naeem"
-    ],
-    "social_tags": [
-      "#ArbabMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Arbab"
-    ],
-    "name_variations": [],
-    "popularity_score": 41,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Arbab",
+        "arbab"
+      ],
+      "script_variants": [
+        "أرباب",
+        "ارباب",
+        "अरबाब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أرباب is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Arbab can be understood through the Arabic form أرباب, whose central sense is lords, masters, owners. Arbāb, plural of رب ('lord, master, owner').",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Arbab mean?",
+        "answer": "Arbab is associated with the Arabic form أرباب, whose core sense is lords, masters, owners."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 83,
-        "year": 2024
+        "question": "What is the origin of Arbab?",
+        "answer": "Arbab is associated with Arabic. Arbāb, plural of رب ('lord, master, owner')."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Arbab an Arabic name?",
+        "answer": "Yes — the underlying form أرباب is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 84,
-        "year": 2024
+        "question": "Is Arbab an Islamic name?",
+        "answer": "Arbab can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Arbab a Quranic name?",
+        "answer": "Arbab should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Arbab mean in Urdu?",
+        "answer": "In Urdu, Arbab is rendered ارباب and carries the sense ارباب، مالک، سردار."
+      },
+      {
+        "question": "What does Arbab mean in Persian?",
+        "answer": "No verified Persian form was established for Arbab."
+      },
+      {
+        "question": "How is Arbab pronounced?",
+        "answer": "A romanized syllable approximation is ar-bab. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Arbab?",
+        "answer": "Romanization variants include Arbab, arbab. Script forms are أرباب, ارباب, अरबाब."
+      },
+      {
+        "question": "Is Arbab a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Arbab Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Arbab, a beautiful Islam name meaning \"Lords, Masters\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Arbab, Islam name, baby names, Lords, Masters, Islam baby names, name meaning",
-      "description_paragraph": "Arbab is a meaningful Islam name of Arabic origin that means \"Lords, Masters\". The name Arbab is derived from the Arabic root 'r-b-b', which means 'lords, masters'. In Islamic history, Arbab is a title given to leaders and rulers, signifying their authority and responsibility over their subjects.",
-      "keywords": [
-        "Arbab",
-        "Islam name",
-        "baby names",
-        "Lords, Masters",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Arbab in Islam tradition?",
-          "a": "Arbab is a beautiful Islam name meaning \"Lords, Masters\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Arbab a good Islam name for a baby?",
-          "a": "Yes, Arbab is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Arbab?",
-          "a": "The name Arbab has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Arbab correctly?",
-          "a": "Arbab is pronounced /ɑrˈbɑb/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Arbab?",
-          "a": "Naming a child Arbab brings blessings. The meaning \"Lords, Masters\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Arbab?",
-          "a": "Arbab is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Arbab Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Arbab (أرباب).",
+      "h1": "Arbab Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Arbab meaning",
       "secondary_keywords": [
-        "Islam name Arbab",
-        "Arbab meaning",
-        "Arbab origin"
+        "Arbab name meaning",
+        "Arbab meaning in Urdu",
+        "Arbab origin",
+        "Arbab Islamic name",
+        "Arbab pronunciation",
+        "Arbab name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Arbab (أرباب) is associated with the Arabic form أرباب, whose core sense is lords, masters, owners. Arbāb, plural of رب ('lord, master, owner').",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Arbab is associated with the Arabic form أرباب, whose core sense is lords, masters, owners.",
+      "meaning_section": "The central meaning of Arbab is lords, masters, owners.",
+      "origin_section": "Arbab is associated with Arabic rather than with a different language.",
+      "islam_section": "Arbab can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Arbab is with the sense lords.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Arbab",
+      "#ArbabMeaning",
+      "#ArbabName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Arbab holds a significant cultural impact as it is a title of respect and honor given to those in positions of power and leadership within the Islamic community. It represents their role as guardians and protectors, working to provide for the needs and welfare of their people.",
-    "spiritual_significance": "The spiritual significance of the name Arbab can be found in the Prophetic tradition, where the Prophet Muhammad (peace be upon him) is reported to have said, \"The best of you are your rulers\" (Muslim). Arbab, as a spiritual and cultural title, reflects the belief that those in positions of power and leadership should strive to uphold the teachings of Islam and serve as models of righteousness and good governance. The name Arbab thus signifies a sense of trust and accountability, reminding the leaders of their duty to their people and to God.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arbab ibn al-Ash'ath was a companion of the Prophet Muhammad. The name Arbab carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Arbab was a prominent Arab leader who embraced Islam early on and played a significant role in the early Islamic community."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Arbab corresponds to the Arabic form أرباب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Arbab has the core sense lords, masters, owners",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Arbab remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Arbab",
-      "location": "Karachi, Pakistan",
-      "story": "Khadija Arbab, a teacher in Karachi, Pakistan, shares that their name Arbab meaning \"Lords, Masters\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Lords, Masters\" symbolizes The name Arbab is derived from the Arabic root 'r-b-b', which means 'lords, masters'. In Islamic history, Arbab is a title given to leaders and rulers, signifying their authority and responsibility over their subjects.. In Islamic spirituality, bearing the name Arbab serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of lords, masters.",
-    "created_at": "2025-12-22T19:19:49.918Z",
-    "updated_at": "2025-12-22T04:53:15.342Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1117,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Arbab",
-      "description": "Lords, Masters",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Arbab",
+        "arbab"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Arbab",
-          "description": "Discover the meaning of Arbab - \"Lords, Masters\"",
-          "image": "/images/social/arbab-facebook.jpg"
+      "description": "A name associated with the Arabic form أرباب, meaning lords, masters, owners.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "arbab",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Arbab - Name Meaning",
-          "description": "Learn about the beautiful name Arbab",
-          "image": "/images/social/arbab-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Arbab",
-          "description": "Name meaning: Lords, Masters",
-          "image": "/images/social/arbab-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Arbab - Meaning: Lords, Masters",
-        "email_subject": "Beautiful Name: Arbab"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Arbab with meaning Lords, Masters",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Arbab, associated with the Arabic form أرباب, meaning lords, masters, owners."
     },
-    "similar_sounding_names": [
-      "amber",
-      "aaidah",
-      "aidan",
-      "alabbas",
-      "amalia",
-      "anika",
-      "azzahra",
-      "alika",
-      "akil",
-      "alishaba"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

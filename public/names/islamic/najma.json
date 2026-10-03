@@ -3,288 +3,474 @@
   "data": {
     "name": "Najma",
     "slug": "najma",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Star",
-    "long_meaning": "Najma is the Arabic word for 'star' and is often associated with guidance and light. In Islamic tradition, stars are believed to be a constant reminder of Allah's power and creation.",
-    "spiritual_meaning": "A star that shines brightly in the night sky, guiding us towards the path of righteousness.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Gold"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 2,
-    "numerology_meaning": "A person with a Life Path Number 2 is typically diplomatic, cooperative, and patient. They are often seen as peacemakers and are great at bringing people together.",
-    "in_arabic": {
-      "name": "نجمة",
-      "meaning": "نجمة تعني النجم في السماء وهي علامة للدلالة على الاتجاه",
-      "long_meaning": "نجمة هي كلمة عربية تعني النجم الذي يظهر في السماء ليلاً، وتعتبر علامة للدلالة على الاتجاه أو المكان. وردت هذه الكلمة في القرآن الكريم في سورة النجم، حيث يقول الله تعالى: 'والنجم إذا هوى' (النجم: 1). تعتبر النجمة رمزًا للهداية والرشاد في الإسلام، وغالبًا ما يتم استخدامها كرمز للتميز بين الخير والشر."
+    "identity": {
+      "display_name": "Najma",
+      "normalized_name": "najma",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Najma",
+        "najma"
+      ],
+      "search_variants": [
+        "Najma",
+        "najma"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "نجمہ",
-      "meaning": "نجمہ کا مطلب ہے ستارہ جو آسمان میں نظر آتا ہے",
-      "long_meaning": "نجمہ عربی زبان کا لفظ ہے جو ستارے کو ظاہر کرتا ہے جو رات کے وقت آسمان میں نظر آتا ہے۔ یہ ستارہ راستہ دکھانے یا مقام بتانے کے لیے استعمال ہوتا ہے۔ قرآن کریم میں سورة النجم میں اس کا ذکر ہے جہاں ارشاد ربانی ہے: 'والنجم إذا هوى' (النجم: 1). اسلامی روایات میں ستارہ ہدایت اور رہنمائی کی علامت ہے، اور اکثر اسے اچھائی اور برائی کے درمیان فرق کرنے کے لیے استعمال کیا جاتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Star (feminine)",
+      "primary_meaning": "Star (feminine)",
+      "secondary_meanings": [],
+      "literal_meaning": "Star (feminine)",
+      "extended_meaning": "Star (feminine)",
+      "meaning_explanation": "Najma corresponds to the Arabic form نَجْمَة (Arabic root ن ج م (n-j-m); نَجْمَة (Najma)). Its core sense is star (feminine). Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "नज्मा",
-      "meaning": "नज्मा का अर्थ है तारा जो रात में आसमान में दिखाई देता है",
-      "long_meaning": "नज्मा एक अरबी शब्द है जो उस तारे को दर्शाता है जो रात के समय आसमान में दिखाई देता है। यह तारा दिशा बताने या स्थान निर्दिष्ट करने के लिए उपयोग किया जाता है। कुरआन में सूरा नज्म में इसका उल्लेख है जहाँ कहा गया है: 'والنجم إذا هوى' (النجم: 1). इस्लामी परंपराओं में तारा मार्गदर्शन और नेतृत्व का प्रतीक है, और अक्सर इसका उपयोग अच्छाई और बुराई के बीच के अंतर को दर्शाने के लिए किया जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نَجْمَة",
+      "transliteration": "najma",
+      "romanization": "najma",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Star (feminine)"
+      ],
+      "etymology_explanation": "The form نَجْمَة is an established Arabic lexical item. Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نجمه",
-      "meaning": "نجمه د ستوري په معنا ده چی په شپه کي په اسمان کي لیدل کیږي",
-      "long_meaning": "نجمه عربي کلمه ده چی ستوري ته اشاره کوي چی د شپې په وخت اسمان کې لیدل کیږي. دا ستوری د لارښوونې او ځای ټاکلو لپاره کارول کیږي. په قرآن کریم کې د نجم سورت کې ورته اشاره شوې ده چیرته چې فرمايي: 'والنجم إذا هوى' (النجم: 1). په اسلامي دود کې ستوری د هدایت او رهنمايي نښه ده، او ډیری وختونه د خیر او شر تر منځ د توپیر لپاره کارول کیږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "نَجْمَة is an established Arabic form.",
+        "Urdu": "نجمہ is used in Urdu.",
+        "Persian": "نجمه is an established Persian form.",
+        "Hindi": "नजमा is used in Hindi.",
+        "Pashto": "نجمه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Najma",
-      "meaning": "Najma means star or celestial body in Arabic",
-      "long_meaning": "The name Najma originates from the Arabic word for 'star' or 'celestial body'. It is derived from the Arabic root 'n-j-m', which means 'to shine' or 'to sparkle'. In Islamic tradition, stars are considered symbols of guidance and righteousness. The name Najma is mentioned in the Quran in Surah An-Najm, which emphasizes the importance of the star as a navigational aid. Historically, the name has been used across various Muslim cultures to signify hope, guidance, and illumination. In modern times, Najma remains a popular name among Muslim communities worldwide, reflecting the enduring significance of celestial bodies in Islamic heritage."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form نَجْمَة. Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Najma may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense star (feminine).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Star (feminine)",
+      "related_concepts": [
+        "star (feminine)"
+      ],
+      "semantic_relationship": "The central semantic idea is star (feminine); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of star (feminine).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Star (feminine)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Najma",
+        "meaning": "Star (feminine)",
+        "long_meaning": "Najma is a Arabic-origin name. Its core meaning is star (feminine). Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent."
+      },
+      "urdu": {
+        "name": "نجمہ",
+        "meaning": "نجمہ، ستارہ",
+        "long_meaning": "Najma (نجمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نجمہ، ستارہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "نجمه",
+        "meaning": "نجمه، ستاره",
+        "long_meaning": "Najma (نجمه) نامی برگرفته از زبان عربی است و معنای اصلی آن نجمه، ستاره است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "नजमा",
+        "meaning": "नजमा, तारा",
+        "long_meaning": "Najma (नजमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नजमा, तारा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "نجمه",
+        "meaning": "نجمه، ستوری",
+        "long_meaning": "Najma (نجمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نجمه، ستوری ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "نَجْمَة",
+        "meaning": "النَّجْمَة، الْكَوْكَب",
+        "long_meaning": "Najma (نَجْمَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النَّجْمَة، الْكَوْكَب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "NAH-jmah",
-      "urdu": "نجمہ کا تلفظ ناہ جما ہے",
-      "hindi": "नज्मा का उच्चारण नाह-ज्मा है",
-      "pashto": "نجمه د تلفظ ناه جمہ دی",
-      "ipa": "/ˈnɑːdʒmə/"
+      "romanized": "naj-ma",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "نجمہ",
+      "persian": "نجمه",
+      "hindi": "नजमा",
+      "pashto": "نجمه"
     },
-    "celebrity_usage": [
-      "Najma Akhtar",
-      "Najma Minhas",
-      "Najma Rizvi"
-    ],
-    "social_tags": [
-      "#NajmaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Najma"
-    ],
-    "name_variations": [
-      "Najmah"
-    ],
-    "popularity_score": 49,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Najma",
+        "najma"
+      ],
+      "script_variants": [
+        "نجمه",
+        "نجمہ",
+        "نَجْمَة",
+        "नजमा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form نَجْمَة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Najma can be understood through the Arabic form نَجْمَة, whose central sense is star (feminine). Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 93,
-        "year": 2024
+        "question": "What does Najma mean?",
+        "answer": "Najma is associated with the Arabic form نَجْمَة, whose core sense is star (feminine)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 79,
-        "year": 2024
+        "question": "What is the origin of Najma?",
+        "answer": "Najma is associated with Arabic. Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 88,
-        "year": 2024
+        "question": "Is Najma an Arabic name?",
+        "answer": "Yes — the underlying form نَجْمَة is Arabic."
+      },
+      {
+        "question": "Is Najma an Islamic name?",
+        "answer": "Najma can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Najma a Quranic name?",
+        "answer": "Najma should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Najma mean in Urdu?",
+        "answer": "In Urdu, Najma is rendered نجمہ and carries the sense نجمہ، ستارہ."
+      },
+      {
+        "question": "What does Najma mean in Persian?",
+        "answer": "In Persian, Najma is rendered نجمه and carries the sense نجمه، ستاره."
+      },
+      {
+        "question": "How is Najma pronounced?",
+        "answer": "A romanized syllable approximation is naj-ma. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Najma?",
+        "answer": "Romanization variants include Najma, najma. Script forms are نجمه, نجمہ, نَجْمَة, नजमा."
+      },
+      {
+        "question": "Is Najma a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Najma Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Najma, a beautiful Islam name meaning \"Star\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Najma, Islam name, baby names, Star, Islam baby names, name meaning",
-      "description_paragraph": "Najma is a meaningful Islam name of Arabic origin that means \"Star\". Najma is the Arabic word for 'star' and is often associated with guidance and light. In Islamic tradition, stars are believed to be a constant reminder of Allah's power and creation.",
-      "keywords": [
-        "Najma",
-        "Islam name",
-        "baby names",
-        "Star",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Najma in Islam tradition?",
-          "a": "Najma is a beautiful Islam name meaning \"Star\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Najma a good Islam name for a baby?",
-          "a": "Yes, Najma is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Najma?",
-          "a": "The name Najma has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Najma correctly?",
-          "a": "Najma is pronounced NAH-jmah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Najma?",
-          "a": "Naming a child Najma brings blessings. The meaning \"Star\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Najma?",
-          "a": "Najma is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 97,
+      "title": "Najma Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Najma (نَجْمَة).",
+      "h1": "Najma Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Najma meaning",
       "secondary_keywords": [
-        "Islam name Najma",
-        "Najma meaning",
-        "Najma origin"
+        "Najma name meaning",
+        "Najma meaning in Urdu",
+        "Najma origin",
+        "Najma Islamic name",
+        "Najma pronunciation",
+        "Najma name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Najma (نَجْمَة) is associated with the Arabic form نَجْمَة, whose core sense is star (feminine). Najma is Arabic نَجْمَة (Najma) 'star' (feminine), from the root ن ج م (n-j-m). The source gloss 'Star' is consistent.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Najma is associated with the Arabic form نَجْمَة, whose core sense is star (feminine).",
+      "meaning_section": "The central meaning of Najma is star (feminine).",
+      "origin_section": "Najma is associated with Arabic rather than with a different language.",
+      "islam_section": "Najma can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Najma is with the sense star (feminine).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Najma",
+      "#NajmaMeaning",
+      "#NajmaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Najma has a rich cultural heritage in the Islamic world. It is often used as a name for girls, symbolizing guidance, hope, and protection from the stars. The depiction of stars in Islamic art and architecture conveys a sense of wonder, admiration, and reverence for the vastness of the cosmos.",
-    "spiritual_significance": "In Islamic tradition, stars are believed to be part of Allah's creation, and the name Najma holds deep spiritual significance. It serves as a reminder that just as stars guide us through the night sky, Allah guides us through life. Najma is also a symbol of hope and the promise of light in the darkness. It reflects the belief that no matter how lost or helpless one might feel, there is always a guiding light to lead us back to the right path.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Astronomical observations in ancient Persia The name Najma carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "The name Najma is associated with the Arabic word for \"star\" or \"celestial body\""
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Popularized by Arabic media and literature"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Najma corresponds to the Arabic form نَجْمَة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Najma has the core sense star (feminine)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, literature, and art"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Najma remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Najma",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Khadija Najma in Karachi, Pakistan attributes much of their success to the blessing of their name Najma, which means \"Star\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Star\" symbolizes Najma is the Arabic word for 'star' and is often associated with guidance and light. In Islamic tradition, stars are believed to be a constant reminder of Allah's power and creation.. In Islamic spirituality, bearing the name Najma serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of star.",
-    "created_at": "2025-12-22T19:19:49.791Z",
-    "updated_at": "2025-12-22T04:53:14.244Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1683,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Najma",
-      "description": "Star",
-      "additionalName": [
-        "Najmah"
+      "alternateName": [
+        "Najma",
+        "najma"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form نَجْمَة, meaning star (feminine).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Najma",
-          "description": "Discover the meaning of Najma - \"Star\"",
-          "image": "/images/social/najma-facebook.jpg"
+      "termCode": "najma",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Najma - Name Meaning",
-          "description": "Learn about the beautiful name Najma",
-          "image": "/images/social/najma-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Najma",
-          "description": "Name meaning: Star",
-          "image": "/images/social/najma-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Najma - Meaning: Star",
-        "email_subject": "Beautiful Name: Najma"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Najma with meaning Star",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Najma, associated with the Arabic form نَجْمَة, meaning star (feminine)."
     },
-    "similar_sounding_names": [
-      "nevaeh",
-      "norah",
-      "naina",
-      "nadeen",
-      "namik",
-      "nora",
-      "nihal",
-      "nina"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

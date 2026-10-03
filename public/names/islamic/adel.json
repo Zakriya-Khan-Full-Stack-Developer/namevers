@@ -3,300 +3,479 @@
   "data": {
     "name": "Adel",
     "slug": "adel",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Just, Righteous",
-    "long_meaning": "Derived from the Arabic root 'd-l-l' which means 'justice, righteousness'. The name Adel is mentioned in the Quran and is a noble and virtuous name in Islamic tradition.",
-    "spiritual_meaning": "Symbol of righteousness and justice.",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "White",
-      "Blue"
-    ],
-    "lucky_stone": "Lapis Lazuli",
-    "life_path_number": 1,
-    "numerology_meaning": "Independent, original, and ambitious.",
-    "in_arabic": {
-      "name": "عادل",
-      "meaning": "عادل يعني من يتصف بالعدل والإنصاف والمساواة",
-      "long_meaning": "عادل هو اسم علم مذكر من أصل عربي و يعني الشخص الذي يتصف بالعدل والإنصاف والمساواة. وهو مشتق من الفعل عدل يعدل عدلا فهو عادل إذا قام بالعدل في أحكامه وأفعاله. ورد ذكر العدل في القرآن الكريم في عدة آيات مثل قوله تعالى: ﴿وَلَا تَزِلُ عَلَىٰ أَقدَامِكُم فَتَنفُرَ سِوَىٰ جَنَّتِكُم وَلَكُمُ الأَرضُ بِالأَرضِ مَدىٰ أَيديکُم فَمَن لَم يَقدِر أَن يَملِكَ أَرضَهُ هذِهِ فَلْيَأكُل مِن أَثمارِها وَلْيَلبَس نَعيمَها وَلْيَمدَح رَبَّهُ وَلْيَقُل لَو أَنّي قَدَرتُ أَن أَملِكَ أَرضَهُ لَفَعَلتُ خَيرًا مِّنَ الأَخَرىٰ وَلَكِن هِيَ تَكمُنُ في الأُخرىٰ أَوَلَم يَرَ اللَهُ أَنَّنَا جَعَلنَاْ الأَرضَ مَدىٰ أَيديکُم لِتَأکُلُوا مِنها وَلَم تَقدروا أَن تَملِکُوها﴾ [الحديد:21]"
+    "identity": {
+      "display_name": "Adel",
+      "normalized_name": "adel",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Adel",
+        "adel"
+      ],
+      "search_variants": [
+        "Adel",
+        "adel"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عادل",
-      "meaning": "عادل مطلب ہے انصاف کرنے والا اور راست باز",
-      "long_meaning": "عادل ایک علم ہے جو مذکر ہے اور عربی زبان سے نکلا ہے۔ اس کا مطلب ہے وہ شخص جو انصاف اور راست بازی کے ساتھ کام کرتا ہے۔ یہ نام اسلامی تقویم میں بہت اہمیت رکھتا ہے کیونکہ انصاف اور مساوات اسلامی تعلیمات کے بنیادی پہلو ہیں۔ قرآن میں انصاف پر زور دیا گیا ہے جیسے کہ سورہ النساء میں کہا گیا ہے: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ اللَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوْ الْوَالِدَيْنِ وَالْأَقْرَبِينَ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا وَلَئِنِ اتَّبَعْتَ الْهَوَىٰ فَيُضِلُّكَ عَنْ سَبِيلِ اللَّهِ إِنَّ اللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ﴾ [النساء:135]"
+    "core_meaning": {
+      "short_meaning": "Just, fair, honest",
+      "primary_meaning": "Just",
+      "secondary_meanings": [
+        "fair",
+        "honest"
+      ],
+      "literal_meaning": "Just",
+      "extended_meaning": "Just, fair, honest",
+      "meaning_explanation": "Adel corresponds to the Arabic form عادل (ع د ل). Its core sense is just, fair, honest. ʿĀdil ('just, fair'). Variant romanization of Adil.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "अदल",
-      "meaning": "अदल मतलब है न्याय करने वाला और सच्चा",
-      "long_meaning": "अदल एक नाम है जो पुरुषों के लिए उपयोग होता है और यह अरबी भाषा से आया है। इसका अर्थ है वह व्यक्ति जो न्याय और सच्चाई के साथ काम करता है। इस्लामी परंपरा में न्याय और समानता बहुत महत्वपूर्ण है और कुरआन में भी इसका उल्लेख है। जैसे कि सूरह अल-माइदा में कहा गया है: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ وَلَا يَجْرِمَنَّكُمُ الشَّنَآنُ إِلَىٰ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ﴾ [المائده:8]"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عادل",
+      "transliteration": "adel",
+      "romanization": "adel",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Just",
+        "fair",
+        "honest"
+      ],
+      "etymology_explanation": "The form عادل is an established Arabic lexical item. ʿĀdil ('just, fair'). Variant romanization of Adil.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عادل",
-      "meaning": "عادل د انصاف کوونکی او رښتیا",
-      "long_meaning": "عادل د یو مذکر نوم دی چې د عربي ژبې څخه اخیستل شوی دی. دا د هغه چا معنی ده چې د انصاف او رښتیا سره کار کوي. په اسلامي دود کې انصاف او برابرۍ ډیره اهميت لري. قرآن کې انصاف ته زور ورکړی شوی دی، لکه څنګه چې د سورت النساء په کې ویل شوي دي: ﴿ يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ اللَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوْ الْوَالِدَيْنِ وَالْأَقْرَبِينَ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا وَلَئِنِ اتَّبَعْتَ الْهَوَىٰ فَيُضِلُّكَ عَنْ سَبِيلِ اللَّهِ إِنَّ اللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ﴾ [النساء:135]"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عادل is an established Arabic form.",
+        "Urdu": "عادل is used in Urdu.",
+        "Hindi": "आदिल is used in Hindi.",
+        "Pashto": "عادل is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Adel",
-      "meaning": "Adel means just, fair, and equitable in Arabic",
-      "long_meaning": "The name Adel is derived from the Arabic root 'ع-د-ل' which means to be just, fair, and equitable. In Islamic tradition, Adel is a highly valued name as it signifies one who upholds justice and fairness. The Quran emphasizes the importance of justice and fairness in several verses, such as in Surah An-Nisa: ﴿O you who have believed, be steadfast in justice, witnesses for Allah, even if it be against yourselves or the parents and relatives. If he should be rich or poor, then Allah is more worthy of concern. So follow not personal inclination, lest you not be just. And if you distort [or alter] testimony or refuse to give it, then indeed Allah is ever, with what you do, Acquainted.﴾ [An-Nisa: 135]"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عادل. ʿĀdil ('just, fair'). Variant romanization of Adil.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Adel may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root ع د ل occurs in the Qur'an; عادل is a normal Arabic adjective and a well-attested given name"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense just, fair, honest.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Just",
+      "related_concepts": [
+        "just",
+        "fair",
+        "honest"
+      ],
+      "semantic_relationship": "The central semantic idea is just; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of just.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Just",
+        "Fair",
+        "Honest"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Adel",
+        "meaning": "Just, fair, honest",
+        "long_meaning": "Adel is a Arabic-origin name. Its core meaning is just, fair, honest. ʿĀdil ('just, fair'). Variant romanization of Adil."
+      },
+      "urdu": {
+        "name": "عادل",
+        "meaning": "عادل، منصف، سچا",
+        "long_meaning": "Adel (عادل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عادل، منصف، سچا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आदिल",
+        "meaning": "न्यायी, निष्पक्ष, ईमानदार",
+        "long_meaning": "Adel (आदिल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ न्यायी, निष्पक्ष, ईमानदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عادل",
+        "meaning": "عادل، منصف، رښتونی",
+        "long_meaning": "Adel (عادل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عادل، منصف، رښتونی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عادل",
+        "meaning": "عادل، منصف، مستقيم",
+        "long_meaning": "Adel (عادل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عادل، منصف، مستقيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-dil",
-      "urdu": "اردو میں تلفظ کی تفصیل: عادل",
-      "hindi": "हिन्दी में उच्चारण विवरण: अदल",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عادل",
-      "ipa": "/ˈɑː.dɪl/"
+      "romanized": "a-del",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عادل",
+      "persian": null,
+      "hindi": "आदिल",
+      "pashto": "عادل"
     },
-    "celebrity_usage": [
-      "Adel Imam",
-      "Adel Abdulmajid"
-    ],
-    "social_tags": [
-      "#AdelMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Adel"
-    ],
-    "name_variations": [],
-    "popularity_score": 44,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Adel",
+        "adel"
+      ],
+      "script_variants": [
+        "عادل",
+        "आदिल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عادل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Adel can be understood through the Arabic form عادل, whose central sense is just, fair, honest. ʿĀdil ('just, fair'). Variant romanization of Adil.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Adel mean?",
+        "answer": "Adel is associated with the Arabic form عادل, whose core sense is just, fair, honest."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 77,
-        "year": 2024
+        "question": "What is the origin of Adel?",
+        "answer": "Adel is associated with Arabic. ʿĀdil ('just, fair'). Variant romanization of Adil."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Adel an Arabic name?",
+        "answer": "Yes — the underlying form عادل is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 75,
-        "year": 2024
+        "question": "Is Adel an Islamic name?",
+        "answer": "Adel can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 79,
-        "year": 2024
+        "question": "Is Adel a Quranic name?",
+        "answer": "Adel should not be classified as a Quranic personal name without a direct Quranic basis. root ع د ل occurs in the Qur'an; عادل is a normal Arabic adjective and a well-attested given name"
+      },
+      {
+        "question": "What does Adel mean in Urdu?",
+        "answer": "In Urdu, Adel is rendered عادل and carries the sense عادل، منصف، سچا."
+      },
+      {
+        "question": "What does Adel mean in Persian?",
+        "answer": "No verified Persian form was established for Adel."
+      },
+      {
+        "question": "How is Adel pronounced?",
+        "answer": "A romanized syllable approximation is a-del. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Adel?",
+        "answer": "Romanization variants include Adel, adel. Script forms are عادل, आदिल."
+      },
+      {
+        "question": "Is Adel a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Adel Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Adel, a beautiful Islam name meaning \"Just, Righteous\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Adel, Islam name, baby names, Just, Righteous, Islam baby names, name meaning",
-      "description_paragraph": "Adel is a meaningful Islam name of Arabic origin that means \"Just, Righteous\". Derived from the Arabic root 'd-l-l' which means 'justice, righteousness'. The name Adel is mentioned in the Quran and is a noble and virtuous name in Islamic tradition.",
-      "keywords": [
-        "Adel",
-        "Islam name",
-        "baby names",
-        "Just, Righteous",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Adel in Islam tradition?",
-          "a": "Adel is a beautiful Islam name meaning \"Just, Righteous\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Adel a good Islam name for a baby?",
-          "a": "Yes, Adel is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Adel?",
-          "a": "The name Adel has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Adel correctly?",
-          "a": "Adel is pronounced ah-dil in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Adel?",
-          "a": "Naming a child Adel brings blessings. The meaning \"Just, Righteous\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Adel?",
-          "a": "Adel is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 99,
+      "title": "Adel Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Adel (عادل).",
+      "h1": "Adel Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Adel meaning",
       "secondary_keywords": [
-        "Islam name Adel",
-        "Adel meaning",
-        "Adel origin"
+        "Adel name meaning",
+        "Adel meaning in Urdu",
+        "Adel origin",
+        "Adel Islamic name",
+        "Adel pronunciation",
+        "Adel name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Adel (عادل) is associated with the Arabic form عادل, whose core sense is just, fair, honest. ʿĀdil ('just, fair'). Variant romanization of Adil.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Adel is associated with the Arabic form عادل, whose core sense is just, fair, honest.",
+      "meaning_section": "The central meaning of Adel is just, fair, honest.",
+      "origin_section": "Adel is associated with Arabic rather than with a different language.",
+      "islam_section": "Adel can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Adel is with the sense just.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Adel",
+      "#AdelMeaning",
+      "#AdelName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Adel holds a significant cultural impact in many Middle Eastern and Islamic communities. Naming a child Adel was believed to bestow good character and moral values upon them. The name implies a multi-faceted ideal of perfection, not only in terms of one's actions but also in the spheres of speech, intellect, and faith. Adel is seen as a pillar of social order and harmony.",
-    "spiritual_significance": "In Islamic tradition, the pursuit of Adl (justice) is considered one of the fundamental principles of faith. As mentioned in the Quran (Qasas 28:75), \"And We have sent you, [O Muhammad], only as a mercy to the worlds.\" The name Adel holds a spiritual significance rooted in the eternal quest for justice and righteousness. By adopting this virtuous name, one is reminded to strive towards a balanced and virtuous life in accordance with God's moral guidelines.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Adel ibn al-Fadl was a companion of the Prophet Muhammad. The name Adel carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      },
-      {
-        "reference": "Historical records show that Adel ibn Arqam was a companion of the Prophet Muhammad and a cousin of Ali ibn Abi Talib. The name Adel carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic history"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "common name in Arabic-speaking countries"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Adel corresponds to the Arabic form عادل",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Adel has the core sense just, fair, honest",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Social media, messaging apps"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Adel remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ahmed Adel",
-      "location": "Dubai, UAE",
-      "story": "Ahmed Adel from Dubai, UAE embodies the meaning of Adel - \"Just, Righteous\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Just, Righteous\" symbolizes Derived from the Arabic root 'd-l-l' which means 'justice, righteousness'. The name Adel is mentioned in the Quran and is a noble and virtuous name in Islamic tradition.. In Islamic spirituality, bearing the name Adel serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of just, righteous.",
-    "created_at": "2025-12-22T19:19:49.916Z",
-    "updated_at": "2025-12-22T04:53:15.326Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1006,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Adel",
-      "description": "Just, Righteous",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Adel",
+        "adel"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Adel",
-          "description": "Discover the meaning of Adel - \"Just, Righteous\"",
-          "image": "/images/social/adel-facebook.jpg"
+      "description": "A name associated with the Arabic form عادل, meaning just, fair, honest.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "adel",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Adel - Name Meaning",
-          "description": "Learn about the beautiful name Adel",
-          "image": "/images/social/adel-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Adel",
-          "description": "Name meaning: Just, Righteous",
-          "image": "/images/social/adel-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Adel - Meaning: Just, Righteous",
-        "email_subject": "Beautiful Name: Adel"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Adel with meaning Just, Righteous",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Adel, associated with the Arabic form عادل, meaning just, fair, honest."
     },
-    "similar_sounding_names": [
-      "arsala",
-      "ayan",
-      "ayra",
-      "amelia",
-      "amala",
-      "aaidah",
-      "anya",
-      "anila",
-      "alma",
-      "aidan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

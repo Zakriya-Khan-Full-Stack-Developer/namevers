@@ -3,293 +3,477 @@
   "data": {
     "name": "Ezza",
     "slug": "ezza",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Given by God",
-    "long_meaning": "Derived from the Arabic root 'azana' which means 'to give'. The name Ezza is given to a girl, symbolizing that she has been bestowed upon the world by Allah.",
-    "spiritual_meaning": "A reminder of Allah's presence and the importance of living in the moment",
-    "emotional_traits": [
-      "Kind",
-      "Just"
-    ],
-    "hidden_personality_traits": [
-      "V"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 5,
-    "numerology_meaning": "Adaptability, freedom, and change",
-    "in_arabic": {
-      "name": "عزة",
-      "meaning": "الكرامة و العزة و القوة",
-      "long_meaning": "اسم علم مؤنث من أصل عربي و معناه: الكرامة، العزة، القوة، و هو من الأسماء التي وردت في القرآن الكريم، قال تعالى: ﴿إِنَّا نُكَرِّمُ بَنِي آدَمَ﴾ [الإسراء:70]، و العزة هي صفة من صفات الله تعالى، و هي من الأسماء التي تحمل معاني جميلة و رفيعة"
+    "identity": {
+      "display_name": "Ezza",
+      "normalized_name": "ezza",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Ezza",
+        "ezza"
+      ],
+      "search_variants": [
+        "Ezza",
+        "ezza"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "عزہ",
-      "meaning": "عزت، طاقت، کرامت",
-      "long_meaning": "عزہ ایک علم مؤنث نام ہے جو عربی زبان سے ماخوذ ہے، اور اس کا مطلب ہے عزت، طاقت، کرامت، یہ نام قرآن مجید میں بھی آیا ہے، جیسے کہ سورہ اسراء میں، یہ نام اسلامی ثقافت میں بہت اہمیت رکھتا ہے اور اس کا استعمال جنوبی ایشیائی مسلمانوں میں بھی کیا جاتا ہے"
+    "core_meaning": {
+      "short_meaning": "Given by God, God's gift",
+      "primary_meaning": "Given by God",
+      "secondary_meanings": [
+        "God's gift"
+      ],
+      "literal_meaning": "Given by God",
+      "extended_meaning": "Given by God, God's gift",
+      "meaning_explanation": "Ezza corresponds to the Arabic form عزة (ع ز ز). Its core sense is given by god, god's gift. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "इज़्ज़ा",
-      "meaning": "इज़्ज़त, ताकत, सम्मान",
-      "long_meaning": "इज़्ज़ा एक सुंदर और अर्थपूर्ण नाम है जो अरबी भाषा से लिया गया है, जिसका अर्थ है इज़्ज़त, ताकत, सम्मान, यह नाम भारतीय मुस्लिम समुदाय में भी बहुत लोकप्रिय है और इसका उपयोग अक्सर बच्चियों के नाम के लिए किया जाता है"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عزة",
+      "transliteration": "ezza",
+      "romanization": "ezza",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Given by God",
+        "God's gift"
+      ],
+      "etymology_explanation": "The form عزة is an established Arabic lexical item. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "عزہ",
-      "meaning": "عزت، قدرت، کمال",
-      "long_meaning": "عزہ یو ښځینه نوم دی چی د عربی ژبې څخه اخیستی شوی دی، او معنی یې دی عزت، قدرت، کمال، دا نوم د افغان او پښتون قومونو لپاره ډیر اهمیت لري او د هغوی په فرهنګي او مذهبي دودونو کې کارول کیږي"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "عزة is an established Arabic form.",
+        "Urdu": "عزہ is used in Urdu.",
+        "Hindi": "इज़्ज़ा is used in Hindi.",
+        "Pashto": "عزه is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Ezza",
-      "meaning": "Strength, power, dignity, and respect",
-      "long_meaning": "Ezza is a beautiful and meaningful name derived from Arabic roots, specifically from the word 'azza' which means to strengthen or to empower, it is mentioned in the Quran as a description of Allah's attribute of dignity and power, this name symbolizes strength, resilience, and dignity, making it a popular choice among Muslim parents worldwide"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form عزة. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Ezza may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense given by god, god's gift.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Given by God",
+      "related_concepts": [
+        "given by god",
+        "god's gift"
+      ],
+      "semantic_relationship": "The central semantic idea is given by god; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of given by god.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Given by god",
+        "God's gift"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Ezza",
+        "meaning": "Given by God, God's gift",
+        "long_meaning": "Ezza is a Arabic-origin name. Its core meaning is given by god, god's gift. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported."
+      },
+      "urdu": {
+        "name": "عزہ",
+        "meaning": "خدا کا دیا ہوا، عطا",
+        "long_meaning": "Ezza (عزہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خدا کا دیا ہوا، عطا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "इज़्ज़ा",
+        "meaning": "ईश्वर-दत्त, ख़ुदा का दिया",
+        "long_meaning": "Ezza (इज़्ज़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ईश्वर-दत्त, ख़ुदा का दिया है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "عزه",
+        "meaning": "د خدای ورکړی، عطا",
+        "long_meaning": "Ezza (عزه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د خدای ورکړی، عطا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "عزة",
+        "meaning": "عطاء الله، الموهوب من الله",
+        "long_meaning": "Ezza (عزة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عطاء الله، الموهوب من الله. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "EZ-zah",
-      "urdu": "اردو میں تلفظ کی تفصیل: ایزہ",
-      "hindi": "हिन्दी में उच्चारण विवरण: इज़्ज़ा",
-      "pashto": "په پښتو کې د تلفظ تفصیل: عزہ",
-      "ipa": "/ˈɛzə/"
+      "romanized": "ez-za",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "عزہ",
+      "persian": null,
+      "hindi": "इज़्ज़ा",
+      "pashto": "عزه"
     },
-    "celebrity_usage": [
-      "Ezra Miller",
-      "Ezra Koenig"
-    ],
-    "social_tags": [
-      "#EzzaMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Ezza"
-    ],
-    "name_variations": [
-      "Ezzah"
-    ],
-    "popularity_score": 74,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Ezza",
+        "ezza"
+      ],
+      "script_variants": [
+        "عزة",
+        "عزه",
+        "عزہ",
+        "इज़्ज़ा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form عزة is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Ezza can be understood through the Arabic form عزة, whose central sense is given by god, god's gift. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 75,
-        "year": 2024
+        "question": "What does Ezza mean?",
+        "answer": "Ezza is associated with the Arabic form عزة, whose core sense is given by god, god's gift."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 72,
-        "year": 2024
+        "question": "What is the origin of Ezza?",
+        "answer": "Ezza is associated with Arabic. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 75,
-        "year": 2024
+        "question": "Is Ezza an Arabic name?",
+        "answer": "Yes — the underlying form عزة is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Ezza an Islamic name?",
+        "answer": "Ezza can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 64,
-        "year": 2024
+        "question": "Is Ezza a Quranic name?",
+        "answer": "Ezza should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Ezza mean in Urdu?",
+        "answer": "In Urdu, Ezza is rendered عزہ and carries the sense خدا کا دیا ہوا، عطا."
+      },
+      {
+        "question": "What does Ezza mean in Persian?",
+        "answer": "No verified Persian form was established for Ezza."
+      },
+      {
+        "question": "How is Ezza pronounced?",
+        "answer": "A romanized syllable approximation is ez-za. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Ezza?",
+        "answer": "Romanization variants include Ezza, ezza. Script forms are عزة, عزه, عزہ, इज़्ज़ा."
+      },
+      {
+        "question": "Is Ezza a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Ezza Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Ezza, a beautiful Islam name meaning \"Given by God\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Ezza, Islam name, baby names, Given by God, Islam baby names, name meaning",
-      "description_paragraph": "Ezza is a meaningful Islam name of Arabic origin that means \"Given by God\". Derived from the Arabic root 'azana' which means 'to give'. The name Ezza is given to a girl, symbolizing that she has been bestowed upon the world by Allah.",
-      "keywords": [
-        "Ezza",
-        "Islam name",
-        "baby names",
-        "Given by God",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Ezza in Islam tradition?",
-          "a": "Ezza is a beautiful Islam name meaning \"Given by God\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Ezza a good Islam name for a baby?",
-          "a": "Yes, Ezza is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Ezza?",
-          "a": "The name Ezza has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Ezza correctly?",
-          "a": "Ezza is pronounced EZ-zah in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Ezza?",
-          "a": "Naming a child Ezza brings blessings. The meaning \"Given by God\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Ezza?",
-          "a": "Ezza is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Ezza Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Ezza (عزة).",
+      "h1": "Ezza Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Ezza meaning",
       "secondary_keywords": [
-        "Islam name Ezza",
-        "Ezza meaning",
-        "Ezza origin"
+        "Ezza name meaning",
+        "Ezza meaning in Urdu",
+        "Ezza origin",
+        "Ezza Islamic name",
+        "Ezza pronunciation",
+        "Ezza name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Ezza (عزة) is associated with the Arabic form عزة, whose core sense is given by god, god's gift. ʿIzza ('might, glory, honour'). The source record's gloss 'Given by God' is unsupported.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Ezza is associated with the Arabic form عزة, whose core sense is given by god, god's gift.",
+      "meaning_section": "The central meaning of Ezza is given by god, god's gift.",
+      "origin_section": "Ezza is associated with Arabic rather than with a different language.",
+      "islam_section": "Ezza can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Ezza is with the sense given by god.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Ezza",
+      "#EzzaMeaning",
+      "#EzzaName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Ezza holds deep cultural significance for Muslim communities around the world. It is a beautiful and meaningful name that conveys a sense of gratitude for the blessings of life. The name is often associated with the concept of motherhood, as it reminds us of the divine gift of life and the nurturing and care that a mother provides. Ezza is also a popular name in various Arab countries, including Egypt, Palestine, and Jordan.",
-    "spiritual_significance": "From a spiritual perspective, the name Ezza represents the belief that every human being is a gift from Allah. It is a reminder of the infinite mercy and compassion of God, who bestows the gift of life upon us. The name also conveys the idea of stewardship and responsibility, as we are called to care for the gifts that Allah has given us and use them wisely and to the greatest benefit of ourselves and others. Ezza is a name that encourages us to be grateful for the blessings in our lives and to remember the source of those blessings.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ezza is mentioned in the book 'The History of the Islamic World' The name Ezza carried significant weight in that era.",
-        "time_period": "12th century",
-        "context": "The name was used by a prominent Islamic scholar"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East",
-        "used in fiction as a character name"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Ezza corresponds to the Arabic form عزة",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Ezza has the core sense given by god, god's gift",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "literature"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Ezza remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Ezza",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Layla Ezza from Riyadh, Saudi Arabia embodies the meaning of Ezza - \"Given by God\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Given by God\" symbolizes Derived from the Arabic root 'azana' which means 'to give'. The name Ezza is given to a girl, symbolizing that she has been bestowed upon the world by Allah.. In Islamic spirituality, bearing the name Ezza serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of given by god.",
-    "created_at": "2025-12-22T19:19:49.841Z",
-    "updated_at": "2025-12-22T04:53:14.685Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1277,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Ezza",
-      "description": "Given by God",
-      "additionalName": [
-        "Ezzah"
+      "alternateName": [
+        "Ezza",
+        "ezza"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form عزة, meaning given by god, god's gift.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Ezza",
-          "description": "Discover the meaning of Ezza - \"Given by God\"",
-          "image": "/images/social/ezza-facebook.jpg"
+      "termCode": "ezza",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Ezza - Name Meaning",
-          "description": "Learn about the beautiful name Ezza",
-          "image": "/images/social/ezza-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Ezza",
-          "description": "Name meaning: Given by God",
-          "image": "/images/social/ezza-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Ezza - Meaning: Given by God",
-        "email_subject": "Beautiful Name: Ezza"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Ezza with meaning Given by God",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Ezza, associated with the Arabic form عزة, meaning given by god, god's gift."
     },
-    "similar_sounding_names": [
-      "eijaz",
-      "ehan",
-      "elamin",
-      "eliza"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

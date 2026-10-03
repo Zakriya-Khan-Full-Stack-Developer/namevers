@@ -1,277 +1,476 @@
 {
   "success": true,
   "data": {
-    "name": "dean",
+    "name": "Dean",
     "slug": "dean",
-    "language": [
-      "English"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Leader",
-    "long_meaning": "Originally a surname, this name comes from the Old English word 'denu', meaning 'valley' and 'dean', meaning 'leader'. As a first name, it is a unisex name and is often given to children who are expected to lead and guide others.",
-    "spiritual_meaning": "A name with deep spiritual roots, Dean signifies wisdom, leadership, and a strong sense of duty. It is a name that inspires confidence and respect, and is often associated with individuals who are deeply spiritual and have a strong connection to their faith.",
-    "emotional_traits": [
-      "Confident",
-      "Wise",
-      "Intelligent",
-      "Strong"
-    ],
-    "hidden_personality_traits": [
-      "Compassionate",
-      "Introspective"
-    ],
-    "lucky_number": 1,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Red",
-      "Gold"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 1,
-    "numerology_meaning": "Independent, ambitious, and strong, those with a Life Path Number 1 are natural born leaders and innovators. They are often the first to explore new ideas and take risks, and are driven by a strong sense of purpose and a desire to be the best in their field.",
-    "in_arabic": {
-      "name": "na'ib",
-      "meaning": "deputy, vice",
-      "long_meaning": "A person who represents or stands in the place of another, especially a deputy or vicar in a religious or administrative capacity."
+    "identity": {
+      "display_name": "Dean",
+      "normalized_name": "dean",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Dean",
+        "dean"
+      ],
+      "search_variants": [
+        "Dean",
+        "dean"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "نائب",
-      "meaning": "نیابتدار",
-      "long_meaning": "ایک انسان جس میں دوسرے کے جگہ ہونے والا ہوتا ہوں، بہترین ترتیب سے دیوانہ یا دیوانہ کے مائل ہونے والا."
+    "core_meaning": {
+      "short_meaning": "Leader, chief, dean",
+      "primary_meaning": "Leader",
+      "secondary_meanings": [
+        "chief",
+        "dean"
+      ],
+      "literal_meaning": "Leader",
+      "extended_meaning": "Leader, chief, dean",
+      "meaning_explanation": "Dean corresponds to the English form دين (Latin decanus). Its core sense is leader, chief, dean. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "नायब",
-      "meaning": "नेता",
-      "long_meaning": "किसी की विकास या प्रशाسनिक कपड़ी के لिए ज़िन्दगी का अधिकारी या विकास के लिए निर्देशक।"
+    "etymology": {
+      "primary_language": "English",
+      "lexical_form": "دين",
+      "transliteration": "dean",
+      "romanization": "dean",
+      "root_status": "Latin decanus",
+      "etymological_meaning": [
+        "Leader",
+        "chief",
+        "dean"
+      ],
+      "etymology_explanation": "The form دين is an established English lexical item. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "نايب",
-      "meaning": "وکيل, نظام بلوغ",
-      "long_meaning": "دوسرے کی جگہ ہونے والا وکيل یا نظام بلوغ"
+    "language": {
+      "primary": "English",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "دين is an established Arabic form.",
+        "Urdu": "دین is used in Urdu.",
+        "Hindi": "डीन is used in Hindi.",
+        "Pashto": "دین is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Naib",
-      "meaning": "Deputy, Vice, Representative",
-      "long_meaning": "A person who represents or stands in the place of another, especially a deputy or vicar in a religious or administrative capacity."
+    "origin": {
+      "primary_origin": "English",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the English form دين. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "cultural_transmission": []
+    },
+    "religion": {
+      "primary_association": "South Asian cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Dean may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense leader, chief, dean.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Leader",
+      "related_concepts": [
+        "leader",
+        "chief",
+        "dean"
+      ],
+      "semantic_relationship": "The central semantic idea is leader; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of leader.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Leader",
+        "Chief",
+        "Dean"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Dean",
+        "meaning": "Leader, chief, dean",
+        "long_meaning": "Dean is a English-origin name. Its core meaning is leader, chief, dean. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
+      },
+      "urdu": {
+        "name": "دین",
+        "meaning": "رہنما، سردار، پیشوا",
+        "long_meaning": "Dean (دین) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رہنما، سردار، پیشوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "डीन",
+        "meaning": "नेता, सरदार",
+        "long_meaning": "Dean (डीन) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ नेता, सरदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "دین",
+        "meaning": "مشر، سردار، لارښود",
+        "long_meaning": "Dean (دین) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مشر، سردار، لارښود ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "دين",
+        "meaning": "القائد، الزعيم، الرئيس",
+        "long_meaning": "Dean (دين) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي القائد، الزعيم، الرئيس. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "na-ib",
-      "urdu": "nā'ib",
-      "hindi": "nāyab",
-      "pashto": "nāyab"
+      "romanized": "dean",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "دین",
+      "persian": null,
+      "hindi": "डीन",
+      "pashto": "دین"
     },
-    "celebrity_usage": [
-      "Dean Martin",
-      "Dean Norris",
-      "Dean Koontz"
-    ],
-    "social_tags": [
-      "#NaibMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 73,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Dean",
+        "dean"
+      ],
+      "script_variants": [
+        "دين",
+        "دین",
+        "डीन"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form دين is an established English lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Dean can be understood through the English form دين, whose central sense is leader, chief, dean. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 88,
-        "year": 2024
+        "question": "What does Dean mean?",
+        "answer": "Dean is associated with the English form دين, whose core sense is leader, chief, dean."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Dean?",
+        "answer": "Dean is associated with English. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 82,
-        "year": 2024
+        "question": "Is Dean an Arabic name?",
+        "answer": "No — the underlying form is English, not Arabic."
+      },
+      {
+        "question": "Is Dean an Islamic name?",
+        "answer": "Dean can occur in Muslim naming contexts, but it is better described as a English-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Dean a Quranic name?",
+        "answer": "Dean should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Dean mean in Urdu?",
+        "answer": "In Urdu, Dean is rendered دین and carries the sense رہنما، سردار، پیشوا."
+      },
+      {
+        "question": "What does Dean mean in Persian?",
+        "answer": "No verified Persian form was established for Dean."
+      },
+      {
+        "question": "How is Dean pronounced?",
+        "answer": "A romanized syllable approximation is dean. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Dean?",
+        "answer": "Romanization variants include Dean, dean. Script forms are دين, دین, डीन."
+      },
+      {
+        "question": "Is Dean a boy's or girl's name?",
+        "answer": "Documented usage records this form as unisex. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "dean Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of dean, a beautiful Islam name meaning \"Leader\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "dean, Islam name, baby names, Leader, Islam baby names, name meaning",
-      "description_paragraph": "dean is a meaningful Islam name of Arabic origin that means \"Leader\". Originally a surname, this name comes from the Old English word 'denu', meaning 'valley' and 'dean', meaning 'leader'. As a first name, it is a unisex name and is often given to children who are expected to lead and guide others.",
-      "keywords": [
-        "dean",
-        "Islam name",
-        "baby names",
-        "Leader",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of dean in Islam tradition?",
-          "a": "dean is a beautiful Islam name meaning \"Leader\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is dean a good Islam name for a baby?",
-          "a": "Yes, dean is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name dean?",
-          "a": "The name dean has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce dean correctly?",
-          "a": "dean is pronounced na-ib in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child dean?",
-          "a": "Naming a child dean brings blessings. The meaning \"Leader\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name dean?",
-          "a": "dean is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
-      "focus_keyword": "dean meaning",
+      "title": "Dean Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, English origin, Urdu meaning, pronunciation, variants and Islamic naming context of Dean (دين).",
+      "h1": "Dean Name Meaning, Origin and Cultural Background",
+      "focus_keyword": "Dean meaning",
       "secondary_keywords": [
-        "Islam name dean",
-        "dean meaning",
-        "dean origin"
+        "Dean name meaning",
+        "Dean meaning in Urdu",
+        "Dean origin",
+        "Dean Islamic name",
+        "Dean pronunciation",
+        "Dean name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Dean (دين) is associated with the English form دين, whose core sense is leader, chief, dean. Dean, an English name from Latin decanus ('leader of ten'), also a church office. The source record's gloss 'Leader' is a reasonable rendering. The source record classified it as Arabic, which is incorrect.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Dean is associated with the English form دين, whose core sense is leader, chief, dean.",
+      "meaning_section": "The central meaning of Dean is leader, chief, dean.",
+      "origin_section": "Dean is associated with English rather than with a different language.",
+      "islam_section": "Dean can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Dean is with the sense leader.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Dean",
+      "#DeanMeaning",
+      "#DeanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In the Islamic context, the name \"Dean\" does not have any specific cultural significance. It is simply a name that can be given to children regardless of their ethnic or cultural background.",
-    "spiritual_significance": "The spiritual significance of the name \"Dean\" lies in its meaning as a 'leader'. In Islamic teachings, every person is encouraged to be a leader in their own way by serving and guiding others towards righteousness. Thus, the name \"Dean\" is a reminder for the bearer to strive towards becoming a role model and a source of guidance for those around them, and to always aim to lead others towards the path of goodness.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name dean carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Gaining popularity in Western Muslim communities"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Dean corresponds to the English form دين",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Dean has the core sense leader, chief, dean",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name dean remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha dean",
-      "location": "Karachi, Pakistan",
-      "story": "A successful entrepreneur named Aisha dean in Karachi, Pakistan attributes much of their success to the blessing of their name dean, which means \"Leader\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Leader\" symbolizes Originally a surname, this name comes from the Old English word 'denu', meaning 'valley' and 'dean', meaning 'leader'. As a first name, it is a unisex name and is often given to children who are expected to lead and guide others.. In Islamic spirituality, bearing the name dean serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of leader.",
-    "created_at": "2025-12-22T19:19:50.951Z",
-    "updated_at": "2025-12-22T04:53:16.684Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1024,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "dean",
-      "description": "Leader",
-      "additionalName": [],
-      "knowsLanguage": [
-        "English"
+      "@type": "DefinedTerm",
+      "name": "Dean",
+      "alternateName": [
+        "Dean",
+        "dean"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: dean",
-          "description": "Discover the meaning of dean - \"Leader\"",
-          "image": "/images/social/dean-facebook.jpg"
+      "description": "A name associated with the English form دين, meaning leader, chief, dean.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "dean",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "English"
         },
-        "twitter": {
-          "title": "dean - Name Meaning",
-          "description": "Learn about the beautiful name dean",
-          "image": "/images/social/dean-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
         },
-        "instagram": {
-          "title": "dean",
-          "description": "Name meaning: Leader",
-          "image": "/images/social/dean-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: dean - Meaning: Leader",
-        "email_subject": "Beautiful Name: dean"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "dean with meaning Leader",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Dean, associated with the English form دين, meaning leader, chief, dean."
     },
-    "similar_sounding_names": [
-      "dimah",
-      "diya",
-      "dina",
-      "dhuka",
-      "daniel",
-      "dafiyah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

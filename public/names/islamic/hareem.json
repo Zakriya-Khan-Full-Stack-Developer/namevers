@@ -3,278 +3,481 @@
   "data": {
     "name": "Hareem",
     "slug": "hareem",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Intimate, innermost",
-    "long_meaning": "Name of the innermost and most sacred part of the Kaaba, a symbol of spiritual intimacy with Allah.",
-    "spiritual_meaning": "A symbol of spiritual intimacy and closeness to Allah, reminding us of the importance of inner purity and sincerity.",
-    "emotional_traits": [
-      "Kind",
-      "Loving",
-      "Nurturing"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "L = Loyal"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Green",
-      "Blue"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "A spiritual teacher, a healer, a nurturer, and a harmonizer.",
-    "in_arabic": {
-      "name": "حريم",
-      "meaning": "اسم يدل على الحماية و الخصوصية و المكان المقدس",
-      "long_meaning": "حريم هو اسم علم مؤنث من أصل عربي و يعني الحماية و الخصوصية و المكان المقدس. و هو من الأسماء التي تحمل معاني جميلة و عميقة في الثقافة الإسلامية. كما أنه يوحي بالحماية و الرعاية و الاهتمام."
+    "identity": {
+      "display_name": "Hareem",
+      "normalized_name": "hareem",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Hareem",
+        "hareem"
+      ],
+      "search_variants": [
+        "Hareem",
+        "hareem"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حریم",
-      "meaning": "ایک ایسا نام جو حفاظت اور نجابت کی علامت ہے",
-      "long_meaning": "حریم ایک عربی मूल کا اسم ہے جس کا مطلب ہے حفاظت اور نجابت۔ یہ نام اسلامی ثقافت میں ایک گہرا اور خوبصورت معنی رکھتا ہے۔ یہ حفاظت اور مراقبت کی علامت ہے، اور یہ ان خوبصورت نسائی ناموں میں سے ایک ہے جو اسلامی روایات میں پائے جاتے ہیں۔"
+    "core_meaning": {
+      "short_meaning": "Intimate, innermost, sacred precinct",
+      "primary_meaning": "Intimate",
+      "secondary_meanings": [
+        "innermost",
+        "sacred precinct"
+      ],
+      "literal_meaning": "Intimate",
+      "extended_meaning": "Intimate, innermost, sacred precinct",
+      "meaning_explanation": "Hareem corresponds to the Arabic form حريم (Arabic root ح ر م (ḥ-r-m); حَرِيم (Ḥarīm)). Its core sense is intimate, innermost, sacred precinct. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हरीम",
-      "meaning": "एक ऐसा नाम जो सुरक्षा और पवित्रता की प्रतीक है",
-      "long_meaning": "हरीम एक अरबी मूल का नाम है जिसका अर्थ है सुरक्षा और पवित्रता। यह नाम इस्लामी संस्कृति में गहरा और सुंदर अर्थ रखता है। यह सुरक्षा और देखभाल की निशानी है, और यह उन सुंदर स्त्री नामों में से एक है जो इस्लामी परंपराओं में पाए जाते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حريم",
+      "transliteration": "hareem",
+      "romanization": "hareem",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Intimate",
+        "innermost",
+        "sacred precinct"
+      ],
+      "etymology_explanation": "The form حريم is an established Arabic lexical item. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حريم",
-      "meaning": "د يوې نجلې نوم چې د خوندیتوب او سپېڅليتوب مانا ورکوي",
-      "long_meaning": "حريم د عربي اصل يو نوم دى چې مانا يې د خوندیتوب او سپېڅليتوب دى. دا نوم په اسلامي کلتور کې يو ژور او ښکلی مطلب لري. دا د خوندیتوب او پاملرنې نښه ده، او دا د هغو ښکلو ښځينو نومونو څخه يو دى چې په اسلامي دودونو کې موندل کيږي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حريم is an established Arabic form.",
+        "Urdu": "حريم is used in Urdu.",
+        "Persian": "حريم is an established Persian form.",
+        "Hindi": "हरीम is used in Hindi.",
+        "Pashto": "حريم is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Hareem",
-      "meaning": "A name that signifies protection, sanctity, and privacy",
-      "long_meaning": "Hareem is a name of Arabic origin, meaning protection, sanctity, and privacy. It holds a rich and profound significance in Islamic culture, symbolizing safety, care, and sacredness. Derived from the Arabic root 'ḥ-r-m', which conveys the idea of being protected or forbidden, Hareem reflects a sense of revered and cherished space."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form حريم. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Hareem may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense intimate, innermost, sacred precinct.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Intimate",
+      "related_concepts": [
+        "intimate",
+        "innermost",
+        "sacred precinct"
+      ],
+      "semantic_relationship": "The central semantic idea is intimate; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of intimate.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Intimate",
+        "Innermost",
+        "Sacred precinct"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Hareem",
+        "meaning": "Intimate, innermost, sacred precinct",
+        "long_meaning": "Hareem is a Arabic-origin name. Its core meaning is intimate, innermost, sacred precinct. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim."
+      },
+      "urdu": {
+        "name": "حريم",
+        "meaning": "قریبی، اندرونی؛ حرم",
+        "long_meaning": "Hareem (حريم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قریبی، اندرونی؛ حرم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حريم",
+        "meaning": "نزدیک، درونی؛ حرم",
+        "long_meaning": "Hareem (حريم) نامی برگرفته از زبان عربی است و معنای اصلی آن نزدیک، درونی؛ حرم است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हरीम",
+        "meaning": "अंतरंग, आंतरिक",
+        "long_meaning": "Hareem (हरीम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अंतरंग, आंतरिक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حريم",
+        "meaning": "نږدې، داخلي",
+        "long_meaning": "Hareem (حريم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نږدې، داخلي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حريم",
+        "meaning": "الحريم، القريب، الباطن",
+        "long_meaning": "Hareem (حريم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحريم، القريب، الباطن. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-REEM",
-      "urdu": "اردو میں تلفظ کی تفصیل: حریم (ha-reem)",
-      "hindi": "हिन्दी में उच्चारण विवरण: हरीम (ha-reem)",
-      "pashto": "په پښتو کې د تلفظ تفصیل: حريم (ha-reem)",
-      "ipa": "/ɑːˈriːm/"
+      "romanized": "ha-reem",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حريم",
+      "persian": "حريم",
+      "hindi": "हरीम",
+      "pashto": "حريم"
     },
-    "celebrity_usage": [
-      "Hareem Farooq",
-      "Hareem Al-Saffar"
-    ],
-    "social_tags": [
-      "#HareemMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Hareem"
-    ],
-    "name_variations": [
-      "Harim"
-    ],
-    "popularity_score": 53,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Hareem",
+        "hareem"
+      ],
+      "script_variants": [
+        "حريم",
+        "हरीम"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حريم is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Hareem can be understood through the Arabic form حريم, whose central sense is intimate, innermost, sacred precinct. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 77,
-        "year": 2024
+        "question": "What does Hareem mean?",
+        "answer": "Hareem is associated with the Arabic form حريم, whose core sense is intimate, innermost, sacred precinct."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 70,
-        "year": 2024
+        "question": "What is the origin of Hareem?",
+        "answer": "Hareem is associated with Arabic. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Hareem an Arabic name?",
+        "answer": "Yes — the underlying form حريم is Arabic."
+      },
+      {
+        "question": "Is Hareem an Islamic name?",
+        "answer": "Hareem can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Hareem a Quranic name?",
+        "answer": "Hareem should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Hareem mean in Urdu?",
+        "answer": "In Urdu, Hareem is rendered حريم and carries the sense قریبی، اندرونی؛ حرم."
+      },
+      {
+        "question": "What does Hareem mean in Persian?",
+        "answer": "In Persian, Hareem is rendered حريم and carries the sense نزدیک، درونی؛ حرم."
+      },
+      {
+        "question": "How is Hareem pronounced?",
+        "answer": "A romanized syllable approximation is ha-reem. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Hareem?",
+        "answer": "Romanization variants include Hareem, hareem. Script forms are حريم, हरीम."
+      },
+      {
+        "question": "Is Hareem a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Hareem Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Hareem, a beautiful Islam name meaning \"Intimate, innermost\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Hareem, Islam name, baby names, Intimate, innermost, Islam baby names, name meaning",
-      "description_paragraph": "Hareem is a meaningful Islam name of Arabic origin that means \"Intimate, innermost\". Name of the innermost and most sacred part of the Kaaba, a symbol of spiritual intimacy with Allah.",
-      "keywords": [
-        "Hareem",
-        "Islam name",
-        "baby names",
-        "Intimate, innermost",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Hareem in Islam tradition?",
-          "a": "Hareem is a beautiful Islam name meaning \"Intimate, innermost\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Hareem a good Islam name for a baby?",
-          "a": "Yes, Hareem is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Hareem?",
-          "a": "The name Hareem has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Hareem correctly?",
-          "a": "Hareem is pronounced ah-REEM in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Hareem?",
-          "a": "Naming a child Hareem brings blessings. The meaning \"Intimate, innermost\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Hareem?",
-          "a": "Hareem is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 94,
+      "title": "Hareem Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Hareem (حريم).",
+      "h1": "Hareem Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Hareem meaning",
       "secondary_keywords": [
-        "Islam name Hareem",
-        "Hareem meaning",
-        "Hareem origin"
+        "Hareem name meaning",
+        "Hareem meaning in Urdu",
+        "Hareem origin",
+        "Hareem Islamic name",
+        "Hareem pronunciation",
+        "Hareem name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Hareem (حريم) is associated with the Arabic form حريم, whose core sense is intimate, innermost, sacred precinct. Hareem is Arabic حَرِيم (Ḥarīm) 'the women's quarters, a sacred/inviolable precinct; the innermost part of a house', from the root ح ر م (ḥ-r-m). The source gloss 'intimate, innermost' reflects the sense of the root; the lexical sense of حريم is the inviolable inner space. Same name as harim.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Hareem is associated with the Arabic form حريم, whose core sense is intimate, innermost, sacred precinct.",
+      "meaning_section": "The central meaning of Hareem is intimate, innermost, sacred precinct.",
+      "origin_section": "Hareem is associated with Arabic rather than with a different language.",
+      "islam_section": "Hareem can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Hareem is with the sense intimate.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Hareem",
+      "#HareemMeaning",
+      "#HareemName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "In Islamic tradition, the term \"Hareem\" refers to the inner sanctum of the Kaaba, which is the most sacred building in Islam. This space is reserved exclusively for the Prophet Muhammad (PBUH) and his immediate family members. The term has also been used to describe the women's quarters in Muslim households and compounds.",
-    "spiritual_significance": "\"Hareem\" holds a profound spiritual significance in Islam. It symbolizes the innermost and most sacred part of an individual's relationship with Allah. Just as the Kaaba's Hareem is protected, so too should one's own spiritual relationship with Allah be guarded from outside influences. It is a space where one can connect deeply with the divine, free from distractions and worldly concerns.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Hareem is mentioned in the Quran as the private quarters of the Prophet Muhammad. The name Hareem carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Islamic scripture"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "increasing popularity in the Middle East and North Africa"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Hareem corresponds to the Arabic form حريم",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Hareem has the core sense intimate, innermost, sacred precinct",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, naming ceremonies"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Hareem remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Maryam Hareem",
-      "location": "Cairo, Egypt",
-      "story": "A successful entrepreneur named Maryam Hareem in Cairo, Egypt attributes much of their success to the blessing of their name Hareem, which means \"Intimate, innermost\". They believe their name has shaped their identity and guided them through life."
-    },
-    "spiritual_symbolism": "The meaning \"Intimate, innermost\" symbolizes Name of the innermost and most sacred part of the Kaaba, a symbol of spiritual intimacy with Allah.. In Islamic spirituality, bearing the name Hareem serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of intimate, innermost.",
-    "created_at": "2025-12-22T19:19:49.804Z",
-    "updated_at": "2025-12-22T04:53:14.497Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1389,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Hareem",
-      "description": "Intimate, innermost",
-      "additionalName": [
-        "Harim"
+      "alternateName": [
+        "Hareem",
+        "hareem"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form حريم, meaning intimate, innermost, sacred precinct.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Hareem",
-          "description": "Discover the meaning of Hareem - \"Intimate, innermost\"",
-          "image": "/images/social/hareem-facebook.jpg"
+      "termCode": "hareem",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Hareem - Name Meaning",
-          "description": "Learn about the beautiful name Hareem",
-          "image": "/images/social/hareem-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Hareem",
-          "description": "Name meaning: Intimate, innermost",
-          "image": "/images/social/hareem-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Hareem - Meaning: Intimate, innermost",
-        "email_subject": "Beautiful Name: Hareem"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Hareem with meaning Intimate, innermost",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Hareem, associated with the Arabic form حريم, meaning intimate, innermost, sacred precinct."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

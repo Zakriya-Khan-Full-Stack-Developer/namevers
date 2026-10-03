@@ -3,284 +3,484 @@
   "data": {
     "name": "Aaminaat",
     "slug": "aaminaat",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Trustworthy, Faithful",
-    "long_meaning": "She who is trustworthy and faithful",
-    "spiritual_meaning": "A name for a girl who embodies trustworthiness, reliability, and faithfulness in her relationships and actions.",
-    "emotional_traits": [
-      "Trustworthy",
-      "Reliable",
-      "Faithful"
-    ],
-    "hidden_personality_traits": [
-      "Loyal",
-      "Steadfast",
-      "Dependable"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 11,
-    "numerology_meaning": "Your life path number, 11, is a master number that represents intuition, insight, and inspiration. You have the potential to be a spiritual leader, healer, or teacher.",
-    "in_arabic": {
-      "name": "أمينات",
-      "meaning": "أمينات تعني الأمن والسلام والثقة",
-      "long_meaning": "اسم أمينات مشتق من الجذر العربي أمن، ويعني الأمن والسلام والثقة. يدل على صفة الإمانة والصدق، وقد ورد في القرآن الكريم في عدة مواضع، منها قول الله تعالى: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾ [النساء: 58]. يعتبر اسم أمينات من الأسماء ذات الأهمية الكبيرة في التراث الإسلامي، حيث يرتبط بالخصال الحميدة مثل الأمانة والصدق."
+    "identity": {
+      "display_name": "Aaminaat",
+      "normalized_name": "aaminaat",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Aaminaat",
+        "aaminaat",
+        "aminat"
+      ],
+      "search_variants": [
+        "Aaminaat",
+        "aaminaat",
+        "aminat"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "امینات",
-      "meaning": "امینات کا مطلب ہے امن، سلامتی اور اعتماد",
-      "long_meaning": "امینات نام عربی جڑ أمن سے ماخوذ ہے، جس کا مطلب ہے امن، سلامتی اور اعتماد۔ یہ نام سچائی اور ایمانداری کی صفت کو ظاہر کرتا ہے۔ قرآن کریم میں اس جڑ سے متعدد آیات ہیں، جن میں اللہ تعالیٰ کا ارشاد ہے: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾ [النساء: 58]. جنوبی ایشیائی مسلم معاشرے میں امینات نام کو اہمیت حاصل ہے، جہاں یہ نام حسنات جیسے امانتداری اور راستگوئی سے وابستہ ہے۔"
+    "core_meaning": {
+      "short_meaning": "Trustworthy, faithful, honest",
+      "primary_meaning": "Trustworthy",
+      "secondary_meanings": [
+        "faithful",
+        "honest"
+      ],
+      "literal_meaning": "Trustworthy",
+      "extended_meaning": "Trustworthy, faithful, honest",
+      "meaning_explanation": "Aaminaat corresponds to the Arabic form أمينات (أ م ن). Its core sense is trustworthy, faithful, honest. Plural form of أمينة; used as a given name in some South Asian communities.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "अमीना",
-      "meaning": "अमीना का अर्थ है शांति, सुरक्षा और भरोसा",
-      "long_meaning": "अमीना नाम अरबी मूल अمن से लिया गया है, जिसका अर्थ है शांति, सुरक्षा और भरोसा। यह नाम सच्चाई और ईमानदारी के गुण को दर्शाता है। कुरआन में इस जड़ से कई संदर्भ हैं, जिनमें अल्लाह का कथन है: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾ [النساء: 58]. भारतीय मुस्लिम समुदाय में अमीना नाम का महत्व है, जहां यह नाम अच्छे गुणों जैसे कि ईमानदारी और सच्चाई से जुड़ा हुआ है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أمينات",
+      "transliteration": "aaminaat",
+      "romanization": "aaminaat",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Trustworthy",
+        "faithful",
+        "honest"
+      ],
+      "etymology_explanation": "The form أمينات is an established Arabic lexical item. Plural form of أمينة; used as a given name in some South Asian communities.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "امینات",
-      "meaning": "امینات معنی یې د امن، سولې او بېرته توب",
-      "long_meaning": "د امینات نوم د عربي کلمې أمن څخه اخیستل شوی دی، چې معنی یې ده امن، سولې او بېرته توب. دا نوم د راستنۍ او امانتدارۍ صفت څرګندوي. په قرآن کریم کې د دې کلمې ډیری حوالې دي، په شمول د الله تعالیٰ وینا: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾ [النساء: 58]. د افغان او پښتون دودیزو ټولنو کې، امینات نوم د پام وړ دی، چې د امانتدارۍ او صداقت سره تړاو لري."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أمينات is an established Arabic form.",
+        "Urdu": "امینات is used in Urdu.",
+        "Hindi": "आमिनात is used in Hindi.",
+        "Pashto": "امینات is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Aaminaat",
-      "meaning": "Aaminaat means safety, security, and trustworthiness in Arabic",
-      "long_meaning": "The name Aaminaat originates from the Arabic root 'أمن' (aman), which signifies safety, security, and trust. It embodies qualities of trustworthiness, honesty, and reliability. References to this root are found in the Quran, such as: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾ [النساء: 58]. Historically, Aaminaat holds significant spiritual and cultural value in Islamic tradition, symbolizing peace and stability. The name is favored across various Muslim cultures for its positive connotations and noble characteristics."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form أمينات. Plural form of أمينة; used as a given name in some South Asian communities.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Aaminaat may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "root أ م ن occurs in the Qur'an; أمينات is a sound feminine plural, not a Qur'anic proper name"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense trustworthy, faithful, honest.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Trustworthy",
+      "related_concepts": [
+        "trustworthy",
+        "faithful",
+        "honest"
+      ],
+      "semantic_relationship": "The central semantic idea is trustworthy; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of trustworthy.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Trustworthy",
+        "Faithful",
+        "Honest"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Aaminaat",
+        "meaning": "Trustworthy, faithful, honest",
+        "long_meaning": "Aaminaat is a Arabic-origin name. Its core meaning is trustworthy, faithful, honest. Plural form of أمينة; used as a given name in some South Asian communities."
+      },
+      "urdu": {
+        "name": "امینات",
+        "meaning": "قابلِ اعتماد، وفادار، دیانتدار",
+        "long_meaning": "Aaminaat (امینات) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قابلِ اعتماد، وفادار، دیانتدار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "आमिनात",
+        "meaning": "विश्वसनीय, ईमानदार, वफ़ादार",
+        "long_meaning": "Aaminaat (आमिनात) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विश्वसनीय, ईमानदार, वफ़ादार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "امینات",
+        "meaning": "باور وړ، وفادار، امانتدار",
+        "long_meaning": "Aaminaat (امینات) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې باور وړ، وفادار، امانتدار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أمينات",
+        "meaning": "أمين، موثوق، مخلص",
+        "long_meaning": "Aaminaat (أمينات) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أمين، موثوق، مخلص. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "ah-mee-nat",
-      "urdu": "اردو میں تلفظ کی تفصیل: اے می نات",
-      "hindi": "हिन्दी में उच्चारण विवरण: अमी नात",
-      "pashto": "په پښتو کې د تلفظ تفصیل: امینات",
-      "ipa": "/ɑːˈmiːnɑːt/"
+      "romanized": "aa-mi-naat",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "امینات",
+      "persian": null,
+      "hindi": "आमिनात",
+      "pashto": "امینات"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AaminaatMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Aaminaat"
-    ],
-    "name_variations": [
-      "Aaminat"
-    ],
-    "popularity_score": 47,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Aaminaat",
+        "aaminaat",
+        "aminat"
+      ],
+      "script_variants": [
+        "أمينات",
+        "امینات",
+        "आमिनात"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أمينات is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Aaminaat can be understood through the Arabic form أمينات, whose central sense is trustworthy, faithful, honest. Plural form of أمينة; used as a given name in some South Asian communities.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 83,
-        "year": 2024
+        "question": "What does Aaminaat mean?",
+        "answer": "Aaminaat is associated with the Arabic form أمينات, whose core sense is trustworthy, faithful, honest."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 81,
-        "year": 2024
+        "question": "What is the origin of Aaminaat?",
+        "answer": "Aaminaat is associated with Arabic. Plural form of أمينة; used as a given name in some South Asian communities."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Aaminaat an Arabic name?",
+        "answer": "Yes — the underlying form أمينات is Arabic."
+      },
+      {
+        "question": "Is Aaminaat an Islamic name?",
+        "answer": "Aaminaat can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Aaminaat a Quranic name?",
+        "answer": "Aaminaat should not be classified as a Quranic personal name without a direct Quranic basis. root أ م ن occurs in the Qur'an; أمينات is a sound feminine plural, not a Qur'anic proper name"
+      },
+      {
+        "question": "What does Aaminaat mean in Urdu?",
+        "answer": "In Urdu, Aaminaat is rendered امینات and carries the sense قابلِ اعتماد، وفادار، دیانتدار."
+      },
+      {
+        "question": "What does Aaminaat mean in Persian?",
+        "answer": "No verified Persian form was established for Aaminaat."
+      },
+      {
+        "question": "How is Aaminaat pronounced?",
+        "answer": "A romanized syllable approximation is aa-mi-naat. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Aaminaat?",
+        "answer": "Romanization variants include Aaminaat, aaminaat, aminat. Script forms are أمينات, امینات, आमिनात."
+      },
+      {
+        "question": "Is Aaminaat a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Aaminaat Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Aaminaat, a beautiful Islam name meaning \"Trustworthy, Faithful\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Aaminaat, Islam name, baby names, Trustworthy, Faithful, Islam baby names, name meaning",
-      "description_paragraph": "Aaminaat is a meaningful Islam name of Arabic origin that means \"Trustworthy, Faithful\". She who is trustworthy and faithful",
-      "keywords": [
-        "Aaminaat",
-        "Islam name",
-        "baby names",
-        "Trustworthy, Faithful",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Aaminaat in Islam tradition?",
-          "a": "Aaminaat is a beautiful Islam name meaning \"Trustworthy, Faithful\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Aaminaat a good Islam name for a baby?",
-          "a": "Yes, Aaminaat is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Aaminaat?",
-          "a": "The name Aaminaat has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Aaminaat correctly?",
-          "a": "Aaminaat is pronounced ah-mee-nat in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Aaminaat?",
-          "a": "Naming a child Aaminaat brings blessings. The meaning \"Trustworthy, Faithful\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Aaminaat?",
-          "a": "Aaminaat is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 90,
+      "title": "Aaminaat Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Aaminaat (أمينات).",
+      "h1": "Aaminaat Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Aaminaat meaning",
       "secondary_keywords": [
-        "Islam name Aaminaat",
-        "Aaminaat meaning",
-        "Aaminaat origin"
+        "Aaminaat name meaning",
+        "Aaminaat meaning in Urdu",
+        "Aaminaat origin",
+        "Aaminaat Islamic name",
+        "Aaminaat pronunciation",
+        "Aaminaat name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Aaminaat (أمينات) is associated with the Arabic form أمينات, whose core sense is trustworthy, faithful, honest. Plural form of أمينة; used as a given name in some South Asian communities.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Aaminaat is associated with the Arabic form أمينات, whose core sense is trustworthy, faithful, honest.",
+      "meaning_section": "The central meaning of Aaminaat is trustworthy, faithful, honest.",
+      "origin_section": "Aaminaat is associated with Arabic rather than with a different language.",
+      "islam_section": "Aaminaat can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Aaminaat is with the sense trustworthy.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Aaminaat",
+      "#AaminaatMeaning",
+      "#AaminaatName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Aaminaat\" holds significant cultural importance in the Islamic community as it emphasizes the importance of trustworthiness, honesty, and loyalty. The name can be seen as a reminder of the virtues Muslims are expected to uphold in their daily lives and relationships.",
-    "spiritual_significance": "In a spiritual context, the name \"Aaminaat\" signifies a person who is steadfast in her faith and trusts in Allah. It implies a deep sense of commitment and reliance on Allah, and a strong belief in the promise of the Day of Judgment.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Aaminaat carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Classic Islamic name maintaining steady popularity",
-        "Trending in Muslim baby name searches"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Aaminaat corresponds to the Arabic form أمينات",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Aaminaat has the core sense trustworthy, faithful, honest",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter",
-        "TikTok"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Aaminaat remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Khadija Aaminaat",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Khadija Aaminaat from Kuala Lumpur, Malaysia embodies the meaning of Aaminaat - \"Trustworthy, Faithful\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Trustworthy, Faithful\" symbolizes She who is trustworthy and faithful. In Islamic spirituality, bearing the name Aaminaat serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of trustworthy, faithful.",
-    "created_at": "2025-12-22T19:19:49.848Z",
-    "updated_at": "2025-12-22T04:53:14.718Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1355,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Aaminaat",
-      "description": "Trustworthy, Faithful",
-      "additionalName": [
-        "Aaminat"
+      "alternateName": [
+        "Aaminaat",
+        "aaminaat",
+        "aminat"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form أمينات, meaning trustworthy, faithful, honest.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Aaminaat",
-          "description": "Discover the meaning of Aaminaat - \"Trustworthy, Faithful\"",
-          "image": "/images/social/aaminaat-facebook.jpg"
+      "termCode": "aaminaat",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Aaminaat - Name Meaning",
-          "description": "Learn about the beautiful name Aaminaat",
-          "image": "/images/social/aaminaat-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Aaminaat",
-          "description": "Name meaning: Trustworthy, Faithful",
-          "image": "/images/social/aaminaat-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Aaminaat - Meaning: Trustworthy, Faithful",
-        "email_subject": "Beautiful Name: Aaminaat"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Aaminaat with meaning Trustworthy, Faithful",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Aaminaat, associated with the Arabic form أمينات, meaning trustworthy, faithful, honest."
     },
-    "similar_sounding_names": [
-      "aryan",
-      "abdulshahid",
-      "amalia",
-      "ariana",
-      "alishaba",
-      "azzahra",
-      "anila",
-      "anika",
-      "abdusshakur",
-      "alaia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

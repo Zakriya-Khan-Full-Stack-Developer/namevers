@@ -3,288 +3,481 @@
   "data": {
     "name": "Harb",
     "slug": "harb",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "War, Battle, Campaign",
-    "long_meaning": "Derived from the Arabic root ‘h-r-b’, Harb signifies ‘war’ or ‘battle’. It is used to denote a military campaign or a state of war. In Islamic history, Harb Ibn Umayya is a well-known Sahabi (Companion of the Prophet Muhammad (PBUH)) who fought in several battles during the early Islamic era.",
-    "spiritual_meaning": "Symbolizes courage, determination, and the willingness to defend one's faith and community.",
-    "emotional_traits": [
-      "Brave",
-      "Valiant",
-      "Courageous"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest",
-      "S = Strong"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Red",
-      "Brown"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 5,
-    "numerology_meaning": "People with the life path number 5 are adventurous, free-spirited, and love to explore the world around them. They thrive on change and new experiences, and they have a natural ability to adapt and overcome obstacles.",
-    "in_arabic": {
-      "name": "حرب",
-      "meaning": "اسم يدل على الحرب والقتال في اللغة العربية",
-      "long_meaning": "حرب هو اسم علم مذكر من أصل عربي و معناه الحرب والقتال، وهو مشتق من الجذر اللغوي ح-ر-ب الذي يدل على المعنى نفسه. وقد ورد ذكر الحرب في القرآن الكريم في عدة آيات، منها قوله تعالى: 'وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا' (الإسراء: 36)، حيث يمكن ربط بعض المعاني بالحرب النفسية أو الحروب التي يجب مواجهتها في سبيل الحق."
+    "identity": {
+      "display_name": "Harb",
+      "normalized_name": "harb",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Harb",
+        "harb"
+      ],
+      "search_variants": [
+        "Harb",
+        "harb"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "حرب",
-      "meaning": "نام جس کا مطلب ہے جنگ اور لڑائی",
-      "long_meaning": "حرب ایک مذکر نام ہے جس کی اصل عربی ہے۔ اس کا مطلب جنگ اور لڑائی سے ہے، جو عربی جڑ ح-ر-ب سے ماخوذ ہے جو اسی معنی کی نشاندہی کرتی ہے۔ اسلامی تقویم اور تاریخ میں جنگوں کا ذکر ملتا ہے، جیسے غزات وغیرہ۔ نام حرب ان بچوں کے لیے منتخب کیا جاتا ہے جو بہادر اور جنگ میں ثابت قدم رہنے والے ہوں۔"
+    "core_meaning": {
+      "short_meaning": "War, battle, campaign",
+      "primary_meaning": "War",
+      "secondary_meanings": [
+        "battle",
+        "campaign"
+      ],
+      "literal_meaning": "War",
+      "extended_meaning": "War, battle, campaign",
+      "meaning_explanation": "Harb corresponds to the Arabic form حرب (Arabic root ح ر ب (ḥ-r-b); حَرْب (Ḥarb)). Its core sense is war, battle, campaign. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "हर्ब",
-      "meaning": "हरब नाम जिसका अर्थ है युद्ध और लड़ाई",
-      "long_meaning": "हरब एक पुरुष नाम है जिसकी उत्पत्ति العربية से हुई है। इसका अर्थ युद्ध और लड़ाई होता है, जो العربية मूल ح-ر-ب से लिया गया है जो इसी अर्थ को दर्शाता है। इस्लामी परंपरा में युद्धों का उल्लेख मिलता है, जैसे कि जिहाद और अन्य। यह नाम उन बच्चों के लिए चुना जाता है जो वीर और साहसी होते हैं।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حرب",
+      "transliteration": "harb",
+      "romanization": "harb",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "War",
+        "battle",
+        "campaign"
+      ],
+      "etymology_explanation": "The form حرب is an established Arabic lexical item. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "حرب",
-      "meaning": "د جګړې او جنګ معنی لرونکی نوم",
-      "long_meaning": "حرب یو مذکر نوم دی چې عربي اصل لري. ددې نوم مطلب جګړه او جنګ دی، چې د عربي ريښې ح-ر-ب څخه اخيستل شوی دی. په پښتنو او افغانانو کې داسې نومونه ډیر کارول شوي دي چې د قوت او زړورتيا څرګندونه کوي."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "حرب is an established Arabic form.",
+        "Urdu": "حرب is used in Urdu.",
+        "Persian": "حرب is an established Persian form.",
+        "Hindi": "हर्ब is used in Hindi.",
+        "Pashto": "حرب is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Harb",
-      "meaning": "Name meaning war and struggle",
-      "long_meaning": "Harb is a masculine given name of Arabic origin. It means 'war' or 'struggle', derived from the Arabic root ح-ر-ب (ḥ-r-b), which conveys the sense of conflict or combat. In Islamic tradition, the term 'harb' is associated with battles and jihad. The name Harb signifies strength, courage, and resilience. Historically, it has been used in various Muslim cultures to denote someone who is fearless in the face of adversity."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form حرب. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Harb may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense war, battle, campaign.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "War",
+      "related_concepts": [
+        "war",
+        "battle",
+        "campaign"
+      ],
+      "semantic_relationship": "The central semantic idea is war; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of war.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "War",
+        "Battle",
+        "Campaign"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Harb",
+        "meaning": "War, battle, campaign",
+        "long_meaning": "Harb is a Arabic-origin name. Its core meaning is war, battle, campaign. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct."
+      },
+      "urdu": {
+        "name": "حرب",
+        "meaning": "جنگ، لڑائی",
+        "long_meaning": "Harb (حرب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جنگ، لڑائی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "حرب",
+        "meaning": "جنگ، نبرد",
+        "long_meaning": "Harb (حرب) نامی برگرفته از زبان عربی است و معنای اصلی آن جنگ، نبرد است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "हर्ब",
+        "meaning": "युद्ध, लड़ाई",
+        "long_meaning": "Harb (हर्ब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ युद्ध, लड़ाई है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "حرب",
+        "meaning": "جګړه",
+        "long_meaning": "Harb (حرب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جګړه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "حرب",
+        "meaning": "الحرب، القتال",
+        "long_meaning": "Harb (حرب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحرب، القتال. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "harb",
-      "urdu": "اردو میں تلفظ کی تفصیل: حرب",
-      "hindi": "हिन्दी में उच्चारण विवरण: हर्ब",
-      "pashto": "په پښتو کې د تلفظ تفصیل: حرب",
-      "ipa": "/ħarb/"
+      "romanized": "harb",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "حرب",
+      "persian": "حرب",
+      "hindi": "हर्ब",
+      "pashto": "حرب"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#HarbMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Harb"
-    ],
-    "name_variations": [],
-    "popularity_score": 56,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Harb",
+        "harb"
+      ],
+      "script_variants": [
+        "حرب",
+        "हर्ब"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form حرب is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Harb can be understood through the Arabic form حرب, whose central sense is war, battle, campaign. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 84,
-        "year": 2024
+        "question": "What does Harb mean?",
+        "answer": "Harb is associated with the Arabic form حرب, whose core sense is war, battle, campaign."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 74,
-        "year": 2024
+        "question": "What is the origin of Harb?",
+        "answer": "Harb is associated with Arabic. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 83,
-        "year": 2024
+        "question": "Is Harb an Arabic name?",
+        "answer": "Yes — the underlying form حرب is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Harb an Islamic name?",
+        "answer": "Harb can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Harb a Quranic name?",
+        "answer": "Harb should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Harb mean in Urdu?",
+        "answer": "In Urdu, Harb is rendered حرب and carries the sense جنگ، لڑائی."
+      },
+      {
+        "question": "What does Harb mean in Persian?",
+        "answer": "In Persian, Harb is rendered حرب and carries the sense جنگ، نبرد."
+      },
+      {
+        "question": "How is Harb pronounced?",
+        "answer": "A romanized syllable approximation is harb. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Harb?",
+        "answer": "Romanization variants include Harb, harb. Script forms are حرب, हर्ब."
+      },
+      {
+        "question": "Is Harb a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Harb Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Harb, a beautiful Islam name meaning \"War, Battle, Campaign\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Harb, Islam name, baby names, War, Battle, Campaign, Islam baby names, name meaning",
-      "description_paragraph": "Harb is a meaningful Islam name of Arabic origin that means \"War, Battle, Campaign\". Derived from the Arabic root ‘h-r-b’, Harb signifies ‘war’ or ‘battle’. It is used to denote a military campaign or a state of war. In Islamic history, Harb Ibn Umayya is a well-known Sahabi (Companion of the Prophet Muhammad (PBUH)) who fought in several battles during the early Islamic era.",
-      "keywords": [
-        "Harb",
-        "Islam name",
-        "baby names",
-        "War, Battle, Campaign",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Harb in Islam tradition?",
-          "a": "Harb is a beautiful Islam name meaning \"War, Battle, Campaign\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Harb a good Islam name for a baby?",
-          "a": "Yes, Harb is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Harb?",
-          "a": "The name Harb has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Harb correctly?",
-          "a": "Harb is pronounced harb in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Harb?",
-          "a": "Naming a child Harb brings blessings. The meaning \"War, Battle, Campaign\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Harb?",
-          "a": "Harb is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Harb Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Harb (حرب).",
+      "h1": "Harb Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Harb meaning",
       "secondary_keywords": [
-        "Islam name Harb",
-        "Harb meaning",
-        "Harb origin"
+        "Harb name meaning",
+        "Harb meaning in Urdu",
+        "Harb origin",
+        "Harb Islamic name",
+        "Harb pronunciation",
+        "Harb name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Harb (حرب) is associated with the Arabic form حرب, whose core sense is war, battle, campaign. Harb is Arabic حَرْب (Ḥarb) 'war, battle, campaign', from the root ح ر ب (ḥ-r-b). It is a documented pre-Islamic and early Islamic personal name (for example Ḥarb ibn Umayya). The source gloss 'war, battle, campaign' is correct.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Harb is associated with the Arabic form حرب, whose core sense is war, battle, campaign.",
+      "meaning_section": "The central meaning of Harb is war, battle, campaign.",
+      "origin_section": "Harb is associated with Arabic rather than with a different language.",
+      "islam_section": "Harb can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Harb is with the sense war.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Harb",
+      "#HarbMeaning",
+      "#HarbName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "Throughout Islamic history, the name Harb has been associated with bravery, courage, and self-sacrifice. Those with this name have often been remembered as great warriors who dedicated their lives to defending their faith and homeland. The Islamic world has produced numerous legendary warriors with the name Harb, whose tales of heroism have continued to inspire generations. Moreover, Harb represents resistance against tyranny and oppression. It is a name that instills a sense of strength and determination, inspiring those who bear it to stand up for their beliefs and values.",
-    "spiritual_significance": "In the spiritual context, Harb symbolizes jihad, or the struggle to uphold truth and righteousness against evil. Jihad is not only about physical battles but also an inner struggle to purify oneself and spreading knowledge and peace to others. The name Harb can serve as a reminder to its bearers that they are called upon to fight against internal and external enemies of their faith and to continually strive towards spiritual growth and excellence, thereby contributing positively to their community and the world at large.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Battle of Harb Al-Khair (630 AD) The name Harb carried significant weight in that era.",
-        "time_period": "The Last Year of Prophet Muhammad's Life",
-        "context": "Harb Al-Khair was the name of a treaty signed between the Muslims and the Christians of Aylah (modern-day Aqaba). Muhammad, as part of his mission to expand the Muslim empire, led an army to conquer Aylah. The treaty allowed the Muslims to raid Christian ships in the Red Sea in exchange for leaving the Christian settlements alone. This event is significant as it marks the first instance of a formal treaty between Muslims and non-Muslims, setting a precedent for future interfaith relations."
-      },
-      {
-        "reference": "Historical records show that Harb ibn Umar (631-642 AD) The name Harb carried significant weight in that era.",
-        "time_period": "The Rashidun Caliphate",
-        "context": "Harb ibn Umar was the governor of Egypt during the early Umayyad Caliphate. He is most famously remembered for his rebellion against Caliph Umar ibn Abdulaziz. Harb, who was a capable military leader, had been governoring Egypt for several years and was popular among the people. When Umar ibn Abdulaziz came to power, he wanted to reduce the influence of local governors and bring Egypt directly under his rule. Harb, who saw this as a threat to his power, rebelled and formed an alliance with various neighboring tribes. The rebellion was eventually put down, but it marked a significant challenge to the central authority of the Caliphate, demonstrating the complexities of managing a vast and diverse empire."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "military conflict",
-        "jihadist groups",
-        "international relations"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Harb corresponds to the Arabic form حرب",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Harb has the core sense war, battle, campaign",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media",
-        "news media",
-        "legislation and policy"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "In modern context, the Islamic term 'Harb' is commonly used to refer to military conflict or war, particularly in the context of jihadist groups and their actions. This term has gained significance in international relations, and is often discussed in various platforms including social media, news media, and legislation and policy debates. Social media, in particular, has become a major tool for recruiting and organizing individuals for armed conflicts under the banner of jihad. News media frequently reports on ongoing harbs or conflicts, often focusing on their impact on international relations and geopolitics. In the realm of legislation and policy, the term harb is used in discussions on the legal and ethical implications of wars and military interventions, as well as in debates on counter-terrorism and national security policies."
-    },
-    "name_in_real_life": {
-      "person_name": "Omar Harb",
-      "location": "Cairo, Egypt",
-      "story": "Omar Harb, a teacher in Cairo, Egypt, shares that their name Harb meaning \"War, Battle, Campaign\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"War, Battle, Campaign\" symbolizes Derived from the Arabic root ‘h-r-b’, Harb signifies ‘war’ or ‘battle’. It is used to denote a military campaign or a state of war. In Islamic history, Harb Ibn Umayya is a well-known Sahabi (Companion of the Prophet Muhammad (PBUH)) who fought in several battles during the early Islamic era.. In Islamic spirituality, bearing the name Harb serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of war, battle, campaign.",
-    "created_at": "2025-12-22T19:19:49.943Z",
-    "updated_at": "2025-12-22T04:53:15.599Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1353,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Harb",
-      "description": "War, Battle, Campaign",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Harb",
+        "harb"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Harb",
-          "description": "Discover the meaning of Harb - \"War, Battle, Campaign\"",
-          "image": "/images/social/harb-facebook.jpg"
+      "description": "A name associated with the Arabic form حرب, meaning war, battle, campaign.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "harb",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Harb - Name Meaning",
-          "description": "Learn about the beautiful name Harb",
-          "image": "/images/social/harb-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Harb",
-          "description": "Name meaning: War, Battle, Campaign",
-          "image": "/images/social/harb-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Harb - Meaning: War, Battle, Campaign",
-        "email_subject": "Beautiful Name: Harb"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Harb with meaning War, Battle, Campaign",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Harb, associated with the Arabic form حرب, meaning war, battle, campaign."
     },
-    "similar_sounding_names": [
-      "hannah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

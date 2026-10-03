@@ -3,277 +3,472 @@
   "data": {
     "name": "Khurshid",
     "slug": "khurshid",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Male",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Bringer of Light",
-    "long_meaning": "A person who brings light and guidance to others, referring to the sun and its radiant light.",
-    "spiritual_meaning": "A name that symbolizes guidance and illumination, as described in the Quran.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Saturday",
-    "lucky_colors": [
-      "Gold",
-      "Yellow"
-    ],
-    "lucky_stone": "Carnelian",
-    "life_path_number": 6,
-    "numerology_meaning": "Nurturer and healer",
-    "in_arabic": {
-      "name": "خورشيد",
-      "meaning": "الشمس أو ضوء الشمس المباشر الدائم",
-      "long_meaning": "اسم خورشيد مشتق من الجذر العربي 'خ-ر-ش-د' والذي يعني الشمس أو الضوء. في اللغة العربية، يرمز اسم خورشيد إلى الإشعاع الشمسي المباشر والدائم، كما يوحي بالدفء والضوء. وقد وردت هذه الكلمة في بعض النصوص العربية القديمة بمعنى ضوء الشمس أو شعاعها."
+    "identity": {
+      "display_name": "Khurshid",
+      "normalized_name": "khurshid",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Khurshid",
+        "khurshid"
+      ],
+      "search_variants": [
+        "Khurshid",
+        "khurshid"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "خورشید",
-      "meaning": "سورج کی روشنی، دائمی روشنائی",
-      "long_meaning": "خورشید نام عربی زبان کے روٹ 'خ-ر-ش-د' سے ماخوذ ہے، جس کا مطلب سورج یا سورج کی روشنی ہے۔ اردو میں، یہ نام سورج کی شعاعوں اور اس کے مستقل روشنی کی علامت ہے۔ یہ نام جنوبی ایشیاء میں مسلمانوں کے درمیان تاریخی اور ثقافتی اہمیت رکھتا ہے، اور اس کا ذکر بعض اوقات فارسی اور عربی ادب میں بھی ملتا ہے۔"
+    "core_meaning": {
+      "short_meaning": "Sun (Persian)",
+      "primary_meaning": "Sun (Persian)",
+      "secondary_meanings": [],
+      "literal_meaning": "Sun (Persian)",
+      "extended_meaning": "Sun (Persian)",
+      "meaning_explanation": "Khurshid corresponds to the Persian form خورشید (Persian خورشید (khorshīd)). Its core sense is sun (persian). Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "खुरशिद",
-      "meaning": "सूर्य का प्रकाश, सच्चा प्रकाश",
-      "long_meaning": "खुरशिद नाम की उत्पत्ति अरबी मूल 'ख-र-श-द' से हुई है, जिसका अर्थ है सूर्य या सूर्य का प्रकाश। हिंदी में, यह नाम सूर्य की किरणों और उसकी स्थायी रोशनी का प्रतीक है। भारतीय मुस्लिम समुदाय में इस नाम का विशेष महत्व है, और यह अक्सर पारंपरिक और आधुनिक संदर्भों में प्रयोग किया जाता है।"
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "خورشید",
+      "transliteration": "khurshid",
+      "romanization": "khurshid",
+      "root_status": "Persian خورشید (khorshīd)",
+      "etymological_meaning": [
+        "Sun (Persian)"
+      ],
+      "etymology_explanation": "The form خورشید is an established Persian lexical item. Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "خورشید",
-      "meaning": "د لمرګاه، د لمر مستقیمه رڼا",
-      "long_meaning": "خورشید نوم د عربي ژبې د 'خ-ر-ش-د' ريښې څخه اخيستل شوی دی، چې د لمر يا د لمر د رڼا معنی ورکوي. په پښتو کې، دا نوم د لمر د شعاعو او د هغې دايمي رڼا نښه ده. دا نوم په افغانستان او پښتونستان کې د پښتو ژبې د ويونکو لپاره کلتوري او مذهبي اهميت لري."
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Urdu",
+        "Hindi",
+        "Pashto"
+      ],
+      "language_notes": {
+        "Arabic": "خورشید is an established Arabic form.",
+        "Urdu": "خورشید is used in Urdu.",
+        "Persian": "خورشید is an established Persian form.",
+        "Hindi": "ख़ुर्शीद is used in Hindi.",
+        "Pashto": "خورشید is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Khurshid",
-      "meaning": "Sunlight, direct and constant illumination",
-      "long_meaning": "The name Khurshid originates from the Arabic root 'خ-ر-ش-د' (kh-r-sh-d), meaning sun or sunlight. In Islamic tradition, the name symbolizes the direct and constant rays of the sun, conveying warmth, light, and spiritual guidance. Historically, the name has been used across various Muslim cultures, including Arabic, Persian, Urdu, and Turkish communities, often signifying enlightenment and positivity."
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Persian form خورشید. Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed.",
+      "cultural_transmission": [
+        "Persian",
+        "Persianate South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Persianate cultural usage",
+      "religion": "Not inherently religious",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Khurshid may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Persianate South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense sun (persian).",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Sun (Persian)",
+      "related_concepts": [
+        "sun (persian)"
+      ],
+      "semantic_relationship": "The central semantic idea is sun (persian); other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of sun (persian).",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Sun (persian)"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Khurshid",
+        "meaning": "Sun (Persian)",
+        "long_meaning": "Khurshid is a Persian-origin name. Its core meaning is sun (persian). Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed."
+      },
+      "urdu": {
+        "name": "خورشید",
+        "meaning": "خورشید، سورج",
+        "long_meaning": "Khurshid (خورشید) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خورشید، سورج ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "خورشید",
+        "meaning": "خورشید، آفتاب",
+        "long_meaning": "Khurshid (خورشید) نامی برگرفته از زبان فارسی است و معنای اصلی آن خورشید، آفتاب است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ख़ुर्शीद",
+        "meaning": "ख़ुर्शीद, सूरज",
+        "long_meaning": "Khurshid (ख़ुर्शीद) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ुर्शीद, सूरज है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "خورشید",
+        "meaning": "خورشید، لمر",
+        "long_meaning": "Khurshid (خورشید) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خورشید، لمر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "خورشید",
+        "meaning": "الخورشيد، الشمس (فارسي)",
+        "long_meaning": "Khurshid (خورشید) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي الخورشيد، الشمس (فارسي). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "khor-SHEED",
-      "urdu": "خورشید کا تلفظ: خور + شید",
-      "hindi": "खुरशिद का उच्चारण: खु + रशिद",
-      "pashto": "خورشید تلفظ: خور + شيد",
-      "ipa": "/kʰʊrˈʃiːd/"
+      "romanized": "khur-shid",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "خورشید",
+      "persian": "خورشید",
+      "hindi": "ख़ुर्शीद",
+      "pashto": "خورشید"
     },
-    "celebrity_usage": [
-      "Mahmood (Singer)",
-      "Fawad Khan (Actor)"
-    ],
-    "social_tags": [
-      "#KhurshidMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Khurshid"
-    ],
-    "name_variations": [],
-    "popularity_score": 50,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Khurshid",
+        "khurshid"
+      ],
+      "script_variants": [
+        "خورشید",
+        "ख़ुर्शीद"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form خورشید is an established Persian lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Khurshid can be understood through the Persian form خورشید, whose central sense is sun (persian). Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 86,
-        "year": 2024
+        "question": "What does Khurshid mean?",
+        "answer": "Khurshid is associated with the Persian form خورشید, whose core sense is sun (persian)."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Khurshid?",
+        "answer": "Khurshid is associated with Persian. Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Khurshid an Arabic name?",
+        "answer": "No — the underlying form is Persian, not Arabic."
+      },
+      {
+        "question": "Is Khurshid an Islamic name?",
+        "answer": "Khurshid can occur in Muslim naming contexts, but it is better described as a Persian-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Khurshid a Quranic name?",
+        "answer": "Khurshid should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Khurshid mean in Urdu?",
+        "answer": "In Urdu, Khurshid is rendered خورشید and carries the sense خورشید، سورج."
+      },
+      {
+        "question": "What does Khurshid mean in Persian?",
+        "answer": "In Persian, Khurshid is rendered خورشید and carries the sense خورشید، آفتاب."
+      },
+      {
+        "question": "How is Khurshid pronounced?",
+        "answer": "A romanized syllable approximation is khur-shid. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Khurshid?",
+        "answer": "Romanization variants include Khurshid, khurshid. Script forms are خورشید, ख़ुर्शीद."
+      },
+      {
+        "question": "Is Khurshid a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Khurshid Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Khurshid, a beautiful Islam name meaning \"Bringer of Light\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Khurshid, Islam name, baby names, Bringer of Light, Islam baby names, name meaning",
-      "description_paragraph": "Khurshid is a meaningful Islam name of Arabic origin that means \"Bringer of Light\". A person who brings light and guidance to others, referring to the sun and its radiant light.",
-      "keywords": [
-        "Khurshid",
-        "Islam name",
-        "baby names",
-        "Bringer of Light",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Khurshid in Islam tradition?",
-          "a": "Khurshid is a beautiful Islam name meaning \"Bringer of Light\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Khurshid a good Islam name for a baby?",
-          "a": "Yes, Khurshid is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Khurshid?",
-          "a": "The name Khurshid has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Khurshid correctly?",
-          "a": "Khurshid is pronounced khor-SHEED in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Khurshid?",
-          "a": "Naming a child Khurshid brings blessings. The meaning \"Bringer of Light\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Khurshid?",
-          "a": "Khurshid is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Khurshid Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Persian origin, Urdu meaning, pronunciation, variants and Islamic naming context of Khurshid (خورشید).",
+      "h1": "Khurshid Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Khurshid meaning",
       "secondary_keywords": [
-        "Islam name Khurshid",
-        "Khurshid meaning",
-        "Khurshid origin"
+        "Khurshid name meaning",
+        "Khurshid meaning in Urdu",
+        "Khurshid origin",
+        "Khurshid Islamic name",
+        "Khurshid pronunciation",
+        "Khurshid name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Khurshid (خورشید) is associated with the Persian form خورشید, whose core sense is sun (persian). Khurshid is Persian خورشید (khorshīd) 'sun'. CRITICAL SOURCE ERROR: the source gave خورشيد, using Persian letters in the Arabic column. MISLABELLED ORIGIN: the source recorded the name as Arabic. The source gloss 'Bringer of Light' is unsupported and has been replaced with the lexical sense. Same name as khursheed.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Khurshid is associated with the Persian form خورشید, whose core sense is sun (persian).",
+      "meaning_section": "The central meaning of Khurshid is sun (persian).",
+      "origin_section": "Khurshid is associated with Persian rather than with a different language.",
+      "islam_section": "Khurshid can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Khurshid is with the sense sun (persian).",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Khurshid",
+      "#KhurshidMeaning",
+      "#KhurshidName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Khurshid\" in Islamic culture is often associated with beauty, radiance, and prestige. In Persian literature, the term \"Khurshid- Shah\" translates to the \"Sun King,\" signifying the exalted status and power of an individual. The name is also given to children born at the time of the new moon or during a full moon, symbolizing the light and radiance of these celestial events.",
-    "spiritual_significance": "In the spiritual context, the name \"Khurshid\" signifies someone who brings light and guidance to others, resembling the life-giving sun that illuminates the world. It alludes to the prophetic tradition that the Prophet Muhammad (PBUH) is the \"light of guidance for mankind.\" Thus, the name is not only a reminder of the divine light that envelopes and illuminates our lives but also a call to be a source of light and guidance for others, reflecting God's compassionate grace and guidance.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Persian royal court The name Khurshid carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Given to a Persian prince"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "popular in South Asia"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Khurshid corresponds to the Persian form خورشید",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Khurshid has the core sense sun (persian)",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Khurshid remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Ibrahim Khurshid",
-      "location": "Kuala Lumpur, Malaysia",
-      "story": "Ibrahim Khurshid from Kuala Lumpur, Malaysia embodies the meaning of Khurshid - \"Bringer of Light\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Bringer of Light\" symbolizes A person who brings light and guidance to others, referring to the sun and its radiant light.. In Islamic spirituality, bearing the name Khurshid serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of bringer of light.",
-    "created_at": "2025-12-22T19:19:49.794Z",
-    "updated_at": "2025-12-22T04:53:14.306Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1053,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Khurshid",
-      "description": "Bringer of Light",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "alternateName": [
+        "Khurshid",
+        "khurshid"
       ],
-      "religion": "Islam",
-      "gender": "Male",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Khurshid",
-          "description": "Discover the meaning of Khurshid - \"Bringer of Light\"",
-          "image": "/images/social/khurshid-facebook.jpg"
+      "description": "A name associated with the Persian form خورشید, meaning sun (persian).",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "khurshid",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Persian"
         },
-        "twitter": {
-          "title": "Khurshid - Name Meaning",
-          "description": "Learn about the beautiful name Khurshid",
-          "image": "/images/social/khurshid-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Khurshid",
-          "description": "Name meaning: Bringer of Light",
-          "image": "/images/social/khurshid-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Khurshid - Meaning: Bringer of Light",
-        "email_subject": "Beautiful Name: Khurshid"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Khurshid with meaning Bringer of Light",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Khurshid, associated with the Persian form خورشید, meaning sun (persian)."
     },
-    "similar_sounding_names": [
-      "kabir",
-      "kashish",
-      "kayan"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

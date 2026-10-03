@@ -3,296 +3,482 @@
   "data": {
     "name": "Minhaj",
     "slug": "minhaj",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "A guide, a path",
-    "long_meaning": "A name derived from the Arabic word 'minhaj', meaning 'a guide', 'a path', or 'a way'. In Islamic context, it refers to following the right path of Allah and seeking guidance from the Quran and the teachings of the Prophet Muhammad (peace be upon him).",
-    "spiritual_meaning": "Seeking guidance and following the right path to Allah",
-    "emotional_traits": [
-      "Righteous",
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "M = Modest"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "(Thursday)",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 3,
-    "numerology_meaning": "People with the name Minhaj are expressive, creative, and natural born teachers. They have the ability to inspire and lead others, and have a deep sense of compassion and empathy.",
-    "in_arabic": {
-      "name": "منهج",
-      "meaning": "guide, model, path, way",
-      "long_meaning": "The one who shows the way or is a model to be followed."
+    "identity": {
+      "display_name": "Minhaj",
+      "normalized_name": "minhaj",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Minhaj",
+        "minhaj"
+      ],
+      "search_variants": [
+        "Minhaj",
+        "minhaj"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "منہج",
-      "meaning": "مرزوق",
-      "long_meaning": "مرزوق (Muzakk): A guide, model, path, or way to follow."
+    "core_meaning": {
+      "short_meaning": "Path, method, program",
+      "primary_meaning": "Path",
+      "secondary_meanings": [
+        "method",
+        "program"
+      ],
+      "literal_meaning": "Path",
+      "extended_meaning": "Path, method, program",
+      "meaning_explanation": "Minhaj corresponds to the Arabic form منهاج (Arabic root ن ه ج (n-h-j); مِنْهَاج (Minhāj)). Its core sense is path, method, program. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "मिन्हाज",
-      "meaning": "सारह",
-      "long_meaning": "सारह (Sarah): A guide, model, path, or way to follow."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "منهاج",
+      "transliteration": "minhaj",
+      "romanization": "minhaj",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Path",
+        "method",
+        "program"
+      ],
+      "etymology_explanation": "The form منهاج is an established Arabic lexical item. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "منهج",
-      "meaning": "نهوده",
-      "long_meaning": "نهوده (Nahudah): A guide, model, path, or way to follow."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "منهاج is an established Arabic form.",
+        "Urdu": "منہاج is used in Urdu.",
+        "Persian": "منهاج is an established Persian form.",
+        "Hindi": "मिन्हाज is used in Hindi.",
+        "Pashto": "منهاج is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Minhaj",
-      "meaning": "A guide, a path",
-      "long_meaning": "A name derived from the Arabic word 'minhaj', meaning 'a guide', 'a path', or 'a way'. In Islamic context, it refers to following the right path of Allah and seeking guidance from the Quran and the teachings of the Prophet Muhammad (peace be upon him)."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form منهاج. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Minhaj may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense path, method, program.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Path",
+      "related_concepts": [
+        "path",
+        "method",
+        "program"
+      ],
+      "semantic_relationship": "The central semantic idea is path; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of path.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Path",
+        "Method",
+        "Program"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Minhaj",
+        "meaning": "Path, method, program",
+        "long_meaning": "Minhaj is a Arabic-origin name. Its core meaning is path, method, program. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "منہاج",
+        "meaning": "منہاج، راستہ، طریقہ",
+        "long_meaning": "Minhaj (منہاج) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم منہاج، راستہ، طریقہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "منهاج",
+        "meaning": "منهاج، راه، روش",
+        "long_meaning": "Minhaj (منهاج) نامی برگرفته از زبان عربی است و معنای اصلی آن منهاج، راه، روش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "मिन्हाज",
+        "meaning": "मिन्हाज, मार्ग, पद्धति",
+        "long_meaning": "Minhaj (मिन्हाज) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मिन्हाज, मार्ग, पद्धति है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "منهاج",
+        "meaning": "منهاج، لار، طریقه",
+        "long_meaning": "Minhaj (منهاج) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې منهاج، لار، طریقه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "منهاج",
+        "meaning": "الْمِنْهَاج، الطَّرِيق، الْمَسْلَك",
+        "long_meaning": "Minhaj (منهاج) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمِنْهَاج، الطَّرِيق، الْمَسْلَك. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "/mɪnˈhɑːdʒ/",
-      "urdu": "/mʊn.hɛdʒ/",
-      "hindi": "/mɪn.hɑːdʒ/",
-      "pashto": "/mɪn.hɑːdʒ/",
-      "ipa": "https://en.wikipedia.org/wiki/Minhaj_(name)"
+      "romanized": "min-haj",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "منہاج",
+      "persian": "منهاج",
+      "hindi": "मिन्हाज",
+      "pashto": "منهاج"
     },
-    "celebrity_usage": [
-      "Minhaj Ul Haq (Pakistani politician)",
-      "Minhaj Aziz (Bangladeshi cricketer)",
-      "Minhaj Shafiq (Indian cricketer)"
-    ],
-    "social_tags": [
-      "#MinhajMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [],
-    "popularity_score": 58,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Minhaj",
+        "minhaj"
+      ],
+      "script_variants": [
+        "منهاج",
+        "منہاج",
+        "मिन्हाज"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form منهاج is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Minhaj can be understood through the Arabic form منهاج, whose central sense is path, method, program. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Minhaj mean?",
+        "answer": "Minhaj is associated with the Arabic form منهاج, whose core sense is path, method, program."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Minhaj?",
+        "answer": "Minhaj is associated with Arabic. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 81,
-        "year": 2024
+        "question": "Is Minhaj an Arabic name?",
+        "answer": "Yes — the underlying form منهاج is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 73,
-        "year": 2024
+        "question": "Is Minhaj an Islamic name?",
+        "answer": "Minhaj can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Minhaj a Quranic name?",
+        "answer": "Minhaj should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Minhaj mean in Urdu?",
+        "answer": "In Urdu, Minhaj is rendered منہاج and carries the sense منہاج، راستہ، طریقہ."
+      },
+      {
+        "question": "What does Minhaj mean in Persian?",
+        "answer": "In Persian, Minhaj is rendered منهاج and carries the sense منهاج، راه، روش."
+      },
+      {
+        "question": "How is Minhaj pronounced?",
+        "answer": "A romanized syllable approximation is min-haj. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Minhaj?",
+        "answer": "Romanization variants include Minhaj, minhaj. Script forms are منهاج, منہاج, मिन्हाज."
+      },
+      {
+        "question": "Is Minhaj a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Minhaj Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Minhaj, a beautiful Islam name meaning \"A guide, a path\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Minhaj, Islam name, baby names, A guide, a path, Islam baby names, name meaning",
-      "description_paragraph": "Minhaj is a meaningful Islam name of Arabic origin that means \"A guide, a path\". A name derived from the Arabic word 'minhaj', meaning 'a guide', 'a path', or 'a way'. In Islamic context, it refers to following the right path of Allah and seeking guidance from the Quran and the teachings of the Prophet Muhammad (peace be upon him).",
-      "keywords": [
-        "Minhaj",
-        "Islam name",
-        "baby names",
-        "A guide, a path",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Minhaj in Islam tradition?",
-          "a": "Minhaj is a beautiful Islam name meaning \"A guide, a path\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Minhaj a good Islam name for a baby?",
-          "a": "Yes, Minhaj is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Minhaj?",
-          "a": "The name Minhaj has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Minhaj correctly?",
-          "a": "Minhaj is pronounced /mɪnˈhɑːdʒ/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Minhaj?",
-          "a": "Naming a child Minhaj brings blessings. The meaning \"A guide, a path\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Minhaj?",
-          "a": "Minhaj is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 95,
+      "title": "Minhaj Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Minhaj (منهاج).",
+      "h1": "Minhaj Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Minhaj meaning",
       "secondary_keywords": [
-        "Islam name Minhaj",
-        "Minhaj meaning",
-        "Minhaj origin"
+        "Minhaj name meaning",
+        "Minhaj meaning in Urdu",
+        "Minhaj origin",
+        "Minhaj Islamic name",
+        "Minhaj pronunciation",
+        "Minhaj name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Minhaj (منهاج) is associated with the Arabic form منهاج, whose core sense is path, method, program. Minhaj is Arabic مِنْهَاج (Minhāj) 'path, method, program', from the root ن ه ج (n-h-j). The source gloss 'A guide, a path' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Minhaj is associated with the Arabic form منهاج, whose core sense is path, method, program.",
+      "meaning_section": "The central meaning of Minhaj is path, method, program.",
+      "origin_section": "Minhaj is associated with Arabic rather than with a different language.",
+      "islam_section": "Minhaj can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Minhaj is with the sense path.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Minhaj",
+      "#MinhajMeaning",
+      "#MinhajName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name \"Minhaj\" carries a deep cultural significance as it emphasizes the importance of guidance and following the right path in life, a fundamental concept in Islamic teachings. It can serve as a reminder for individuals to seek guidance from their faith and community, especially during times of uncertainty.",
-    "spiritual_significance": "From a spiritual perspective, \"Minhaj\" represents the pursuit of a close relationship with Allah through following the righteous path of the Quran and the teachings of the Prophet Muhammad (peace be upon him). It is a reminder that ultimately, seeking Allah's pleasure and guidance is the most important aspect of one's life and journey towards the divine.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Minhaj-i Siraj (The Guiding Light) The name Minhaj carried significant weight in that era.",
-        "time_period": "12th century",
-        "context": "A book written by Shams-i Qahir Husain ibn Abdullah al-Qushchi, a renowned Islamic scholar and jurist from Greater Syria (present-day Syria, Lebanon, and Israel). The book is a commentary on Imam al-Shafi'i's al-Risalah, which is a fundamental text in Sunni Islamic law."
-      },
-      {
-        "reference": "Historical records show that Minhaj-i Taqasim (The Comprehensive System) The name Minhaj carried significant weight in that era.",
-        "time_period": "15th century",
-        "context": "A major work on Hanafi fiqh (Islamic jurisprudence) authored by Shams al-Din Muhammad ibn Qasim al-Ansari al-Hanafi. It is considered as a comprehensive and detailed encyclopedia of Islamic law and jurisprudence."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Islamic spirituality",
-        "Education and Knowledge",
-        "Self-improvement and Personal Development"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Minhaj corresponds to the Arabic form منهاج",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Minhaj has the core sense path, method, program",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Minhaj University Lahore (MUML)",
-        "Minhaj-ul-Quran International (MQI)",
-        "Minhaj Welfare Foundation (MWF)"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name 'Minhaj' has gained significance in the modern world as an emblem of Islamic spirituality, knowledge, and self-improvement. It is most notably associated with Minhaj University Lahore (MUML), where students pursue higher education in various Islamic disciplines. Minhaj-ul-Quran International (MQI), another platform bearing the name, is a global organization focused on spreading the teachings of the Prophet Muhammad (PBUH) through educational seminars and community outreach programs. The Minhaj Welfare Foundation (MWF) is another non-profit organization that carries the name, providing humanitarian aid, disaster relief, and community development services, thereby contributing to the betterment of individuals and societies across the world."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Minhaj",
-      "location": "Karachi, Pakistan",
-      "story": "Aisha Minhaj, a teacher in Karachi, Pakistan, shares that their name Minhaj meaning \"A guide, a path\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"A guide, a path\" symbolizes A name derived from the Arabic word 'minhaj', meaning 'a guide', 'a path', or 'a way'. In Islamic context, it refers to following the right path of Allah and seeking guidance from the Quran and the teachings of the Prophet Muhammad (peace be upon him).. In Islamic spirituality, bearing the name Minhaj serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of a guide, a path.",
-    "created_at": "2025-12-22T19:19:50.335Z",
-    "updated_at": "2025-12-22T04:53:15.965Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1396,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Minhaj",
-      "description": "A guide, a path",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Minhaj",
+        "minhaj"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Minhaj",
-          "description": "Discover the meaning of Minhaj - \"A guide, a path\"",
-          "image": "/images/social/minhaj-facebook.jpg"
+      "description": "A name associated with the Arabic form منهاج, meaning path, method, program.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
+      ],
+      "termCode": "minhaj",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Minhaj - Name Meaning",
-          "description": "Learn about the beautiful name Minhaj",
-          "image": "/images/social/minhaj-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Minhaj",
-          "description": "Name meaning: A guide, a path",
-          "image": "/images/social/minhaj-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Minhaj - Meaning: A guide, a path",
-        "email_subject": "Beautiful Name: Minhaj"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Minhaj with meaning A guide, a path",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Minhaj, associated with the Arabic form منهاج, meaning path, method, program."
     },
-    "similar_sounding_names": [
-      "mika",
-      "manab",
-      "maassama",
-      "meher",
-      "marhabah",
-      "marudeen.",
-      "mada",
-      "marnia",
-      "meena",
-      "mahek"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

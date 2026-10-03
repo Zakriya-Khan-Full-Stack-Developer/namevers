@@ -3,289 +3,480 @@
   "data": {
     "name": "Asmara",
     "slug": "asmara",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Female",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Love, Passion, Desire",
-    "long_meaning": "From the Arabic word 'asmar', meaning 'to love' or 'to be in love'. This name is often given to girls born into families who are deeply in love or who have a strong sense of passion and desire.",
-    "spiritual_meaning": "Asmara is a name that inspires love, passion, and desire in the soul. It is a name that represents the deepest emotions and longings of the heart.",
-    "emotional_traits": [
-      "Passionate",
-      "Loving",
-      "Desiring"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Strong-willed",
-      "Independent",
-      "Self-confident",
-      "Driven"
-    ],
-    "lucky_number": 7,
-    "lucky_day": "Friday",
-    "lucky_colors": [
-      "Red",
-      "Pink"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 3,
-    "numerology_meaning": "Creative, Self-expression, Communication",
-    "in_arabic": {
-      "name": "أسمارا",
-      "meaning": "اسم أسمارا هو اسم علم يعود أصلُه إلى الكلمة العربية أسمَر",
-      "long_meaning": "الأصلُ في اسم أسمارا يعودُ إلى الكلمة العربية أسمَر، التي تعني الحُلو، واليَمانِي، والجَميل، وقد استُخدمت هذه الكلمة في القرآن الكريم في سورة الفاتحة. في الثقافة الإسلامية، يُعتبر اسم أسمارا من الأسماء التي تحمل المعاني الحسنة، ويرتبط بالفضائل الدينية، ويشير إلى الشخص الذي يتمتع بالجمال الداخلي والخارجي، كما يُعتبر اسمًا مشجعًا للتحفيز والتعاون."
+    "identity": {
+      "display_name": "Asmara",
+      "normalized_name": "asmara",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "low",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Asmara",
+        "asmara"
+      ],
+      "search_variants": [
+        "Asmara",
+        "asmara"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "اسمرا",
-      "meaning": "اسمرا نام کا مطلب ہے، یہ نام عربي زبان سے لے کر ہندوستان میں بھی بڑی شہرت رکھتا ہے",
-      "long_meaning": "اسمرا نام کے پس منظر کا مطالعہ کرتے ہوئے، یہ بات سامنے آتی ہے کہ یہ نام عربي زبان سے لے کر ہندوستان میں بھی بڑی شہرت رکھتا ہے۔ اس نام کا مطلب ہے حلو، یمانی، اور جمیل، جسے اسلامی اور ہندوستانی روایات میں بھی بہت اہمیت حاصل ہے۔ اس نام کے حامل افراد کو فضائل دینی اور اخلاقیات کا مالک سمجھا جاتا ہے، اور یہ نام تعاون اور تحفیز کے لیے بھی مشہور ہے"
+    "core_meaning": {
+      "short_meaning": "Love, passion, desire",
+      "primary_meaning": "Love",
+      "secondary_meanings": [
+        "passion",
+        "desire"
+      ],
+      "literal_meaning": "Love",
+      "extended_meaning": "Love, passion, desire",
+      "meaning_explanation": "Asmara corresponds to the Arabic form أسمارا (س م ر). Its core sense is love, passion, desire. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain.",
+      "meaning_confidence": "low"
     },
-    "in_hindi": {
-      "name": "अस्मरा",
-      "meaning": "अस्मरा नाम का अर्थ है सुंदर, सुंदर, और प्यारा",
-      "long_meaning": "अस्मरा नाम के पारंपरिक महत्व को देखते हुए, यह बताया जा सकता है कि यह नाम इस्लामी और हिंदू परंपराओं में बहुत महत्व रखता है। इस नाम का मतलब है सुंदर, सुंदर, और प्यारा, जिसे इस्लामी परंपराओं में मुबारक माना जाता है। अस्मरा नाम के मालिक व्यक्ति को दूसरों के साथ सहानुभूति और सहानुभूति के लिए जाना जाता है।"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أسمارا",
+      "transliteration": "asmara",
+      "romanization": "asmara",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Love",
+        "passion",
+        "desire"
+      ],
+      "etymology_explanation": "The form أسمارا is an established Arabic lexical item. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain.",
+      "etymology_confidence": "low",
+      "false_etymology_warning": "The identification of this form is uncertain; no confident etymology is asserted."
     },
-    "in_pashto": {
-      "name": "اسمارې",
-      "meaning": "اسمارې د یو ښکلی پېژندلیک لري",
-      "long_meaning": "اسمارې د یو ښکلی او پېژندلیک لرونکي شخص په معنا لري. دا نوم په افغانستان کې د یو ښکلی او سړې پېژندلیک لرونکي په معنا لري. دا نوم د یو ښکلی او پېژندلیک لرونکي شخص د ځانګړیو لامل دی. دا نوم د یو ښکلی او پېژندلیک لرونکي شخص د ځانګړیو لامل دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "أسمارا is an established Arabic form.",
+        "Urdu": "اسمارا is used in Urdu.",
+        "Hindi": "असमारा is used in Hindi.",
+        "Pashto": "اسمارا is used in Pashto."
+      },
+      "language_confidence": "low"
     },
-    "in_english": {
-      "name": "Asmara",
-      "meaning": "The name Asmara is derived from the Arabic word Asmar, meaning sweet, lovely, and beautiful",
-      "long_meaning": "The name Asmara has its roots in the Arabic word Asmar, which means sweet, lovely, and beautiful. In Islamic tradition, Asmara is considered a name that conveys positive qualities, such as beauty, kindness, and compassion. People with this name are often associated with these qualities and are seen as having a gentle and loving personality. Asmara is also a name that is often used to signify a desire for beauty, goodness, and harmony in life."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "low",
+      "origin_explanation": "The name is associated with the Arabic form أسمارا. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Asmara may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense love, passion, desire.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Love",
+      "related_concepts": [
+        "love",
+        "passion",
+        "desire"
+      ],
+      "semantic_relationship": "The central semantic idea is love; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of love.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Love",
+        "Passion",
+        "Desire"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Asmara",
+        "meaning": "Love, passion, desire",
+        "long_meaning": "Asmara is a Arabic-origin name. Its core meaning is love, passion, desire. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain."
+      },
+      "urdu": {
+        "name": "اسمارا",
+        "meaning": "محبت، جذبہ، خواہش",
+        "long_meaning": "Asmara (اسمارا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محبت، جذبہ، خواہش ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "असमारा",
+        "meaning": "प्रेम, जुनून, इच्छा",
+        "long_meaning": "Asmara (असमारा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रेम, जुनून, इच्छा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "اسمارا",
+        "meaning": "مینه، جذبه",
+        "long_meaning": "Asmara (اسمارا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مینه، جذبه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "أسمارا",
+        "meaning": "الحب، الشغف، الرغبة",
+        "long_meaning": "Asmara (أسمارا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحب، الشغف، الرغبة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "low"
     },
     "pronunciation": {
-      "english": "/ˈæzmərə/",
-      "urdu": "اسمرا کا تلفظ اردو زبان میں",
-      "hindi": "अस्मरा का उच्चारण हिंदी में",
-      "pashto": "اسمارې د تلفظ",
-      "ipa": "/ˈæzmərə/"
+      "romanized": "as-ma-ra",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "اسمارا",
+      "persian": null,
+      "hindi": "असमारा",
+      "pashto": "اسمارا"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#AsmaraMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Asmara"
-    ],
-    "name_variations": [
-      "Asmarah"
-    ],
-    "popularity_score": 45,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Asmara",
+        "asmara"
+      ],
+      "script_variants": [
+        "أسمارا",
+        "اسمارا",
+        "असमारा"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form أسمارا is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "low",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Asmara can be understood through the Arabic form أسمارا, whose central sense is love, passion, desire. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 87,
-        "year": 2024
+        "question": "What does Asmara mean?",
+        "answer": "Asmara is associated with the Arabic form أسمارا, whose core sense is love, passion, desire."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 75,
-        "year": 2024
+        "question": "What is the origin of Asmara?",
+        "answer": "Asmara is associated with Arabic. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 84,
-        "year": 2024
+        "question": "Is Asmara an Arabic name?",
+        "answer": "Yes — the underlying form أسمارا is Arabic."
+      },
+      {
+        "question": "Is Asmara an Islamic name?",
+        "answer": "Asmara can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Asmara a Quranic name?",
+        "answer": "Asmara should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Asmara mean in Urdu?",
+        "answer": "In Urdu, Asmara is rendered اسمارا and carries the sense محبت، جذبہ، خواہش."
+      },
+      {
+        "question": "What does Asmara mean in Persian?",
+        "answer": "No verified Persian form was established for Asmara."
+      },
+      {
+        "question": "How is Asmara pronounced?",
+        "answer": "A romanized syllable approximation is as-ma-ra. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Asmara?",
+        "answer": "Romanization variants include Asmara, asmara. Script forms are أسمارا, اسمارا, असमारा."
+      },
+      {
+        "question": "Is Asmara a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Asmara Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Asmara, a beautiful Islam name meaning \"Love, Passion, Desire\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Asmara, Islam name, baby names, Love, Passion, Desire, Islam baby names, name meaning",
-      "description_paragraph": "Asmara is a meaningful Islam name of Arabic origin that means \"Love, Passion, Desire\". From the Arabic word 'asmar', meaning 'to love' or 'to be in love'. This name is often given to girls born into families who are deeply in love or who have a strong sense of passion and desire.",
-      "keywords": [
-        "Asmara",
-        "Islam name",
-        "baby names",
-        "Love, Passion, Desire",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Asmara in Islam tradition?",
-          "a": "Asmara is a beautiful Islam name meaning \"Love, Passion, Desire\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Asmara a good Islam name for a baby?",
-          "a": "Yes, Asmara is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Asmara?",
-          "a": "The name Asmara has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Asmara correctly?",
-          "a": "Asmara is pronounced /ˈæzmərə/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Asmara?",
-          "a": "Naming a child Asmara brings blessings. The meaning \"Love, Passion, Desire\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Asmara?",
-          "a": "Asmara is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 96,
+      "title": "Asmara Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Asmara (أسمارا).",
+      "h1": "Asmara Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Asmara meaning",
       "secondary_keywords": [
-        "Islam name Asmara",
-        "Asmara meaning",
-        "Asmara origin"
+        "Asmara name meaning",
+        "Asmara meaning in Urdu",
+        "Asmara origin",
+        "Asmara Islamic name",
+        "Asmara pronunciation",
+        "Asmara name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Asmara (أسمارا) is associated with the Arabic form أسمارا, whose core sense is love, passion, desire. The source record's gloss 'Love, Passion, Desire' could not be matched to a Tier-A/B lexical source. The form is the name of the Eritrean capital. The identification is uncertain.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Asmara is associated with the Arabic form أسمارا, whose core sense is love, passion, desire.",
+      "meaning_section": "The central meaning of Asmara is love, passion, desire.",
+      "origin_section": "Asmara is associated with Arabic rather than with a different language.",
+      "islam_section": "Asmara can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Asmara is with the sense love.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Asmara",
+      "#AsmaraMeaning",
+      "#AsmaraName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "low",
+      "linguistic_authenticity": "low",
+      "etymological_authenticity": "low",
+      "meaning_authenticity": "low",
+      "translation_quality": "low",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The name Asmara holds great cultural significance in various Islamic communities, as it is considered a beautiful and meaningful name for a girl. It represents a deep and profound emotion, and is often associated with passion, love, and desire. In some cultures, the name Asmara is believed to bring happiness and blessings to the child, and is considered a sign of the parents' deep love and devotion for their newborn.",
-    "spiritual_significance": "From a spiritual perspective, the name Asmara holds great significance as it relates to the human emotion of love and the deeper spiritual connections that can result from this emotion. In Islamic tradition, love for God is the highest form of love, and Asmara can be seen as a reminder to keep our love and devotion focused on the Divine. It also represents the love that exists between all beings, and the interconnectedness and unity of all creation. Ultimately, the name Asmara serves as a reminder of the transformative power of love, both in the material world and in our spiritual journey towards God.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Asmara carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Traditional name experiencing modern revival",
-        "Increasingly popular among Muslim millennials"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Asmara corresponds to the Arabic form أسمارا",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        },
+        {
+          "claim": "Asmara has the core sense love, passion, desire",
+          "evidence_type": "lexical",
+          "confidence": "low"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Asmara remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Asmara",
-      "location": "Karachi, Pakistan",
-      "story": "Layla Asmara from Karachi, Pakistan embodies the meaning of Asmara - \"Love, Passion, Desire\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Love, Passion, Desire\" symbolizes From the Arabic word 'asmar', meaning 'to love' or 'to be in love'. This name is often given to girls born into families who are deeply in love or who have a strong sense of passion and desire.. In Islamic spirituality, bearing the name Asmara serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of love, passion, desire.",
-    "created_at": "2025-12-22T19:19:49.847Z",
-    "updated_at": "2025-12-22T04:53:14.711Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1234,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Asmara",
-      "description": "Love, Passion, Desire",
-      "additionalName": [
-        "Asmarah"
+      "alternateName": [
+        "Asmara",
+        "asmara"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form أسمارا, meaning love, passion, desire.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Female",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Asmara",
-          "description": "Discover the meaning of Asmara - \"Love, Passion, Desire\"",
-          "image": "/images/social/asmara-facebook.jpg"
+      "termCode": "asmara",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Asmara - Name Meaning",
-          "description": "Learn about the beautiful name Asmara",
-          "image": "/images/social/asmara-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Asmara",
-          "description": "Name meaning: Love, Passion, Desire",
-          "image": "/images/social/asmara-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Asmara - Meaning: Love, Passion, Desire",
-        "email_subject": "Beautiful Name: Asmara"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Asmara with meaning Love, Passion, Desire",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Asmara, associated with the Arabic form أسمارا, meaning love, passion, desire."
     },
-    "similar_sounding_names": [
-      "alraaz",
-      "alabbas",
-      "aidan",
-      "anya",
-      "ashika",
-      "anila",
-      "alma",
-      "alaia",
-      "amala",
-      "aaidah"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

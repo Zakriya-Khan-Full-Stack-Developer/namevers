@@ -3,286 +3,476 @@
   "data": {
     "name": "Badawi",
     "slug": "badawi",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian",
-      "Pashto"
-    ],
-    "gender": "(Male)",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Desert dweller",
-    "long_meaning": "A person originally from the desert or arid region. In Islamic history, the Badawis were a group of nomadic tribes known for their strength, bravery, and self-sufficiency.",
-    "spiritual_meaning": "A symbol of strength and resilience, the name Badawi represents the spirit of the desert and the indomitable spirit of those who inhabit it. It is a reminder of the power of the human spirit to endure and thrive in even the harshest of environments.",
-    "emotional_traits": [
-      "Wise"
-    ],
-    "hidden_personality_traits": [
-      "S = Strong"
-    ],
-    "lucky_number": 17,
-    "lucky_day": "(Tuesday)",
-    "lucky_colors": [
-      "Brown"
-    ],
-    "lucky_stone": "(Aqeeq)",
-    "life_path_number": 8,
-    "numerology_meaning": "People with the name Badawi have strong and powerful personalities. They are natural leaders and have a strong sense of self-sufficiency and independence.",
-    "in_arabic": {
-      "name": "بدوي",
-      "meaning": "منسوب إلى البدو، الشخص الذي يعيش في الصحراء",
-      "long_meaning": "بدوي هو الشخص الذي يعيش في البادية، وهم الناس الذين يتركون المدن ويعيشون في المناطق الصحراوية، بعيدًا عن الحضر والمدن، وغالبًا ما يكونون من الرعاة والزراع، اسم بدوي مشتق من الجذر العربي (ب-د-ي) الذي يعني البداوة أو الحياة في البادية."
+    "identity": {
+      "display_name": "Badawi",
+      "normalized_name": "badawi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Badawi",
+        "badawi"
+      ],
+      "search_variants": [
+        "Badawi",
+        "badawi"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "بدوی",
-      "meaning": "صحرائی، وہ شخص جو صحرا میں رہتا ہے",
-      "long_meaning": "بدوی کا مطلب ہے وہ شخص جو صحرا میں رہتا ہے، بدوی عرب کے ان لوگوں کو کہا جاتا ہے جو شہروں اور بستیوں سے دور صحراؤں میں رہتے ہیں، ان کی زندگی کا دارومدار پશوپال و زراعت پر ہوتا ہے، نام بدوی عربی جڑ (ب-د-ي) سے ماخوذ ہے جس کا مطلب ہے بداوة یا صحرائی زندگی."
+    "core_meaning": {
+      "short_meaning": "Desert dweller, Bedouin",
+      "primary_meaning": "Desert dweller",
+      "secondary_meanings": [
+        "Bedouin"
+      ],
+      "literal_meaning": "Desert dweller",
+      "extended_meaning": "Desert dweller, Bedouin",
+      "meaning_explanation": "Badawi corresponds to the Arabic form بدوي (ب د و). Its core sense is desert dweller, bedouin. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "बदवी",
-      "meaning": "रेगिस्तानी, मरुस्थल में रहने वाला व्यक्ति",
-      "long_meaning": "बदवी का अर्थ है मरुस्थल में रहने वाला व्यक्ति, विशेषकर वे लोग जो शहरों से दूर रेगिस्तानी इलाकों में बसते हैं और जिनका जीवन चरागाह और कृषि पर निर्भर करता है, यह नाम अरबी मूल (ब-د-य) से लिया गया है जिसका अर्थ है बदावत या रेगिस्तानी जीवन."
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "بدوي",
+      "transliteration": "badawi",
+      "romanization": "badawi",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Desert dweller",
+        "Bedouin"
+      ],
+      "etymology_explanation": "The form بدوي is an established Arabic lexical item. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "بدوي",
-      "meaning": "سندګر، هغه څوک چې په صحرا کې اوسي",
-      "long_meaning": "بدوي هغه څوک دي چې په صحرا کې اوسي، بدوي د هغو کسانو څخه دي چې د ښارونو او بستیو څخه لیري په صحراؤ کې ژوند کوي، د هغوی د ژوندانه پوری د څارويو پالنه او کرنه ده، بدوي نوم د عربي ريښې (ب-د-ي) څخه اخیستل شوی دی چې معنی يې بداوة یا صحرائی ژوند دی."
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "بدوي is an established Arabic form.",
+        "Urdu": "بدوی is used in Urdu.",
+        "Hindi": "बदवी is used in Hindi.",
+        "Pashto": "بدوي is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Badawi",
-      "meaning": "Desert dweller, one who lives in the wilderness",
-      "long_meaning": "The name Badawi is derived from the Arabic root (ب-د-ي) 'badawī', meaning 'one who lives in the desert'. Badawi refers to individuals who reside in the wilderness or desert areas, far from urban centers. Historically, these people were often involved in pastoralism and agriculture. The term connotes a lifestyle associated with freedom, resilience, and a deep connection to nature. In Islamic tradition, the name may reflect a sense of ruggedness and self-sufficiency."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form بدوي. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Badawi may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": "not established"
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense desert dweller, bedouin.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Desert dweller",
+      "related_concepts": [
+        "desert dweller",
+        "bedouin"
+      ],
+      "semantic_relationship": "The central semantic idea is desert dweller; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of desert dweller.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Desert dweller",
+        "Bedouin"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Badawi",
+        "meaning": "Desert dweller, Bedouin",
+        "long_meaning": "Badawi is a Arabic-origin name. Its core meaning is desert dweller, bedouin. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering."
+      },
+      "urdu": {
+        "name": "بدوی",
+        "meaning": "صحرائی، بدوی",
+        "long_meaning": "Badawi (بدوی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم صحرائی، بدوی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": null,
+        "meaning": null,
+        "long_meaning": null,
+        "translation_status": "unverified",
+        "note": "No verified fa translation was established for this form. A meaning is deliberately not asserted."
+      },
+      "hindi": {
+        "name": "बदवी",
+        "meaning": "रेगिस्तानी, बदवी",
+        "long_meaning": "Badawi (बदवी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रेगिस्तानी, बदवी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "بدوي",
+        "meaning": "دښتې اوسېدونکی، بدوي",
+        "long_meaning": "Badawi (بدوي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې دښتې اوسېدونکی، بدوي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "بدوي",
+        "meaning": "البدوي، ساكن الصحراء",
+        "long_meaning": "Badawi (بدوي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي البدوي، ساكن الصحراء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "bah-DAW-ee",
-      "urdu": "اردو میں تلفظ کی تفصیل: بدوی",
-      "hindi": "हिन्दी में उच्चारण विवरण: बदवी",
-      "pashto": "په پښتو کې د تلفظ تفصیل: بدوي",
-      "ipa": "/bæˈdɑːwi/"
+      "romanized": "ba-da-wi",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "بدوی",
+      "persian": null,
+      "hindi": "बदवी",
+      "pashto": "بدوي"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#BadawiMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Badawi"
-    ],
-    "name_variations": [],
-    "popularity_score": 77,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Badawi",
+        "badawi"
+      ],
+      "script_variants": [
+        "بدوي",
+        "بدوی",
+        "बदवी"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form بدوي is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Badawi can be understood through the Arabic form بدوي, whose central sense is desert dweller, bedouin. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 78,
-        "year": 2024
+        "question": "What does Badawi mean?",
+        "answer": "Badawi is associated with the Arabic form بدوي, whose core sense is desert dweller, bedouin."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 68,
-        "year": 2024
+        "question": "What is the origin of Badawi?",
+        "answer": "Badawi is associated with Arabic. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 69,
-        "year": 2024
+        "question": "Is Badawi an Arabic name?",
+        "answer": "Yes — the underlying form بدوي is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Badawi an Islamic name?",
+        "answer": "Badawi can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Badawi a Quranic name?",
+        "answer": "Badawi should not be classified as a Quranic personal name without a direct Quranic basis. not established"
+      },
+      {
+        "question": "What does Badawi mean in Urdu?",
+        "answer": "In Urdu, Badawi is rendered بدوی and carries the sense صحرائی، بدوی."
+      },
+      {
+        "question": "What does Badawi mean in Persian?",
+        "answer": "No verified Persian form was established for Badawi."
+      },
+      {
+        "question": "How is Badawi pronounced?",
+        "answer": "A romanized syllable approximation is ba-da-wi. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Badawi?",
+        "answer": "Romanization variants include Badawi, badawi. Script forms are بدوي, بدوی, बदवी."
+      },
+      {
+        "question": "Is Badawi a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Badawi Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Badawi, a beautiful Islam name meaning \"Desert dweller\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Badawi, Islam name, baby names, Desert dweller, Islam baby names, name meaning",
-      "description_paragraph": "Badawi is a meaningful Islam name of Arabic origin that means \"Desert dweller\". A person originally from the desert or arid region. In Islamic history, the Badawis were a group of nomadic tribes known for their strength, bravery, and self-sufficiency.",
-      "keywords": [
-        "Badawi",
-        "Islam name",
-        "baby names",
-        "Desert dweller",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Badawi in Islam tradition?",
-          "a": "Badawi is a beautiful Islam name meaning \"Desert dweller\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Badawi a good Islam name for a baby?",
-          "a": "Yes, Badawi is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Badawi?",
-          "a": "The name Badawi has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Badawi correctly?",
-          "a": "Badawi is pronounced bah-DAW-ee in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Badawi?",
-          "a": "Naming a child Badawi brings blessings. The meaning \"Desert dweller\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Badawi?",
-          "a": "Badawi is very popular in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 91,
+      "title": "Badawi Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Badawi (بدوي).",
+      "h1": "Badawi Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Badawi meaning",
       "secondary_keywords": [
-        "Islam name Badawi",
-        "Badawi meaning",
-        "Badawi origin"
+        "Badawi name meaning",
+        "Badawi meaning in Urdu",
+        "Badawi origin",
+        "Badawi Islamic name",
+        "Badawi pronunciation",
+        "Badawi name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Badawi (بدوي) is associated with the Arabic form بدوي, whose core sense is desert dweller, bedouin. Badawī ('Bedouin, desert dweller'), a nisba from badw ('desert'). The source record's gloss 'Desert dweller' is a reasonable rendering.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Badawi is associated with the Arabic form بدوي, whose core sense is desert dweller, bedouin.",
+      "meaning_section": "The central meaning of Badawi is desert dweller, bedouin.",
+      "origin_section": "Badawi is associated with Arabic rather than with a different language.",
+      "islam_section": "Badawi can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Badawi is with the sense desert dweller.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Badawi",
+      "#BadawiMeaning",
+      "#BadawiName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The Badawis represent a proud nomadic Arab tradition that has survived for centuries against all odds. They have maintained their distinct identity amidst the ever-changing political landscape of the Middle East. Their reputation for resilience and resourcefulness has become a symbol of hope and survival in harsh desert environments.",
-    "spiritual_significance": "In Islamic spirituality, the Badawis are seen as representatives of the early migrant prophets, including Prophet Ibrahim (Abraham) and his family. Their journey as desert nomads mirrors the spiritual pilgrimage of believers towards Allah, not only through the physical journey of Hajj but also through the everyday trials and tribulations of life. The Badawi name evokes the spirit of self-reliance, courage, and steadfastness required to navigate both the physical desert and the spiritual travels on the path to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Various Islamic scholars and saints The name Badawi carried significant weight in that era.",
-        "time_period": "Throughout Islamic history",
-        "context": "This name has been carried by numerous pious Muslims throughout the centuries"
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Trending in Muslim baby name searches",
-        "Traditional name experiencing modern revival"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Badawi corresponds to the Arabic form بدوي",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Badawi has the core sense desert dweller, bedouin",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Twitter"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "The name Badawi remains relevant in modern Muslim society, representing a bridge between traditional Islamic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Islamic names."
-    },
-    "name_in_real_life": {
-      "person_name": "Fatima Badawi",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Fatima Badawi from Riyadh, Saudi Arabia embodies the meaning of Badawi - \"Desert dweller\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Desert dweller\" symbolizes A person originally from the desert or arid region. In Islamic history, the Badawis were a group of nomadic tribes known for their strength, bravery, and self-sufficiency.. In Islamic spirituality, bearing the name Badawi serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of desert dweller.",
-    "created_at": "2025-12-22T19:19:49.918Z",
-    "updated_at": "2025-12-22T04:53:15.378Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1439,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Badawi",
-      "description": "Desert dweller",
-      "additionalName": [],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian",
-        "Pashto"
+      "alternateName": [
+        "Badawi",
+        "badawi"
       ],
-      "religion": "Islam",
-      "gender": "(Male)",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Badawi",
-          "description": "Discover the meaning of Badawi - \"Desert dweller\"",
-          "image": "/images/social/badawi-facebook.jpg"
+      "description": "A name associated with the Arabic form بدوي, meaning desert dweller, bedouin.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "hi",
+        "ps"
+      ],
+      "termCode": "badawi",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Badawi - Name Meaning",
-          "description": "Learn about the beautiful name Badawi",
-          "image": "/images/social/badawi-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Badawi",
-          "description": "Name meaning: Desert dweller",
-          "image": "/images/social/badawi-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Badawi - Meaning: Desert dweller",
-        "email_subject": "Beautiful Name: Badawi"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Badawi with meaning Desert dweller",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Badawi, associated with the Arabic form بدوي, meaning desert dweller, bedouin."
     },
-    "similar_sounding_names": [
-      "baseema",
-      "binesh",
-      "banujah",
-      "basbas",
-      "busrah",
-      "buthayna",
-      "badri",
-      "buhayyah",
-      "ban",
-      "baraaa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

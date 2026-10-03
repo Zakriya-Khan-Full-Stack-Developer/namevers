@@ -3,285 +3,481 @@
   "data": {
     "name": "Mahal",
     "slug": "mahal",
-    "language": [
-      "Arabic"
-    ],
-    "gender": "unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Sanctuary, refuge",
-    "long_meaning": "A place of comfort and safety, a sanctuary where one can find peace and protection.",
-    "spiritual_meaning": "A symbol of God's protection and guidance, a reminder of the security and peace that comes from faith.",
-    "emotional_traits": [
-      "Calm",
-      "Comforting",
-      "Secure"
-    ],
-    "hidden_personality_traits": [
-      "Resilient",
-      "Resourceful",
-      "Adaptable"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Thursday",
-    "lucky_colors": [
-      "Blue",
-      "Green"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "A nurturing and loving soul who puts others before themselves.",
-    "in_arabic": {
-      "name": "ماهل",
-      "meaning": "Unknown",
-      "long_meaning": "N/A"
+    "identity": {
+      "display_name": "Mahal",
+      "normalized_name": "mahal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "medium",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Mahal",
+        "mahal"
+      ],
+      "search_variants": [
+        "Mahal",
+        "mahal"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ماہل",
-      "meaning": "Unknown",
-      "long_meaning": "N/A"
+    "core_meaning": {
+      "short_meaning": "Place, location, spot",
+      "primary_meaning": "Place",
+      "secondary_meanings": [
+        "location",
+        "spot"
+      ],
+      "literal_meaning": "Place",
+      "extended_meaning": "Place, location, spot",
+      "meaning_explanation": "Mahal corresponds to the Arabic form محل (Arabic root ح ل ل (ḥ-l-l); مَحَلّ (Maḥall)). Its core sense is place, location, spot. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "medium"
     },
-    "in_hindi": {
-      "name": "माहल",
-      "meaning": "Unknown",
-      "long_meaning": "N/A"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "محل",
+      "transliteration": "mahal",
+      "romanization": "mahal",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Place",
+        "location",
+        "spot"
+      ],
+      "etymology_explanation": "The form محل is an established Arabic lexical item. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun.",
+      "etymology_confidence": "medium",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ماهل",
-      "meaning": "Unknown",
-      "long_meaning": "N/A"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "محل is an established Arabic form.",
+        "Urdu": "محل is used in Urdu.",
+        "Persian": "محل is an established Persian form.",
+        "Hindi": "महल is used in Hindi.",
+        "Pashto": "محل is used in Pashto."
+      },
+      "language_confidence": "medium"
     },
-    "in_english": {
-      "name": "Mahal",
-      "meaning": "Unknown",
-      "long_meaning": "N/A"
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "medium",
+      "origin_explanation": "The name is associated with the Arabic form محل. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Mahal may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense place, location, spot.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Place",
+      "related_concepts": [
+        "place",
+        "location",
+        "spot"
+      ],
+      "semantic_relationship": "The central semantic idea is place; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of place.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Place",
+        "Location",
+        "Spot"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Mahal",
+        "meaning": "Place, location, spot",
+        "long_meaning": "Mahal is a Arabic-origin name. Its core meaning is place, location, spot. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun."
+      },
+      "urdu": {
+        "name": "محل",
+        "meaning": "محل، جگہ، مقام",
+        "long_meaning": "Mahal (محل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محل، جگہ، مقام ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "محل",
+        "meaning": "محل، جا، مکان",
+        "long_meaning": "Mahal (محل) نامی برگرفته از زبان عربی است و معنای اصلی آن محل، جا، مکان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "महल",
+        "meaning": "स्थान, महल, जगह",
+        "long_meaning": "Mahal (महल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्थान, महल, जगह है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "محل",
+        "meaning": "محل، ځای، مقام",
+        "long_meaning": "Mahal (محل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې محل، ځای، مقام ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "محل",
+        "meaning": "المحل، المكان، الموضع",
+        "long_meaning": "Mahal (محل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المحل، المكان، الموضع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "medium"
     },
     "pronunciation": {
-      "english": "/ˈmɑːhɑːl/",
-      "urdu": "/ماہل/",
-      "hindi": "/माहल/",
-      "pashto": "/ماهل/"
+      "romanized": "ma-hal",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "محل",
+      "persian": "محل",
+      "hindi": "महल",
+      "pashto": "محل"
     },
-    "celebrity_usage": [],
-    "social_tags": [
-      "#MahalMeaning",
-      "#IslamicBabyNames"
-    ],
-    "name_variations": [
-      "Maal"
-    ],
-    "popularity_score": 70,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Mahal",
+        "mahal"
+      ],
+      "script_variants": [
+        "محل",
+        "महल"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form محل is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "medium",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Mahal can be understood through the Arabic form محل, whose central sense is place, location, spot. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 80,
-        "year": 2024
+        "question": "What does Mahal mean?",
+        "answer": "Mahal is associated with the Arabic form محل, whose core sense is place, location, spot."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 78,
-        "year": 2024
+        "question": "What is the origin of Mahal?",
+        "answer": "Mahal is associated with Arabic. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 78,
-        "year": 2024
+        "question": "Is Mahal an Arabic name?",
+        "answer": "Yes — the underlying form محل is Arabic."
+      },
+      {
+        "question": "Is Mahal an Islamic name?",
+        "answer": "Mahal can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
+      },
+      {
+        "question": "Is Mahal a Quranic name?",
+        "answer": "Mahal should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Mahal mean in Urdu?",
+        "answer": "In Urdu, Mahal is rendered محل and carries the sense محل، جگہ، مقام."
+      },
+      {
+        "question": "What does Mahal mean in Persian?",
+        "answer": "In Persian, Mahal is rendered محل and carries the sense محل، جا، مکان."
+      },
+      {
+        "question": "How is Mahal pronounced?",
+        "answer": "A romanized syllable approximation is ma-hal. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Mahal?",
+        "answer": "Romanization variants include Mahal, mahal. Script forms are محل, महल."
+      },
+      {
+        "question": "Is Mahal a boy's or girl's name?",
+        "answer": "Documented usage records this form as male. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Mahal Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Mahal, a beautiful Islam name meaning \"Sanctuary, refuge\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Mahal, Islam name, baby names, Sanctuary, refuge, Islam baby names, name meaning",
-      "description_paragraph": "Mahal is a meaningful Islam name of Arabic origin that means \"Sanctuary, refuge\". A place of comfort and safety, a sanctuary where one can find peace and protection.",
-      "keywords": [
-        "Mahal",
-        "Islam name",
-        "baby names",
-        "Sanctuary, refuge",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Mahal in Islam tradition?",
-          "a": "Mahal is a beautiful Islam name meaning \"Sanctuary, refuge\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Mahal a good Islam name for a baby?",
-          "a": "Yes, Mahal is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Mahal?",
-          "a": "The name Mahal has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Mahal correctly?",
-          "a": "Mahal is pronounced /ˈmɑːhɑːl/ in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Mahal?",
-          "a": "Naming a child Mahal brings blessings. The meaning \"Sanctuary, refuge\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Mahal?",
-          "a": "Mahal is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Mahal Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Mahal (محل).",
+      "h1": "Mahal Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Mahal meaning",
       "secondary_keywords": [
-        "Islam name Mahal",
-        "Mahal meaning",
-        "Mahal origin"
+        "Mahal name meaning",
+        "Mahal meaning in Urdu",
+        "Mahal origin",
+        "Mahal Islamic name",
+        "Mahal pronunciation",
+        "Mahal name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Mahal (محل) is associated with the Arabic form محل, whose core sense is place, location, spot. Mahal is Arabic مَحَلّ (Maḥall) 'place, location, spot', from the root ح ل ل (ḥ-l-l). CRITICAL SOURCE ERROR: the source gave ماهل (a different form) and glossed the name 'Sanctuary, refuge'; the correct form is مَحَلّ. Recorded at medium confidence because the word is primarily a common noun.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Mahal is associated with the Arabic form محل, whose core sense is place, location, spot.",
+      "meaning_section": "The central meaning of Mahal is place, location, spot.",
+      "origin_section": "Mahal is associated with Arabic rather than with a different language.",
+      "islam_section": "Mahal can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Mahal is with the sense place.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Mahal",
+      "#MahalMeaning",
+      "#MahalName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "medium",
+      "linguistic_authenticity": "medium",
+      "etymological_authenticity": "medium",
+      "meaning_authenticity": "medium",
+      "translation_quality": "medium",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The term \"Mahal\" has deep cultural roots and significance in several Muslim communities, particularly those influenced by the Sufi tradition of Islamic spirituality. Historically, \"mahal\" has referred to a Sufi lodge or retreat, a place of communal spiritual practice and worship. It may also refer to the living quarters of a Sufi master, or Pir, who provides spiritual guidance to his disciples. Thus, the term \"Mahal\" is often associated with the idea of a spiritual home, a place of refuge and solace, where individuals come together to seek guidance, knowledge, and fortification on their spiritual journey.",
-    "spiritual_significance": "From a spiritual perspective, \"Mahal\" represents a place of refuge and safety, a sanctuary where one can find peace and protection from the distractions and challenges of the outside world. It is a symbol of the inner world of the soul, where one can connect with the divine presence and seek guidance in the pursuit of spiritual growth and self-improvement. The term is also reminiscent of the hadith, a saying of Prophet Muhammad (peace be upon him), which states, \"The best house in this world is a house full of faith, and the best house in the Hereafter is the house of Allah.\" Therefore, the notion of \"Mahal\" resonates with the idea of the importance of creating a loving, peaceful, and spiritually nurturing environment in both this world and the next.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Ibn Battuta's Travels: A Description of Asia, Africa and Europe The name Mahal carried significant weight in that era.",
-        "time_period": "1332-1354 CE",
-        "context": "Ibn Battuta mentions a place named Mahal, which was a prosperous town on the west coast of India, lying between Goa and Bijapur. It was an important center of trade, especially in pepper, and was renowned for its fine mosques and colleges."
-      },
-      {
-        "reference": "Al-Biruni's India: An Account of the Religion, Philosophy, Sciences, Customs, and Laws of the Hindus",
-        "time_period": "1017-1048 CE",
-        "context": "Al-Biruni describes Mahal as a town and seaport in Sindh, located on the northwestern coast of the Indian subcontinent. He mentions that it was an important center for shipbuilding and maritime trade during the early Islamic period."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "Modern Islamic architecture",
-        "Urban planning",
-        "Sustainable design"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Mahal corresponds to the Arabic form محل",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        },
+        {
+          "claim": "Mahal has the core sense place, location, spot",
+          "evidence_type": "lexical",
+          "confidence": "medium"
+        }
       ],
-      "platforms": [
-        "Instagram",
-        "Pinterest",
-        "Google Maps"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Mahal, a traditional Islamic term for a courtyard or a garden, is experiencing a modern revival in contemporary Islamic architecture, urban planning, and sustainable design. On Instagram, users share stunning images of beautiful Mahal gardens, showcasing their unique designs and vibrant colors. On Pinterest, Mahal boards are popular for those looking to incorporate this design aesthetic into their homes. Google Maps also highlights various Mahal structures around the world, allowing users to explore these historical sites and learn about their cultural significance."
-    },
-    "name_in_real_life": {
-      "person_name": "Layla Mahal",
-      "location": "Cairo, Egypt",
-      "story": "Layla Mahal, a teacher in Cairo, Egypt, shares that their name Mahal meaning \"Sanctuary, refuge\" has been a source of inspiration throughout their life, motivating them to be a positive influence in their community."
-    },
-    "spiritual_symbolism": "The meaning \"Sanctuary, refuge\" symbolizes A place of comfort and safety, a sanctuary where one can find peace and protection.. In Islamic spirituality, bearing the name Mahal serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of sanctuary, refuge.",
-    "created_at": "2025-12-22T19:19:50.33Z",
-    "updated_at": "2025-12-22T04:53:15.896Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1334,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Mahal",
-      "description": "Sanctuary, refuge",
-      "additionalName": [
-        "Maal"
+      "alternateName": [
+        "Mahal",
+        "mahal"
       ],
-      "knowsLanguage": [
-        "Arabic"
+      "description": "A name associated with the Arabic form محل, meaning place, location, spot.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Mahal",
-          "description": "Discover the meaning of Mahal - \"Sanctuary, refuge\"",
-          "image": "/images/social/mahal-facebook.jpg"
+      "termCode": "mahal",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Mahal - Name Meaning",
-          "description": "Learn about the beautiful name Mahal",
-          "image": "/images/social/mahal-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Male"
         },
-        "instagram": {
-          "title": "Mahal",
-          "description": "Name meaning: Sanctuary, refuge",
-          "image": "/images/social/mahal-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Mahal - Meaning: Sanctuary, refuge",
-        "email_subject": "Beautiful Name: Mahal"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Mahal with meaning Sanctuary, refuge",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Mahal, associated with the Arabic form محل, meaning place, location, spot."
     },
-    "similar_sounding_names": [
-      "manab",
-      "mika",
-      "mahek",
-      "marhabah",
-      "meher",
-      "mada",
-      "maassama",
-      "meena",
-      "marnia"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }

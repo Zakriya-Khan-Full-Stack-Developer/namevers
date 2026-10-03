@@ -3,296 +3,486 @@
   "data": {
     "name": "Imaan",
     "slug": "imaan",
-    "language": [
-      "Arabic",
-      "Urdu",
-      "Persian"
-    ],
-    "gender": "Unisex",
-    "origin": "Arabic",
-    "religion": "islamic",
-    "category": "Islamic",
-    "short_meaning": "Faith and Belief",
-    "long_meaning": "Imaan signifies having faith and belief in the principles of Islam. It is derived from the Arabic root that means to believe or have faith.",
-    "spiritual_meaning": "In the Quran, Imaan is mentioned as a crucial aspect of a Muslim's life, emphasizing the importance of having strong faith and conviction.",
-    "emotional_traits": [
-      "Kind",
-      "Just",
-      "Peaceful",
-      "Brave"
-    ],
-    "hidden_personality_traits": [
-      "V = Virtuous",
-      "C = Courageous",
-      "L = Loyal",
-      "D = Dutiful"
-    ],
-    "lucky_number": 9,
-    "lucky_day": "Sunday",
-    "lucky_colors": [
-      "Green",
-      "Yellow"
-    ],
-    "lucky_stone": "Emerald",
-    "life_path_number": 6,
-    "numerology_meaning": "A harmonious, responsible, and loving personality, with a strong sense of duty and a desire to help others",
-    "in_arabic": {
-      "name": "إيمان",
-      "meaning": "الإيمان بالله والرسول والكتاب والآخرة والقدر خيره وشره",
-      "long_meaning": "الإيمان هو التصديق بالقلب واللسان لله ولرسوله وللكتاب والآخرة والقدر، وهو أصل الدين الإسلامي، جاء في القرآن الكريم: 'وَمَا كُنتُ بِرَسُولٍ يَأْتِي مِن بَعدِي وَلا بِمَلَكٍ إِن كُنتُ أَعْلَمُ الْغَيْبَ لَسْتَخْتَرتُ عَلَيهِ مِنَ الْخَيْرِ مَادَامَ عَقَلِي'"
+    "identity": {
+      "display_name": "Imaan",
+      "normalized_name": "imaan",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "high",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the meaning of the word. Actual use may vary by region and community.",
+      "alternate_spellings": [
+        "Imaan",
+        "imaan",
+        "iman"
+      ],
+      "search_variants": [
+        "Imaan",
+        "imaan",
+        "iman"
+      ],
+      "name_status": "lexically established; personal-name usage requires separate frequency evidence"
     },
-    "in_urdu": {
-      "name": "ایمان",
-      "meaning": "اللہ اور اس کے رسول اور کتاب اور آخرت اور تقدیر پر یقین",
-      "long_meaning": "ایمان اللہ اور اس کے رسول اور کتاب اور آخرت اور تقدیر کے خیر و شر پر یقین ہے، یہ اسلامی دین کی بنیاد ہے، قرآن مجید میں آیا ہے: 'وَمَا كُنتُ بِرَسُولٍ يَأْتِي مِن بَعدِي وَلا بِمَلَكٍ إِن كُنتُ أَعْلَمُ الْغَيْبَ لَسْتَخْتَرتُ عَلَيهِ مِنَ الْخَيْرِ مَادَامَ عَقَلِي'"
+    "core_meaning": {
+      "short_meaning": "Faith, belief, trust",
+      "primary_meaning": "Faith",
+      "secondary_meanings": [
+        "belief",
+        "trust"
+      ],
+      "literal_meaning": "Faith",
+      "extended_meaning": "Faith, belief, trust",
+      "meaning_explanation": "Imaan corresponds to the Arabic form إيمان (Arabic root أ م ن (ʾ-m-n); إِيمَان (Īmān)). Its core sense is faith, belief, trust. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani.",
+      "meaning_confidence": "high"
     },
-    "in_hindi": {
-      "name": "ईमान",
-      "meaning": "भगवान और उसके दूत और पुस्तक और अंत और भाग्य पर विश्वास",
-      "long_meaning": "ईमान भगवान और उसके दूत और पुस्तक और अंत और भाग्य के अच्छे और बुरे पर विश्वास है, यह इस्लामी धर्म की मूल बात है, कुरआन में आया है: 'وَمَا كُنتُ بِرَسُولٍ يَأْتِي مِن بَعدِي وَلا بِمَلَكٍ إِن كُنتُ أَعْلَمُ الْغَيْبَ لَسْتَخْتَرتُ عَلَيهِ مِنَ الْخَيْرِ مَادَامَ عَقَلِي'"
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إيمان",
+      "transliteration": "imaan",
+      "romanization": "imaan",
+      "root_status": "Arabic triliteral root",
+      "etymological_meaning": [
+        "Faith",
+        "belief",
+        "trust"
+      ],
+      "etymology_explanation": "The form إيمان is an established Arabic lexical item. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani.",
+      "etymology_confidence": "high",
+      "false_etymology_warning": "No false etymology is asserted for this form. Any derivation not supported by a Tier-A/B source should be treated as unverified."
     },
-    "in_pashto": {
-      "name": "ایمان",
-      "meaning": "الله او د هغه د رسول او کتاب او اخرت او تقدیر په اړه باور",
-      "long_meaning": "ایمان د الله او د هغه د رسول او کتاب او اخرت او تقدیر د خیر او شر په اړه باور دی، دا د اسلامي دین اساس دی، قرآنکریم کې راغلي: 'وَمَا كُنتُ بِرَسُولٍ يَأْتِي مِن بَعدِي وَلا بِمَلَكٍ إِن كُنتُ أَعْلَمُ الْغَيْبَ لَسْتَخْتَرتُ عَلَيهِ مِنَ الْخَيْرِ مَادَامَ عَقَلِي'"
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu",
+        "Persian",
+        "Hindi"
+      ],
+      "language_notes": {
+        "Arabic": "إيمان is an established Arabic form.",
+        "Urdu": "ایمان is used in Urdu.",
+        "Persian": "ایمان is an established Persian form.",
+        "Hindi": "ईमान is used in Hindi.",
+        "Pashto": "ایمان is used in Pashto."
+      },
+      "language_confidence": "high"
     },
-    "in_english": {
-      "name": "Imaan",
-      "meaning": "Faith and Belief in Allah and His Messenger and the Quran",
-      "long_meaning": "Imaan is the faith and belief in Allah, His Messenger, the Quran, the Hereafter, and the decree of Allah. It is the foundation of Islam. The term 'Imaan' is derived from the Arabic root 'أ-م-ن' which conveys the meaning of faith, trust, and safety. In the Quran, Imaan is mentioned as a fundamental aspect of a believer's life, e.g., 'And they, in their turn, shall not escape' (Quran 7:36). Imaan is considered a vital component of a Muslim's personality, encompassing spiritual growth, moral values, and righteous actions."
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "high",
+      "origin_explanation": "The name is associated with the Arabic form إيمان. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion": "Islam",
+      "religion_confidence": "medium",
+      "religious_status": "Not inherently an exclusively Islamic word",
+      "religious_explanation": "Imaan may be used by Muslims because Arabic and Persian vocabulary have had a major historical influence on Muslim cultures. However, the word itself does not become Quranic simply through Muslim usage.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": null,
+        "note": false
+      },
+      "hadith_status": {
+        "direct_reference": false,
+        "reference": null
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": null
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": null
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical associations can make it compatible with positive naming traditions.",
+      "important_distinction": "Compatibility with Muslim naming culture is not evidence that the word is Arabic, Quranic, or specifically prescribed in Islam."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the relevant cultures the form is associated with the sense faith, belief, trust.",
+      "place_name_significance": null,
+      "personal_name_interpretation": "As a personal name, the lexical associations can be interpreted symbolically.",
+      "interpretation_warning": "The symbolic interpretation should not be confused with the literal dictionary meaning."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Faith",
+      "related_concepts": [
+        "faith",
+        "belief",
+        "trust"
+      ],
+      "semantic_relationship": "The central semantic idea is faith; other senses are extended associations."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "meaning": "A life that reflects the positive sense of faith.",
+      "is_direct_religious_definition": false,
+      "note": "This is a positive symbolic interpretation of the lexical meaning and should not be presented as a revealed religious definition of the name."
+    },
+    "personality_associations": {
+      "status": "symbolic_only",
+      "traits": [
+        "Faith",
+        "Belief",
+        "Trust"
+      ],
+      "note": "These are symbolic associations derived from the meaning of the name, not scientifically established personality characteristics."
+    },
+    "hidden_personality_traits": {
+      "status": "not_linguistic_fact",
+      "traits": [],
+      "note": "Letter-based personality systems should not be presented as factual properties of the name."
+    },
+    "numerology": {
+      "status": "belief_based",
+      "lucky_number": null,
+      "life_path_number": null,
+      "numerology_meaning": null,
+      "note": "Numerological values should not be presented as linguistic, historical, scientific, or religious facts. A life-path number derives from a birth date, not from a name."
+    },
+    "lucky_attributes": {
+      "status": "traditional_or_generated",
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "note": "No universally authoritative lucky number, day, color, or stone is established by the etymology of this name."
+    },
+    "translations": {
+      "english": {
+        "name": "Imaan",
+        "meaning": "Faith, belief, trust",
+        "long_meaning": "Imaan is a Arabic-origin name. Its core meaning is faith, belief, trust. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani."
+      },
+      "urdu": {
+        "name": "ایمان",
+        "meaning": "ایمان، یقین، عقیدہ",
+        "long_meaning": "Imaan (ایمان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ایمان، یقین، عقیدہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔",
+        "translation_status": "verified"
+      },
+      "persian": {
+        "name": "ایمان",
+        "meaning": "ایمان، باور، اعتقاد",
+        "long_meaning": "Imaan (ایمان) نامی برگرفته از زبان عربی است و معنای اصلی آن ایمان، باور، اعتقاد است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است.",
+        "translation_status": "verified"
+      },
+      "hindi": {
+        "name": "ईमान",
+        "meaning": "ईमान, विश्वास, आस्था",
+        "long_meaning": "Imaan (ईमान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ईमान, विश्वास, आस्था है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।",
+        "translation_status": "verified"
+      },
+      "pashto": {
+        "name": "ایمان",
+        "meaning": "ایمان، باور، عقیده",
+        "long_meaning": "Imaan (ایمان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ایمان، باور، عقیده ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "translation_status": "verified"
+      },
+      "arabic": {
+        "name": "إيمان",
+        "meaning": "الإيمان، الاعتقاد، اليقين",
+        "long_meaning": "Imaan (إيمان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإيمان، الاعتقاد، اليقين. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "translation_status": "verified"
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "warning": "Translations describe equivalent meanings in each language. They do not establish that the name originated independently in every listed language. Where no verified translation was available, the meaning is null rather than an English gloss copied into a non-English field.",
+      "confidence": "high"
     },
     "pronunciation": {
-      "english": "ah-LEEM",
-      "urdu": "اردو میں تلفظ کی تفصیل ایمان (ah-LEEM-an)",
-      "hindi": "हिन्दी में उच्चारण विवरण ईमान (ee-MAHN)",
-      "pashto": "په پښتو کې د تلفظ تفصیل ایمان (ah-LEEM-an)",
-      "ipa": "/ˈɑː.liːm/"
+      "romanized": "i-maan",
+      "ipa": null,
+      "approximation_note": "No IPA transcription is asserted because a verified phonetic transcription was not available for this form. The romanized syllable split is an approximation only.",
+      "urdu": "ایمان",
+      "persian": "ایمان",
+      "hindi": "ईमान",
+      "pashto": "ایمان"
     },
-    "celebrity_usage": [
-      "Iman Abdulmajid",
-      "Imaan Hammam"
-    ],
-    "social_tags": [
-      "#ImaanMeaning",
-      "#IslamicBabyNames",
-      "#ArabicNames",
-      "#MuslimNames",
-      "#Imaan"
-    ],
-    "name_variations": [
-      "Iman"
-    ],
-    "popularity_score": 66,
-    "popularity_by_region": [
+    "name_variants": {
+      "romanized_variants": [
+        "Imaan",
+        "imaan",
+        "iman"
+      ],
+      "script_variants": [
+        "إيمان",
+        "ایمان",
+        "ईमान"
+      ],
+      "variant_notes": "Romanization variants reflect different transliteration conventions. Script variants are the forms established for each language.",
+      "do_not_merge_with": []
+    },
+    "historical_context": {
+      "known_linguistic_history": [
+        "The form إيمان is an established Arabic lexical item."
+      ],
+      "historical_person_association": null,
+      "historical_event_association": null,
+      "historical_claim_confidence": "high",
+      "editorial_note": "A specific historical person bearing this name should not be invented merely to enrich the page."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "usage_regions": [
+        "Pakistan",
+        "India"
+      ],
+      "regional_usage_note": "Personal-name popularity must be measured separately from lexical presence.",
+      "modern_relevance": "The form remains recognisable in the relevant speech communities.",
+      "social_media_trend": null,
+      "popularity_claim": null
+    },
+    "popularity": {
+      "overall_score": null,
+      "score_type": null,
+      "score_source": null,
+      "year": null,
+      "country_rankings": [],
+      "note": "A popularity score should only be retained when supported by a defined dataset, methodology, population, and year. No such dataset was available."
+    },
+    "celebrity_usage": {
+      "verified": [],
+      "unverified": [],
+      "note": "No celebrity association should be generated without verification."
+    },
+    "real_world_usage": {
+      "verified_examples": [],
+      "synthetic_examples": [],
+      "note": "Fabricated people, locations, or personal stories should never be presented as real examples."
+    },
+    "name_story": {
+      "type": "editorial_interpretation",
+      "story": "Imaan can be understood through the Arabic form إيمان, whose central sense is faith, belief, trust. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani.",
+      "is_fictional": false
+    },
+    "faq": [
       {
-        "region": "Saudi Arabia",
-        "country_code": "SA",
-        "score": 81,
-        "year": 2024
+        "question": "What does Imaan mean?",
+        "answer": "Imaan is associated with the Arabic form إيمان, whose core sense is faith, belief, trust."
       },
       {
-        "region": "Pakistan",
-        "country_code": "PK",
-        "score": 73,
-        "year": 2024
+        "question": "What is the origin of Imaan?",
+        "answer": "Imaan is associated with Arabic. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani."
       },
       {
-        "region": "UAE",
-        "country_code": "AE",
-        "score": 80,
-        "year": 2024
+        "question": "Is Imaan an Arabic name?",
+        "answer": "Yes — the underlying form إيمان is Arabic."
       },
       {
-        "region": "Egypt",
-        "country_code": "EG",
-        "score": 67,
-        "year": 2024
+        "question": "Is Imaan an Islamic name?",
+        "answer": "Imaan can occur in Muslim naming contexts, but it is better described as a Arabic-origin name used within some Muslim naming traditions than as an exclusively Islamic religious term."
       },
       {
-        "region": "Turkey",
-        "country_code": "TR",
-        "score": 68,
-        "year": 2024
+        "question": "Is Imaan a Quranic name?",
+        "answer": "Imaan should not be classified as a Quranic personal name without a direct Quranic basis. False"
+      },
+      {
+        "question": "What does Imaan mean in Urdu?",
+        "answer": "In Urdu, Imaan is rendered ایمان and carries the sense ایمان، یقین، عقیدہ."
+      },
+      {
+        "question": "What does Imaan mean in Persian?",
+        "answer": "In Persian, Imaan is rendered ایمان and carries the sense ایمان، باور، اعتقاد."
+      },
+      {
+        "question": "How is Imaan pronounced?",
+        "answer": "A romanized syllable approximation is i-maan. No IPA transcription is asserted because a verified phonetic transcription was not available."
+      },
+      {
+        "question": "What are the variants of Imaan?",
+        "answer": "Romanization variants include Imaan, imaan, iman. Script forms are إيمان, ایمان, ईमान."
+      },
+      {
+        "question": "Is Imaan a boy's or girl's name?",
+        "answer": "Documented usage records this form as female. Gender is not inferred from the meaning of the word, and actual use may vary between communities."
       }
     ],
     "seo": {
-      "title": "Imaan Name Meaning | Islam Baby Names 2026",
-      "meta_description": "Discover the complete meaning of Imaan, a beautiful Islam name meaning \"Faith and Belief\". Learn about its Arabic origin and spiritual significance.",
-      "meta_keywords": "Imaan, Islam name, baby names, Faith and Belief, Islam baby names, name meaning",
-      "description_paragraph": "Imaan is a meaningful Islam name of Arabic origin that means \"Faith and Belief\". Imaan signifies having faith and belief in the principles of Islam. It is derived from the Arabic root that means to believe or have faith.",
-      "keywords": [
-        "Imaan",
-        "Islam name",
-        "baby names",
-        "Faith and Belief",
-        "Islam tradition",
-        "Arabic origin"
-      ],
-      "faq": [
-        {
-          "q": "What is the meaning of Imaan in Islam tradition?",
-          "a": "Imaan is a beautiful Islam name meaning \"Faith and Belief\". This name has deep spiritual significance in Islam tradition."
-        },
-        {
-          "q": "Is Imaan a good Islam name for a baby?",
-          "a": "Yes, Imaan is an excellent Islam name choice. It carries positive meanings and cultural significance."
-        },
-        {
-          "q": "What is the origin of the name Imaan?",
-          "a": "The name Imaan has Arabic origins and is deeply rooted in Islam tradition."
-        },
-        {
-          "q": "How do you pronounce Imaan correctly?",
-          "a": "Imaan is pronounced ah-LEEM in English."
-        },
-        {
-          "q": "What are the spiritual benefits of naming a child Imaan?",
-          "a": "Naming a child Imaan brings blessings. The meaning \"Faith and Belief\" inspires positive qualities."
-        },
-        {
-          "q": "How popular is the name Imaan?",
-          "a": "Imaan is well-regarded in Islam communities worldwide."
-        }
-      ],
-      "seo_score": 98,
+      "title": "Imaan Name Meaning, Origin & Islamic Cultural Context",
+      "meta_description": "Explore the meaning, Arabic origin, Urdu meaning, pronunciation, variants and Islamic naming context of Imaan (إيمان).",
+      "h1": "Imaan Name Meaning, Origin and Cultural Background",
       "focus_keyword": "Imaan meaning",
       "secondary_keywords": [
-        "Islam name Imaan",
-        "Imaan meaning",
-        "Imaan origin"
+        "Imaan name meaning",
+        "Imaan meaning in Urdu",
+        "Imaan origin",
+        "Imaan Islamic name",
+        "Imaan pronunciation",
+        "Imaan name in Urdu"
+      ],
+      "search_intents": [
+        "meaning",
+        "origin",
+        "language",
+        "pronunciation",
+        "religious context",
+        "cultural context",
+        "translation",
+        "name variants"
+      ],
+      "description_paragraph": "Imaan (إيمان) is associated with the Arabic form إيمان, whose core sense is faith, belief, trust. Imaan is Arabic إِيمَان (Īmān) 'faith, belief, trust', from the root أ م ن (ʾ-m-n). The source gloss 'Faith and Belief' is consistent. Same name as iman, imane and imani.",
+      "editorial_seo_rule": "Avoid repeating the exact keyword unnaturally. Prioritize useful linguistic, cultural, and naming information over keyword density."
+    },
+    "seo_content": {
+      "intro": "Imaan is associated with the Arabic form إيمان, whose core sense is faith, belief, trust.",
+      "meaning_section": "The central meaning of Imaan is faith, belief, trust.",
+      "origin_section": "Imaan is associated with Arabic rather than with a different language.",
+      "islam_section": "Imaan can be encountered in Muslim naming environments, but its linguistic origin should not be confused with Quranic or Arabic origin.",
+      "cultural_section": "The strongest cultural association of Imaan is with the sense faith.",
+      "pronunciation_section": "A romanized syllable approximation is given. No IPA transcription is asserted because a verified phonetic transcription was not available."
+    },
+    "social_tags": [
+      "#Imaan",
+      "#ImaanMeaning",
+      "#ImaanName",
+      "#IslamicNames",
+      "#NameMeaning",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "overall_status": "high",
+      "linguistic_authenticity": "high",
+      "etymological_authenticity": "high",
+      "meaning_authenticity": "high",
+      "translation_quality": "high",
+      "religious_claim_safety": "high",
+      "historical_claim_safety": "high",
+      "cultural_accuracy": "medium",
+      "originality": "high",
+      "ai_hallucination_risk": "low",
+      "unsupported_claims_removed": [
+        "invented popularity scores",
+        "invented lucky attributes",
+        "invented personality claims",
+        "invented historical persons",
+        "invented real-life stories",
+        "unsupported Quranic claims",
+        "English glosses copied into non-English translation fields"
       ]
     },
-    "monetization": {
-      "propush_trigger": true,
-      "exit_ad_enabled": true,
-      "ads_enabled": true
-    },
-    "cultural_impact": "The term Imaan is deeply embedded in the Islamic culture, it signifies not only belief and faith in Allah but also in the teachings of the Prophet Muhammad (PBUH) and the Islamic community. It emphasizes the importance of maintaining good character, honesty, and integrity. Imaan is also reflected in daily practices, such as prayer and fasting, which strengthen the bonds between individuals and their faith as well as their community.",
-    "spiritual_significance": "Imaan has profound spiritual significance for Muslims. It represents the inner connection between an individual and their Creator, and emphasizes the importance of maintaining this relationship throughout one's life. Having imaan allows one to lead a purposeful and fulfilling life, guided by the principles of Islam. It also provides a sense of peace and tranquility, knowing that one's beliefs and actions are in alignment with the will of God. Ultimately, imaan is a continuous process of growth, requiring commitment, dedication, and perseverance, as one strives to deepen their faith and draw closer to Allah.",
-    "islamic_reference": {
-      "is_quranic": false,
-      "note": "Traditional Islamic name with deep spiritual significance in Islamic culture"
-    },
-    "historical_references": [
-      {
-        "reference": "Historical records show that Imaan ibn Husain was a companion of the Prophet Muhammad and one of the ten promised Paradise. The name Imaan carried significant weight in that era.",
-        "time_period": "7th century",
-        "context": "Imaan was a prominent figure in early Islamic history and is considered a martyr for his faith."
-      }
-    ],
-    "modern_usage": {
-      "trends": [
-        "used as a given name for both males and females"
+    "evidence": {
+      "core_claims": [
+        {
+          "claim": "Imaan corresponds to the Arabic form إيمان",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        },
+        {
+          "claim": "Imaan has the core sense faith, belief, trust",
+          "evidence_type": "lexical",
+          "confidence": "high"
+        }
       ],
-      "platforms": [
-        "social media, genealogy websites"
+      "claims_requiring_external_dataset": [
+        "Personal-name popularity",
+        "Country rankings",
+        "Modern naming frequency",
+        "Celebrity usage",
+        "Social-media trends"
+      ]
+    },
+    "provenance": {
+      "verified_or_verifiable_fields": [
+        "core meaning",
+        "origin",
+        "script form",
+        "semantic field",
+        "language association",
+        "translation"
       ],
-      "modern_context": "Imaan is a name of Arabic origin that means 'faith' or 'belief'. It is a popular name in the Islamic world and is used as a given name for both males and females. In modern times, the name has gained popularity outside of the Islamic world due to its meaning and the historical significance of the name."
-    },
-    "name_in_real_life": {
-      "person_name": "Aisha Imaan",
-      "location": "Riyadh, Saudi Arabia",
-      "story": "Aisha Imaan from Riyadh, Saudi Arabia embodies the meaning of Imaan - \"Faith and Belief\". Growing up, they were known for their strong character and deep faith, always striving to live up to the beautiful significance of their name."
-    },
-    "spiritual_symbolism": "The meaning \"Faith and Belief\" symbolizes Imaan signifies having faith and belief in the principles of Islam. It is derived from the Arabic root that means to believe or have faith.. In Islamic spirituality, bearing the name Imaan serves as a constant reminder of one's spiritual aspirations and connection to Islamic values of faith and belief.",
-    "created_at": "2025-12-22T19:19:49.83Z",
-    "updated_at": "2025-12-22T04:53:14.559Z",
-    "advanced_seo": {
-      "technical_seo": {
-        "page_load_speed": "optimized",
-        "mobile_friendly": true,
-        "schema_markup": true,
-        "ssl_certificate": true,
-        "cdn_optimized": true
-      },
-      "content_seo": {
-        "word_count": 1759,
-        "readability_score": "A+",
-        "keyword_density": "optimal",
-        "internal_linking": true
-      },
-      "performance_metrics": {
-        "core_web_vitals": "excellent",
-        "bounce_rate_prediction": "low",
-        "engagement_time": "high"
-      }
+      "interpretive_fields": [
+        "spiritual meaning",
+        "personality associations",
+        "name story"
+      ],
+      "dataset_required_fields": [
+        "popularity",
+        "regional rankings",
+        "modern frequency",
+        "celebrity usage"
+      ],
+      "generated_content_policy": "Generated explanatory prose must not introduce new historical, linguistic, religious, demographic, or popularity claims that are not supported by evidence."
     },
     "structured_data": {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "DefinedTerm",
       "name": "Imaan",
-      "description": "Faith and Belief",
-      "additionalName": [
-        "Iman"
+      "alternateName": [
+        "Imaan",
+        "imaan",
+        "iman"
       ],
-      "knowsLanguage": [
-        "Arabic",
-        "Urdu",
-        "Persian"
+      "description": "A name associated with the Arabic form إيمان, meaning faith, belief, trust.",
+      "inLanguage": [
+        "ar",
+        "ur",
+        "fa",
+        "hi",
+        "ps"
       ],
-      "religion": "Islam",
-      "gender": "Unisex",
-      "origin": "Arabic"
-    },
-    "user_engagement": {
-      "interactive_features": {
-        "name_calculator": true,
-        "meaning_quiz": true,
-        "pronunciation_tool": true,
-        "compatibility_checker": true
-      },
-      "community_features": {
-        "user_stories": [],
-        "rating_system": true,
-        "comment_section": true
-      },
-      "personalization": {
-        "favorite_lists": true,
-        "name_comparison": true,
-        "save_preferences": true
-      }
-    },
-    "social_optimization": {
-      "social_media_cards": {
-        "facebook": {
-          "title": "Beautiful Name: Imaan",
-          "description": "Discover the meaning of Imaan - \"Faith and Belief\"",
-          "image": "/images/social/imaan-facebook.jpg"
+      "termCode": "imaan",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Origin",
+          "value": "Arabic"
         },
-        "twitter": {
-          "title": "Imaan - Name Meaning",
-          "description": "Learn about the beautiful name Imaan",
-          "image": "/images/social/imaan-twitter.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Female"
         },
-        "instagram": {
-          "title": "Imaan",
-          "description": "Name meaning: Faith and Belief",
-          "image": "/images/social/imaan-instagram.jpg"
+        {
+          "@type": "PropertyValue",
+          "name": "Religious Context",
+          "value": "Used in some Muslim naming cultures"
         }
-      },
-      "sharing_optimization": {
-        "whatsapp_message": "Check out this beautiful name: Imaan - Meaning: Faith and Belief",
-        "email_subject": "Beautiful Name: Imaan"
-      }
+      ]
     },
     "accessibility": {
-      "screen_reader_optimized": true,
-      "alt_text": "Imaan with meaning Faith and Belief",
-      "keyboard_navigable": true,
-      "high_contrast_mode": true,
-      "font_scaling_support": true,
-      "voice_navigation": true,
-      "braille_compatible": true,
-      "language_attributes": {
-        "primary": "en",
-        "rtl_support": false
-      }
+      "primary_language": "en",
+      "rtl_languages_present": true,
+      "rtl_languages": [
+        "ur",
+        "fa",
+        "ps",
+        "ar"
+      ],
+      "script_labels_required": true,
+      "pronunciation_text_available": true,
+      "screen_reader_description": "Imaan, associated with the Arabic form إيمان, meaning faith, belief, trust."
     },
-    "similar_sounding_names": [
-      "inga",
-      "id",
-      "iqrit",
-      "isa"
-    ]
+    "editorial_validation": {
+      "name_identity_checked": true,
+      "origin_checked": true,
+      "meaning_checked": true,
+      "language_checked": true,
+      "religious_claims_checked": true,
+      "translation_checked": true,
+      "historical_claims_checked": true,
+      "popularity_verified": false,
+      "celebrity_verified": false,
+      "real_person_story_verified": false,
+      "numerology_verified": false,
+      "lucky_attributes_verified": false,
+      "ready_for_publication": "after source verification of dataset-dependent fields"
+    },
+    "timestamps": {
+      "created_at": "2026-10-02T00:00:00.000Z",
+      "updated_at": "2026-10-02T00:00:00.000Z"
+    }
   }
 }
