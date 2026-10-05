@@ -13,7 +13,7 @@ export function generateStaticParams() {
   const ids = ['pages'];
 
   for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
-    const count = (manifest[rel] || []).length;
+    const count = (manifest[rel] || []).filter((i) => i.meaning && i.origin).length;
     const chunks = Math.ceil(count / chunkSize) || 1;
     if (chunks === 1) {
       ids.push(rel);
@@ -114,15 +114,17 @@ export async function GET(request, { params }) {
       chunkIndex = parseInt(match[2], 10);
     }
 
-    const items = manifest[religion] || [];
+    // Only publish URLs for pages that actually carry unique content. A record
+    // with no meaning and no origin renders a thin page, and submitting those
+    // to Google is what causes "Crawled — currently not indexed" at scale.
+    // The 352-record Italian stub set is excluded here for exactly that reason.
+    const items = (manifest[religion] || []).filter((item) => item.slug && item.meaning && item.origin);
     const chunkSize = 5000;
     const start = (chunkIndex - 1) * chunkSize;
     const chunkItems = items.slice(start, start + chunkSize);
 
     for (const item of chunkItems) {
-      if (item.slug) {
-        urls.push(`${siteUrl}/names/${religion}/${item.slug}`);
-      }
+      urls.push(`${siteUrl}/names/${religion}/${item.slug}`);
     }
   }
 

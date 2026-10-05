@@ -9,9 +9,21 @@ import path from 'node:path';
 // published ~28,508 URLs that 404 — each one burning a function invocation and
 // poisoning crawl budget.
 //
-// This script now derives the manifest EXCLUSIVELY from files that exist on
-// disk, so the manifest can never describe a page that does not exist. It runs
-// on every build via the `prebuild` npm script.
+// This script derives the manifest EXCLUSIVELY from files that exist on disk,
+// so the manifest can never describe a page that does not exist. It runs on
+// every build via the `prebuild` npm script.
+//
+// REDESIGN NOTE — the manifest is also the data source for every HUB page
+// (tradition hubs, gender hubs, letter hubs, NameCard). Two defects made those
+// hubs render empty or broken:
+//   1. `gender` was read only from the flat `data.gender` field. Schema-A
+//      records keep it at `identity.gender`, so ALL 5,180 Islamic and 352
+//      Italian names shipped with an empty gender and the gender hubs
+//      (/islamic-boy-names etc.) filtered down to zero results.
+//   2. `meaning` was empty for the Italian set and for every Schema-A record
+//      whose meaning lives at `core_meaning.short_meaning`.
+// Both are now resolved with ordered fallbacks, and gender is normalised to a
+// canonical boy|girl|unisex token so hub filters are exact.
 // ---------------------------------------------------------------------------
 
 const ROOT = path.resolve(process.cwd());
@@ -38,6 +50,27 @@ function firstString(...values) {
   return '';
 }
 
+function obj(value) {
+  return value && typeof value === 'object' && !Array.isArray(value) ? value : {};
+}
+
+// Canonical gender token. Schema-B wraps values in parentheses, e.g. "(Male)".
+function normalizeGenderKey(value) {
+  const g = String(value || '')
+    .toLowerCase()
+    .replace(/[()]/g, '')
+    .trim();
+  if (!g) return '';
+  if (/unknown|unspecified|n\/a|not\s/.test(g)) return '';
+  const isFemale = /female|girl|feminine/.test(g);
+  const isMale = /(^|[^e])male|\bboy|masculin/.test(g);
+  if (isMale && isFemale) return 'unisex';
+  if (isFemale) return 'girl';
+  if (isMale) return 'boy';
+  if (/unisex|neutral|genderless/.test(g)) return 'unisex';
+  return '';
+}
+
 const manifest = { islamic: [], christian: [], hindu: [], italian: [] };
 let skipped = 0;
 
@@ -59,33 +92,39 @@ for (const rel of VALID_RELIGIONS) {
       continue;
     }
 
-    // Flatten nested data objects into the exact flat strings the UI expects.
-    // `origin` is RICH data files: { primary_origin, origin_type, ... } while
-    // the manifest, NameCard and the origin hubs all require a plain string.
-    // Storing the raw object made React throw "Objects are not valid as a
-    // React child" the first time these pages were ever prerendered. `meaning`
-    // has the same problem via core_meaning.short_meaning.
+    const identity = obj(data.identity);
+    const coreMeaning = obj(data.core_meaning);
     const originValue = data.origin;
-    const coreMeaning = data.core_meaning;
+    const seoBlock = obj(obj(data.seo).seo).title ? obj(data.seo).seo : obj(data.seo);
+    const seoContent = obj(data.seo_content);
+    const semantic = obj(data.semantic_field);
+    const etymology = obj(data.etymology);
+    const popularity = obj(data.popularity);
 
     manifest[rel].push({
-      name: firstString(data.name, data.na, data.title),
+      name: firstString(data.name, identity.display_name),
       slug,
       religion: rel,
       meaning: firstString(
         data.short_meaning,
         data.meaning,
-        coreMeaning && coreMeaning.short_meaning,
-        coreMeaning && coreMeaning.primary_meaning
+        coreMeaning.short_meaning,
+        coreMeaning.primary_meaning,
+        coreMeaning.literal_meaning,
+        seoContent.intro,
+        seoBlock.description_paragraph,
+        semantic.primary_semantic_domain
       ),
       origin: firstString(
         data.origins,
         typeof originValue === 'string' ? originValue : '',
-        originValue && originValue.primary_origin
+        originValue && originValue.primary_origin,
+        etymology.primary_language
       ),
-      gender: firstString(data.gender),
+      gender: normalizeGenderKey(firstString(data.gender, identity.gender)),
       category: firstString(data.category),
-      popularity_score: Number(data.popularity_score) || Number(data.popularity) || 0,
+      popularity_score:
+        Number(data.popularity_score) || Number(popularity.overall_score) || 0,
     });
   }
 }
@@ -100,5 +139,9 @@ console.log(
     (skipped ? ` — ${skipped} unreadable file(s) skipped` : '')
 );
 for (const [rel, items] of Object.entries(manifest)) {
-  console.log(`  ${rel}: ${items.length}`);
+  const withGender = items.filter((i) => i.gender).length;
+  const withMeaning = items.filter((i) => i.meaning).length;
+  console.log(
+    `  ${rel}: ${items.length} names — ${withGender} gendered, ${withMeaning} with meaning`
+  );
 }

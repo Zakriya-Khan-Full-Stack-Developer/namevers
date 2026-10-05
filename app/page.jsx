@@ -7,9 +7,9 @@ import PageJsonLd from '../components/PageJsonLd.jsx';
 export const revalidate = 2592000; // 30 days
 
 export const metadata = {
-  title: 'Baby Names with Meanings, Origins & Lucky Numbers | NameVerse',
+  title: 'Baby Names with Meanings, Origins & Cultural Context | NameVerse',
   description:
-    'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides and cultural context across Islamic, Hindu, Christian and Italian traditions.',
+    'Search 13,801 baby names with meanings, origins, pronunciation guides, script forms and cultural context across Islamic, Christian, Hindu and Italian traditions.',
   alternates: {
     canonical: 'https://nameverse.site',
   },
@@ -62,13 +62,15 @@ const hubs = [
   },
 ];
 
-const genderHubs = [
-  { label: 'Islamic Boy Names', href: '/islamic-boy-names', count: '10,700+', gender: 'boy' },
-  { label: 'Islamic Girl Names', href: '/islamic-girl-names', count: '8,000+', gender: 'girl' },
-  { label: 'Christian Boy Names', href: '/christian-boy-names', count: '6,800+', gender: 'boy' },
-  { label: 'Christian Girl Names', href: '/christian-girl-names', count: '5,500+', gender: 'girl' },
-  { label: 'Hindu Boy Names', href: '/hindu-boy-names', count: '6,400+', gender: 'boy' },
-  { label: 'Hindu Girl Names', href: '/hindu-girl-names', count: '4,200+', gender: 'girl' },
+// Counts are derived from the manifest at render time rather than hardcoded,
+// so the homepage can never advertise a number the dataset does not contain.
+const GENDER_HUB_DEFS = [
+  { label: 'Islamic Boy Names', href: '/islamic-boy-names', religion: 'islamic', gender: 'boy' },
+  { label: 'Islamic Girl Names', href: '/islamic-girl-names', religion: 'islamic', gender: 'girl' },
+  { label: 'Christian Boy Names', href: '/christian-boy-names', religion: 'christian', gender: 'boy' },
+  { label: 'Christian Girl Names', href: '/christian-girl-names', religion: 'christian', gender: 'girl' },
+  { label: 'Hindu Boy Names', href: '/hindu-boy-names', religion: 'hindu', gender: 'boy' },
+  { label: 'Hindu Girl Names', href: '/hindu-girl-names', religion: 'hindu', gender: 'girl' },
 ];
 
 const meaningThemes = [
@@ -154,6 +156,13 @@ export default function HomePage() {
   const counts = Object.fromEntries(religions.map((r) => [r, (manifest[r] || []).length]));
   const totalNames = religions.reduce((sum, r) => sum + counts[r], 0);
 
+  const genderHubs = GENDER_HUB_DEFS.map((d) => ({
+    ...d,
+    count: (manifest[d.religion] || [])
+      .filter((i) => i.gender === d.gender)
+      .length.toLocaleString(),
+  }));
+
   const popularSlugs = getPopularSlugs(12);
   const bySlug = {};
   for (const r of religions) {
@@ -193,8 +202,8 @@ export default function HomePage() {
           </h1>
 
           <p className="mx-auto mt-5 max-w-2xl text-base text-nv-text-secondary sm:text-lg sm:leading-relaxed">
-            Discover {totalNames.toLocaleString()}+ baby names across Islamic, Christian, Hindu, and Italian traditions.
-            Verified etymologies, original alphabetic scripts, pronunciations, and numerology.
+            Search {totalNames.toLocaleString()} baby names across Islamic, Christian, Hindu and Italian
+            traditions — each with its meaning, origin, script forms, pronunciation and cultural context.
           </p>
 
           {/* Interactive Instant Autosearch Component */}
@@ -216,20 +225,24 @@ export default function HomePage() {
           {/* Statistics Strip */}
           <div className="mx-auto mt-12 grid max-w-4xl grid-cols-2 gap-4 rounded-2xl border border-nv-border/80 bg-nv-surface/70 p-5 shadow-sm backdrop-blur-md sm:grid-cols-4">
             <div className="text-center">
-              <span className="font-display text-2xl font-bold text-nv-text sm:text-3xl">42,310+</span>
-              <span className="block text-xs font-semibold text-nv-text-muted mt-0.5">Verified Baby Names</span>
+              <span className="font-display text-2xl font-bold text-nv-text sm:text-3xl">
+                {totalNames.toLocaleString()}
+              </span>
+              <span className="mt-0.5 block text-xs font-semibold text-nv-text-muted">Names Documented</span>
             </div>
             <div className="text-center">
-              <span className="font-display text-2xl font-bold text-emerald-600 dark:text-emerald-400 sm:text-3xl">4 Sacred</span>
-              <span className="block text-xs font-semibold text-nv-text-muted mt-0.5">Cultural Traditions</span>
+              <span className="font-display text-2xl font-bold text-islamic sm:text-3xl">4</span>
+              <span className="mt-0.5 block text-xs font-semibold text-nv-text-muted">Naming Traditions</span>
             </div>
             <div className="text-center">
-              <span className="font-display text-2xl font-bold text-indigo-600 dark:text-indigo-400 sm:text-3xl">100%</span>
-              <span className="block text-xs font-semibold text-nv-text-muted mt-0.5">Linguistically Verified</span>
+              <span className="font-display text-2xl font-bold text-christian sm:text-3xl">
+                {Object.values(counts).reduce((s, c) => s + c, 0).toLocaleString()}
+              </span>
+              <span className="mt-0.5 block text-xs font-semibold text-nv-text-muted">Indexable Pages</span>
             </div>
             <div className="text-center">
-              <span className="font-display text-2xl font-bold text-amber-600 dark:text-amber-400 sm:text-3xl">2026</span>
-              <span className="block text-xs font-semibold text-nv-text-muted mt-0.5">Popularity Indices</span>
+              <span className="font-display text-2xl font-bold text-italian sm:text-3xl">2026</span>
+              <span className="mt-0.5 block text-xs font-semibold text-nv-text-muted">Trend Data</span>
             </div>
           </div>
         </div>

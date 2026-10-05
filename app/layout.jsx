@@ -13,10 +13,10 @@ export const metadata = {
   metadataBase: new URL(siteUrl),
   title: {
     template: '%s | NameVerse',
-    default: 'Baby Names, Meanings, Origins & Lucky Numbers | NameVerse',
+    default: 'Baby Names with Meanings, Origins & Lucky Numbers | NameVerse',
   },
   description:
-    'Discover 42,000+ baby names with verified meanings, origins, lucky numbers, pronunciation guides, and cultural context across Islamic, Hindu, Christian and Italian traditions.',
+    'Search 13,801 baby names with verified meanings, origins, pronunciation guides, script forms and cultural context across Islamic, Christian, Hindu and Italian traditions.',
   alternates: {
     canonical: siteUrl,
   },
@@ -28,21 +28,21 @@ export const metadata = {
     'Christian baby names',
     'Hindu baby names',
     'Italian baby names',
-    'lucky numbers',
     'baby name finder',
+    'names by meaning',
   ],
   openGraph: {
-    title: 'Baby Names, Meanings, Origins & Lucky Numbers | NameVerse',
+    title: 'Baby Names with Meanings, Origins & Lucky Numbers | NameVerse',
     description:
-      'Discover 42,000+ baby names with verified meanings, origins, lucky numbers and cultural context across traditions.',
+      'Search 13,801 baby names with verified meanings, origins, pronunciation and cultural context across four traditions.',
     url: siteUrl,
-    siteName: siteName,
+    siteName,
     images: [
       {
         url: siteLogo,
         width: 512,
         height: 512,
-        alt: 'NameVerse Emblem',
+        alt: 'NameVerse',
       },
     ],
     locale: 'en_US',
@@ -50,9 +50,9 @@ export const metadata = {
   },
   twitter: {
     card: 'summary',
-    title: 'Baby Names, Meanings, Origins & Lucky Numbers | NameVerse',
+    title: 'Baby Names with Meanings, Origins & Lucky Numbers | NameVerse',
     description:
-      'Discover 42,000+ baby names with verified meanings, origins, lucky numbers and cultural context across traditions.',
+      'Search 13,801 baby names with verified meanings, origins, pronunciation and cultural context.',
     images: [siteLogo],
   },
   robots: {
@@ -92,9 +92,7 @@ const orgJsonLd = {
       '@id': `${siteUrl}/#website`,
       name: siteName,
       url: siteUrl,
-      publisher: {
-        '@id': `${siteUrl}/#organization`,
-      },
+      publisher: { '@id': `${siteUrl}/#organization` },
       potentialAction: {
         '@type': 'SearchAction',
         target: `${siteUrl}/search?q={search_term_string}`,
@@ -104,15 +102,15 @@ const orgJsonLd = {
   ],
 };
 
-const madstearScriptUrl = 'https://revolthem.com/c90e1cf06dc7451f1fd3d33c703af951/invoke.js';
-const madstearContainerId = 'container-c90e1cf06dc7451f1fd3d33c703af951';
+const adScriptUrl = 'https://revolthem.com/c90e1cf06dc7451f1fd3d33c703af951/invoke.js';
+const adContainerId = 'container-c90e1cf06dc7451f1fd3d33c703af951';
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
-        <meta name="theme-color" content="#1E3A5F" />
+        <meta name="theme-color" content="#1E2A4A" />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(){try{const t=localStorage.getItem('theme');if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}}catch(e){}})()`,
@@ -125,22 +123,26 @@ export default function RootLayout({ children }) {
       </head>
       <body className="flex min-h-screen flex-col bg-nv-page text-nv-text antialiased">
         <Navbar />
-        <main className="flex-1">
-          <div className="mx-auto w-full max-w-[1280px] px-3 pt-3 sm:px-4 lg:px-6">
-            <div className="flex justify-center overflow-hidden rounded-lg border border-nv-border/60 bg-nv-surface/40 shadow-sm">
-              <div id={madstearContainerId} className="w-full max-w-[970px] min-h-[90px] overflow-hidden bg-gradient-to-r from-nv-subtle/60 via-nv-surface to-nv-subtle/60" aria-label="Sponsored advertisement" />
+        {/* pb-mobile-cta reserves space for the sticky mobile tab bar so it
+            never overlaps the footer or the last content block. */}
+        <main className="flex-1 pb-mobile-cta">
+          {children}
+          {/* Single in-flow ad slot, placed after the page content rather than
+              above it. The previous layout rendered a 970x90 ad above every
+              page's H1, which pushed the primary keyword below the mobile fold
+              and hurt LCP. */}
+          <div className="container-page pb-10">
+            <div className="flex justify-center overflow-hidden rounded-lg border border-nv-border/60 bg-nv-surface/40">
+              <div
+                id={adContainerId}
+                className="min-h-[90px] w-full max-w-[970px] overflow-hidden bg-nv-subtle/40"
+                aria-label="Sponsored advertisement"
+              />
             </div>
           </div>
-          {children}
         </main>
         <Footer />
-        {/* Fix 9 — load the third-party ad script after hydration so it stays
-            off the critical path (LCP / INP). */}
-        <Script
-          src={madstearScriptUrl}
-          strategy="lazyOnload"
-          data-cfasync="false"
-        />
+        <Script src={adScriptUrl} strategy="lazyOnload" data-cfasync="false" />
       </body>
     </html>
   );
