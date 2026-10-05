@@ -4,6 +4,27 @@ import { ALL_RELIGIONS, ALL_LETTERS, lettersFor } from '../../../lib/data/letter
 
 export const revalidate = 2592000; // 30 days
 
+// Prerender every sitemap chunk at build time so this route is static (○),
+// not server-rendered on demand (ƒ). Without this, each crawler hit on a
+// sitemap URL burns a Function Invocation + Active CPU.
+export function generateStaticParams() {
+  const manifest = getManifest();
+  const chunkSize = 5000;
+  const ids = ['pages'];
+
+  for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+    const count = (manifest[rel] || []).length;
+    const chunks = Math.ceil(count / chunkSize) || 1;
+    if (chunks === 1) {
+      ids.push(rel);
+    } else {
+      for (let i = 1; i <= chunks; i++) ids.push(`${rel}-${i}`);
+    }
+  }
+
+  return ids.map((id) => ({ id: `${id}.xml` }));
+}
+
 function escapeXml(str) {
   return String(str || '')
     .replace(/&/g, '&amp;')
