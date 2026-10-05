@@ -56,6 +56,21 @@ export async function GET(request, { params }) {
     urls.push(`${siteUrl}/names-by-meaning`);
     urls.push(`${siteUrl}/names-by-origin`);
 
+    // US (Tier 1) search-demand pages. These are the highest-value commercial
+    // and informational targets, so they are listed explicitly rather than
+    // being left to discovery.
+    urls.push(`${siteUrl}/popular-names-2026`);
+    urls.push(`${siteUrl}/top-baby-names-2026`);
+    urls.push(`${siteUrl}/unique-baby-names`);
+    urls.push(`${siteUrl}/gender-neutral-names`);
+    urls.push(`${siteUrl}/baby-names-by-state`);
+    urls.push(`${siteUrl}/vintage-baby-names`);
+    urls.push(`${siteUrl}/biblical-baby-names`);
+    urls.push(`${siteUrl}/muslim-baby-names-america`);
+    urls.push(`${siteUrl}/nature-baby-names`);
+    urls.push(`${siteUrl}/short-baby-names`);
+    urls.push(`${siteUrl}/editorial-policy`);
+
     // Tradition hubs
     for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
       urls.push(`${siteUrl}/names/${rel}`);

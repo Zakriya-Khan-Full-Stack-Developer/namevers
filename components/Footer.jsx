@@ -15,11 +15,20 @@ const TRADITIONS = [
 
 const DISCOVERY = [
   { name: 'Browse All Names', href: '/names' },
+  { name: 'Most Popular 2026', href: '/popular-names-2026' },
+  { name: 'Top Baby Names 2026', href: '/top-baby-names-2026' },
+  { name: 'Names by State', href: '/baby-names-by-state' },
   { name: 'Names by Origin', href: '/origins' },
   { name: 'Names by Meaning', href: '/names-by-meaning' },
   { name: 'Curated Categories', href: '/categories' },
   { name: 'Trending Names 2026', href: '/trending-names' },
-  { name: 'Unique & Rare Names', href: '/unique-names' },
+  { name: 'Unique & Rare Names', href: '/unique-baby-names' },
+  { name: 'Gender-Neutral Names', href: '/gender-neutral-names' },
+  { name: 'Vintage Baby Names', href: '/vintage-baby-names' },
+  { name: 'Biblical Baby Names', href: '/biblical-baby-names' },
+  { name: 'Muslim Names in America', href: '/muslim-baby-names-america' },
+  { name: 'Nature Baby Names', href: '/nature-baby-names' },
+  { name: 'Short Baby Names', href: '/short-baby-names' },
   { name: 'A–Z Letter Browser', href: '/names/islamic/letter/a' },
 ];
 
@@ -33,6 +42,7 @@ const TOOLS = [
 
 const COMPANY = [
   { name: 'About NameVerse', href: '/about' },
+  { name: 'Editorial Policy', href: '/editorial-policy' },
   { name: 'Contact Editorial Team', href: '/contact' },
   { name: 'Privacy Policy', href: '/privacy' },
   { name: 'Terms of Service', href: '/terms' },

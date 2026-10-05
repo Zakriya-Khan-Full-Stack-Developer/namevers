@@ -35,6 +35,15 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
+      // The old unique-names route was superseded by /unique-baby-names, which
+      // matches the target keyword exactly. A permanent redirect consolidates
+      // any existing signals onto the new URL instead of leaving two pages
+      // competing for the same query.
+      {
+        source: '/unique-names',
+        destination: '/unique-baby-names',
+        permanent: true,
+      },
     ];
   },
   async headers() {

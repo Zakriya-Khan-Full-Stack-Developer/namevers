@@ -47,11 +47,17 @@ const TRADITIONS = [
 ];
 
 const EXPLORE = [
+  { name: 'Most Popular 2026', href: '/popular-names-2026', desc: 'US national ranking, sourced' },
+  { name: 'Top Baby Names 2026', href: '/top-baby-names-2026', desc: 'Boys and girls, ranked' },
+  { name: 'Names by State', href: '/baby-names-by-state', desc: 'All 50 states and DC' },
+  { name: 'Unique & Rare Names', href: '/unique-baby-names', desc: 'Outside the US top 100' },
+  { name: 'Gender-Neutral Names', href: '/gender-neutral-names', desc: 'Used across genders' },
+  { name: 'Vintage Names', href: '/vintage-baby-names', desc: 'Classics making a comeback' },
+  { name: 'Biblical Names', href: '/biblical-baby-names', desc: 'Scripture-rooted picks' },
+  { name: 'Nature Names', href: '/nature-baby-names', desc: 'Botanical and celestial' },
+  { name: 'Short Names', href: '/short-baby-names', desc: 'One and two syllables' },
   { name: 'Names by Meaning', href: '/names-by-meaning', desc: 'Light, strength, peace & grace' },
   { name: 'Names by Origin', href: '/origins', desc: 'Arabic, Hebrew, Sanskrit, Latin' },
-  { name: 'Curated Categories', href: '/categories', desc: 'Biblical, saint & virtue themes' },
-  { name: 'Trending 2026', href: '/trending-names', desc: 'Fastest-rising names this year' },
-  { name: 'Unique & Rare Names', href: '/unique-names', desc: 'Uncommon names with real meaning' },
   { name: 'Compare Names', href: '/popularity', desc: 'Weigh your finalists side by side' },
 ];
 
