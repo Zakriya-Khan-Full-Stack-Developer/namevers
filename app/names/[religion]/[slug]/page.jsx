@@ -15,6 +15,20 @@ import NativeAdBanner from '@/components/NativeAdBanner.jsx';
 import SocialShare from '@/components/SocialShare.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = true;
+
+// Fix 2 — prerender the highest-popularity name pages at build time.
+// The long tail is still generated on demand (dynamicParams = true) and then
+// cached for 30 days, so a single crawl of the sitemap no longer triggers
+// 13,802 on-demand renders.
+//
+// The cap is env-tunable: raise PRERENDER_NAME_PAGES on a build machine with
+// more memory (Vercel's builder has far more than a 2 GB container).
+const PRERENDER_NAME_PAGES = Number(process.env.PRERENDER_NAME_PAGES) || 4000;
+
+export function generateStaticParams() {
+  return getPopularSlugs(PRERENDER_NAME_PAGES);
+}
 
 export async function generateMetadata({ params }) {
   const finalReligion = normalizeReligion(params.religion);
@@ -49,7 +63,7 @@ export async function generateMetadata({ params }) {
       type: 'article',
       images: [
         {
-          url: 'https://nameverse.site/nameverse_logo_emblem.png',
+          url: 'https://nameverse.site/nameverse_logo_emblem.webp',
           width: 512,
           height: 512,
           alt: `${nameData.name} Meaning`,

@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/generate-manifest.mjs && node scripts/generate-search-index.mjs",
     "dev": "next dev",
-    "build": "node --max-old-space-size=4096 ./node_modules/next/dist/bin/next build",
+    "build": "node --max-old-space-size=1536 ./node_modules/next/dist/bin/next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -16,7 +17,6 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^5.0.0",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14"

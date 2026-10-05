@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getManifest, normalizeReligion } from '../../../lib/data/names-data.js';
+import { getManifest, normalizeReligion, VALID_RELIGIONS } from '../../../lib/data/names-data.js';
 import { lettersFor } from '../../../lib/data/letter-browser.js';
 import {
   religionLabel,
@@ -16,6 +16,13 @@ import NameCard from '../../../components/NameCard.jsx';
 import NativeAdBanner from '../../../components/NativeAdBanner.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = true;
+
+// Fix 2 — prerender the four tradition hubs at build time so they are served
+// from the CDN edge with zero function invocations.
+export function generateStaticParams() {
+  return VALID_RELIGIONS.map((religion) => ({ religion }));
+}
 
 export async function generateMetadata({ params }) {
   const finalReligion = normalizeReligion(params.religion);

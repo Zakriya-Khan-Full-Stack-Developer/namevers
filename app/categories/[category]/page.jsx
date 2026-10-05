@@ -5,6 +5,12 @@ import { CATEGORY_SLUGS, CATEGORY_LABELS, categorySlugFor, religionLabel } from 
 import NameCard from '../../../components/NameCard.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = false;
+
+// Fix 2 — prerender all curated category hubs at build time.
+export function generateStaticParams() {
+  return CATEGORY_SLUGS.map((category) => ({ category }));
+}
 
 export async function generateMetadata({ params }) {
   const category = params.category;

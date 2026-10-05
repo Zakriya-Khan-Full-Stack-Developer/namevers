@@ -1,12 +1,13 @@
 import '@fontsource-variable/inter';
 import '@fontsource-variable/fraunces';
 import './globals.css';
+import Script from 'next/script';
 import Navbar from '../components/Navbar.jsx';
 import Footer from '../components/Footer.jsx';
 
 const siteUrl = 'https://nameverse.site';
 const siteName = 'NameVerse';
-const siteLogo = `${siteUrl}/nameverse_logo_emblem.png`;
+const siteLogo = `${siteUrl}/nameverse_logo_emblem.webp`;
 
 export const metadata = {
   metadataBase: new URL(siteUrl),
@@ -121,7 +122,6 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
         />
-        <script async="async" data-cfasync="false" src={madstearScriptUrl} />
       </head>
       <body className="flex min-h-screen flex-col bg-nv-page text-nv-text antialiased">
         <Navbar />
@@ -134,6 +134,13 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
+        {/* Fix 9 — load the third-party ad script after hydration so it stays
+            off the critical path (LCP / INP). */}
+        <Script
+          src={madstearScriptUrl}
+          strategy="lazyOnload"
+          data-cfasync="false"
+        />
       </body>
     </html>
   );

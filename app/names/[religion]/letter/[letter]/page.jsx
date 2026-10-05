@@ -8,6 +8,22 @@ import NameCard from '../../../../../components/NameCard.jsx';
 import NativeAdBanner from '../../../../../components/NativeAdBanner.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = true;
+
+// Fix 2 — prerender every letter hub that actually has names.
+export function generateStaticParams() {
+  const manifest = getManifest();
+  const params = [];
+  for (const religion of ALL_RELIGIONS) {
+    const available = lettersFor(religion, manifest);
+    for (const letter of ALL_LETTERS) {
+      if (available.has(letter)) {
+        params.push({ religion, letter: letter === '#' ? '%23' : letter });
+      }
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({ params }) {
   const finalReligion = normalizeReligion(params.religion);
