@@ -1,3 +1,5 @@
+import AdSlot from '../../components/AdSlot.jsx';
+
 export const metadata = {
   title: 'Privacy Policy | NameVerse',
   description:
@@ -52,6 +54,8 @@ export default function PrivacyPage() {
           </h1>
           <p className="mt-3 text-sm text-nv-text-secondary">Last updated: August 2026</p>
         </header>
+
+        <AdSlot placement="privacy-top" />
 
         <div className="space-y-4">
           {sections.map((s) => (

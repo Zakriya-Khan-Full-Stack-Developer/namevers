@@ -1,8 +1,26 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getBlogPosts } from '../../../lib/data/names-data.js';
+import AdSlot from '../../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = false;
+
+// Fix 2 — prerender every blog post plus the three static stubs.
+const BLOG_STUB_SLUGS = [
+  'top-islamic-baby-names-2026',
+  'hindu-baby-names-meanings',
+  'christian-baby-names-bible',
+];
+
+export function generateStaticParams() {
+  const posts = getBlogPosts();
+  const slugs = new Set(BLOG_STUB_SLUGS);
+  for (const post of posts) {
+    if (post && post.id) slugs.add(post.id);
+  }
+  return [...slugs].map((slug) => ({ slug }));
+}
 
 export async function generateMetadata({ params }) {
   const blogPosts = getBlogPosts();
@@ -186,6 +204,8 @@ export default function BlogPostPage({ params }) {
           </h1>
           {subtitle && <p className="mt-3 text-lg text-nv-text-secondary font-medium">{subtitle}</p>}
         </header>
+
+        <AdSlot placement="blog-post-top" />
 
         {/* Introduction */}
         {content?.introduction && (

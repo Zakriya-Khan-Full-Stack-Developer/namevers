@@ -4,6 +4,27 @@ import { ALL_RELIGIONS, ALL_LETTERS, lettersFor } from '../../../lib/data/letter
 
 export const revalidate = 2592000; // 30 days
 
+// Prerender every sitemap chunk at build time so this route is static (○),
+// not server-rendered on demand (ƒ). Without this, each crawler hit on a
+// sitemap URL burns a Function Invocation + Active CPU.
+export function generateStaticParams() {
+  const manifest = getManifest();
+  const chunkSize = 5000;
+  const ids = ['pages'];
+
+  for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
+    const count = (manifest[rel] || []).filter((i) => i.indexable).length;
+    const chunks = Math.ceil(count / chunkSize) || 1;
+    if (chunks === 1) {
+      ids.push(rel);
+    } else {
+      for (let i = 1; i <= chunks; i++) ids.push(`${rel}-${i}`);
+    }
+  }
+
+  return ids.map((id) => ({ id: `${id}.xml` }));
+}
+
 function escapeXml(str) {
   return String(str || '')
     .replace(/&/g, '&amp;')
@@ -34,6 +55,21 @@ export async function GET(request, { params }) {
     urls.push(`${siteUrl}/name-meanings`);
     urls.push(`${siteUrl}/names-by-meaning`);
     urls.push(`${siteUrl}/names-by-origin`);
+
+    // US (Tier 1) search-demand pages. These are the highest-value commercial
+    // and informational targets, so they are listed explicitly rather than
+    // being left to discovery.
+    urls.push(`${siteUrl}/popular-names-2026`);
+    urls.push(`${siteUrl}/top-baby-names-2026`);
+    urls.push(`${siteUrl}/unique-baby-names`);
+    urls.push(`${siteUrl}/gender-neutral-names`);
+    urls.push(`${siteUrl}/baby-names-by-state`);
+    urls.push(`${siteUrl}/vintage-baby-names`);
+    urls.push(`${siteUrl}/biblical-baby-names`);
+    urls.push(`${siteUrl}/muslim-baby-names-america`);
+    urls.push(`${siteUrl}/nature-baby-names`);
+    urls.push(`${siteUrl}/short-baby-names`);
+    urls.push(`${siteUrl}/editorial-policy`);
 
     // Tradition hubs
     for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
@@ -93,15 +129,20 @@ export async function GET(request, { params }) {
       chunkIndex = parseInt(match[2], 10);
     }
 
-    const items = manifest[religion] || [];
+    // Only publish URLs for pages that actually carry unique content. A record
+    // whose meaning or origin is a negative assertion ("no confident lexical
+    // sense is asserted") renders a near-duplicate of every other such record,
+    // and submitting those to Google is what causes "Crawled — currently not
+    // indexed" at scale. The `indexable` flag is computed once in
+    // generate-manifest.mjs so this route, the detail page and the gates can
+    // never disagree.
+    const items = (manifest[religion] || []).filter((item) => item.slug && item.indexable);
     const chunkSize = 5000;
     const start = (chunkIndex - 1) * chunkSize;
     const chunkItems = items.slice(start, start + chunkSize);
 
     for (const item of chunkItems) {
-      if (item.slug) {
-        urls.push(`${siteUrl}/names/${religion}/${item.slug}`);
-      }
+      urls.push(`${siteUrl}/names/${religion}/${item.slug}`);
     }
   }
 

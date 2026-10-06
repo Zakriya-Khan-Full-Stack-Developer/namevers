@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getManifest } from '../../lib/data/names-data.js';
 import { ORIGIN_SLUGS, ORIGIN_LABELS, originSlugFor } from '../../lib/data/name-utils.js';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -52,6 +53,8 @@ export default function NamesByOriginPage() {
             Choose an origin below to explore its full collection.
           </p>
         </header>
+
+        <AdSlot placement="names-by-origin-top" />
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {origins.map((o) => (

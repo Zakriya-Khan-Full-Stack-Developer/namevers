@@ -5,9 +5,28 @@ import { ALL_RELIGIONS, ALL_LETTERS, lettersFor } from '../../../../../lib/data/
 import { isBoy, isGirl, religionLabel } from '../../../../../lib/data/name-utils.js';
 import AlphabetNav from '../../../../../components/AlphabetNav.jsx';
 import NameCard from '../../../../../components/NameCard.jsx';
-import NativeAdBanner from '../../../../../components/NativeAdBanner.jsx';
+import AdSlot from '../../../../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
+// FIX — Fluid Active CPU: every letter hub that has names is prerendered by
+// generateStaticParams below, so no unknown letter can fall through to an
+// on-demand render.
+export const dynamicParams = false;
+
+// Fix 2 — prerender every letter hub that actually has names.
+export function generateStaticParams() {
+  const manifest = getManifest();
+  const params = [];
+  for (const religion of ALL_RELIGIONS) {
+    const available = lettersFor(religion, manifest);
+    for (const letter of ALL_LETTERS) {
+      if (available.has(letter)) {
+        params.push({ religion, letter: letter === '#' ? '%23' : letter });
+      }
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({ params }) {
   const finalReligion = normalizeReligion(params.religion);
@@ -98,9 +117,6 @@ export default function LetterBrowsePage({ params }) {
       />
 
       <div className="mx-auto max-w-6xl">
-        <div className="mb-6">
-          <NativeAdBanner placement="letter-hub-top" title="Featured Partner" />
-        </div>
         {/* Breadcrumb */}
         <nav className="mb-6 flex items-center gap-2 text-sm text-nv-text-secondary" aria-label="Breadcrumb">
           <Link href="/" className="font-medium hover:text-nv-accent transition">Home</Link>
@@ -123,6 +139,8 @@ export default function LetterBrowsePage({ params }) {
             with meanings, origins and lucky numbers.
           </p>
         </header>
+
+        <AdSlot placement="letter-hub-top" />
 
         {/* Alphabet Navigator */}
         <div className="mb-8">

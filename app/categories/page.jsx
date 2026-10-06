@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getManifest } from '../../lib/data/names-data.js';
 import { CATEGORY_SLUGS, CATEGORY_LABELS, categorySlugFor } from '../../lib/data/name-utils.js';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -53,6 +54,8 @@ export default function CategoriesIndexPage() {
             that fit your faith, heritage and values.
           </p>
         </header>
+
+        <AdSlot placement="categories-index-top" />
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {categories.map((c) => (

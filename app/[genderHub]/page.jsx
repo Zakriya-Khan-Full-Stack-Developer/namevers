@@ -3,8 +3,10 @@ import { notFound } from 'next/navigation';
 import { getManifest } from '@/lib/data/names-data.js';
 import { normalizeGender, genderLabel, religionLabel } from '@/lib/data/name-utils.js';
 import NameCard from '@/components/NameCard.jsx';
+import AdSlot from '@/components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
+export const dynamicParams = false;
 
 const VALID_HUBS = {
   'islamic-boy-names': { religion: 'islamic', gender: 'boy' },
@@ -16,6 +18,11 @@ const VALID_HUBS = {
   'italian-boy-names': { religion: 'italian', gender: 'boy' },
   'italian-girl-names': { religion: 'italian', gender: 'girl' },
 };
+
+// Fix 2 — prerender all eight gender hubs at build time.
+export function generateStaticParams() {
+  return Object.keys(VALID_HUBS).map((genderHub) => ({ genderHub }));
+}
 
 export async function generateMetadata({ params }) {
   const config = VALID_HUBS[params.genderHub];
@@ -117,6 +124,8 @@ export default function GenderHubPage({ params }) {
             </Link>
           </div>
         </header>
+
+        <AdSlot placement="gender-hub-top" />
 
         <div className="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {topNames.map((item) => (

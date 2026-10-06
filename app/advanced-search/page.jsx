@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
 import SearchClient from '../../components/SearchClient.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'Advanced Baby Name Search — Filter by Religion, Gender, Origin | NameVerse',
@@ -24,6 +25,8 @@ export default function AdvancedSearchPage() {
             Combine a keyword with multiple traditions, genders, origins and categories. Results update live and rank by popularity.
           </p>
         </header>
+
+        <AdSlot placement="advanced-search-top" />
 
         <Suspense fallback={<div className="card p-12 text-center text-nv-text-secondary">Loading search…</div>}>
           <SearchClient isAdvanced={true} />

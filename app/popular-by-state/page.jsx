@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'Popular Baby Names by State | NameVerse',
@@ -17,6 +18,8 @@ export default function PopularByStatePage() {
       <div className="mx-auto max-w-3xl">
         <h1 className="font-display text-3xl font-bold text-nv-text sm:text-4xl">Popular Baby Names by State</h1>
         <p className="mt-4 text-nv-text-secondary">Explore baby name popularity trends across states.</p>
+
+        <AdSlot placement="popular-by-state-top" />
         <div className="mt-6 rounded-2xl border border-nv-border bg-nv-surface p-6">
           <p className="text-sm text-nv-text-secondary">
             This page is currently being compiled with the latest 2026 census data. In the meantime, browse our{' '}

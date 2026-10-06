@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getManifest } from '../../lib/data/names-data.js';
 import NameCard from '../../components/NameCard.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -44,6 +45,8 @@ export default function UniqueNamesPage() {
             </Link>
           </div>
         </header>
+
+        <AdSlot placement="unique-names-top" />
 
         <div className="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {unique.map((item) => (

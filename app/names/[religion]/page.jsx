@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getManifest, normalizeReligion } from '../../../lib/data/names-data.js';
+import { getManifest, normalizeReligion, VALID_RELIGIONS } from '../../../lib/data/names-data.js';
 import { lettersFor } from '../../../lib/data/letter-browser.js';
 import {
   religionLabel,
@@ -13,9 +13,19 @@ import {
 } from '../../../lib/data/name-utils.js';
 import AlphabetNav from '../../../components/AlphabetNav.jsx';
 import NameCard from '../../../components/NameCard.jsx';
-import NativeAdBanner from '../../../components/NativeAdBanner.jsx';
+import AdSlot from '../../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
+// FIX — Fluid Active CPU: every tradition hub is prerendered by
+// generateStaticParams below, so no unknown religion can fall through to an
+// on-demand render.
+export const dynamicParams = false;
+
+// Fix 2 — prerender the four tradition hubs at build time so they are served
+// from the CDN edge with zero function invocations.
+export function generateStaticParams() {
+  return VALID_RELIGIONS.map((religion) => ({ religion }));
+}
 
 export async function generateMetadata({ params }) {
   const finalReligion = normalizeReligion(params.religion);
@@ -94,9 +104,6 @@ export default function ReligionHubPage({ params }) {
       />
 
       <div className="mx-auto max-w-6xl">
-        <div className="mb-6">
-          <NativeAdBanner placement="religion-hub-top" title="Featured Partner" />
-        </div>
         {/* Breadcrumb */}
         <nav className="mb-6 flex items-center gap-2 text-sm text-nv-text-secondary" aria-label="Breadcrumb">
           <Link href="/" className="font-medium hover:text-nv-accent transition">Home</Link>
@@ -129,6 +136,8 @@ export default function ReligionHubPage({ params }) {
             </Link>
           </div>
         </header>
+
+        <AdSlot placement="religion-hub-top" />
 
         {/* Alphabet Navigator */}
         <div className="mb-12">
