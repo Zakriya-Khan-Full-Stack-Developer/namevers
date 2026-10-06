@@ -3,6 +3,7 @@ import { getManifest, getPopularSlugs } from '../lib/data/names-data.js';
 import NameCard from '../components/NameCard.jsx';
 import HomepageSearch from '../components/HomepageSearch.jsx';
 import PageJsonLd from '../components/PageJsonLd.jsx';
+import AdSlot from '../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -247,6 +248,12 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Ad slot — directly below the hero, so it is above the fold on desktop
+          while the H1 and search box keep the first mobile viewport. */}
+      <div className="container-page">
+        <AdSlot placement="homepage-top" />
+      </div>
 
       <div className="container-page space-y-20 py-16 sm:py-20">
         {/* Tradition Showcase Hubs */}

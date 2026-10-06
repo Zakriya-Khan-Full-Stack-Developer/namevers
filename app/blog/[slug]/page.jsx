@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getBlogPosts } from '../../../lib/data/names-data.js';
+import AdSlot from '../../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 export const dynamicParams = false;
@@ -203,6 +204,8 @@ export default function BlogPostPage({ params }) {
           </h1>
           {subtitle && <p className="mt-3 text-lg text-nv-text-secondary font-medium">{subtitle}</p>}
         </header>
+
+        <AdSlot placement="blog-post-top" />
 
         {/* Introduction */}
         {content?.introduction && (

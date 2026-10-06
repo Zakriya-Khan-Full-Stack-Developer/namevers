@@ -1,9 +1,9 @@
 import '@fontsource-variable/inter';
 import '@fontsource-variable/fraunces';
 import './globals.css';
-import Script from 'next/script';
 import Navbar from '../components/Navbar.jsx';
 import Footer from '../components/Footer.jsx';
+import AdScripts from '../components/AdScripts.jsx';
 
 const siteUrl = 'https://nameverse.site';
 const siteName = 'NameVerse';
@@ -102,9 +102,6 @@ const orgJsonLd = {
   ],
 };
 
-const adScriptUrl = 'https://revolthem.com/c90e1cf06dc7451f1fd3d33c703af951/invoke.js';
-const adContainerId = 'container-c90e1cf06dc7451f1fd3d33c703af951';
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
@@ -125,24 +122,12 @@ export default function RootLayout({ children }) {
         <Navbar />
         {/* pb-mobile-cta reserves space for the sticky mobile tab bar so it
             never overlaps the footer or the last content block. */}
-        <main className="flex-1 pb-mobile-cta">
-          {children}
-          {/* Single in-flow ad slot, placed after the page content rather than
-              above it. The previous layout rendered a 970x90 ad above every
-              page's H1, which pushed the primary keyword below the mobile fold
-              and hurt LCP. */}
-          <div className="container-page pb-10">
-            <div className="flex justify-center overflow-hidden rounded-lg border border-nv-border/60 bg-nv-surface/40">
-              <div
-                id={adContainerId}
-                className="min-h-[90px] w-full max-w-[970px] overflow-hidden bg-nv-subtle/40"
-                aria-label="Sponsored advertisement"
-              />
-            </div>
-          </div>
-        </main>
+        <main className="flex-1 pb-mobile-cta">{children}</main>
         <Footer />
-        <Script src={adScriptUrl} strategy="lazyOnload" data-cfasync="false" />
+        {/* Every Adsterra script, rendered once for the whole site. Plain
+            <script async> tags so they are present in the prerendered HTML and
+            never block parsing or paint. Client-side only — zero server CPU. */}
+        <AdScripts />
       </body>
     </html>
   );

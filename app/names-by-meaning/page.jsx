@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getManifest } from '../../lib/data/names-data.js';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -63,6 +64,8 @@ export default function NamesByMeaningPage() {
             NameVerse find every matching name across traditions.
           </p>
         </header>
+
+        <AdSlot placement="names-by-meaning-top" />
 
         {/* Featured Themes */}
         <section className="mb-12" aria-labelledby="featured-heading">

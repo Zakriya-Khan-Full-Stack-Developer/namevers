@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { isNegativeAssertion } from '../lib/data/indexability.js';
 
 // ---------------------------------------------------------------------------
 // Fix 3 — reconcile the manifest with the filesystem.
@@ -101,32 +102,100 @@ for (const rel of VALID_RELIGIONS) {
     const etymology = obj(data.etymology);
     const popularity = obj(data.popularity);
 
+    const meaning = firstString(
+      data.short_meaning,
+      data.meaning,
+      coreMeaning.short_meaning,
+      coreMeaning.primary_meaning,
+      coreMeaning.literal_meaning,
+      seoContent.intro,
+      seoBlock.description_paragraph,
+      semantic.primary_semantic_domain
+    );
+    const origin = firstString(
+      data.origins,
+      typeof originValue === 'string' ? originValue : '',
+      originValue && originValue.primary_origin,
+      etymology.primary_language
+    );
+
+    // Indexability is decided HERE, once, and carried on the manifest entry so
+    // the sitemap, the detail page and the gates all read the same verdict.
+    // A record whose meaning or origin is a negative assertion ("no confident
+    // lexical sense is asserted") is a real, honest entry but not an indexable
+    // page — it is served noindex and kept out of the sitemap.
+    const indexable =
+      Boolean(meaning) &&
+      Boolean(origin) &&
+      !isNegativeAssertion(meaning) &&
+      !isNegativeAssertion(origin);
+
     manifest[rel].push({
       name: firstString(data.name, identity.display_name),
       slug,
       religion: rel,
-      meaning: firstString(
-        data.short_meaning,
-        data.meaning,
-        coreMeaning.short_meaning,
-        coreMeaning.primary_meaning,
-        coreMeaning.literal_meaning,
-        seoContent.intro,
-        seoBlock.description_paragraph,
-        semantic.primary_semantic_domain
-      ),
-      origin: firstString(
-        data.origins,
-        typeof originValue === 'string' ? originValue : '',
-        originValue && originValue.primary_origin,
-        etymology.primary_language
-      ),
+      meaning,
+      origin,
       gender: normalizeGenderKey(firstString(data.gender, identity.gender)),
       category: firstString(data.category),
       popularity_score:
         Number(data.popularity_score) || Number(popularity.overall_score) || 0,
+      indexable,
+      // Content fingerprint — used below to detect records that are the SAME
+      // name under two spellings. The lexical (script) form is the decisive
+      // signal: two records that resolve to the same Arabic/Sanskrit/Hebrew
+      // form ARE the same name. Meaning alone is NOT sufficient — many
+      // unrelated names legitimately share a gloss like "God's grace", and
+      // consolidating those would de-index genuinely distinct pages.
+      _fp: (() => {
+        const lex = firstString(etymology.lexical_form, etymology.script_form);
+        if (!lex) return '';
+        return `${lex}|${meaning}`.toLowerCase().replace(/\s+/g, '');
+      })(),
     });
   }
+}
+
+// ── canonical consolidation ──────────────────────────────────────────────────
+//
+// The dataset contains pairs of records that are the same name under two
+// transliterations — e.g. "Ayeshaan" and "Ayeza" both resolve to the Arabic
+// form عيش, both gloss as "living, alive", and both carry the same root. Their
+// pages are therefore substantively identical, and no amount of phrasing
+// variation can make them unique, because the underlying facts are the same.
+//
+// Publishing both is the classic duplicate-content trap: Google picks one and
+// ignores the other, and the ignored one drags on the domain's quality signal.
+// The correct fix is canonical consolidation — one page is the canonical
+// target, the other points at it with rel=canonical and is kept out of the
+// sitemap. Both remain reachable, and the duplicate still passes link equity
+// to the canonical page.
+//
+// The canonical member of each group is the one with the higher popularity
+// score (ties broken by slug, so the choice is stable across builds).
+for (const rel of VALID_RELIGIONS) {
+  const groups = new Map();
+  for (const item of manifest[rel]) {
+    if (!item.indexable || !item._fp) continue;
+    if (!groups.has(item._fp)) groups.set(item._fp, []);
+    groups.get(item._fp).push(item);
+  }
+  for (const members of groups.values()) {
+    if (members.length < 2) continue;
+    const sorted = [...members].sort(
+      (a, b) => (b.popularity_score || 0) - (a.popularity_score || 0) || a.slug.localeCompare(b.slug)
+    );
+    const canonical = sorted[0];
+    for (const dup of sorted.slice(1)) {
+      dup.canonicalSlug = canonical.slug;
+      dup.indexable = false;
+    }
+  }
+}
+
+// The fingerprint is an internal build artefact — strip it before writing.
+for (const rel of VALID_RELIGIONS) {
+  for (const item of manifest[rel]) delete item._fp;
 }
 
 fs.mkdirSync(path.dirname(MANIFEST_PATH), { recursive: true });
@@ -138,10 +207,20 @@ console.log(
   `Manifest rebuilt from filesystem: ${total} names (${(bytes / 1024 / 1024).toFixed(2)} MB)` +
     (skipped ? ` — ${skipped} unreadable file(s) skipped` : '')
 );
+let totalIndexable = 0;
+let totalCanonicalised = 0;
 for (const [rel, items] of Object.entries(manifest)) {
   const withGender = items.filter((i) => i.gender).length;
   const withMeaning = items.filter((i) => i.meaning).length;
+  const indexable = items.filter((i) => i.indexable).length;
+  const canonicalised = items.filter((i) => i.canonicalSlug).length;
+  totalIndexable += indexable;
+  totalCanonicalised += canonicalised;
   console.log(
-    `  ${rel}: ${items.length} names — ${withGender} gendered, ${withMeaning} with meaning`
+    `  ${rel}: ${items.length} names — ${withGender} gendered, ${withMeaning} with meaning, ${indexable} indexable, ${canonicalised} canonicalised`
   );
 }
+console.log(
+  `  indexable total: ${totalIndexable} of ${total} (${((totalIndexable / total) * 100).toFixed(1)}%)`
+);
+console.log(`  canonicalised duplicates: ${totalCanonicalised}`);

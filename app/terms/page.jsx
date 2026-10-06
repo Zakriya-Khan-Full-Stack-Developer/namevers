@@ -1,3 +1,5 @@
+import AdSlot from '../../components/AdSlot.jsx';
+
 export const metadata = {
   title: 'Terms of Service | NameVerse',
   description:
@@ -51,6 +53,8 @@ export default function TermsPage() {
           </h1>
           <p className="mt-3 text-sm text-nv-text-secondary">Last updated: August 2026</p>
         </header>
+
+        <AdSlot placement="terms-top" />
 
         <div className="space-y-4">
           {sections.map((s) => (

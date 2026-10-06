@@ -3,7 +3,7 @@ import { getManifest, getPopularSlugs } from '../../lib/data/names-data.js';
 import { isBoy, isGirl } from '../../lib/data/name-utils.js';
 import NameCard from '../../components/NameCard.jsx';
 import PageJsonLd from '../../components/PageJsonLd.jsx';
-import NativeAdBanner from '../../components/NativeAdBanner.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 export const revalidate = 2592000; // 30 days
 
 export const metadata = {
@@ -54,9 +54,6 @@ export default function NamesIndexPage() {
     <div className="container-page py-10 sm:py-14">
       <PageJsonLd data={namesIndexJsonLd} />
       <div className="mx-auto max-w-6xl">
-        <div className="mb-6">
-          <NativeAdBanner placement="names-index-top" title="Featured Partner" />
-        </div>
         <header className="mb-10 text-center">
           <span className="eyebrow">Name directory</span>
           <h1 className="mt-2 font-display text-3xl font-bold tracking-tight text-nv-text sm:text-5xl">
@@ -67,6 +64,8 @@ export default function NamesIndexPage() {
             Pick a religion to browse its full A–Z collection, or start with the most popular names below.
           </p>
         </header>
+
+        <AdSlot placement="names-index-top" />
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {religions.map((rel) => (

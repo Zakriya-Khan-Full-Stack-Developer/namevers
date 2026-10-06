@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import EditorialMeta from './EditorialMeta.jsx';
 import JsonLd from './JsonLd.jsx';
+import AdSlot from './AdSlot.jsx';
 
 // Shared shell for every US search-demand page.
 //
@@ -63,6 +64,9 @@ export default function UsPageShell({
             {intro}
           </p>
         </header>
+
+        {/* Ad slot — below the H1, above the fold. Applies to all 11 US pages. */}
+        <AdSlot placement="us-page-top" />
 
         {children}
 

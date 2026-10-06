@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import PageJsonLd from '../../components/PageJsonLd.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'About NameVerse — Our Mission & Editorial Standards',
@@ -41,6 +42,8 @@ export default function AboutPage() {
             more informed and more respectful of culture and faith.
           </p>
         </header>
+
+        <AdSlot placement="about-top" />
 
         <div className="space-y-6">
           <section className="card p-6 sm:p-8">

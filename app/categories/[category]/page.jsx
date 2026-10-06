@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getManifest } from '../../../lib/data/names-data.js';
 import { CATEGORY_SLUGS, CATEGORY_LABELS, categorySlugFor, religionLabel } from '../../../lib/data/name-utils.js';
 import NameCard from '../../../components/NameCard.jsx';
+import AdSlot from '../../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 export const dynamicParams = false;
@@ -112,6 +113,8 @@ export default function CategoryDetailPage({ params }) {
             </div>
           )}
         </header>
+
+        <AdSlot placement="category-top" />
 
         <div className="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {topNames.map((item) => (

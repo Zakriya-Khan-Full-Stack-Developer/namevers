@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import SearchClient from '../../components/SearchClient.jsx';
 import PageJsonLd from '../../components/PageJsonLd.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'Search 42,000+ Baby Names by Meaning, Origin & Tradition | NameVerse',
@@ -39,6 +40,8 @@ export default function SearchPage() {
             Search 42,000+ baby names across traditions by keyword, meaning, language or gender.
           </p>
         </header>
+
+        <AdSlot placement="search-top" />
 
         <Suspense fallback={<div className="card p-12 text-center text-nv-text-secondary">Loading search…</div>}>
           <SearchClient />

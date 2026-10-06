@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getManifest } from '../../lib/data/names-data.js';
 import { religionLabel } from '../../lib/data/name-utils.js';
 import NameCard from '../../components/NameCard.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -56,6 +57,8 @@ export default function TrendingNamesPage() {
             </Link>
           </div>
         </header>
+
+        <AdSlot placement="trending-names-top" />
 
         {/* 60 Trending Names */}
         <div className="grid gap-4 min-[480px]:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

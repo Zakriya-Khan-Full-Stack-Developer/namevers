@@ -12,7 +12,11 @@ export async function GET() {
   ];
 
   for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
-    const count = (manifest[rel] || []).length;
+    // Count only records that will actually be published. Counting every record
+    // would emit sitemap chunks for pages that are never prerendered, and a
+    // crawler following those would hit 404s (or, before the Fluid Active CPU
+    // fix, trigger on-demand renders).
+    const count = (manifest[rel] || []).filter((i) => i.indexable).length;
     const chunks = Math.ceil(count / chunkSize) || 1;
     if (chunks === 1) {
       sitemaps.push({ loc: `${siteUrl}/sitemap/${rel}.xml` });

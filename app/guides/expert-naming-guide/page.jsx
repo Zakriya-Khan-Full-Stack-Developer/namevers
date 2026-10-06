@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import AdSlot from '../../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'Expert Naming Guide | NameVerse',
@@ -17,6 +18,8 @@ export default function ExpertNamingGuidePage() {
       <div className="mx-auto max-w-3xl">
         <h1 className="font-display text-3xl font-bold text-nv-text sm:text-4xl">Expert Naming Guide</h1>
         <p className="mt-4 text-nv-text-secondary">A decision framework for choosing the perfect baby name.</p>
+
+        <AdSlot placement="guide-top" />
         <div className="mt-6 rounded-2xl border border-nv-border bg-nv-surface p-6">
           <p className="text-sm text-nv-text-secondary">
             This guide is under active development by our editorial team. Browse{' '}

@@ -1,6 +1,7 @@
 import { getManifest } from '../../lib/data/names-data.js';
 import PopularityClient from '../../components/PopularityClient.jsx';
 import NameCard from '../../components/NameCard.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -36,6 +37,8 @@ export default function PopularityPage() {
             Search 42,000+ names, add your shortlist, and see how they rank against each other on the NameVerse popularity scale.
           </p>
         </header>
+
+        <AdSlot placement="popularity-top" />
 
         {/* Client comparison tool */}
         <PopularityClient

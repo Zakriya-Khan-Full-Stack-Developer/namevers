@@ -5,25 +5,48 @@ import {
   normalizeReligion,
   normalizeSlug,
   getKnownSlugsMap,
-  getPopularSlugs,
+  getRenderableSlugs,
 } from '@/lib/data/names-data.js';
 import { religionLabel, genderLabel, slugify, originSlugFor, ORIGIN_LABELS } from '@/lib/data/name-utils.js';
 import { enrichNameProfile } from '@/lib/data/name-enricher.js';
-import Ad from '@/components/Ad.jsx';
+import { isIndexableRecord } from '@/lib/data/indexability.js';
+import AdSlot from '@/components/AdSlot.jsx';
 import SocialShare from '@/components/SocialShare.jsx';
 
 export const revalidate = 2592000; // 30 days
-export const dynamicParams = true;
+
+// ─────────────────────────────────────────────────────────────────────────────
+// FIX — Fluid Active CPU
+//
+// `dynamicParams = false` is the single most important line in this file.
+//
+// Previously this route declared `dynamicParams = true` and prerendered only the
+// top 4,000 names. The remaining ~9,800 indexable name pages were rendered ON
+// DEMAND: every request for one of them re-ran the full pipeline — read + parse
+// the name JSON, normalise the source schema, run the enrichment engine
+// (numerology, acrostic, FAQ generation, prose composition) and serialise
+// ~100 KB of HTML. Measured cost was 60 ms of CPU for a cold render and ~6 ms
+// warm, and a single crawler walking the sitemap could trigger thousands of
+// them. That is what consumed 12h 15m of Fluid Active CPU against a 4h
+// allowance in half a day.
+//
+// With `dynamicParams = false`, ONLY the paths returned by generateStaticParams
+// exist. Every one of them is prerendered at build time, so a request is served
+// from the CDN edge and costs ZERO Fluid Active CPU. A URL that is not in the
+// list is a 404 — it can never fall through to an on-demand render.
+//
+// Build-time CPU is billed as build minutes, not as Fluid Active CPU, so moving
+// the work to the build is what makes the cost disappear.
+// ─────────────────────────────────────────────────────────────────────────────
+export const dynamicParams = false;
 
 const SITE_URL = 'https://nameverse.site';
 
-// Prerender the highest-popularity name pages at build time. The long tail is
-// generated on demand and then cached for 30 days, so a single crawl of the
-// sitemap does not trigger 13,801 on-demand renders.
-const PRERENDER_NAME_PAGES = Number(process.env.PRERENDER_NAME_PAGES) || 4000;
-
+// Prerender EVERY page that has real content to serve. The indexability gate
+// decides which of those are submitted to Google; it no longer decides which
+// ones exist. See lib/data/indexability.js.
 export function generateStaticParams() {
-  return getPopularSlugs(PRERENDER_NAME_PAGES);
+  return getRenderableSlugs();
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -37,7 +60,7 @@ export function generateStaticParams() {
 // indexed" classification, and it drags down the whole domain's quality signal.
 // ─────────────────────────────────────────────────────────────────────────────
 function isIndexable(n) {
-  return Boolean(n.shortMeaning && n.origin && (n.longMeaning || n.meaningSection.length));
+  return isIndexableRecord(n);
 }
 
 export async function generateMetadata({ params }) {
@@ -49,14 +72,24 @@ export async function generateMetadata({ params }) {
   if (!raw) return {};
 
   const n = enrichNameProfile(raw);
-  const canonicalUrl = `${SITE_URL}/names/${finalReligion}/${normalizedSlug}`;
   const indexable = isIndexable(n);
+
+  // Canonical consolidation. When this record is a duplicate of another record
+  // (same name under a different transliteration), the manifest marks it with
+  // `canonicalSlug`. The page then points its canonical at the surviving page
+  // and is served noindex, so the two never compete for the same query.
+  const entry = getKnownSlugsMap().get(`${finalReligion}:${normalizedSlug}`);
+  const canonicalSlug = entry?.canonicalSlug || null;
+  const canonicalUrl = canonicalSlug
+    ? `${SITE_URL}/names/${finalReligion}/${canonicalSlug}`
+    : `${SITE_URL}/names/${finalReligion}/${normalizedSlug}`;
+  const shouldIndex = indexable && !canonicalSlug;
 
   return {
     title: n.seo.title,
     description: n.seo.meta_description,
     alternates: { canonical: canonicalUrl },
-    robots: indexable
+    robots: shouldIndex
       ? { index: true, follow: true, 'max-snippet': -1, 'max-image-preview': 'large' }
       : { index: false, follow: true },
     openGraph: {
@@ -93,9 +126,13 @@ export default async function NameDetailPage({ params }) {
   const knownSlugsMap = getKnownSlugsMap();
 
   const relLabel = n.religionLabel;
-  const canonicalUrl = `${SITE_URL}/names/${finalReligion}/${normalizedSlug}`;
+  const entry = knownSlugsMap.get(`${finalReligion}:${normalizedSlug}`);
+  const canonicalSlug = entry?.canonicalSlug || null;
+  const canonicalUrl = canonicalSlug
+    ? `${SITE_URL}/names/${finalReligion}/${canonicalSlug}`
+    : `${SITE_URL}/names/${finalReligion}/${normalizedSlug}`;
   const genLabel = n.genderKey ? genderLabel(n.genderKey) : 'Unisex';
-  const indexable = isIndexable(n);
+  const indexable = isIndexable(n) && !canonicalSlug;
 
   const firstLetter = n.name.trim().charAt(0).toLowerCase();
   const letterSegment = /^[a-z]$/.test(firstLetter) ? firstLetter : '%23';
@@ -293,6 +330,10 @@ export default async function NameDetailPage({ params }) {
             <SocialShare title={`Meaning of ${n.name} on NameVerse`} url={canonicalUrl} />
           </div>
         </header>
+
+        {/* Ad slot — below the H1 so the name (primary keyword) stays in the
+            first viewport, above the fold so it is seen early. */}
+        <AdSlot placement="name-detail-top" />
 
         {/* ── INTRO — unique per name, composed from this record's own fields ── */}
         <section className="card p-6 sm:p-8">
@@ -692,8 +733,6 @@ export default async function NameDetailPage({ params }) {
             </div>
           </section>
         )}
-
-        <Ad placement="inline" />
 
         {/* ── SIBLING NAVIGATION (upward + lateral internal links) ── */}
         <nav className="flex flex-wrap justify-center gap-2 pt-6" aria-label="Related pages">

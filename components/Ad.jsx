@@ -1,12 +1,12 @@
-export default function Ad({ placement = 'inline' }) {
-  const adContainerId =
-    placement === 'inline'
-      ? 'container-c90e1cf06dc7451f1fd3d33c703af951'
-      : `container-${placement}-c90e1cf06dc7451f1fd3d33c703af951`;
+// DEPRECATED — superseded by components/AdSlot.jsx.
+//
+// This file previously rendered its own copy of the Adsterra container id
+// (`container-c90e1cf06dc7451f1fd3d33c703af951`). Because the banner script
+// fills only the FIRST matching element, having the id defined in two places
+// meant one slot silently never filled.
+//
+// It is now a thin re-export of AdSlot, so any lingering import still renders
+// the single canonical container instead of creating a duplicate id.
+// Safe to delete once no import remains.
 
-  return (
-    <div className="w-full relative flex items-center justify-center min-h-[90px] md:min-h-[100px] my-6 overflow-hidden" data-ad-placement={placement}>
-      <div id={adContainerId} className="w-full max-w-[300px] md:max-w-[728px] text-center" />
-    </div>
-  );
-}
+export { default, AD_CONTAINER_ID } from './AdSlot.jsx';

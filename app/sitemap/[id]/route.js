@@ -13,7 +13,7 @@ export function generateStaticParams() {
   const ids = ['pages'];
 
   for (const rel of ['islamic', 'christian', 'hindu', 'italian']) {
-    const count = (manifest[rel] || []).filter((i) => i.meaning && i.origin).length;
+    const count = (manifest[rel] || []).filter((i) => i.indexable).length;
     const chunks = Math.ceil(count / chunkSize) || 1;
     if (chunks === 1) {
       ids.push(rel);
@@ -130,10 +130,13 @@ export async function GET(request, { params }) {
     }
 
     // Only publish URLs for pages that actually carry unique content. A record
-    // with no meaning and no origin renders a thin page, and submitting those
-    // to Google is what causes "Crawled — currently not indexed" at scale.
-    // The 352-record Italian stub set is excluded here for exactly that reason.
-    const items = (manifest[religion] || []).filter((item) => item.slug && item.meaning && item.origin);
+    // whose meaning or origin is a negative assertion ("no confident lexical
+    // sense is asserted") renders a near-duplicate of every other such record,
+    // and submitting those to Google is what causes "Crawled — currently not
+    // indexed" at scale. The `indexable` flag is computed once in
+    // generate-manifest.mjs so this route, the detail page and the gates can
+    // never disagree.
+    const items = (manifest[religion] || []).filter((item) => item.slug && item.indexable);
     const chunkSize = 5000;
     const start = (chunkIndex - 1) * chunkSize;
     const chunkItems = items.slice(start, start + chunkSize);

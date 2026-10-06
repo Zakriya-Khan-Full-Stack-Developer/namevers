@@ -10,6 +10,7 @@ import {
 } from '../../lib/data/editorial.js';
 import { buildBreadcrumb, buildArticle } from '../../lib/data/us-schema.js';
 import JsonLd from '../../components/JsonLd.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const revalidate = 2592000; // 30 days
 
@@ -131,6 +132,8 @@ export default function EditorialPolicyPage() {
             Last updated <time dateTime={LAST_UPDATED}>{LAST_UPDATED_LABEL}</time>
           </p>
         </header>
+
+        <AdSlot placement="editorial-policy-top" />
 
         <div className="space-y-10">
           {SECTIONS.map((s) => (

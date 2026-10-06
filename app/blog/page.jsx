@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getBlogPosts } from '../../lib/data/names-data.js';
+import AdSlot from '../../components/AdSlot.jsx';
 export const revalidate = 2592000; // 30 days
 
 export const metadata = {
@@ -49,6 +50,8 @@ export default function BlogIndexPage() {
             Expert naming guides, curated lists and cultural insights for parents in every tradition.
           </p>
         </header>
+
+        <AdSlot placement="blog-index-top" />
 
         {/* Articles Grid */}
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

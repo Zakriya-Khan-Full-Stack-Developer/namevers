@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import PageJsonLd from '../../components/PageJsonLd.jsx';
+import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = {
   title: 'Contact NameVerse — Feedback, Corrections & Suggestions',
@@ -41,6 +42,8 @@ export default function ContactPage() {
             We read every message.
           </p>
         </header>
+
+        <AdSlot placement="contact-top" />
 
         <div className="grid gap-5 sm:grid-cols-2">
           <section className="card p-6">
