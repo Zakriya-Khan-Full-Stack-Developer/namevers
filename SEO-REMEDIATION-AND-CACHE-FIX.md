@@ -63,7 +63,21 @@ The following changes were made:
 
 This gives a consistent 30-day cache policy for crawl-optimized files.
 
-### B. Improved metadata signal quality
+### B. Vercel delivery caching aligned with content freshness
+
+- Name search-index JSON files are cached for one day in browsers and up to 30
+  days at Vercel's shared edge, with stale-while-revalidate enabled. They are
+  not marked `immutable`, because the filenames can be reused when the dataset
+  is updated in a later deployment.
+- Sitemap routes use the same 30-day browser and shared-edge lifetime as their
+  Next.js revalidation interval. This avoids the previous one-day Vercel
+  override conflicting with the route-level policy.
+- Hashed `/_next/static/` assets retain their one-year immutable policy.
+- HTML routes continue to rely on Next.js static generation and
+  `revalidate = 2592000`; no blanket `Cache-Control` header is applied to them,
+  so their ISR behavior remains under Next.js control.
+
+### C. Improved metadata signal quality
 The global metadata in `app/layout.jsx` was strengthened with a keyword list and more complete site-wide metadata consistency.
 
 This helps with:
@@ -72,7 +86,7 @@ This helps with:
 - clearer search intent handling,
 - stronger search engine understanding of the site topic.
 
-### C. SEO and indexing documentation created
+### D. SEO and indexing documentation created
 A clear remediation file was created at the workspace root:
 
 - [SEO-REMEDIATION-AND-CACHE-FIX.md](SEO-REMEDIATION-AND-CACHE-FIX.md)
